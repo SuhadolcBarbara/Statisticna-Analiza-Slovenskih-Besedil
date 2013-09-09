@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+natrij – magnezij – aluminij
+
+
+Be
+Mg
+Ca  
+ 
+ 
+
+
+
+Celotna tabela
+
+
+
+
+
+
+Splošno
+
+
+Ime, simbol, vrstno število
+magnezij, Mg, 12
+
+
+Kemijska vrsta
+zemljoalkalijska kovina
+
+
+Skupina, perioda, blok
+2 (IIA), 3, s
+
+
+Gostota, trdota
+1738 kg/m³, 2,5
+
+
+Videz
+srebrnkasto bel
+
+
+
+Lastnosti atoma
+
+
+Relativna atomska masa
+24,305 g/mol
+
+
+Atomski polmer (izračunan)
+160 pm
+
+
+Kovalentni polmer
+141±7 pm
+
+
+van der Waalsov polmer
+173 pm
+
+
+Elektronska konfiguracija
+[Ne]3s²
+
+
+e-/energijski nivo
+2, 8, 2
+
+
+Oksidacijska stanja (oksid)
+2, 1 (močno bazičen)
+
+
+Kristalna struktura
+heksagonalna
+
+
+Fizikalne lastnosti
+
+
+Agregatno stanje
+trdno (paramagneten)
+
+
+Tališče
+923 K (1202 °F)
+
+
+Vrelišče
+1363 K (1994 °F)
+
+
+Molski volumen
+14,00 ×10−6 m³/mol
+
+
+Izparilna toplota
+127,4 kJ/mol
+
+
+Talilna toplota
+8,954 kJ/mol
+
+
+Parni tlak
+361 Pa pri 923 K
+
+
+Hitrost zvoka
+4602 m/s pri 293,15 K
+
+
+Razne lastnosti
+
+
+Elektronegativnost
+1,31 (Paulingova lestvica)
+
+
+Specifična toplota
+1020 J/(kg · K)
+
+
+Električna prevodnost
+22,6 106/(m·ohm)
+
+
+Toplotna prevodnost
+156 W/(m·K)
+
+
+1. ionizacijski potencial
+737,7 kJ/mol
+
+
+2. ionizacijski potencial
+1450,7 kJ/mol
+
+
+3. ionizacijski potencial
+7732,7 kJ/mol
+
+
+Najstabilnejši izotopi
+
+
+
+
+
+izo
+NA
+t1/2
+DM
+DE MeV
+DP
+
+
+24Mg
+78,99 %
+Mg je stabilen z 12 nevtroni
+
+
+25Mg
+10 %
+Mg je stabilen s 13 nevtroni
+
+
+26Mg
+11,01 %
+Mg je stabilen s 14 nevtroni
+
+
+
+
+
+Če ni označeno drugače, so
+uporabljene enote SI in standardni pogoji.
+
+
+Magnézij (latinsko magnesium) je kemični element, ki ima v periodnem sistemu simbol Mg in atomsko število 12. Magnezij je osmi najpogostejši element in sestavlja okoli 2 % Zemljine skorje, ter je tretji najbolj zastopan element od raztopljenih v morski vodi. Ta alkalijska zemeljska kovina se večinoma uporablja kot sredstvo za izdelavo zlitin aluminij-magnezij.
+
+
+Vsebina
+
+
+1 Pomembne lastnosti
+2 Uporaba
+3 Varnostni ukrepi
+4 Viri
+5 Zunanje povezave
+
+
+Pomembne lastnosti
+Magnezij je dokaj trdna srebrno-bela, lahka kovina (za tretjino lažja od aluminija), ki na zraku rahlo potemni. V obliki prahu se ta kovina na zraku segreje in vžge ter gori z belim plamenom. V obliki kepe ga je težko vžgati, čeprav se zlahka prižge, če ga nastružimo na tanke trakove nastanejo tanki trakovi z zelenorumenimi in bordordečimi črtami.
+Uporaba
+Magnezijeve spojine, še posebej magnezijev oksid, se v glavnem uporabljajo za negorečo oblogo v plavžih pri pridobivanju železa in jekla, neželeznih kovin, stekla in cementa. Magnezijev oksid in druge spojine se uporabljajo tudi v kmetijski, kemijski in gradbeni industriji. Glavna raba tega elementa je kot zlitinski dodatek aluminiju, te zlitine aluminija-magnezija pa se uporabljajo v glavnem za izdelavo pločevink za pijače. Magnezijeve zlitine se uporabljajo tudi kot sestavni deli za avtomobile in mehanizme. Ta kovina se uporablja tudi za odstranitev žvepla iz železa in jekla.
+Druge rabe:
+
+Magnezij je, podobno kot aluminij, trden in lahek, zato se pogosto uporablja pri boljših volanih.
+Zlitine z magnezijem so nujne za konstruiranje letal in izstrelkov.
+Kot zlitinski agent ta kovina izboljša mehanske, obdelovalne in varilne lastnosti aluminija.
+Aditivno sredstvo v običajnih gorivih in izdelava grudastega grafita v litem železu.
+Reducirajoče sredstvo za izdelavo čistega urana in drugih kovin iz njihovih soli.
+Magnezijev hidroksid se uporablja v magnezijevem mleku, njegov klorid in sulfat v grenkih solih, njegovi citrati pa v zdravstvu.
+Pogorjen magnezit se uporablja v izolacijske namene kot opeka in podloga v pečeh in pretvornikih.
+Magnezij je tudi vnetljiv in gori pri visoki temperaturi. Zaradi tako ekstremno visokih temperatur je primeren za netenje opozorilnih ognjev pri težavah na prostem.
+Magnezijev karbonat (MgCO3) v obliki praška uporabljajo športniki, denimo telovadci in dvigovalci uteži, da z njim izboljšajo prijem predmetov - telovadne naprave, droga ali prečke z utežmi.
+Druge rabe vključujejo fotografiranje z bliskovico, svetlobne signale in pirotehniko, vključno z zažigalnimi bombami.
+
+Varnostni ukrepi
+Magnezij in magnezijeve zlitine so eksplozivne, ampak so zelo vnetljive v čisti obliki, ko so staljene ali v obliki traku. Goreče ali staljene magnezijeve kovine burno reagirajo z vodo. Pri delu z magnezijevem prahom se uporabljajo zaščitna očala z zaščito pri varjenju, saj bela svetloba pri varjenju vsebuje ultravijolično svetlobo, ki lahko trajno poškoduje oči.[1]
+Magnezij v kombinaciji z vodo daje visoko gorljiv vodikov plin:[2]
+Mg(s) + 2 H20 (l) → MG (OH) 2(s) + H2(g)
+Kot razultat reakcije, vode ni mogoče uporabiti za gašenje požarov, saj bi magnezij v stiku z vodo le še okrepil gorenje. Za gašenje se uporablja suhi pesek, ampak je uporaben samo na ravnih površinah. Magnezij pravtako reagira z ogljikovim dioksidom (CO2) v obliki magnezijevega oksida in ogljika:
+2 MG(s) + CO2 → 2 MgO(s) + C(s)
+Zato ogljikov dioksid v gasilnih aparatih ni primeren za gašenje požarov magnezija.[3]
+Gorenje magnezija se običajno ohladi s pomočjo suhega hladilnega sredstva (kategorija D), ali prekritje požara s suhim peskom da odstrani vir zraka.
+Viri
+
+
+^ Science Safety: Chapter 8. Government of Manitoba. Pridobljeno dne 2007-08-21.
+^ Chemistry : Periodic Table : magnesium : chemical reaction data. webelements.com. Pridobljeno dne 2006-06-26.
+^ Demo Lab: Reaction Of Magnesium Metal With Carbon Dioxide. Pridobljeno dne 2006-06-26.
+
+
+Zunanje povezave
+
+Chemistry in its element podcast (MP3) from the Royal Society of Chemistry's Chemistry World: Magnesium
+
+
+
+
+Poglejte si besedo magnezij ali Magnezij v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+
+p · p · u · zKemični elementi
+
+
+
+
+
+
+
+ajnštajnij · aktinij · aluminij · americij · antimon · argon · arzen · astat · baker · barij · berilij ·berkelij · bizmut · bor · borij · brom · cerij · cezij · cink · cirkonij · darmštatij · disprozij · dubnij · dušik · erbij · evropij · fermij · fluor · fosfor · francij · gadolinij · galij · germanij · hafnij · hasij · helij · holmij · indij · iridij · iterbij · itrij · jod · kadmij · kalcij · kalifornij · kalij ·
+kirij · kisik · klor · kobalt · kositer · kripton · krom · ksenon · lantan · lavrencij · litij · lutecij · magnezij · mangan · majtnerij · mendelevij · molibden · natrij · neodim · neon · neptunij · nikelj · niobij · nobelij · ogljik · osmij · paladij · platina · plutonij · polonij · prazeodim · prometij · protaktinij · raderfordij · radij · radon · renij · rodij · rubidij · rutenij · samarij · siborgij · selen · silicij · skandij · srebro · stroncij · svinec · talij · tantal · tehnecij · telur · terbij · titan · torij · tulij · uran · vanadij · vodik · volfram · zlato · železo · živo srebro · žveplo
+
+
+
+
+
+
+Periodni sistem elementov
+
+
+
+
+
+
+
+
+
+
+ Ta članek s področja kemije je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Magnezij&oldid=4021488«				
+Kategorije: Kemijske škrbineKemični elementiKovineMagnezij1755 v znanosti 
+
+
+

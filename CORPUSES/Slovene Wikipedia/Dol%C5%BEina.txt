@@ -1,0 +1,91 @@
+
+
+Dolžína je v običajni rabi le poseben primer razdalje (prim. širina, višina), v fiziki in tehniki pa sta pojma dolžine in razdalje največkrat sopomenska. Z njim označujemo razdaljo v vodoravni smeri; za razdaljo v navpični smeri običajno uporabljamo izraz višina. Nikoli ne govorimo o »dolžini od Zemlje do α Kentavra (Cen)«, ampak o »razdalji med Zemljo in α Kentavra«, oziroma o »oddaljenosti α Kentavra od Zemlje«. Dolžina se pri geometrijskem merjenju nanaša na največjo razsežnost (mero, dimenzijo) telesa.
+V določenim kontekstih pojem »dolžine« pomeni določeno razsežnost telesa vzdolž katere se meri njegova dolžina. Na primer govorimo o dolžini žice in o njeni debelini, ki je po navadi manjša od dolžine.
+Mednarodni sistem enot predpisuje za dolžino osnovno enoto meter. Še nekaj drugih enot dolžine, urejenih od večjih k manjšim:
+
+
+
+
+siriometer (149.597.870.691.000.000 m),
+parsek (30.856.804.798.079.115 m),
+svetlobno leto (9.460.730.472.580.800 m),
+astronomska enota (149.597.870.691 m),
+gigameter (109 m),
+srednji Zemljin polmer (6.371.009 m),
+megameter (106 m),
+Ksenofonov stadij (5397 m),
+geografska milja (1855 m),
+morska milja (1852 m) (pred 1929 1853,184 m) (mednarodna morska milja, navtična milja,
+ameriška geodetska milja (1609,347 m),
+milja (1609,344 m) (mednarodna milja),
+vrsta (1066,781 m),
+kilometer (1000 m),
+Eratostenov stadij (231 m),
+Ptolemejev stadij (222 m),
+kraljevi egipčanski stadij (210 m),
+furlong (201,168 m),
+olimpijski stadij (192,8 m),
+srednji atiški stadij (185,4 m),
+rimski stadij (185,25 m),
+Posidonijev srednji stadij (177,8 m),
+grški srednji stadij (172 m),
+perzijski stadij (161,1 m),
+potopisni stadij (157 m),
+dekameter (10 m),
+rod (5,0292 m),
+laket (2,75 m),
+ruski seženj (2,13360 m),
+seženj (1,896 m).
+
+
+
+
+jard (0,914 m),
+vatel (0,778 m),
+aršin (0,71120 m),
+komolec (0,44 m),
+(dunajski) čevelj (0,316(08) m),
+ameriški geodetski čevelj (0,3048006 m),
+(imperialni) čevelj (0,3048 m),
+ruski čevelj (0,304800 m),
+sumerski čevelj (0,2645 m),
+pedenj,
+decimeter (0,1 m),
+vršek (0,04445 m),
+dunajski palec (0,02634 m) (palec, avstrijska cola),
+palec (0,0254 m) (angleški palec, mednarodni palec),
+ameriški geodetski palec (0,02540000508 m)
+sotka (0,021336 m),
+centimeter (0,01 m),
+milimeter (0,001 m),
+mikrometer (10−6 m),
+nanometer (10−9 m),
+ångström (10−10 m),
+Bohrov polmer (5,29189379  · 10-11 m),
+Planckova dolžina (1,6  · 10-35 m).
+
+
+
+
+Dolžina ni notranja značilnost ničesar, tako da lahko dva opazovalca merita isto »stvar« - denimo razdaljo med dvema dogodkoma ali dolžino ladje - in izmerita različna rezultata. To nenavadno značilnost prostora pojasnjuje Einsteinova posebna teorija relativnosti.
+Glej tudi
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: dolžina
+
+
+
+razdalja
+skrčenje dolžin
+Lorentzova transformacija
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Dolžina&oldid=4081089«				
+Kategorija: Dolžina 
+
+
+

@@ -1,0 +1,541 @@
+
+
+
+Zemlja 
+
+
+Modra frnikola, posneta z Apolla 17
+
+
+Značilnosti tira (epoha J2000)
+
+
+Odsončje
+152.097.701 km
+(1,016 710 333 5 a.e.)
+
+
+Prisončje
+147.098.074 km
+(0,983 289 891 2 a.e.)
+
+
+Velika polos
+149.597.887,5 km
+(1,000 000 112 4 a.e.)
+
+
+Mala polos
+149.576.999,826 km
+(0,999 860 486 9 a.e.)
+
+
+Obseg tira
+924.375.700 km
+( 6,179 069 900 7 a.e.)
+
+
+Izsrednost tira
+0,016 710 219
+
+
+Siderska obhodna doba
+365.256 366 d
+(1,000 017 5 a)
+
+
+Sinodska doba
+n/a
+
+
+Največja tirna hitrost
+30,287 km/s
+(109.033 km/h)
+
+
+Povprečna tirna hitrost
+29,783 km/s
+(107.218 km/h)
+
+
+Najmanjša tirna hitrost
+29,291 km/s
+(105.448 km/h)
+
+
+Naklon tira proti ekliptiki
+0
+(7,25° glede na Sončev ekvator)
+
+
+Dolžina dvižnega vozla
+348,739 36°
+
+
+Argument prisončja
+114,207 83°
+
+
+Sateliti
+1 (Luna)
+(glej tudi 3753 Cruithne)
+
+
+Fizikalne značilnosti
+
+
+Razmerje gledišča
+0,996 647 1
+
+
+Eliptičnost
+0,003 352 9
+
+
+Polmer ekvatorja
+6378,137 km
+
+
+Polarni polmer
+6356,752 km
+
+
+Srednji polmer
+6372,797 km
+
+
+Obseg po ekvatorju
+40.075,02 km
+
+
+Poldnevniški obseg
+40.007,86 km
+
+
+Srednji obseg
+40.041,47 km
+
+
+Površina
+510.065.600 km²
+
+
+Površina kopnega
+148.939.100 km² (29,2 %)
+
+
+Vodna površina
+361.126.400 km² (70,8 %)
+
+
+Prostornina
+1,083 207 3 · 1012 km³
+
+
+Masa
+5,9742 · 1024 kg
+
+
+Gostota
+5515,3 kg/m³
+
+
+Težnost na površini na ekvatorju
+9,7801 m/s²
+(0,997 32 g)
+
+
+Ubežna hitrost
+11,186 km/s
+
+
+Siderska vrtilna doba
+0,997 258 d (23,934 h)
+
+
+Vrtilna hitrost na ekvatorju
+465,11 m/s
+
+
+Nagib vrtilne osi
+23,439 281°
+
+
+Rektascenzija severnega pola
+0° (0 h 0 min 0 s)
+
+
+Deklinacija
++90°
+
+
+Albedo
+0,367
+
+
+Temperatura na površini
+
+
+
+min
+srednja
+maks
+
+
+185 K
+(-88.3 °C)
+287 K
+(14 °C)
+331 K
+(57.7 °C)
+
+
+
+
+
+Tlak na površini
+101,3 kPa (SVM)
+
+
+Pridevnik
+Zemljin, zemeljski, teluričen, telurski [1]
+
+
+Sestavine ozračja
+
+
+Dušik
+78,08 %
+
+
+Kisik
+20,94 %
+
+
+Argon
+0,93 %
+
+
+Ogljikov dioksid
+0,038 %
+
+
+Vodna para
+V sledovih (odvisno od podnebja)
+
+
+
+prikaži • pogovor • uredi • zgodovina
+
+
+
+Zêmlja je eden izmed planetov Osončja ter prostor, na katerem sta se razvila življenje in človeštvo. Po oddaljenosti od Sonca je tretji, po velikosti pa peti planet Sončevega sistema. Predstavlja največji trdni planet in edini prostor v Vesolju, za katerega je znan obstoj življenja. Zemlja se je oblikovala pred približno 4,57 milijarde let, njen edini naravni satelit Luna pa pred okoli 4,53 milijarde let. Od svojega nastanka je Zemlja prešla množico geoloških in bioloških razvojnih faz, zaradi česar so se sledi njene prvotne podobe večinoma izbrisale.
+Zemljina notranjost je sestavljena iz več razmeroma aktivnih plasti, med katerimi se nahaja verjetno trdno železovo jedro, ki ustvarja Zemljino magnetno polje, ter tekoči plašč, v zgornjih plasteh pa trda skorja. Nad tem se nahajata površina Zemlje in atmosfera, ki sta danes močno preoblikovani zaradi bioloških in človeških dejavnikov. Okoli 70 odstotkov zemeljske površine pokrivajo oceani s slano vodo, preostanek pa zapolnjujejo celine ter otoki.
+Med Zemljo in njenim okoljem, tj. vesoljskim prostorom, je opaziti pomembne povezave, kot je npr. sevanje Sonca, vpliv Meseca na plimovanje, spreminjanje Zemljine orbite kot morebiten vzrok ledenih dob idr.
+
+
+Vsebina
+
+
+1 Zgodovina
+
+1.1 Geološka obdobja
+
+1.1.1 Predkambrij
+1.1.2 Paleozoik
+1.1.3 Mezozoik
+1.1.4 Kenozoik
+
+
+
+
+2 Struktura in oblika Zemlje
+
+2.1 Notranjost
+2.2 Zunanjost
+2.3 Oblika
+
+
+3 Zemlja v Osončju
+
+3.1 Gibanje Zemlje
+3.2 Luna
+
+
+4 Poseljenost
+5 Glej tudi
+6 Viri
+7 Zunanje povezave
+
+
+Zgodovina
+
+
+Glavni članek: Zgodovina Zemlje.
+
+
+Pri določanju starosti planeta Zemlja in tudi njegovega naravnega satelita ter Sonca in drugih planetov obstajajo mnoge nejasnosti in spori, a je danes bolj ali manj uveljavljena domneva, da so vsa ta telesa nastala pred okoli 4,6 milijarde let iz sončne meglice, ki je bila posledica Velikega poka. Nekje v bližini našega osončja naj bi eksplodirala supernova, sestavljena pretežno iz vodika, nekoliko pa tudi ogljika in kisika; bila naj bi izvor vseh današnjih kemijskih elementov in vse današnje predmetnosti.
+Zaradi privlačnosti med delci sončne meglice so se atomi pričeli združevati v skupke, ti pa so z naraščajočo maso pridobivali na privlačnostni sili ter zato združevali nove in nove delce ter rasli. Tako naj bi nastal rotirajoči disk, katerega sila privlačnosti v jedru naj bi bila tako velika, da so se pričela združevati jedra vodikovih atomov (fuzija) in s tem povzročati jedrske reakcije, kar je botrovalo nastanku Sonca in kar je še danes vir njegove energije.
+O nastanku planetov v Osončju pa govori planetezimalna teorija, ki je danes najširše sprejeta domneva te vrste. Pojasnila naj bi, zakaj so notranji planeti trdni ter zunanji plinasti, in sicer z razlago, da so se zavoljo visoke vročine v notranjih predelih Osončja lahko v trdno stanje spremenili le težji elementi, kakršno je železo. Po načelu privlačnosti so se ti med seboj združili in tvorili astronomska telesa ali planetezimale, iz katerih so se kasneje razvili notranji planeti Merkur, Venera, Zemlja in Mars. V vročih pogojih jedra Osončja niso mogli obstajati lažji elementi, za primer helij in vodik, zato so se koncentrirali dlje okoli jedra in oblikovali plinasta planeta Jupiter in Saturn ter atmosferi Urana in Neptuna (pretežno iz vodika in helija).
+V zgodnjih fazah razvoja Zemlje so v notranjost (jedro) potonile težje snovi, medtem ko je bilo lažje najti na površju. Med prve so sodili tudi mnogi radioaktivni materiali, ki so vsled svojega razpadanja tudi danes vir Zemljine notranje toplote. Na ta način so nastale Zemljine plasti. Po nastanku teh več kot 4 milijarde let v preteklost je planet doživel močno meteoritsko bombardiranje, kar je zaradi neobstoječe atmosfere in njenih učinkov še danes vidno na Luni.
+Pred 4 milijardami let se je oblikovala trdna zemeljska skorja, kar gre sklepati po najstarejših odkritih kamninah. Bržčas so bili meteoriti odgovorni za visoke temperature, ki niso dovoljevale utekočinjene vode in tako tudi ne življenja.
+Geološka obdobja
+
+
+
+
+Na prikazu deležev posameznih geoloških razdobij je med drugim vidno, da predkambrij predstavlja več kot tri četrtine Zemljine zgodovine
+
+
+Strokovnjaki za geologijo delijo zgodovino Zemlje na eone (had, arhaik, proterozoik in fanerozoik), te na ere (vek), ere pa dalje na periode in dobe. Pred časom sta bila kot eona znana le fanerozoik in predkambrij, a se je kasneje uveljavila delitev eonov na zgoraj omenjene štiri.
+Geologija oziroma njena veja stratigrafija je oblikovala shemo obdobij na podlagi kamninskih plasti v tleh. Sprva so bile starosti teh določene le relativno, tj. od najmlajše plasti (najvišja) do najstarejše (najgloblja). Uporabljene so bile tudi študije fosilov po svetu, saj so bili ti mnogokrat ujeti v istih plasteh. Šele v 90. letih 19. stoletja pa so strokovnjaki prišli do spoznanja, da med drugim tudi v kamninah prisotni radioaktivni elementi izgubljajo svojo radioaktivnost s konstanto, kar je pomenilo, da je z merjenjem radioaktivnih vrednosti moč določati absolutno starost kamnin (absolutno ali radiometrično datiranje).
+Predkambrij
+Predkambrij je neformalno poimenovanje za čas eonov had, arhaik in proterozoik. Je Zemljin pravek in najdaljše obdobje Zemljine zgodovine, raztezajoče se preko 3,5 milijarde let. V njem so se oblikovale prve celine, prišlo pa je tudi do nastanka zgodnje atmosfere in življenja. Zaradi bombardiranja Zemlje z meteoriti in posledičnega taljenja površja ostaja le malo dokazov o tej dobi, tako da je zlasti obdobje hada težko študirati, kljub temu pa so bili v Avstraliji, Afriki, Braziliji, Kanadi, Skandinaviji in na Antarktiki najdeni do 4,2 milijarde let stari minerali (cirkonijev silikat).
+V tem obdobju so iz Zemljine notranjosti zavoljo ognjeniške aktivnosti uhajali plini in oblikovali zgodnjo atmosfero, sestavljeno iz dušika, ogljikovega dioksika in vodne pare. Ko se je planet ohlajal, je prišlo do kondenzacije in padavin ter nastanka oceanov (obstajajo tudi teorije, ki sklepajo na prihod vode v obliki zamrznjenih meteoritov). Tektonika plošč je sodeč po študijah kamnin severozahodne Kanade (starost 2 milijardi let) in Kitajske (starost 2,5 milijarde let) pričela oblikovati Zemljo sredi predkambrija. Kopnina se je oblikovala na območju današnje Antarktike in ustvarila superkontinent Rodinijo, ki je združevala kopnine vseh kasnejših kontinentov in superkontinentov.
+Predkambrij je ravno tako obdobje najzgodnejšega življenja. Fosilni ostanki iz arhaika kažejo na enocelične prokariontske organizme brez celičnega jedra, katerih razmnoževanje je potekalo nespolno z deljenjem celic. Obstoj teh organizmov je potrjen za obdobje pred 3,5 milijarde let, utegnili pa bi obstajati tudi že pred 3,8 milijarde let. Ta življenjska oblika je bila anaerobna – za življenje oziroma izdelovanje energije ni potrebovala (sicer skoraj neobstoječega) kisika. Šele kasneje, pred kake 3,46 milijarde let, se je namreč na zemeljskem obličju pojavila modrozelena alga, prvi organizem s sposobnostjo fotosinteze in torej izdelovanja kisika. Iz teh alg so nastali stromatoliti, ki so bili kasneje fosilizirani in jih je danes moč opazovati v zahodni Avstraliji (starost 3,4 milijarde let). Življenje je milijarde let obstajalo le v obliki nespolno se razmnožujočih prokariontov, dokler ni pred okoli 550 milijoni let prišlo do nastanka prvih spolno se razmnožujočih in tako bolje prilagodljivih evkariontov kot zgodnjih znanilcev izbruha organizmov v paleozoiku.
+Paleozoik
+
+
+Glavni članek: Paleozoik
+
+
+Paleozoik je prvi izmed treh eonov fanerozoika (obdobje jasno vidnih sledi življenja); znan je tudi kot zemeljski stari vek. Že zgodnje periode (ordovicij, silur, devon) tega starega veka so čas prvih orogenez, katerih posledica so npr. Apalači in Kaledonsko gorovje. Proti koncu paleozoika, v permu, je prišlo do počasne združitve superkontinentov Gondvane in Lavrazije, nastala je celina Pangea in poteklo je več gorotvornih procesov: Hercinska in Variskična orogeneza ustvarita Ardene, Voegeze, Sardinijo, Srednjenemško in Češko sredogorje ter Malopoljsko višavje, Mezeto na Pirenejskem polotoku ter Rodope na Balkanu in Ural, Altaj, Tjan Šan, Apalače idr. Ti tektonski premiki so se dokaj umirili kasneje v permu. Pangea je ob koncu paleozoika predstavljala 90 odstotkov vse kopnine. Oblikovana je bila v bumerangu podobno obliko in je vzdolž po ekvatorju objemala ocean Tetis. Iz časa kambrija obstajajo sledovi poledenitve na južni polobli.
+V začetni periodi paleozoika kambriju okoli 543 milijonov let v preteklosti je prišlo do nikoli kasneje dokumentiranega porasta števila življenjskih oblik, znanega kot Kambrijska eksplozija. Glavni razlog za to bi utegnilo biti razkosanje Rodinije na manjše kopnine in nastanek vmesnih toplih plitvih morij. Iz tega časa so znane vse glavne skupine današnjih organizmov (v morjih so plavale ribe, kopno pa so prekrile večcelične rastline in insekti ter dvoživke), pa tudi njihove osnovne kompozicije. Ker je bil uveljavljen način razmnoževanja spolen, je imela veliko vlogo pri določanju preživetja tudi naravna selekcija. Bujne praproti, preslice in lisičnjaki iz toplega ter vlažnega karbona danes služijo kot najboljši sloji črnega premoga. Ob koncu paleozoika je prišlo do masovnega izumrtja vrst, njih število naj bi se zmanjšalo za do 90 odstotkov. Razlogi za to se skrivajo v senci, a obstaja bolj ali manj uveljavljena domneva o izbruhu množice smrtonosnih ognjenikov v Sibiriji, ki naj bi prišel vkup z udarcem velikega izpodnebnika.
+Mezozoik
+Zemeljski srednji vek ali mezozoik je obdobje, ki se je pričelo 248 milijonov let v preteklost in zaključilo pred 65 milijoni let. Deljen je na trias, juro in kredo.
+
+
+
+
+Superkontinent Pangea je razpadel na kopnine, ki sestavljajo celine v današnji obliki
+
+
+Kar se tiče zemeljskih premikov, je bilo obdobje mezozoika pestro. V zgodnji juri je Pangea pričela razpadati in z odmikanjem Amerik je prišlo do nastanka Atlantskega oceana. Severnoameriška tektonska plošča je ob svojem potovanju na zahod rinila v Tihooceansko in nastal je pas ognjenikov od današnje Aljaske do južnih koncev Južne Amerike, z njim pa gorovje Kordiljere. To je danes vzhodni rob tihooceanskega Ognjenega obroča. Stiki primikajočih se litosferskih plošč so bili zavoljo ugrezanja prizorišče nastanka sredozemskih morij, kar je na današnjih kopninah zapustilo množico fosilnih ostankov. Od Gondvane se je ločil velik del kopnega (današnja Indija) in pričel s potovanjem na sever (proti današnji južni Aziji) zapirati morje Tetis. Mezozoik je tudi obdobje usedanja apnencev, dolomitov in peščenjakov, česar ena izmed posledic je Dinarsko gorstvo.
+V tem zemeljskem veku so obličje planeta zaznamovali kuščarji (dinozavri) kot prevladujoča oblika življenja. Razširili so se tako na kopnem kot v vodah in zraku ter planetu vladali 180 milijonov let. To je bil tudi čas prvih ptičev, sesalcev in cvetnic (te so nadomestile prej dominantne iglavce).
+Kenozoik
+Kenozoik je moderni vek Zemlje in traja tudi danes, pričel pa se je pred 65 milijoni let. Njegovi periodi sta terciar (obdobje od začetka veka do 1,8 milijona let nazaj) in kvartar (geološko gledano današnji čas, razdeljen na pomembni dobi pleistocen in holocen). V kenozoiku so prevladali sesalci, pa tudi sicer se je oblikovala sodobna biološka ter geografska podoba Zemlje.
+V tem času je bila Pangea dokončno razpuščena in nastale so sodobne celine: v Evrazijsko tektonsko ploščo primikajoča se Indija oblikuje Himalajo, Afrika oblikuje Alpe, Tetis je malone zaprt in obstaja le še v obliki Sredozemskega morja, Atlantik se neprestano širi (v poznem terciarju nastane Islandija), nagubajo se Pireneji, Alpe, Apenini, Karpati ter maloazijska gorovja do Kavkaza in Himalaja, še dalje pa Kordiljere. Za kenozoik so značilni intenzivni vertikalni premiki oziroma nastajanje in dviganje gorovij. Panonsko nižino je prekrivalo Panonsko morje, ki se je umaknilo in v pliocenu zlasti na današnjem slovenskem ozemlju obsegalo le še posamezne zalive in močvirja. Iz terciarja izhajajo sloji rjavega premoga.
+Kvartar je čas ledenih dob, ko se je povprečna temperatura Evrope znižala za 4 do 12 °C. Ledene dobe so ledeni pokrov (do 3 kilometre) preko severne Azije, Evrope in Amerike oblikovale štirikrat (poledenitveni geološki oddelki günz, mindel, riss in würm), povprečno vsakih 100 tisoč let. Najstarejše sledi ledeniškega delovanja v Evropi so stare 2,5 milijona let. Gladina morja je bila v času poledenitev nižja za okoli 180 metrov, tako je bila del celine npr. Britanija in dalmatinski otoki pa morebiti tudi Beringov preliv, kar je pomembno vplivalo na poselitev Amerik.
+Nenadno spremembo dominantne živalske skupine iz kuščarske v sesalsko je lahko pomenil en sam katastrofalen dogodek, za katerega si je največ strokovnjakov edinih, da ga je pomenil udarec velikega izpodnebnika. To sklepajo po npr. ogromni kotanji Mehiškega zaliva in po krednih najdiščih na Zemlji redkega, a na meteoritih izdatnega elementa iridija po svetu. V poznem terciarju, pred kakimi 6 milijoni let, naj bi se v Afriki pojavil zgodnji človek, ki je nato pred 2 do 1,7 milijona let nazaj emigriral na druge celine. Moderni človek Homo sapiens sapiens se je razvil v kvartarju, v anatomsko sodobni obliki okoli 130 tisoč let nazaj.
+Struktura in oblika Zemlje
+
+Glavna članka: Struktura Zemlje, Oblika Zemlje
+
+Notranjost
+
+
+
+
+Zemljine plasti:
+6. Površje
+5. Skorja
+4. Plašč (zgornji del)
+3. Plašč
+2. Zunanje jedro
+1. Notranje jedro
+
+
+Notranji sloji Zemlje dosegajo temperature med 4.000 in 7.000 kelvinov. Za to potrebna toplota je nastala ob stvaritvi Zemlje, nadalje pa jo ustvarja sevanje radioaktivnih elementov, kot so uran, torij in kalij. Pomembnejši vir toplote pa je vsekakor sončna energija, saj toplotni viri iz notranjosti Zemlje ustvarijo le dvajsettisočinko energije v primerjavi s Sončevimi žarki.
+Novonastale kamnine si neprestano utirajo pot na zemeljsko površje skozi ognjenike in podoceanske razpoke na razmikajočih se (divergentnih) prelomnicah tektonskih plošč. Mnogo izmed teh je starih manj od 100 milijonov let, nekatera najstarejša najdena mineralna zrna pa so nastala pred 4,4 milijarde let, kar kaže na to, da že najmanj toliko časa obstaja trdna skorja.
+Kot preostali planeti Osončja je tudi Zemlja v svoji notranjosti razdeljena na plasti, ki jih je moč ločiti po kemijski in fizikalni sestavi, agregatnem stanju in temperaturi ter mnogih drugih lastnostih. Zunanjo plast predstavlja trdna skorja iz silikatov, proti jedru pa ji sledijo viskozni plašč, mnogo manj viskozno zunanje jedro ter trdno notranje jedro. Magnetno polje Zemlje je posledica konvekcije elektroprevodnega materiala v tekočem zunanjem jedru.
+Od površja Zemlje proti njenemu jedru si tako sledijo:
+
+litosfera (0–60 km, ponekod tudi do 200 km)
+
+skorja (0–35 km, ponekod tudi do 70 km)
+zgornji predeli plašča (35–60 km)
+
+
+plašč (35–2890 km)
+
+astenosfera (100–700 km)
+
+
+zunanje jedro (2890–5100 km)
+notranje jedro (5100–6378 km)
+
+Zunanjost
+Zemlja v sončnem sistemu predstavlja edini planet, ki na svoji površini premore tekočo vodo. Ta prekriva 71 % celotnega površja, in sicer v 97 % slana voda. Svetovne vode so porazdeljene med pet oceanov, ki obdajajo sedem celin. Celotna masa hidrosfere je približno 1,4 × 1021 kg ali okoli 0,023 % skupne mase Zemlje.
+Ozračne plasti okoli Zemlje so razmeroma debele, saj najbolj redke plasti zraka segajo do okoli 1000 kilometrov visoko nad površino planeta. Atmosfero sestavlja več slojev, in sicer troposfera, stratosfera, mezosfera, termosfera in eksosfera. Debelina teh slojev je odvisna od svoje lokacije, pa tudi od sezonskih dejavnikov. Skupna masa atmosfere je ocenjena na 5,1 × 1018 kg oziroma 0,9 milijoninke celotne mase Zemlje.
+Oblika
+V najsplošnejšem pojmovanju ima Zemljo obliko geoida, ki je približek elipsoida, lasten samo obliki Zemlje. Geoid je telo, ki ga omejuje zunanja ploskev, na vsakem mestu pravokotna na smer sile teže; ta ni povsod usmerjena popolnoma v središče Zemlje, saj je teža na različnih mestih zemeljske površine zaradi nesorazmerne razporeditve notranjih mas različna. Geoida znanost do danes še ni definirala z matematično enačbo. Še nekoliko natančneje se Zemlja prilagaja obliki kardioida, ki je na severnem tečaju izbočeno, na južnem pa vbočeno telo. Za vse namene pa ti obliki nista primerni. Zato se za večino kartografskega dela in za druge na matematiko navezane raziskave uporablja oblika referenčnega ali Zemljinega elipsoida, ki ima geoidu enako prostornino, geometrično središče, kratko oziroma rotacijsko os ter čim manjšo razliko med vsotama kvadratov razdalj.
+Zemlja v Osončju
+Gibanje Zemlje
+
+
+Glavni članek: Gibanje Zemlje.
+
+
+Gibanje Zemlje ima več oblik in vpliva na množico pojavov, ki se zlasti tičejo površja Zemlje; tako je vzrok letnim časom, menjavanju dneva in noči ter njunim dolžinam, pa tudi različnim podnebnim pasovom, določanju časa in več drugim predmetnostim. Osnovni gibanji Zemlje sta njena rotacija in revolucija. Prva pomeni vrtenje planeta okoli njegove osi z obodno hitrostjo na ekvatorju 465,12 m/s, kar pomeni zasuk za 360° v enem dnevu oziroma 23h 56m 4s. Neposredna posledica tega vrtenja je menjavanje dneva in noči. Revolucija Zemlje pa pomeni gibanje po tiru okoli Sonca s srednjo hitrostjo 30,287 km/s, kar za celoten obrat terja eno leto oziroma 365,24 zemeljskih dni.
+Luna
+
+
+Ime
+Premer (km)
+Masa (kg)
+Srednji polmer tira (km)
+Orbitalna perioda
+
+
+Luna
+3.474,8
+7,349 · 1022
+384.400
+27 d 7 h 43,7 m
+
+
+Poseljenost
+Starostna sestava:
+
+0-14 let: 1.818.803.078 (29,92 %)
+
+moški: 932.832.913 (15,35 %)
+ženske: 885.970.165 (14,57 %)
+
+
+15-64 let: 3.840.881.326 (63,19 %)
+
+moški: 1.942.402.264 (31,95 %)
+ženske: 1.898.479.062 (31,23 %)
+
+
+65 let in čez: 419.090.130 (6,89 %)
+
+moški: 184,072,470 (3.03 %)
+ženske: 235.017.660 (3,87 %) (ocena 2000)
+
+
+
+Stopnja rasti prebivalstva: 1,3 % (ocena 2000)
+Stopnja rojevanja: 22 rojstev/1.000 prebivalcev (ocena 2000)
+Stopnja smrtnosti: 9 smrti/1.000 prebivalecev (ocena 2000)
+Razmerje spolov: [moški/ženske]
+
+pri rojstvu: 1,05
+pod 15. leti: 1,05
+15-64 let: 1,02
+65 let in čez: 0,78
+celotno prebivalstvo: 1,01 (ocena 2000)
+
+Glej tudi
+
+potres
+starost Zemlje
+pomikanje celin
+
+Viri
+
+Neil F. Comins (2001), Odkrivanje bistvenega vesolja (Discovering the Essential Universe) (Druga izdaja).
+
+Zunanje povezave
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: Zemlja
+
+
+
+
+
+
+
+p · p · u · zOsončje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sonce · Merkur · Venera · Zemlja · Mars · Cerera · Jupiter · Saturn · Uran · Neptun · Pluton · Haumea · Makemake · Erida
+
+
+
+
+
+
+
+
+Planeti · Pritlikavi planeti · Naravni sateliti: Zemljin · Marsova · Jupitrovi · Saturnovi · Uranovi · Neptunovi · Plutonovi · Haumejini · Eridin
+
+
+
+
+
+
+
+
+
+Mala telesa:   Meteoroidi · Asteroidi/Asteroidne lune (Asteroidni pas) · Kentavri · ČNT (Kuiperjev pas/Razpršeni disk) · Kometi (Oortov oblak)
+
+
+
+
+
+
+
+Glej tudi astronomska telesa, seznam teles v Osončju po tirnici, po polmeru in po masi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal Astronomija
+
+
+
+            
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Zemlja&oldid=3958247«				
+Kategoriji: Planeti OsončjaZemlja 
+
+
+

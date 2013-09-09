@@ -1,0 +1,842 @@
+
+
+Članek govori o naravnem satelitu planeta Zemlja.  Za lune v splošnem glej naravni satelit. Za druge pomene glej Luna (razločitev).
+
+Luna  
+
+
+Polna Luna, kot jo vidi opazovalec na Zemljini severni polobli. Posnetek z optičnim refraktorjem Vixen 103mm F1000 iz Hamoisa v Belgiji.
+
+
+Značilnosti tira
+
+
+Periapsida:
+363.104 km
+0,0024 a. e.
+
+
+Apoapsida:
+405.696 km
+0,0027 a. e.
+
+
+Velika polos:
+384.399 km
+0,00257 a. e.[1]
+
+
+Izsrednost:
+0,0549 [1]
+
+
+Obhodna doba:
+27,321582 d
+27 d 7 h 43,1 min [1]
+
+
+Sinodska perioda:
+29,530588 d
+29 d 12 h 44,0 min
+
+
+Povp. tirna hitrost:
+1022 km/s
+
+
+Naklon tira:
+5,145° na ekliptiko [1]
+(med 18,29° in 28,58° na Zemljin ekvator)
+
+
+Dolžina dvižnega vozla:
+regresivno,
+1 obrat v 18,6 letih
+
+
+Argument prisončja:
+progresivno,
+1 obrat v 8,85 letih
+
+
+Obkroža:
+Zemlja
+
+
+Fizikalne značilnosti
+
+
+Srednji polmer:
+1737,10 km
+0,273 Zemljinega [1]
+
+
+Ekvatorialni polmer:
+1738,14 km
+0,273 Zemljinega
+
+
+Polarni polmer:
+1735,97 km
+0,273 Zemljinega
+
+
+Površina:
+3,793 · 107 km²
+0,074 Zemljine
+
+
+Prostornina:
+2,1958 · 1010 km³
+0,020 Zemljine
+
+
+Masa:
+7,3477 · 1022 kg
+0,0123 Zemljine [1]
+
+
+Srednja gostota:
+3346,4 kg/m³ [1]
+
+
+Ekvatorialna površinska težnost:
+1,622 m/s²
+0,1654 g
+
+
+ubežna hitrost:
+2,38 km/s
+
+
+Siderska vrtilna doba:
+27,321582 d (sočasno)
+
+
+Hitrost vrtenja na ekvatorju:
+4,627 m/s
+
+
+Nagib vrtilne osi:
+1,5424° (na ekliptiko)
+6,687° (na ravnino tirnice)
+
+
+Albedo:
+0,12
+
+
+Površinska temp.:
+   ekvator
+   85°N [2]
+
+
+
+min
+mean
+max
+
+
+100 K
+220 K
+390 K
+
+
+70 K
+130 K
+230 K
+
+
+
+
+
+Navidezni sij:
+–2,5 do –12,9 [3]
+–12,74 (srednja polna luna)[4]
+
+
+Kotna velikost:
+29,3′ — 34,1' [4][5]
+
+
+Pridevniki:
+Lunin, lunaren, Mesečev
+
+
+Atmosfera
+
+
+Površinski tlak:
+10-7 Pa (podnevi)
+10-10 Pa (ponoči)[6][7]
+
+
+Sestava:
+H, He, Na, K, Rn, Ar
+
+
+Lúna ali Mésec je Zemljin edini naravni satelit. Povprečna oddaljenost Lune od Zemlje je 384.403 km, približno 30,13 Zemljinih ekvatorskih premerov, zato odbita sončna svetloba z njenega površja doseže Zemljo v približno 1,255 sekunde. Njena trenutna tirna oddaljenost povzroča, da je njena navidezna velikost skoraj enaka Sončevi, kar se kaže v popolnih Sončevih mrkih. Premer Lune znaša 3476 km, s čimer je Zemljina Luna peti največji naravni satelit v Osončju, tako po premeru, kot po masi. Pred njo so Ganimed, Titan, Kalisto in Io. Luna je največji naravni satelit Osončja glede na matični planet, saj je njen premer velik 1/4 Zemljinega, njena masa pa je 1/81 Zemljine. Je drugi najgostejši naravni satelit za Io. Lunin tir je sočasen z Zemljinim vrtenjem, tako da opazovalec na Zemlji vidi vedno isto stran Lune. Za bližnjo stran Lune so značilna temna ognjeniška morja med svetlimi starodavnimi skorjastimi gorami in izrazitimi udarnimi kraterji. Čeprav je navidezni sij Lune za Soncem največji, je njeno površje dejansko zelo temno, s podobnim odbojnim koeficientom kot ga ima premog. Njena pojava na nebu in njene stalne mene so že od nekdaj pomembno kulturno vplivale na jezik, koledar, umetnost in mitologijo. Lunino gravitacijsko polje povzroča plimovanje in minutno daljšanje koledarskega leta. Simbol Lune je srp (Unicode: ☾ in ☽).
+Prvi človeški predmet, ki je padel na Lunino površje, je bila sonda Luna 2 v letu 1959. Prve fotografije nam nevidne druge strani Lune je istega leta naredila Luna 3. Prvo vesoljsko plovilo, ki je opravilo mehak pristanek, je bilo Luna 9 leta 1966. Prva človeška odprava v Lunino tirnico je bila odprava Apollo 8, prvič pa je nanjo stopil človek leta 1969 s krova odprave Apollo 11. Je edino nebesno telo poleg Zemlje, na katerega je do sedaj stopil človek. Nasine odprave Programa Apollo so prinesle na Zemljo več kot 380 kg lunarnih skal. Z njihovo pomočjo so lahko razvili podrobno geološko sliko nastanka Lune, (ki naj bi nastala nekako pred 4,5 milijardami let v velikem trku), tvorbo njene notranjosti in njene kasnejše zgodovine. Od zadnje odprave Apollo 17 leta 1972 so na Luni pristala le vesoljska plovila brez človeške posadke. Od leta 2004 so na Luno poslale vsaka svoj lunarni orbiter Japonska, Kitajska, Indija, ZDA in Evropska vesoljska agencija. Ta plovila so potrdila odkritje obstoja vodnega ledu v stalno zasenčenih kraterjih na tečajih in omejenega v lunarnem regolitu. Načrtujejo še več odprav na Luno. Luno po dogovoru o odprtem vesolju lahko za mirnodobne namene raziskujejo vsi narodi.
+
+
+Vsebina
+
+
+1 Imena in etimologija
+2 Nastanek
+3 Fizikalne značilnosti
+
+3.1 Notranja zgradba
+3.2 Površinska geologija
+
+3.2.1 Dve strani Lune
+3.2.2 Ognjeniške tvorbe
+3.2.3 Topografija udarnin
+3.2.4 Prisotnost vode
+
+
+3.3 Gravitacija in magnetna polja
+3.4 Atmosfera
+3.5 Letni časi
+
+
+4 Razmerje z Zemljo
+
+4.1 Tir
+4.2 Relativna velikost
+4.3 Videz z Zemlje
+4.4 Plimski pojavi
+4.5 Mrki
+
+
+5 Preučevanje in raziskovanje Lune
+
+5.1 Zgodnja preučevanja
+5.2 Prva neposredna raziskovanja
+
+
+6 Glej tudi
+7 Opombe in sklici
+8 Viri
+9 Zunanje povezave
+
+
+Imena in etimologija
+Izraz Luna prihaja iz latinščine, iz besede lucere - sijati.[8][9] Starogrški izraz je Σελήνη: Selēnē z drugim izrazom Μήνη: Mēnē. Drugo starogrško ime za Luno izvira iz μήνας: mēnas, kar pomeni mesec.
+Tudi slovenski izraz Mesec je povezan s koledarskim mesecem, saj Luna zamenja vse svoje mene v slabem mesecu dni, včasih pa je bil koledarski mesec vezan prav na gibanje Lune. Starogrško ime je gotovo povezano z indoevropskim prajezikovnim korenom *mē-² - meriti.[10] Tudi praslovanska oblika *mĕsęcь se je razvila iz praindoevropske *meHs(e)nko-, kar je tvorba iz osnove *meHs.[9]
+Stari Egipčani so Luno imenovali Jah (Ah, Aah, Iah).
+Nastanek
+
+
+Glavni članek: domneva velikega trka.
+
+
+Za nastanek Lune pred 4,527 ± 0,010 milijarde leti, približno 30 do 50 milijonov let po nastanku Osončja, so predlagali več mehanizmov.[11] Med najbolj znanimi so:
+
+odcepitev Lune od Zemljine skorje zaradi centrifugalnih sil, kar zahteva preveliko začetno vrtilno hitrost Zemlje,[12][13]
+gravitacijsko ujetje predoblikovane Lune, kar zahteva, da nemogoče podaljšano Zemljino ozračje izničuje energijo mimobežne Lune,[14]
+skupna tvorba Zemlje in Lune v prvobitnem akrecijskem disku, ki pa ne pojasnjuje manjka kovinskega železa na Luni.[13]
+
+Te domneve tudi ne morejo pojasniti velike vrtilne količine sistema Zemlja-Luna.[15]
+Današnja prevladujoča domneva nastanka je, da je sistem Zemlja-Luna nastal kot rezultat velikega trka, ko je telo, velikosti Marsa, trčilo s protozemljo, izvrglo snov v tir okrog protozemlje, ta pa je tvorila Luno.[16] Takšni veliki trki so bili v zgodnjem Osončju pogosti. Računalniške simulacije modela velikega trka so v skladu z meritvami vrtilne količine sistema, kot tudi majhna velikost Luninega jedra. Nepojasnjeni vprašanji sta relativna velikost protozemlje in trkajočega telesa, ter koliko snovi teh dveh teles je tvorilo Luno.[16] Simulacije kažejo tudi, da je večina Lunine snovi prišlo od trkajočega telesa, in ne od protozemlje.[17] Meteoriti kažejo, da imajo druga telesa v notranjem Osončju, kot sta na primer Mars ali Vesta, drugačno kisikovo in volframovo izotopno zgradbo kot Zemlja. Nedavna analiza sestave kisikovih izotopov na Luni kaže, da je bolj podobna Zemljini, kot pa jo predlaga ta domneva.[18] Mešanje izparjene snovi med nastajajočima Zemljo in Luno po trku je lahko izenačilo njuni izotopni zgradbi, čeprav o tem ni soglasja.[19]
+Velika količina sproščene energije v velikem trku in kasnejša porazdelitev snovi na Zemljinem tiru bi stopila zunanji plašč Zemlje, ter tvorila magmatski ocean.[20][21] Tudi na ta način novo nastala Luna bi imela svoj magmatski ocean. Ocene njegove globine segajo od približno 500 km do celotnega Luninega polmera.[20]
+Fizikalne značilnosti
+Notranja zgradba
+
+
+Glavni članek: notranja zgradba Lune.
+
+
+
+Sestava Lunine skorje po elementih[22]
+
+kisik
+41–46 %
+
+
+silicij
+21 %
+
+
+magnezij
+6 %
+
+
+železo
+13 %
+
+
+kalcij
+8 %
+
+
+aluminij
+7 %
+
+
+Luna je diferencirano telo. Njena skorja, plašč in jedro se geokemično razlikujejo. Takšna zgradba se je razvila prek frakcijske kristalizacije globalnega magmatskega oceana kmalu po Luninem nastanku pred 4,5 milijardami let.[23] Kristalizacija tega oceana je morda tvorila mafični plašč iz usedanja in tonjenja mineralov olivina, klinopiroksena in ortopiroksena. Ko je približno 3/4 magmatskega oceana kristaliziralo, so se morda tvorili manj gosti plagioklazni minerali in se na vrhu zlili v skorjo.[24] Zadnje kapljevine, ki so kristalirale, so bile prvotno vrinjene med skorjo in plaščem. V njih je bilo veliko nezdružljivih in toplotnotvornih elementov. [1] Geokemične karte s tira skladno s tem kažejo, da je skorja večinoma anortozitna, vzorci skal iz poplavljene lave, ki je izbruhnila na površju zaradi delnega topljenja, pa so potrdili mafično zgradbo plašča, ki je bolj bogata z železom od Zemeljskega.[1][6] Geofizikalne tehnike nakazujejo, da je Lunina skorja povprečno debela približno 50 km.[1]
+Luna je za Io drugi najgostejši naravni satelit v Osončju.[25] Lunino jedro pa je zelo tanko. Njegov polmer znaša približno 350 km ali manj, kar je le približno 20 % Lunine velikosti.[1] Pri večini zemeljskih planetov je velikost jedra približno 50 % velikosti planeta. Sestava Luninega jedra ni dobro stisnjena, kovinsko železo je verjetno zlito z malimi količinami žvepla in niklja. Analize časovno spremenljivega vrtenja Lune kažejo, da je jedro vsaj delno staljeno.[26]
+Površinska geologija
+
+
+Glavna članka: Geologija Lune in Mineralogija Lune.
+
+Glej tudi: Topografija Lune in Seznam površinskih tvorb na Luni
+
+
+
+
+
+Topografija Lune glede na njen geoid. Podatki z inštrumenta Lunar Orbiter Laser Altimeter (LOLA) na plovilu Lunar Reconnaissance Orbiter (LRO).
+
+
+Luna se sočasno vrti, kar pomeni, da se zavrti okrog svoje osi v skoraj enakem času kot obkroži Zemljo. Zaradi tega je proti Zemlji obrnjena vedno ista polovica in se za opazovalca na Zemlji navidezno ne vrti. Zaradi pojavov več vrst libracij pa Luna dejansko kaže Zemlji malo več kot polovico strani. Včasih se je Luna vrtela hitreje, že zelo zgodaj pa se je njeno vrtenje upočasnilo in je ostalo plimsko priklenjeno v isti smeri zaradi pojavov trenja, povezanimi s plimskimi deformacijami, ki jih povzroča Zemlja.[27]
+Dve strani Lune
+Stran Lune, ki kaže obraz Zemlji, se imenuje bližnja stran ali prednja, nasprotna stran pa oddaljena, zadnja, zadajšnja ali kar druga.[28] Oddaljena stran Lune se včasih napačno imenuje tudi »temna stran«, kar pomeni, da je skrita, in zato neznana, ne pa zato, ker ne bi bila osvetljena, saj v povprečju dobi enako količino svetlobe kot bližnja stran. Vesoljska plovila na drugi strani Lune se ne morejo neposredno sporazumevati z Zemljo.
+Oddaljeno stran Lune je leta 1959 prva fotografirala sovjetska sonda Luna 3. Ena od pomembnih značilnosti oddaljene strani je skoraj popolna odsotnost morij, ki jih lahko vidimo na bližnji strani. Samo 2 % površja oddaljene strani prekrivajo morja, kar je malo v primerjavi z 31 % na bližnji strani. Najbolj verjetna razlaga za to raznolikost je povezana z višjo koncentracijo elementov, ki proizvajajo toploto, na bližnji strani. To so ugotovili z geokemijskimi kartami spektrometra žarkov γ na Lunar Prospectorju.[24][29][30][31]
+
+
+90° zahodno
+bližnja stran
+
+
+
+
+
+
+
+
+
+
+
+90° vzhodno
+oddaljena stran
+
+
+Topografijo Lune so premerili z laserskim višinomerom in analizo stereoskopskih posnetkov.[32] Najbolj vidna topografska tvorba je Kotanja južni tečaj-Aitken na oddaljeni strani, s premerom približno 2240 km, ki je največji krater na Luni in največji znani krater v Osončju.[33][34] Na globini 13 km v kotanji leži najnižja točka na Luni.[33][35] Najvišja točka leži na severovzhodu kotanje in predvidevajo, da je to področje nastalo ob nastanku kotanje.[36] Tudi v drugih kotanjah, kot so Morje deževij (Imbrium), Morje jasnosti (Serenitatis), Morje kriz (Crisium), Smythovo morje (Smythii) in Vzhodno morje (Orientale), se nahajajo nizka področja in vzdignjeni robovi.[33] Oddaljena stran Lune je v povprečju približno 1,9 km višja od bližnje strani.[1]
+Ognjeniške tvorbe
+
+
+Glavni članek: Lunino morje.
+
+
+Temne in relativno brezoblične Lunine ravnine, ki jih lahko jasno vidimo s prostim očesom, se imenujejo morja (latinsko mare), saj so starodavni astronomi verjeli, da jih napolnjuje voda.[37] Dejansko pa so obsežni strjeni bazeni starodavne bazaltne lave. Čeprav so podobni zemeljskemu bazaltu, je v bazaltu Luninih morij več železa in sploh nimajo mineralov, ki bi jih spremenila voda.[38][39] Večina te lave je izbruhnila ali pritekla v vdrtine, ki so povezane z udarnimi kotanjami. Ob morjih leži več geoloških področij, ki vsebujejo ščitne ognjenike in ognjeniške izbokline.[40]
+Morja skoraj večinoma ležijo na bližnji strani Lune, in pokrivajo 31 % površja bližnje strani.[41] Na oddaljeni strani je le nekaj raztresenih krp morij, ki pokrivajo le 2 % površja.[42] To je verjetno posledica koncentracije toplotnotvornih elementov pod skorjo na bližnji strani, ki jih je moč videti na geokemičnih kartah, posnetih s spektometrom žarkov γ robotske sonde Lunar Prospector. Elementi so pozročili, da se je spodaj ležeči plašč segrel, delno stopil, se dvignil na površino in izbruhnil.[24][43][44] Večina bazaltov iz Luninih morij je izbruhnila med imbrijsko periodo, pred 3,0 do 3,5 milijardami let. Nekateri vzorci, datirani radiometrično, so sicer stari celo 4,2 milijarde let.[45] Prav tako so najmlajši izbruhi, datirani s kraterskim štetjem, verjetno stari le 1,2 milijarde let.[46]
+Svetlejša območja na Luni se imenujejo višavja (terrae), saj so višja od večine morij. Njihovo starost so ugotovili radiometrično in so nastala pred 4,4 milijardami let. Verjetno predstavljajo plagioklazne nagrmadene kamnine Luninega magmatskega oceana.[45][46] Z razliko od Zemlje verjetno nobena Lunina gora ni nastala kot posledica tektonskih dogodkov.[47]
+Topografija udarnin
+
+Glej tudi: seznam kraterjev na Luni
+
+
+
+
+
+Lunin krater Dedal (Daedalus) na Lunini oddaljeni strani
+
+
+Drug velik geološki proces, ki je vplival na Lunino površje, so udarni kraterji, ki so nastali, ko so asteroidi in kometi trčili z Luninim površjem.[48] Ocenjujejo, da je na Lunini bližnji strani približno 300.000 kraterjev, ki so širši od 1 km.[49] Imenovali so jih po učenjakih, znanstvenikih, umetnikih in raziskovalcih.[50] Lunina geološka časovna lestvica temelji na najizrazitejših udarnih dogodkih, ki vključujejo nektarijsko, imbrijsko periodo in Morje deževij (Imbrium), tvorbe, za katere so značilni večkratni obroči dvignjene snovi, običajno s premerom od sto do tisoč kilometrov, in, ki so povezane s širokim proscenijem izvrženih naplavin, ki so tvorile krajevno stratigrafsko obzorje.[51] Manjko atmosfere, vremena in nedavni geološki procesi pomenijo, da so se mnogi od teh kraterjev dobro ohranili. Točno so datirali le nekaj kotanj z večkratnimi obroči, vendar so pomembne za določanje relativnih starosti. Ker so se udarni kraterji kopičili s skoraj stalno hitrostjo, lahko za ocenjevanje starosti površja uporabljajo štetje števila kraterjev na enoto površine.[51] Radiometrične starosti udarnih stopljenih skal, ki so jih zbrali med odpravami Programa Apollo, kažejo na vrednosti od 3,8 do 4,1 milijarde let. Z njimi so predlagali pozno veliko bombardiranje trkov.[52]
+Vrh Lunine skorje je prekrit z zdrobljenim in udarno premešanim površinskim slojem, regolitom, ki je nastal z udarnimi procesi. Finejši regolit, steklena Lunina tla iz silicijevega dioksida, ima teksturo kot sneg in vonj po rabljenem smodniku.[53] Regolit starejših površin je v splošnem debelejši kot pri mlajših površinah. Debelina se spreminja od 10 do 20 m v višavjih, in od 3 do 5 m v morjih.[54] Pod fino zdrobljenim rigolitnim slojem je megaregolit, sloj zelo zlomljene trdne podlage, debele več kilometrov.[55]
+Prisotnost vode
+
+
+Glavni članek: Lunina voda.
+
+
+
+
+
+
+Lunin južni tečaj, posnet s sonde Clementine. Vidna je stalna tečajna senca.
+
+
+Čeprav kapljevinasta voda na Luni ne more obstajati in sončna svetloba vodno paro hitro razkroji, tako da se porazgubi v vesoljski prostor, so znanstveniki od 1960-tih menili, da bi lahko v hladnih, stalno zasenčenih kraterjih na Luninih tečajih obstajal vodni led, ki so ga sem prinesli kometi ali pa je nastal z reakcijami lunarnih skal, bogatih s kisikom, z vodikom v solarnem vetru.[56] Ti kraterji so bili v senci dve milijardi let, računalniške simulacije pa kažejo, da je v večni senci do 14.000 km2 površja.[57][58] Obstoj uporabnih količin vode na Luni je pomemben faktor pri cenovno dovolj učinkoviti naselitvi Lune.[59]
+Našli so že veliko sledi vode.[60] Leta 1994 so s pomočjo poskusa z bistatičnim radarjem na sondi Clementine odkrili sledi malih, zmrznjenih žepkov vode blizu površja, čeprav so kasnejša radarska opazovanja z Areciba nakazovala, da so to izvržene skale iz mladih udarnih kraterjev.[61] Nevtronski spektrometer na robotski sondi Lunar Prospector je leta 1998 pokazal, da je v zgornjih slojih regolita blizu tečajnih področij visoka koncentracija vodika.[62] Leta 2008 so z novo analizo ugotovili male količine vode znotraj kosov iz ognjeniške lave, ki so jih na Zemljo prinesli astronavti Apolla 15.[63]
+Septembra 2009 je prva indijska lunarna sonda Čandrajaan-1 odkrila vodo in hidroksilne absorbcijske črte v odbiti sončni svetlobi s pomočjo Nasinega inštrumenta Moon Mineralogy Mapper, ter velike količine vode na Luninem površju vse do 1000 ppm.[64] Nekaj tednov kasneje je Nasino plovilo LCROSS poneslo zgornji del raketnega pogonskega bloka Centaur z maso 2300 kg v stalno zasenčeni krater Cabeus in odkrilo vsaj 100 kg vode v oblaku po trku izvržene snovi.[65][66]
+Gravitacija in magnetna polja
+
+
+Glavna članka: Lunina gravitacija in Lunino magnetno polje.
+
+
+Lunino gravitacijsko polje so izmerili z Dopplerjevim pomikom radijskih signalov s krožečega vesoljskega plovila. Glavne značilnosti Lunine gravitacije so koncentracije mase, velike pozitivne gravitacijske nepravilnosti, povezane z nekaterimi velikimi udarnimi kotanjami. Delno so jih povzročili tokovi goste morske bazaltne lave, ki je napolnila te kotanje.[67] Te nepravilnosti zelo vplivajo na tir vesoljskega plovila okrog Lune. Obstaja nekaj nejasnosti. Tokovi lave sami ne morejo pojasniti vseh gravitacijskih tvorb. Nekaj masnih koncentracij ni povezanih z vulkanizmom morij.[68]
+Gostota Luninega zunanjega magnetnega polja je v razponu od ene do sto nanotesel, manj kot ena stotina gostote Zemljinega. Luna trenutno nima globalnega dvopolnega magnetnega polja, ki bi ga tvoril geodinamo kapljevinskega kovinskega jedra. Ima le magnetizacijo v skorji, ki je verjetno nastala zgodaj v zgodovini Lune, ko je geodinamo še deloval.[69][70] Nekaj preostale magnetizacije lahko izvira iz prehodnih magnetnih polj, ki so nastala med velikimi udarnimi dogodki, prek razširjanja v udarih nastalega plazemskega oblaka v prisotnosti okoliškega magnetnega polja. To podpirajo očitne lege največjih magnetizacij v skorji blizu antipodov velikanskih udarnih kotanj.[71]
+Atmosfera
+
+
+Glavni članek: Lunina atmosfera.
+
+
+Luna ima zelo redko atmosfero, ki je skoraj že vakuum. Njena celotna masa je manj od 10 metričnih ton.[72] Površinski tlak te majhne mase je približno 3 · 10−15 atm (0,3 nPa) in se med Luninim dnevom spreminja. Vire njene atmosfere obsegata razplinjenje in obstreljevanje, osvoboditev atomov iz bombardiranja Luninih tal z ioni iz Sončevega vetra.[6][73] Med elementi, ki so jih odkrili, so: natrij in kalij, ki sta nastala pri obstreljevanju, in ju najdemo tudi v atmosferah Merkurja in Io; helij-4 iz Sončevega vetra, ter argon-40, radon-222 in polonij-210, nastali z razplinjenjem po nastanku z radioaktivnim razpadom znotraj skorje in plašča.[74][75] Odsotnosti nevtralnih vrst (atomov ali molekul), kot so kisik, dušik, ogljik, vodik in magnezij, ki so prisotni v regolitu, ne razumemo.[74] Vodno paro je odkril Čandrajaan-1. Njena vsebnost se spreminja s širino, največja je pri ~60-70°. Verjetno nastaja s sublimacijo vodnega ledu v regolitu.[76] Ti plini se lahko vrnejo v regolit zaradi Lunine težnosti, ali pa se porazgubijo v okoliški vesoljski prostor, prek Sončevega sevalnega tlaka ali prek ionizacije, ko jih stran odnaša magnetno polje Sončevega vetra.[74]
+Letni časi
+Nagib Lunine vrtilne osi je le 1,54°, kar je veliko manj kot Zemljin 23,44°. Zaradi se tega sončna osvetlitev veliko manj spreminja z letnimi časi. Topografske podrobnosti so pri učinkih letnih časov pomembne.[77] Iz fotografij, ki jih je posnela sonda Clementine leta 1994, izhaja, da so štiri gorata področja na robu kraterja Peary na Luninem severnem tečaju osvetljena skozi ves Lunin dan, kar tvori vrhove večne svetlobe. Takšnih področij na južnem tečaju ni. Podobno obstajajo območja, ki so v stalni senci na dnih mnogih tečajnih kraterjev.[58] Ti temni kraterji so izjemno mrzli: robotsko plovilo Lunar Reconnaissance Orbiter je izmerilo najnižjo poletno temperaturo v kraterjih na južnem tečaju 35 K (−238 °C) in samo 26 K blizu zimskega Sončevega obrata v severnem tečajnem kraterju Hermite.[78] To je najnižja temperatura v Osončju do sedaj izmerjena s kakšnim vesoljskim plovilom, nižja celo od Plutonovega površja.[77]
+Razmerje z Zemljo
+Tir
+
+
+Glavna članka: Lunin tir in lunarna teorija.
+
+
+
+
+
+
+Zemljina Luna zaradi (optičnih) libracij kaže Zemlji malo več kot polovico strani (59 %)
+
+
+Luna obkroži Zemljo vsakih 27,3 dni. To je njena prava obhodna doba (siderska perioda). Ker se Zemlja istočasno giblje na svojem tiru okrog Sonca, traja dlje časa, da Luna Zemlji navidezno kaže enako fazo, približno 29,5 dni. To je njena sinodska perioda.[41] V nasprotju z ostalimi naravnimi sateliti drugih planetov Luna obkroža Zemljo blizu njene ekliptične in ne ekvatorske ravnine. Njena tirnica je nagnjena za približno 5° na ekliptiko. Luna seka ekliptiko približno dvakrat na mesec. Če se to zgodi med mlajem, nastopi Sončev mrk, in med ščipom, nastopi Lunin mrk.
+Zemlja in Luna imata veliko fizičnih vplivov ena na drugo, vključno z bibavico. Večina bibavičnih učinkov, ki jih lahko opazimo na Zemlji, so zaradi Luninega težnostnega privlaka, Sonce pa ima manjši vpliv. Bibavični učinki vplivajo na povečevanje oddaljenosti Lune od Zemlje in sicer približno 4 metre na stoletje.
+Lunin tir rahlo motita Sonce in Zemlja na več, majhnih, zapletenih in vzajemnih načinov. Ravnina Luninega tirnega gibanja na primer precesira, kar vpliva na njena druga gibanja. Te vplive matematično opisujejo Cassinijevi zakoni.[79]
+Leta 1997 so odkrili, da ima asteroid 3753 Kruitne (3753 Cruithne) nenavadno podkvasto tirnico, povezano z Zemljo, in zato nekateri ta asteroid imenujejo kot drugo Zemljino luno. Vendar pa to za astronome ni, saj ima dolgoročno nestabilno tirnico.[80] V tem času so odkrili še tri druge blizuzemeljske asteroide, ki imajo podobno tirnico kot Kruitne, in sicer 54509 YORP (2000 PH5), (85770) 1998 UP1 in 2002 AA29.[81]
+Relativna velikost
+
+
+
+
+Primerjava velikosti Zemlje in Lune, združeni sliki sonde Galileo iz leta 1992
+
+
+Luna je glede na Zemljo zelo velika. Njen premer je 1/4 Zemljinega, njena masa pa 1/81 Zemljine.[41] Tako je v Osončju največji naravni satelit glede na velikost svojega matičnega planeta. Le naravni satelit Haron je večji relativno glede na svoj gostiteljski pritlikavi planet Pluton.[82] Razmerji premerov in mas za sistem Pluton-Haron sta 1/2 in 1/8586. Lunino površje je manjše od 1/10 zemeljskega, kar je približno 1/4 Zemljinega kopnega.
+Masno središče (baricenter) sistema Zemlja-Luna leži približno 1700 km pod zemeljskim površjem - dobra četrtina Zemljinega polmera. Sistem Zemlja-Luna imamo zaradi omenjenih velikih razmerij lahko tudi bolj za dvojni planet, kot pa za sistem planet-naravni satelit.[83] Ker se masno središče sistema nahaja znotraj Zemlje, sistem Zemlja-Luna ne dosega uradne definicije dvojnega planeta IAU.[84]
+Videz z Zemlje
+Enolično, s prahom pokrito kamnito površje ima nešteto kraterjev s premerom do 200 in višino do 8 kilometrov. Luna prejema svetlobo od Sonca, zaradi tega jo vidimo v različnih menah (mlaj - Luna leži med Zemljo in Soncem; ščip - Zemlja je med Luno in Soncem). Kadar gre ščip v Zemljino senco, nastane delni ali popolni Lunin mrk.
+Luna ima izjemno majhen albedo, tako da je njen odbojni koeficient podoben premogovemu. Navkljub temu je za Soncem drugo najsvetlejše telo na nebu, gledano z Zemlje.[41] Sončev navidezni sij je −26,7, navidezni sij polne Lune pa je −12,7.[85] Poleg tega barvna trajnost v vizualnem sistemu rekalibrira povezave med barvami telesa in njene okolice. Ker je okoliško nebo sorazmerno temno, zaznamo sončno svetlobo, odbvito z Lune, kot svetlo telo. Robovi polne Lune se zdijo enako svetli kot središče brez robnega temnenja zaradi odbojnih značilnosti njenih tal, ki odbijajo več svetlobe nazaj proti Soncu, kot pa v druge smeri. Luna se blizu obzorja zdi večja, vendar je to čisto psihološki pojav, znan kot optična prevara Lune, prvič opisan v 7. stoletju.[86]
+Največja Lunina altituda na nebu se spreminja. Ima skoraj enake mejne vrednosti kot Sonce, med fazami in letnimi časi se spreminja. Največja je pri polno Luni pozimi. Vpliv ima tudi 18,6-letni vozelni cikel: ko je dvižni vozel Luninega tira v pomladnem enakonočju, lahko Lunina deklinacija vsak mesec naraste vse do 28°. To pomeni, da je Luna nadglavno telo pri zemljepisnih širinah do 28°, namesto le pri 18°. Usmerjenost polmeseca je odvisna tudi od zemljepisne širine opazovališča: blizu ekvatorja lahko opazovalec vidi vodoravno obrnjeni polmesec.[87]
+Skozi zgodovino so razpravljali ali se značilnosti na Luninem površju spreminjajo s časom. Danes imamo mnogo takšnih trditev za varljive, kar je posledica opazovanj pri različnih svetlobnih pogojih, slabega seeinga ali netočnih risb. Včasih se res pojavi razplinjenje in je lahko odgovorno za majhen odstotek poročil o prehodnih lunarnih pojavih. Nedavno so predlagali, da je območje Luninega površja s premerom približno 3 km spremenila osvoboditev plina pred približno milijon leti.[88][89]
+Na Lunin videz, podobno kot na Sončev, lahko vpliva ozračje: običajna pojava sta 22° venčni kolobar, ki nastane, ko se Lunina svetloba lomi skozi kristale ledu ali visok cirostratus, in manjši koronarni obroči, ko Luno opazujemo skozi tanke oblake.[90]
+Plimski pojavi
+
+
+Glavni članki: plimska sila, plimski pospešek, bibavica in teorija plimovanja.
+
+
+Plimovanje na Zemlji večinoma povzročajo plimske sile, spreminjanje jakosti Luninega gravitacijskega povleka iz ene strani Zemlje do druge strani. Na Zemlji nastaneta dve plimski izboklini, ki sta najbolj vidni v povišani morski gladini kot oceanska plima.[91] Ker se Zemlja vrti približno 27 krat hitreje kot se okrog nje giblje Luna, sta izboklini povlečeni vzdolž Zemljinega površja hitreje kot se giblje Luna, in krožita okrog Zemlje enkrat na dan, ko se Zemlja vrti okrog svoje osi.[91] Oceansko plimo povečujejo tudi drugi pojavi: torno sklapljanje vode z Zemljinim vrtenjem skozi oceanska dna, vztrajnost vodnega gibanja, oceanske kotanje, ki blizu kopnega postanejo plitvejše, ter nihanja med različnimi oceanskimi kotanjami.[92] Jakost gravitacijskega plivlaka Sonca na Zemljine oceane je skoraj enaka polovici jakosti Luninega privlaka. Njuno medsebojno delovanje je odgovorno za najvišje plime in najnižje oseke.[91]
+Gravitacijska sklopitev med Luno in njej najbližjo izboklino deluje na Zemljino vrtenje kot navor. Iz njenega vrtenja črpa vrtilno količino in vrtilno kinetično energijo.[91][93] Poleg tega vrtilna količina pospešuje Luno na njenem tiru, tako da se za dalj časa giblje na višjem tiru. S tem se povečuje tudi razdalja med Zemljo in Luno, Zemljino vrtenje pa se upočasnjuje.[93] Meritve z laserskim določanjem razdalje do Lune s pomočjo zrcal, ki so jih na Luninem površju pustile odprave Apollo, so pokazale, da se razdalja med Zemljo in Luno povečuje 38 mm na leto, kar je sicer le 0,10 ppb/leto polmera Luninega tira.[94] Atomske ure so pokazale tudi, da se Zemljin dan vsako leto podaljšuje za približno 15 mikrosekund, in počasi povečuje stopnjo, s katero se UTC prilagaja s prestopnimi sekundami.[95] Ta plimski povlek se bo nadaljeval dokler se vrtenje Zemlje ne bo ujemalo z Lunino orbitalno periodo. Preden pa se bo to zgodilo, bo Sonce postalo rdeča velikanka, in požrlo Zemljo.[96][97]
+Na Lunino površje deluje tudi plimovanje z amplitudo ~10 cm na 27 dni z dvema komponentama: stalno zaradi Zemlje, saj sta v sočasnem vrtenju, in spremenljivo od Sonca.[93] Zemljina komponenta izhaja iz libracije, posledice izsrednosti Luninega tira. Če bi bil Lunin tir popolna krožnica, ne bi bilo sončnega plimovanja.[93] Libracija spreminja tudi kot pod katerim vidimo Luno z Zemlje, tako da lahko vidimo približno 59 % njenega površja, vendar na enkrat samo polovico.[41] Nabrani vplivi pritiskov, ki jih povzročajo te plimske sile, tvorijo Lunine potrese. Lunini potresi so manj pogosti in šibkejši kot zemeljski, lahko pa trajajo do ene ure, precej dlje kot na Zemlji, saj ni vode, ki bi ublažila seizmična nihanja. Obstoj potresov na Luni je bilo nepričakovano odkritje seizmometrov, ki so jih na Luni postavili astronavti Programa Apollo med letoma 1969 in 1972.[98]
+Mrki
+
+
+Glavni članki: Sončev mrk, Lunin mrk in cikel mrkov.
+
+
+
+
+
+
+Popolni Lunin mrk, 9. november 2003
+
+
+
+
+
+
+Popolni Sončev mrk, 11. avgust 1999
+
+
+
+Luna se pomika pred Soncem. Slika s plovila STEREO-B, 25. februar 2007.[99]
+
+Gledano z Zemlje sta Luna in Sonce navidezno enako velika. S satelita na Zemljinem nosilnem tiru je navidezna velikost Lune manjša od Sonca.
+
+
+Mrki lahko nastopijo le, kadar so Sonce, Zemlja in Luna na skupni zveznici. Sončev mrk nastopi blizu mlaja, ko Luna leži med Soncem in Zemljo. Lunini mrki nastopijo blizu ščipa, ko Zemlja leži med Soncem in Luno. Spremembe velikosti kotnih premerov Lune in Sonca, gledanih z Zemlje, se prekrivajo, tako da so možni tako popolni kot kolobarjasti Sončevi mrki.[100] Pri popolnem Sončevem mrku Luna popolnoma prekrije Sončev disk, tako da se z golim očesom lahko vidi Sončeva korona. Ker se razdalja med Luno in Zemljo s časom zelo počasi povečuje, se zmanjšuje tudi Lunin kotni premer.[91] To pomeni, da je pred več sto milijoni leti Luna popolnoma zakrila Sonce, kolobarjasti mrki pa niso nastopali. Podobno čez 600 milijonov let, če se Sončev kotni premer ne bo spreminjal, Luna ne bo več popolnoma zakrila Sonce, in bodo nastopali le kolobarjasti mrki.[101] Ker je Lunin tir okrog Zemlje nagnjen za približno 5° proti ravnini Zemljinega tira okrog Sonca, mrki ne nastopijo med vsakim ščipom ali mlajem. Da nastopi mrk, mora biti Luna blizu presečišča obeh ravnin tirov.[101] Periodičnost in ponovno pojavitev Sončevih in Luninih mrkov opisuje saroški cikel s periodo približno 18 let.[102]
+Ker nam Luna stalno zakriva pogled na krožno področje, široko pol stopinje, nastane s tem povezan pojav okultacije, ko svetla zvezda ali planet navidezno zaideta za Luno. V povprečju Luna na nočnem nebu pokriva površino 0,21078 kvadratnih stopinj.[103] V tem smislu je Sončev mrk okultacija Sonca. Ker je Luna sorazmerno blizu Zemlje, okultacije posameznih zvezd niso povsod vidne na planetu, kot tudi ne istočasno. Zaradi precesije Luninega tira vsako leto nastopijo okultacije z drugimi zvezdami.[104]
+Preučevanje in raziskovanje Lune
+
+
+
+
+Karta Lune Johannesa Hevela iz njegovega dela Topografija Lune (Selenographia, seu descriptio Lunae; 1647). Na karti so prvič označena področja libracij.
+
+
+Zgodnja preučevanja
+Razumevanje Luninih ciklov je bilo predmet preučevanja zgodnje astronomije. Babilonski astronomi so do 5. stoletja pr. n. št. zaznali 18-letni saroški cikel Luninih mrkov.[105] Indijski astronomi so opisali Lunino mesečno elongacijo.[106] Kitajski astronom Ši Šen (živel v 4. stoletju pr. n. št.) je podal navodila za napovedovanja Sončevih in Luninih mrkov.[107] Kasnje so preučili fizično obliko Lune in vzrok mesečine. Anaksagora je razpravljal o tem, da sta bila tako Sonce kot Luna velikanski krogelni skali, Luna pa naj bi odsevala svetlobo s Sonca.[108][109] Čeprav so Kitajci v času dinastije Han verjeli, da je Luna enaka energiji, ki so jo izenačevali s ki, je njihova teorija 'sevalnega vpliva' tudi prepoznala, da je bila mesečina le odsev svetlobe s Sonca. Džing Fang (78-37 pr. n. št.) je omenjal krogelnost Lune.[110]
+Leta 499 je Arjabhata v svojem delu Arjabhatija omenil, da je odbita sončna svetloba vzrok mesečini.[111] Ibn al-Haitam je odkril, da se sončna svetloba ne odbija z Lune kot od zrcala, ampak prihaja iz vsakega dela Lunine površine, obsevane od Sonca, v vse smeri.[112] Šen Kuo (1031–1095) je v času dinastije Song izdelal prispodobo, kjer je enačil naraščanje in pojemanje Lune s srebrno odbijajočo kroglo, ki bo izgledala kot polmesec, če jo potresemo z belim praškom in pogledamo od strani.[113]
+Prva neposredna raziskovanja
+Prvo vesoljsko plovilo je poletelo proti Luni leta 1959, istega leta smo dobili prve posnetke njene nevidne strani. Leta 1966 je prišlo do prvega pristanka na Luni; leta 1968 pa je poletela prva vesoljska ladja s posadko in na lastne oči videla zadnjo stran Lune. Nato pa je 21. julija 1969 na Lunina tla stopil prvi človek Neil Armstrong (ZDA). Na Luni je bilo skupaj šest pristankov, zadnji med njimi od Apolla 17 19. decembra 1972.
+Glej tudi
+
+Luna (mitologija)
+simbolika polmeseca
+
+Opombe in sklici
+
+
+^ 1,00 1,01 1,02 1,03 1,04 1,05 1,06 1,07 1,08 1,09 1,10 1,11 Wieczorek; idr. (2006).
+^ Vasavada, Paige, Wood (1999).
+^ The maximum value is given based on scaling of the brightness from the value of -12.74 given for an equator to Moon centre distance of 378 000 km in the NASA factsheet reference to the minimum Earth-Moon distance given there, after the latter is corrected for the Earth's equatorial radius of 6378 km, giving 350 600 km. The minimum value (for a distant new moon) is based on a similar scaling using the maximum Earth-Moon distance of 407 000 km, given in the fact sheet, and by calculating the brightness of the earthshine onto such a new moon. The brightness of the earthshine is Earth albedo × (Earth radius / Moon orbit radius) ² relative to the direct solar illumination that occurs for a full moon. Earth albedo = 0.367, Earth radius = (polar radius × equatorial radius)1/2=6367 km.
+^ 4,0 4,1 Williams, D.R. (2006-02-10). Moon Fact Sheet (v angleščini). NASA. Pridobljeno dne 2007-10-12.
+^ The range of angular size values given are based on simple scaling of the following values given in the fact sheet reference: at an Earth equator to Moon centre distance of 378 000 km, the angular size is 1896". The same fact sheet gives extreme Earth-Moon distances of 407 000 km and 357 000 km. For the maximum angular size, the minimum distance has to be corrected for the Earth's equatorial radius of 6378 km, giving 350 600 km.
+^ 6,0 6,1 6,2 Lucey; idr. (2006).
+^ Lucey; idr (2006) podajajo 107 delcev cm−3 (podnevi) in 105 delcev cm−3 (ponoči). Če upoštevamo ekvatorski temperaturi površja 390 K (podnevi) in 100 K (ponoči), lahko iz splošne plinske enačbe izračunamo tlaka. Srednji vrednosti zaokroženi na najbližji red velikosti sta 10-7 Pa (podnevi) in 10-10 Pa (ponoči).
+^ Tavzes (2002), str. 680.
+^ 9,0 9,1 Snoj (1997).
+^ moon (v angleščini). Wikislovar. Pridobljeno dne 2010-04-14.
+^ Kleine, Palme, Mezger, Halliday (2005).
+^ Binder (1974).
+^ 13,0 13,1 Stroud (2009).
+^ Mitler (1975).
+^ Stevenson (1987).
+^ 16,0 16,1 Taylor, G. Jeffrey (1998-12-31). Origin of the Earth and Moon (v angleščini). Planetary Science Research Discoveries. Pridobljeno dne 2010-04-07.
+^ Canup, Asphaug (2001).
+^ Nield (2009).
+^ Pahlevan, Stevenson (2007).
+^ 20,0 20,1 Warren (1985).
+^ Tonks, Melosh (1993).
+^ Laukant, Jean Hemzacek (2004). Moon Composition and Resources (It's Not Made of Cheese!) (v angleščini). Univerza Severovzhodnega Illinoisa. Pridobljeno dne 2009-08-29.
+^ Nemchin, Timms, Pidgeon, Geisler, Reddy, Meyer (2009).
+^ 24,0 24,1 24,2 Shearer; idr (2006).
+^ Schubert; idr. (2004).
+^ Williams, Turyshev, Boggs, Ratcliff (2006).
+^ Alexander (1973).
+^ FAKTOPEDIJA: velika ilustrirana enciklopedija. Ljubljana: Mladinska knjiga. 1998. ISBN 86-11-15347-2. COBISS 7732786. 
+^ Wieczorek, Phillips (2000).
+^ Bradley, Gillis, Haskin, Korotev, Wieczorek (2000).
+^ Taylor, G. Jeffrey (2000-08-31). A New Moon for the Twenty-First Century (Nova Luna za enaindvajseto stoletje) (v angleščini).
+^ Spudis, Cook, Robinson, Bussey, Fessler (1998).
+^ 33,0 33,1 33,2 Spudis, Reisse, Gillis (1994).
+^ Pieters, Tompkins, Head, Hess (1997).
+^ Taylor, G. Jeffrey (1998-07-17). The Biggest Hole in the Solar System (v angleščini). Planetary Science Research Discoveries, Havajski inštitut za geofiziko in planetologijo. Pridobljeno dne 2007-04-12.
+^ Schultz (1997).
+^ Wlasuk (2000).
+^ Norman, M. (2004-04-21). The Oldest Moon Rocks (v angleščini). Planetary Science Research Discoveries. Pridobljeno dne 2007-04-12.
+^ Varricchio (2006).
+^ Head (2003).
+^ 41,0 41,1 41,2 41,3 41,4 Spudis, Paul D. (2004). Moon (v angleščini). World Book Online Reference Center, NASA. Pridobljeno dne 2007-04-12.
+^ Gillis, Spudis (1996).
+^ Lawrence; idr. (1998).
+^ Taylor, G. Jeffrey (2000-08-31). A New Moon for the Twenty-First Century (v angleščini). Planetary Science Research Discoveries, Havajski inštitut za geofiziko in planetologijo. Pridobljeno dne 2007-04-12.
+^ 45,0 45,1 Papike, Ryder, Shearer (1998).
+^ 46,0 46,1 Hiesinger, Head, Wolf, Jaumann, Neukum (2003).
+^ Munsell, K. (2006-12-04). Majestic Mountains (v angleščini). Solar System Exploration. NASA. Pridobljeno dne 2007-04-12.
+^ Melosh (1989).
+^ Moon Facts (v angleščini). ESA (2010). Pridobljeno dne 2010-03-25.
+^ Gazetteer of Planetary Nomenclature: Categories for Naming Features on Planets and Satellites (v angleščini). Geološki urad ZDA. Pridobljeno dne 2010-04-08.
+^ 51,0 51,1 Wilhelms (1987).
+^ Hartmann, Quantin, Mangold (2007).
+^ The Smell of Moondust (v angleščini). NASA (2006-01-30). Pridobljeno dne 2010-03-15.
+^ Heiken, Vaniman, French (1991).
+^ Rasmussen, Warren (1985).
+^ Margot, Campbell, Jurgens, Slade (1999).
+^ Ward (1975).
+^ 58,0 58,1 Martel, L.M.V. (2003-06-04). The Moon's Dark, Icy Poles (v angleščini). Planetary Science Research Discoveries, Havajski inštitut za geofiziko in planetologijo. Pridobljeno dne 2007-04-12.
+^ Seedhouse (2009).
+^ Coulter, Dauna (2010-03-18). The Multiplying Mystery of Moonwater (v angleščini). Science@NASA. Pridobljeno dne 2010-03-28.
+^ Spudis, Paul D. (2006-11-06). Ice on the Moon (v angleščini). The Space Review. Pridobljeno dne 2007-04-12.
+^ Feldman, Maurice, Binder, Barraclough, Elphic, Lawrence (1998).
+^ Saal, Hauri, Cascio, van Orman, Rutherford, Cooper (2008).
+^ Pieters; idr. (2009).
+^ Lakdawalla, Emily (2009-11-13). LCROSS Lunar Impactor Mission: "Yes, We Found Water!" (v angleščini). The Planetary Society. Pridobljeno dne 2010-04-13.
+^ Colaprete; idr. (2010).
+^ Muller, Sjogren (1968).
+^ Konopliv; idr. (2001).
+^ Garrick-Bethell; idr. (2009).
+^ Magnetometer / Electron Reflectometer Results (v angleščini). Lunar Prospector (NASA) (2001). Pridobljeno dne 2010-03-17.
+^ Hood, Huang (1991).
+^ Globus (2002).
+^ Crotts (2008).
+^ 74,0 74,1 74,2 Stern (1999).
+^ Lawson; idr. (2005).
+^ Sridharan; idr. (2010).
+^ 77,0 77,1 Jonathan Amos. »'Coldest place' found on the Moon«, BBC News, 2009-12-16. Pridobljeno: 2010-03-20. (v angleščini)
+^ Diviner News (v angleščini). UCLA (2009-09-17). Pridobljeno dne 2010-03-17.
+^ Belecki (2001), str. 183.
+^ No, it's not our "second" moon!!! (Ne, ni naša »druga« luna!) (v angleščini). Pridobljeno dne 2006-10-10.
+^ Morais, Morbidelli (2002).
+^ Space Topics: Pluto and Charon (v angleščini). The Planetary Society. Pridobljeno dne 2010-04-06.
+^ Welcome to the double planet (Dobrodošli na dvojni planet) (v angleščini). Evropska vesoljska agencija (ESA) (2003-10-05). Pridobljeno dne 2006-10-17.
+^ Planet Definition Questions & Answers Sheet (v angleščini). Mednarodna astronomska zveza (IAU) (2006). Pridobljeno dne 2010-03-24.
+^ Luciuk, Mike. How Bright is the Moon? (v angleščini). Amateur Astronomers, Inc.. Pridobljeno dne 2010-03-16.
+^ Hershenson (1989), str. 5.
+^ Spekkens, K. (2002-10-18). Is the Moon seen as a crescent (and not a "boat") all over the world? (v angleščini). Curious About Astronomy. Pridobljeno dne 2010-03-16.
+^ Taylor, G. J. (2006-11-08). Recent Gas Escape from the Moon (v angleščini). Planetary Science Research Discoveries, Havajski inštitut za geofiziko in planetologijo. Pridobljeno dne 2007-04-04.
+^ Schultz, Staid, Pieters (2006).
+^ 22 Degree Halo: a ring of light 22 degrees from the sun or moon (v angleščini0). Oddelek za atmosferske znanosti Univerze Illinoisa v Urbani in Champaignu. Pridobljeno dne 2010-04-13.
+^ 91,0 91,1 91,2 91,3 91,4 Lambeck (1977).
+^ Le Provost, Bennett, Cartwright (1995).
+^ 93,0 93,1 93,2 93,3 Touma, Wisdom (1994).
+^ Chapront, Chapront-Touzé, Francou (2002)
+^ Ray, R. (2001-05-15). Ocean Tides and the Earth's Rotation (v angleščini). IERS Special Bureau for Tides. Pridobljeno dne 2010-03-17.
+^ Murray, Dermott (1999), str. 184.
+^ Dickinson (1993), str. 79–81.
+^ Latham; idr. (1972).
+^ Phillips, Tony (2007-03-12). Stereo Eclipse (v angleščini). Science@NASA. Pridobljeno dne 2010-03-17.
+^ Espenak, F. (2000). Solar Eclipses for Beginners (v angleščini). MrEclipse. Pridobljeno dne 2010-03-17.
+^ 101,0 101,1 Thieman, J.; Keating, S. (2006-05-02). Eclipse 99, Frequently Asked Questions (v angleščini). NASA. Pridobljeno dne 2007-04-12.
+^ Espenak, F.. Saros Cycle (v angleščini). NASA. Pridobljeno dne 2010-03-17.
+^ Guthrie (1947).
+^ Total Lunar Occultations (v angleščini). Royal Astronomical Society of New Zealand. Pridobljeno dne 2010-03-17.
+^ Aaboe, Britton, Henderson, Neugebauer, Sachs (1991).
+^ Sarma (2008).
+^ Needham (1986), str. 411.
+^ O'Connor, J. J.; Robertson, E. F. (februar 1999). Anaxagoras of Clazomenae (v angleščini). Univerza svetega Andreja. Pridobljeno dne 2007-04-12.
+^ Needham (1986), str. 227.
+^ Needham (1986), str. 413–414.
+^ O'Connor, J. J.; Robertson, E. F. (november 2000). Aryabhata the Elder (v angleščini). Šola za matematiko in statistiko, Univerza svetega Andreja. Pridobljeno dne 2010-05-15.
+^ Sabra (2008). str. 195.
+^ Needham (1986), str. 415–416.
+
+
+Viri
+
+Aaboe, A.; Britton, J. P.; Henderson, J. A.; Neugebauer, Otto Eduard; Sachs, A. J. (1991). "Saros Cycle Dates and Related Babylonian Astronomical Texts". Transactions of the American Philosophical Society (Ameriško filozofsko društvo) 81 (6): 1–75. doi:10.2307/1006543. http://www.jstor.org/stable/1006543. Pridobljeno 2010-04-08.  "One comprises what we have called "Saros Cycle Texts," which give the months of eclipse possibilities arranged in consistent cycles of 223 months (or 18 years).". 
+Alexander, M. E. (1973). "The Weak Friction Approximation and Tidal Evolution in Close Binary Systems". Astrophysics and Space Science 23: 459–508. doi:10.1007/BF00645172. http://adsabs.harvard.edu/abs/1973Ap&SS..23..459A. Pridobljeno 2010-03-20. 
+Belecki, Vladimir Vasiljevič (2001). Essays on the Motion of Celestial Bodies. Basel-Boston-Berlin: Birkhäuser Verlag. ISBN 3764358661. http://books.google.com/?id=byWZusmVSecC&pg=PA183&dq=%22Cassini%27s+laws%22. 
+Binder, A. B. (1974). "On the origin of the Moon by rotational fission". The Moon 11 (2): 53–76. doi:10.1007/BF01877794. http://adsabs.harvard.edu/abs/1974Moon...11...53B. 
+Bradley, Jolliff; Gillis, Jeffrey; Haskin, Larry; Korotev, Randy; Wieczorek, Mark A. (2000). "Major lunar crustal terranes (Večji lunarni skorjasti tereni)". J. Geophys. Res.: 4197-4216. 
+Canup, R.; Asphaug, E. (2001). "Origin of the Moon in a giant impact near the end of the Earth's formation". Nature 412 (6848): 708–712. doi:10.1038/35089010. PMID 11507633. 
+Chapront, J.; Chapront-Touzé, M.; Francou, G. (2002). "A new determination of lunar orbital parameters, precession constant and tidal acceleration from LLR measurements". Astronomy and Astrophysics 387: 700–709. doi:10.1051/0004-6361:20020420. 
+Colaprete, A.; Ennico, K.; Wooden, D.; Shirley, M.; Heldmann, J.; Marshall, W.; Sollitt, L.; Asphaug, E.; Korycansky, D.; Schultz, P.; Hermalyn, B.; Galal, K.; Bart, G. D.; Goldstein, D.; Summy, D. (1.-5. marec 2010). "Water and More: An Overview of LCROSS Impact Results". 41st Lunar and Planetary Science Conference (1533): 2335. http://adsabs.harvard.edu/abs/2010LPI....41.2335C. 
+Crotts, Arlin P. S. (2008). Lunar Outgassing, Transient Phenomena and The Return to The Moon, I: Existing Data. (v angleščini) (PDF). Oddelek za astronomijo, Univerza Columbia. Pridobljeno dne 2009-09-29.
+Dickinson, Terence (1993). From the Big Bang to Planet X. Camden East, Ontario: Camden House. ISBN 0-921820-71-2. 
+Feldman, W. C.; Maurice, S; Binder, A. B.; Barraclough, B. L.; Elphic, R. C.; Lawrence, D. J. (1998). "Fluxes of Fast and Epithermal Neutrons from Lunar Prospector: Evidence for Water Ice at the Lunar Poles". Science 281 (5382): 1496-1500. doi:10.1126/science.281.5382.1496. 
+Garrick-Bethell, Ian; Weiss, Benjamin P.;, Shuster, David L.; Buz, Jennifer Buz (2009). "Early Lunar Magnetism". Science 323 (5912): 356-359. 
+Gillis, J. J.; Spudis, Paul D. (1996). "The Composition and Geologic Setting of Lunar Far Side Maria". Lunar and Planetary Science 27: 413–404. http://adsabs.harvard.edu/abs/1996LPI....27..413G. Pridobljeno 2007-04-12. 
+Globus, Ruth (2002). Impact Upon Lunar Atmosphere (v angleščini). Pridobljeno dne 2010-03-17.
+Guthrie, D. V. (1947). "The Square Degree as a Unit of Celestial Area". Popular Astronomy 55: 200–203. http://adsabs.harvard.edu/abs/1947PA.....55..200. 
+Hartmann, William K.; Quantin, Cathy; Mangold, Nicolas (2007). "Possible long-term decline in impact rates: 2. Lunar impact-melt data regarding impact history". Icarus 186: 11–23. doi:10.1016/j.icarus.2006.09.009. 
+Head, L. W. J. W. (2003). "Lunar Gruithuisen and Mairan domes: Rheology and mode of emplacement". Journal of Geophysical Research 108: 5012. doi:10.1029/2002JE001909. http://www.agu.org/pubs/crossref/2003/2002JE001909.shtml. Pridobljeno 2007-04-12. 
+Heiken, G.; Vaniman, D.; French, B. (eds.) (1991). Lunar Sourcebook, a user's guide to the Moon. New York: Cambridge University Press. Str. 736. ISBN 0521334446. 
+Hershenson, Maurice (1989). The Moon illusion. Routledge. ISBN 97808058012175. 
+Hiesinger, H.; Head, J. W.; Wolf, U.; Jaumanm, R.; Neukum, G. (2003). "Ages and stratigraphy of mare basalts in Oceanus Procellarum, Mare Numbium, Mare Cognitum, and Mare Insularum". J. Geophys. Res. 108: 1029. doi:10.1029/2002JE001985. 
+Hood, L. L.; Huang, Z. (1991). "Formation of magnetic anomalies antipodal to lunar impact basins: Two-dimensional model calculations". J. Geophys. Res. 96: 9837–9846. doi:10.1029/91JB00308. 
+Kleine, T.; Palme, H.; Mezger, K.; Halliday, A. N. (2005). "Hf–W Chronometry of Lunar Metals and the Age and Early Differentiation of the Moon". Science 310 (5754): 1671–1674. doi:10.1126/science.1118842. PMID 16308422. 
+Konopliv, A.; Asmar, S.; Carranza, E.; Sjogren, W.; Yuan, D. (2001). "Recent gravity models as a result of the Lunar Prospector mission". Icarus 50: 1–18. doi:10.1006/icar.2000.6573. 
+Lambeck, K. (1977). "Tidal Dissipation in the Oceans: Astronomical, Geophysical and Oceanographic Consequences". Philosophical Transactions for the Royal Society of London. Series A, Mathematical and Physical Sciences 287 (1347): 545–594. doi:10.1098/rsta.1977.0159. http://adsabs.harvard.edu/abs/1977RSPTA.287..545L. 
+Latham, Gary; idr. (1972). "Moonquakes and lunar tectonism". Earth, Moon, and Planets 4 (3-4): 373-382. doi:10.1007/BF00562004. http://www.springerlink.com/content/jt12323560565365/. 
+Lawrence, D. J.; idr. (1998-08-11). "Global Elemental Maps of the Moon: The Lunar Prospector Gamma-Ray Spectrometer". Science (HighWire Press) 281 (5382): 1484–1489. doi:10.1126/science.281.5382.1484. ISSN 1095-9203. http://www.sciencemag.org/cgi/content/full/281/5382/1484. Pridobljeno 2009-08-29. 
+Lawson, S.; Feldman, W.; Lawrence, D.; Moore, K.; Elphic, R.; Belian, R. (2005). "Recent outgassing from the lunar surface: the Lunar Prospector alpha particle spectrometer". J. Geophys. Res. 110: 1029. doi:10.1029/2005JE002433. 
+Le Provost, C.; Bennett, A. F.; Cartwright, D. E. (1995). "Ocean Tides for and from TOPEX/POSEIDON". Science 267 (5198): 639–42. doi:10.1126/science.267.5198.639. PMID 17745840. http://adsabs.harvard.edu/abs/1995Sci...267..639L. 
+Lucey, P.; idr. (2006). "Understanding the lunar surface and space-Moon interactions". Reviews in Mineralogy and Geochemistry 60: 83–219. doi:10.2138/rmg.2006.60.2. 
+Margot, J. L.; Campbell, D. B.; Jurgens, R. F.; Slade, M. A. (1999-06-04). "Topography of the Lunar Poles from Radar Interferometry: A Survey of Cold Trap Locations". Science 284 (5420): 1658–1660. doi:10.1126/science.284.5420.1658. PMID 10356393. 
+Melosh, H. J. (1989). Impact cratering: A geologic process. Oxford Univ. Press. ISBN 0195042840. 
+Mitler, H. E. (1975). "Formation of an iron-poor moon by partial capture, or: Yet another exotic theory of lunar origin". Icarus 24: 256–268. doi:10.1016/0019-1035(75)90102-5. http://adsabs.harvard.edu/abs/1975Icar...24..256M. 
+Moore, Patrick (1999). Atlas vesolja. Ljubljana: Mladinska knjiga. ISBN 86-11-14535-6. COBISS 78565376. 
+Morais, M. H. M.; Morbidelli, A. (2002). "The Population of Near-Earth Asteroids in Coorbital Motion with the Earth". Icarus 160: 1–9. doi:10.1006/icar.2002.6937. http://adsabs.harvard.edu/abs/2002Icar..160....1M. Pridobljeno 2010-03-17. 
+Muller, P.; Sjogren, W. (1968). "Mascons: lunar mass concentrations". Science 161 (3842): 680–684. doi:10.1126/science.161.3842.680. PMID 17801458. 
+Murray, C. D.; Dermott, S. F. (1999). Solar System Dynamics. Cambridge University Press. 
+Needham, Joseph (1986). "3, Mathematics and the Sciences of the Heavens and Earth". Science and Civilization in China. Tajpej: Caves Books. ISBN 0-521058015. 
+Nemchin, A.; Timms,N.; Pidgeon, R.; Geisler, T.; Reddy, S.; Meyer, C. (2009). "Timing of crystallization of the lunar magma ocean constrained by the oldest zircon". Nature Geoscience 2: 133–136. doi:10.1038/ngeo417. 
+Nield, Ted (2009). "Moonwalk (summary of meeting at Meteoritical Society's 72nd Annual Meeting, Nancy, France)". Geoscientist 19: 8. http://www.geolsoc.org.uk/gsl/geoscientist/geonews/page6072.html. 
+Pahlevan, Kaveh; Stevenson, David J. (2007). "Equilibration in the aftermath of the lunar-forming giant impact". Earth and Planetary Science Letters 262 (3–4): 438–449. doi:10.1016/j.epsl.2007.07.055. 
+Papike, J.; Ryder, G.; Shearer, C. (1998). "Lunar Samples". Reviews in Mineralogy and Geochemistry 36: 5.1–5.234. 
+Pieters, C. M.; Tompkins, S.; Head, J. W.; Hess, P. C. (1997). "Mineralogy of the Mafic Anomaly in the South Pole‐Aitken Basin: Implications for excavation of the lunar mantle". Geophysical Research Letters 24 (15): 1903–1906. http://www.agu.org/pubs/crossref/1997/97GL01718.shtml. 
+Pieters, C. M.; Goswami, J. N.; Clark, R. N.; Annadurai, M.; Boardman, J.; Buratti, B.; Combe, J.-P.; Dyar, M. D.; Green, R.; Head, J. W.; Hibbitts, C.; Hicks, M.; Isaacson, P.; Klima, R.; Kramer, G.; Kumar, S.; Livo, E.; Lundeen, S.; Malaret, E.; McCord, T.; Mustard, J.; Nettles, J.; Petro, N.; Runyon, C.; Staid, M.; Sunshine, J.; Taylor, L. A.; Tompkins, S.; Varanasi, P. (2009). "Character and Spatial Distribution of OH/H2O on the Surface of the Moon Seen by M3 on Chandrayaan-1". Science 326 (5952): 568. 
+Rasmussen, K. L.; Warren, P. H. (1985). "Megaregolith thickness, heat flow, and the bulk composition of the Moon". Nature 313: 121–124. doi:10.1038/313121a0. http://adsabs.harvard.edu/abs/1985Natur.313..121R. Pridobljeno 2007-04-12. 
+Saal, Alberto E.; Hauri, Erik H.; Cascio, Mauro L.; van Orman, James A.; Rutherford, Malcolm C.; Cooper, Reid F. (2008). "Volatile content of lunar volcanic glasses and the presence of water in the Moon's interior". Nature 454 (7201): 192-195. doi:10.1038/nature07047. 
+Sabra, A. I. (2008). "Ibn Al-Haytham, Abū ʿAlī Al-Ḥasan Ibn Al-Ḥasan". Dictionary of Scientific Biography. Detroit: Charles Scribner's Sons. Str. 189–210. 
+Sarma, K. Venkatesvara (2008). Helaine Selin. ur. Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures (2. izd.). Springer. str. 317–321. ISBN 9781402045592. 
+Schubert, J.; idr. (2004). F. Bagenal idr.. ur. Jupiter: The Planet, Satellites, and Magnetosphere. Cambridge University Press. str. 281–306. ISBN 978-0521818087. 
+Schultz, P. H. (1997-03). "Forming the south-pole Aitken basin - The extreme games". Conference Paper, 28th Annual Lunar and Planetary Science Conference. http://adsabs.harvard.edu/abs/1997LPI....28.1259S. 
+Schultz, P. H.; Staid, M. I.; Pieters, C. M. (2006). "Lunar activity from recent gas release". Nature 444 (7116): 184–186. doi:10.1038/nature05303. PMID 17093445. 
+Seedhouse, Erik (2009). Lunar Outpost: The Challenges of Establishing a Human Settlement on the Moon. Springer-Praxis Books in Space Exploration. Nemčija: Springer Praxis. Str. 136. http://books.google.ca/books?id=ZJm_i3GS4r4C&printsec=frontcover&source=gbs_navlinks_s#v=onepage&q=&f=false. 
+Shearer, Charles; idr. (2006). "Thermal and magmatic evolution of the Moon (Termalna in magmatska evolucija Lune)". Reviews in Mineralogy and Geochemistry 60: 365-518. doi:10.2138/rmg.2006.60.4. 
+Snoj, Marko (1997). Slovenski etimološki slovar. Ljubljana: Mladinska knjiga. ISBN 86-11-14-14772-3. COBISS 65179648. 
+Spudis, Paul D.; Cook, A.; Robinson, M.; Bussey, B.; Fessler, B. (1998). "Topography of the South Polar Region from Clementine Stereo Imaging". Workshop on New Views of the Moon: Integrated Remotely Sensed, Geophysical, and Sample Datasets: 69. http://adsabs.harvard.edu/abs/1998nvmi.conf...69S. Pridobljeno 2010-03-29. 
+Spudis, Paul D.; Reisse, Robert A.; Gillis, Jeffrey J. (1994). "Ancient Multiring Basins on the Moon Revealed by Clementine Laser Altimetry". Science 266 (5192): 1848–1851. http://adsabs.harvard.edu/abs/1994Sci...266.1848S. 
+Sridharan, R.; Ahmed, S. M.; Dasa, Tirtha Pratim; Sreelathaa, P.; Pradeepkumara, P.; Naika, Neha; Supriya, Gogulapati (2010). "‘Direct’ evidence for water (H2O) in the sunlit lunar ambience from CHACE on MIP of Chandrayaan I". Planetary and Space Science. doi:10.1016/j.pss.2010.02.013. 
+Stern, S. A. (1999). "The Lunar atmosphere: History, status, current problems, and context". Rev. Geophys. 37: 453–491. doi:10.1029/1999RG900005. 
+Stevenson, D. J. (1987). "Origin of the moon–The collision hypothesis". Annual Review of Earth and Planetary Sciences 15: 271–315. doi:10.1146/annurev.ea.15.050187.001415. http://adsabs.harvard.edu/abs/1987AREPS..15..271S. 
+Stroud, Rick (2009). The Book of the Moon. Walken and Company. Str. 24–27. ISBN 0802717349. 
+Tavzes, Miloš, ur (2002). Veliki slovar tujk. Ljubljana: Cankarjeva založba. ISBN 961-231-271-0. 
+Tonks, W. Brian; Melosh, H. Jay (1993). "Magma ocean formation due to giant impacts". Journal of Geophysical Research 98 (E3): 5319-5333. doi:10.1029/92JE02726. http://adsabs.harvard.edu/abs/1993JGR....98.5319T. 
+Touma, Jihad; Wisdom, Jack (1994). "Evolution of the Earth-Moon system". The Astronomical Journal 108 (5): 1943–1961. doi:10.1086/117209. 
+Varricchio, L. (2006). Inconstant Moon. Xlibris Books. ISBN 1-59926-393-9. 
+Vasavada, A. R.; Paige, D. A.; Wood, S. E. (1999). "Near-Surface Temperatures on Mercury and the Moon and the Stability of Polar Ice Deposits". Icarus 141: 179. http://adsabs.harvard.edu/abs/1999Icar..141..179V. 
+Ward, William R. (1975-08-01). "Past Orientation of the Lunar Spin Axis". Science 189 (4200): 377–379. doi:10.1126/science.189.4200.377. PMID 17840827. 
+Warren, P. H. (1985). "The magma ocean concept and lunar evolution". Annual review of earth and planetary sciences. 13: 201-240. doi:10.1146/annurev.ea.13.050185.001221. http://adsabs.harvard.edu/abs/1985AREPS..13..201W. 
+Wieczorek, Mark A.; idr. (2006). "The constitution and structure of the lunar interior". Reviews in Mineralogy and Geochemistry 60: 221–364. doi:10.2138/rmg.2006.60.3. 
+Wieczorek, Mark A.; Phillips, Rogers (2000). "The Procellarum KREEP Terrane: Implications for mare volcanism and lunar evolution (Procellarum KREEP Terrane: Implikacije za vulkanizem morij in lunarne evolucije)". J. Geophys. Res. 105: 20,417-420,430. 
+Wilhelms, Don E. (1987). "Relative Ages". Geologic History of the Moon. U.S. Geological Survey. http://ser.sese.asu.edu/GHM/ghm_07txt.pdf. 
+Williams, J. G.; Turyshev, S. G.; Boggs, D. H.; Ratcliff, J. T. (2006). "Lunar laser ranging science: Gravitational physics and lunar interior and geodesy". Advances in Space Research 37 (1): 6771. doi:10.1016/j.asr.2005.05.013. http://adsabs.harvard.edu/abs/1987AREPS..15..271S. 
+Wlasuk, Peter (2000). Observing the Moon. Springer. Str. 19. http://books.google.com/books?id=TWtLIOlPwS4C&pg=PT30&lpg=PT30&dq=thought+to+be+seas+mare+seas+lunar&source=bl&ots=89kfwKpTKW&sig=Wq0_2O0jGBHGWoH-06Ba1Vv1Smo&hl=en&ei=XxyuS4LUDoP-8AaPwqC9DA&sa=X&oi=book_result&ct=result&resnum=4&ved=0CA0Q6AEwAzge#v=onepage&q=thought%20to%20be%20seas%20mare%20seas%20lunar&f=false. 
+
+Zunanje povezave
+
+
+
+Poglejte si besedo luna v Wikislovarju, prostem slovarju.
+
+
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: Luna
+
+
+
+
+
+
+
+p · p · u · z Luna
+
+
+
+
+
+Fizikalne značilnosti
+
+Notranja zgradba • Gravitacijsko polje • Topografija • Magnetno polje • Atmosfera
+
+
+
+
+
+
+
+Gibanje
+
+Tir • Mene • Sončev mrk • Lunin mrk • Plimovanje
+
+
+
+
+
+
+Površje
+
+Rob • Selenografija • Bližnja stran • Oddaljena stran • Morja • Kraterji • Kotanja južni tečaj-Aitken • Krater Shackleton • Voda • Tla • Vrh večne svetlobe • Vesoljsko preperevanje • Prehodni lunarni pojavi
+
+
+
+
+
+
+Znanosti o Luni
+
+Geologija (časovna lestvica) • Domneva velikega trka • Mineralogija • Meteoriti • KREEP • ALSEP • Lasersko določanje razdalje do Lune • Pozno veliko bombardiranje
+
+
+
+
+
+
+Raziskovanje
+
+Raziskovanje Lune • Program Apollo • Robotsko raziskovanje • Odprave na Luno • Naselitev Lune • Teorije zarote o pristankih
+
+
+
+
+
+
+Drugo
+
+Koledar • Mesec • Luna v umetnosti in književnosti • Luna v mitologiji • Optična prevara Lune • Lunin učinek • Kraterji, imenovani po ljudeh • Podobe na Luni
+
+
+
+
+
+
+Glej tudi Osončje · naravni satelit
+
+
+
+
+
+
+
+
+
+
+p · p · u · zOsončje
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sonce · Merkur · Venera · Zemlja · Mars · Cerera · Jupiter · Saturn · Uran · Neptun · Pluton · Haumea · Makemake · Erida
+
+
+
+
+
+
+
+
+Planeti · Pritlikavi planeti · Naravni sateliti: Zemljin · Marsova · Jupitrovi · Saturnovi · Uranovi · Neptunovi · Plutonovi · Haumejini · Eridin
+
+
+
+
+
+
+
+
+
+Mala telesa:   Meteoroidi · Asteroidi/Asteroidne lune (Asteroidni pas) · Kentavri · ČNT (Kuiperjev pas/Razpršeni disk) · Kometi (Oortov oblak)
+
+
+
+
+
+
+
+Glej tudi astronomska telesa, seznam teles v Osončju po tirnici, po polmeru in po masi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal Astronomija
+
+
+
+           
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Luna&oldid=4077011«				
+Kategoriji: Naravni satelitiLuna 
+
+
+

@@ -1,0 +1,286 @@
+
+
+
+
+Mlečna kislina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IUPAC-ime
+2-hidrokdipropanojska kislina
+
+
+Identifikatorji
+
+
+Številka CAS
+598-82-3,
+D</Krepko besedilosmall>/L: [50-21-5]
+L: [79-33-4]
+D: [10326-41-7]
+
+
+Oznaka ATC
+G01AD01,QP53AG02
+
+
+SMILES
+
+
+ 
+
+
+CC(O)C(=O)O
+
+
+
+
+
+
+ChemSpider
+96860
+
+
+Lastnosti
+
+
+Molekulska formula
+C3H6O3
+
+
+Molekulska masa
+90,08 g/mol
+
+
+Tališče
+
+L: 53 °C
+D: 53 °C
+D/L: 16,8 °C
+
+
+
+Vrelišče
+
+122 °C pri 12 mmHg
+
+
+
+Kislost (pKa)
+3,86 pri 25 °C
+
+
+Sorodne snovi
+
+
+Drugi anioni
+laktat
+
+
+Sorodno (karboksilne kisline)
+ocetna kislina
+glikolna kislina
+propanojska kislina
+3-hidroksipropanojska kislina
+malonska kislina
+maslena kislina
+hidroksimaslena kislina
+
+
+Sorodne snovi
+1-propanol
+2-propanol
+propionaldehid
+akrolein
+natrijev laktat
+
+
+Če ni navedeno drugače, podatki veljajo za
+material v standardnem stanju (pri 25 °C, 100 kPa)
+
+
+
+
+
+
+Vzorec mlečne kisline
+
+
+Mlečna kislina (IUPAC-ime: 2-hidroksipropanojska kislina) je šibka karboksilna kislina s tremi ogljikovimi atomi, s kemijsko formulo C3H6O3. Spada med alfahidroksikarboksilne kisline, ker ima na prvem ogljikovem atomu ob karboksilni skupini vezano hidroksilno skupino. Z oddajo protona na karboksilni skupini nastane anion, imenovan laktat: CH3CH(OH)COO−. Lahko se meša z vodo in etanolom in je higroskopna.
+Sodeluje v različnih biokemičnih procesih; nastaja v skeletnih mišicah pri večjih obremenitvah, v srčni mišici se oksidira v prisotnosti kisika, je eden od substratov glukoneogeneze v jetrih in je tudi produkt bakterijske vrenja.[1]
+Laktična kislina, poznana tudi kot mlečna kislina, je kemična spojina, ki je pomembna v različnih biokemičnih procesih, prvič pa jo je leta 1780 izoliral švedski kemik Carl Wilhelm Scheele. Mlečna kislina je karboksilna kislina s kemijsko formulo C3H6O3. Vsebuje hidroksilno skupino, ki leži tik ob karboksilni skupini, kar pomeni, da je alfa hidroksilna kislina (AHA). V raztopini lahko izgubi proton iz kislinske skupine, zaradi česar nastane laktatni ion (natančneje, anion, ker je negativno nabit z dodatnim elektronom) CH3CH(OH)COO−. V primerjavi z ocetno kislino je njena vrednost pKa za 1 enoto manjša, kar pomeni, da mlečna kislina deset krat lažje izgubi proton kot ocetna kislina. Ta večja kislost je posledica intramolekularne hidrogenske vezi med α-hidroksilom in karboksilatno skupino, zato ima slednja manjšo zmožnost močnega privlaka protona.
+Mlečno kislino je mogoče mešati z vodo ali etanolom in je higroskopska. Mlečna kislina je kiralna in ima dve optični izomeri. Ena je tako imenovana L-(+)-laktična kislina ali (S)-laktična kislina, druga pa je njena zrcalna podoba, D-(−)-laktična kislina ali (R)-laktična kislina.
+Pri živalih se L-laktat nenehno proizvaja iz encimskega laktata dehidrogenaze (LDH) v postopku fermentacije med normalnim metabolizmom in vadbo. Njena koncentracija se ne poveča, dokler proizvodnja laktata ne preseže stopnje odstranitve laktata, kar uravnavajo številni dejavniki, vključno z mono-karboksilatnimi prenašalci, koncentracijo in izoformo LDH ter oksidativne zmogljivosti tkiv. Koncentracija laktata v krvi je običajno 1–2 mmol/L v mirovanju, med intenzivnim naprezanjem pa lahko preseže 20 mmol/L.[navedi vir]
+V industriji fermentacijo mlečne kisline povzročijo mlečnokislinske bakterije. Te bakterije se lahko razvijejo tudi v ustih; kislina, ki jo proizvajajo, povzroča zobno gnilobo, znano kot [[karies][2][3][4][5] .
+V medicini je laktat ena od glavnih sestavin Ringerjeve laktatne raztopine in Hartmannove raztopine. Ti intravenozni tekočini sta sestavljeni iz natrijevih in kalijevih kationov skupaj z laktatnimi in kloridnimi anioni v raztopini z destilirano vodo, po navadi v koncentracijah, ki so izotonične s človeško krvjo. Najpogosteje se uporablja za obnovitev tekočin po izgubi krvi zaradi poškodbe, operacije ali opekline.
+
+
+
+Vsebina
+
+
+1 Kiralnost
+2 Zgodovina
+3 Telesna vadba in laktat
+4 Metabolizem v možganih
+5 Testiranje krvi
+6 Polimerni prekurzor
+7 Uporaba v farmaciji in kozmetiki
+8 Hrana
+9 Čistila
+10 Glej tudi
+11 Reference
+12 Zunanje povezave
+
+
+Kiralnost
+Mlečna kislina je kiralna spojina in obstajata dva optična izomera (L-(+)-mlečna kislina ali (S)-mlečna kislina in njena zrcalna slika, D-(−)-mlečna kislina oziroma (R)-mlečna kislina). L-(+)-mlečna kislina je tisti izomer, ki je pomemben v biološkem smislu.
+Zgodovina
+Mlečno kislino je prvič prečistil švedski kemik Carl Wilhelm Scheele leta 1780 iz kislega mleka.Leta 1808 je Jöns Jacob Berzelius odkril, da se mlečna kislina (pravzaprav L-laktat) proizvaja tudi v mišicah med naporom.[6] Njeno zgradbo je leta 1873 določil Johannes Wislicenus.
+Leta 1856 je Louis Pasteur odkril bakterijo Lactobacillus in njeno vlogo pri nastanku mlečne kisline. Mlečno kislino je začela komercialno proizvajati nemška lekarna Boehringer Ingelheim leta 1895.00
+Leta 2006 je svetovna proizvodnja mlečne kisline dosegla 275 000 ton z 10-odstotno povprečno letno rastjo.[7]
+
+Telesna vadba in laktat
+Med vadbo za moč, kot je šprint, ki zahteva veliko energije, se glukoza razgradi in oksidira v piruvat, laktat pa se iz piruvata proizvaja hitreje, kot ga tkiva lahko odstranijo, zato začne koncentracija laktata naraščati. Proizvodnja laktata je koristen proces, saj obnovi koencim NAD+, ki se porabi pri tvorbi piruvata iz glukoze, kar zagotavlja ohranjanje proizvodnje energije in nadaljevanje vadbe. Povečana količina proizvedenega laktata se lahko odstrani na dva načina:
+
+• Oksidacija nazaj v piruvat z dobro oksigeniranimi mišičnimi celicami [potreben citat]
+• Piruvat secija nato neposredno uporabi kot gorivo za Krebsov cikel.
+• Pretvorba v glukozo prek glukoneogeneze v jetrih in sproščanje nazaj v obtok; glej Corijev cikel.[8]
+• Če se glukoza ne sprosti, se lahko uporabi za obnovo zalog glikogena, če so izpraznjene.
+
+Zahtevne anaerobne vaje povzročijo znižanje vrednosti pH in bolečino, ki se imenuje acidoza.
+Učinek proizvodnje laktata na acidozo je bila tema številnih nedavnih konferenc na področju vadbene fiziologije. Robergs in drugi so obravnavali nastanek pozitivnih vodikovih ionov (H+) med glikolizo[9] in trdijo, da je ideja, da acidozo povzroča nastajanje mlečne kisline mit („konstrukt“), pri čemer poudarjajo, da je znižanje vrednosti pH deloma posledica reakcije ATP-4+H2O=ADP-3+HPO4-2+H+, in da se pri razgradnji piruvata v laktat (piruvat+NADH+H+=laktat+NAD+) dejansko porabljajo pozitivni vodikovi ioni (H+). Vendar pa so Lindinger in drugi.[10] v odziv na to zapisali, da so Robergs in drugi zanemarili vzročne dejavnike za povečanje koncentracije vodikovih ionov (imenovanih [H+]). Natančneje, laktat je anion, njegovo nastajanje pa povzroči zmanjšanje količine kationov, kot so Na+ minus anioni, kar posledično povzroči povečanje vodikovih ionov [H+], da se ohrani elektronevtralnost. Tudi povečanje delnega tlaka CO2, PCO2, povzroči povečanje vodikovih ionov [H+]. Med vadbo se koncentracija medmišičnega laktata in PCO2 poveča, kar povzroči povečanje vodikovih ionov [H+] in posledično znižanje vrednosti pH. (glej Le Chatelierjev princip)
+Med intenzivno vadbo respiratorna veriga ne more dohajati količine vodikovih atomov, ki se združijo v NADH. NAD+ je potreben za oksidacijo 3-fosfogliceraldehida, da se ohrani proizvodnja anaerobne energije med glikolizo. Med anaerobno glikolizo se NAD+ „osvobodi“, ko se NADH poveže s piruvatom in tvori laktat (kot je navedeno zgoraj). Če se to ne bi zgodilo, bi se glikoliza ustavila. Vendar se laktat nenehno tvori tudi med počitkom in zmerno vadbo. Do tega pride zaradi metabolizma rdečih krvničk, ki nimajo mitohondrijev in omejitev, ki izhajajo iz encimske aktivnosti, do katere pride v mišičnih vlaknih, ki imajo visoko glikolitično zmogljivost.[11]
+Metabolizem v možganih
+Čeprav se glukoza običajno šteje za glavni vir energije živih tkiv, obstajajo nekateri dokazi, da nevroni v možganih več vrst sesalcev (najbolj znani so miši, podgane in ljudje) raje presnavljajo laktat in ne glukoza[12][13].V skladu s hipotezo o prenosu laktata so glialne celice odgovorne za pretvorbo glukoze v laktat in za zagotavljanje laktata nevronom.[14][15] Zaradi te lokalne metabolične aktivnosti glialnih celic se zunajcelična tekočina, ki neposredno obdaja nevrone, po sestavi močno razlikuje od krvi ali cerebrospinalne tekočine, saj vsebuje veliko več laktata, kot je bilo ugotovljeno v mikrodializnih študijah.[12]
+Zdi se, da je vloga laktata pri metabolizmu v možganih še pomembnejša v zgodnjih fazah razvoja (pred rojstvom in takoj po rojstvu), saj je v teh fazah v telesnih tekočinah več laktata, ki ga možgani še raje porabijo kot glukozo.[12] Domnevalo se je tudi, da bi lahko laktat močno vplival na povezave, ki sproščajo gama-aminomasleno kislino (GABA) v razvijajočih se možganih, tako da te postanejo bolj zaviralne, kot se je nekdaj domnevalo,[16] pri čemer delujejo zaradi večje pomoči metabolitov[17] ali sprememb osnovnih vrednosti pH v medceličnini,[[18][19] ali obojega.[20]
+
+V novejšem članku Zilberterjeve skupine so bile neposredno obravnavane značilnosti metabolizma v prerezih možganov miši in pokazalo se je, da beta-hidroksibutirat, laktat in piruvat delujejo kot oksidativni energetski substrati, kar povzroča povečanje v fazi oksidacije NAD(P)H, da glukoza ne zadošča kot prenašalec energije med intenzivno sinaptično dejavnostjo, in nazadnje, da je lahko laktat učinkovit energetski substrat, ki lahko ohranja in povečuje aerobno energijo metabolizma in vitro.[21] Članek je pozitivno komentiral Kasischke: „Študija, ki so jo izvedli Ivanov in drugi (2011), zagotavlja tudi nove podatke o dvofaznih fluorescenčnih prehodih NAD(P)H, kar je pomemben fiziološki odziv na nevralno aktivacijo, ki je bila ponovljena v številnih študijah in naj bi izhajala predvsem iz sprememb koncentracije celičnih skupin NADH, povzročenih z aktivnostjo.“[22]
+Testiranje krvi
+Referenčni razponi za krvne teste, pri čemer se vsebnost laktata v krvi (prikazano z vijolično na sredini desno) primerja z drugimi sestavinami. S krvnimi testi za laktat se določa stanje homeostaze kislinske baze v telesu. Pri tem se vzorčenje krvi pogosto opravi z vzorčenjem arterijske krvi (čeprav je to težje kot punkcija vene), saj se ravni laktata v arterijah in venah bistveno razlikujejo, arterijska raven pa je v ta namen bolj reprezentativna. Referenčni razponi
+
+
+Spodnja meja
+Zgornja meja
+Enota
+
+
+
+Venska
+4.5[23]
+19.8[23]
+mg/dl
+
+
+
+0.5[24]
+2.2[24]
+mmol/L
+
+
+Arterijska
+4.5[23]
+14.4[23]
+mg/dl
+
+
+
+0.5[24]
+mmol/L
+
+
+Med porodom se lahko ravni laktata v plodu določijo s testiranjem krvi iz plodove glave.
+Polimerni prekurzor
+
+   Glavni člen: polilaktična kislina
+
+Dve molekuli laktične kisline se lahko dehidrirata v laktid, ciklični lakton. Z različnimi katalizatorji je mogoče polimerizirati laktid v heterotaktni ali sindiotaktni poliaktid, ki kot biorazgradljiva poliestra z (med drugim) koristnimi medicinskimi lastnostmi trenutno privabljata veliko pozornosti.
+Laktična kislina se uporablja tudi kot monomer za proizvodnjo polilaktične kisline (PLA), ki se je kasneje začela uporabljati kot biorazgradljiva plastika. Take vrste plastika je zaradi nizkega izpusta ogljikovega dioksida dober nadomestek za običajno plastiko, proizvedeno iz nafte. Postopek, ki se običajno uporablja za proizvodnjo laktične kisline, je fermentacija, sledi pa ji polimerizacija, s katero dobimo polilaktično kislino.
+
+
+
+
+Vzorec mlečne kisline
+
+
+Uporaba v farmaciji in kozmetiki
+Mlečna kislina se uporablja tudi v farmacevtski tehnologiji za proizvodnjo v vodi topnih laktatov iz sicer netopnih aktivnih sestavin. Nadalje se uporablja v topičnih pripravkih in kozmetiki za uravnavanje kislosti ter za dezinfekcijske in keratolitične lastnosti.
+Hrana
+
+   Ta razdelek je treba razširiti. (oktober 2012)
+
+Mlečno kislino najdemo predvsem v izdelkih iz kislega mleka, kot so kumis, jogurt, kefir in nekatere vrste kmečkih sirov. Kazein v fermentiranem mleku koagulira (se strdi) zaradi mlečne kisline. Mlečna kislina poskrbi tudi za kiselkast okus kislega kruha. Ta kislina se uporablja pri varjenju piva za znižanje vrednosti pH, da se zmanjša vsebnost nekaterih neželenih sestavin, kot so tanini, ne da bi se pojavili neprijetni priokusi, kot je citronska kislina, in povečanje volumna piva.citat. Nekateri pivovarji in pivovarne uporabljajo jedilno mlečno kislino za znižanje vrednosti pH v dozorelih pivih.[navedi vir]
+V vinarstvu se bakterijsko delovanje, naravno ali kontrolirano, pogosto uporablja za pretvorbo naravno prisotne jabolčne kisline v mlečno kislino, da se zmanjša ostrina in iz drugih razlogov, povezanih z okusom. To jabolčno-mlečno fermentacijo sproži družina mlečnokislinskih bakterij.
+Kot živilski dodatek je dovoljena za uporabo v EU,[25] USA[26]ter Avstraliji in Novi Zelandiji;[27] navedena je s številko INS 270 ali številko E E270.
+Čistila
+
+   V tem razdelku ni navedenih referenc ali virov. (september 2012)
+
+
+   Ta razdelek je treba razširiti. (september 2012)
+
+Mlečna kislina je v zadnjem desetletju postala pomembna v industriji čistil. Učinkovita je za odstranjevanje vodnega kamna, umazanije od mila in je registrirana protibakterijska učinkovina. Koristna je tudi v gospodarskem smislu kot del usmeritve k okolju prijaznejšim in naravnim sestavinam.
+Glej tudi
+2-Hidroksibutirična kislina Kisline v vinu Alaninski cikel Biorazgradljiva plastika Corijev cikel Zobni karies
+Reference
+
+
+^ Slovenski medicinski slovar
+^ Badet, C; Thebaud, NB (2008). "Ecology of Lactobacilli in the Oral Cavity: A Review of Literature". The open microbiology journal 2: 38–48. doi:10.2174/1874285800802010038. PMID 19088910. PMC 2593047. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2593047. 
+^ Nascimento, MM; Gordan, VV; Garvan, CW; Browngardt, CM; Burne, RA (2009). "Correlations of oral bacterial arginine and urea catabolism with caries experience". Oral microbiology and immunology 24 (2): 89–95. doi:10.1111/j.1399-302X.2008.00477.x. PMID 19239634. PMC 2742966. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2742966. 
+^ Aas, JA; Griffen, AL; Dardis, SR; Lee, AM; Olsen, I; Dewhirst, FE; Leys, EJ; Paster, BJ (2008). "Bacteria of Dental Caries in Primary and Permanent Teeth in Children and Young Adults". Journal of clinical microbiology 46 (4): 1407–17. doi:10.1128/JCM.01410-07. PMID 18216213. PMC 2292933. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2292933. 
+^ Caufield, PW; Li, Y; Dasanayake, A; Saxena, D (2007). "Diversity of Lactobacilli in the Oral Cavities of Young Women with Dental Caries". Caries Res. 41 (1): 2–8. doi:10.1159/000096099. PMID 17167253. PMC 2646165. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=2646165. 
+^ Roth, Stephen M.. Why does lactic acid build up in muscles? And why does it cause soreness?. Pridobljeno dne 23 January 2006.
+^ NNFCC Renewable Chemicals Factsheet: Lactic Acid
+^ McArdle, W. D., Katch, F. I., & Katch, V. L. (2010). Exercise physiology: Energy, nutrition, and human performance. Wolters Kluwer/Lippincott Williams & Wilkins Health. ISBN 0-683-05731-6 9780683057317. 
+^ Robergs, RA; Ghiasvand, F; Parker, D (2004). "Biochemistry of exercise-induced metabolic acidosis". Am J Physiol Regul Integr Comp Physiol 287 (3): R502–R516. doi:10.1152/ajpregu.00114.2004. PMID 15308499. http://ajpregu.physiology.org/cgi/reprint/287/3/R502.pdf. 
+^ Lindinger, M. I. (2004). "Applying physicochemical principles to skeletal muscle acid-base status". Am J Physiol Regul Integr Comp Physiol 289 (3): R890–94. doi:10.1152/ajpregu.00225.2005. 
+^ McArdle, Katch & Katch (2010). Exercise Physiology: Energy, Nutrition, and Human Performance. Wolters Kluwer/Lippincott Williams & Wilkins Health. ISBN 0-683-05731-6 9780683057317. 
+^ 12,0 12,1 12,2 Zilberter Y, Zilberter T, Bregestovski P (September 2010). "Neuronal activity in vitro and the in vivo reality: the role of energy homeostasis". Trends Pharmacol. Sci. 31 (9): 394–401. doi:10.1016/j.tips.2010.06.005. PMID 20633934. 
+^ Wyss MT, Jolivet R, Buck A, Magistretti PJ, Weber B (May 2011). "In vivo evidence for lactate as a neuronal energy source". J. Neurosci. 31 (20): 7477–85. doi:10.1523/JNEUROSCI.0415-11.2011. PMID 21593331. 
+^ Gladden LB (July 2004). "Lactate metabolism: a new paradigm for the third millennium". J. Physiol. (Lond.) 558 (Pt 1): 5–30. doi:10.1113/jphysiol.2003.058701. PMID 15131240. PMC 1664920. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1664920. 
+^ Pellerin L, Bouzier-Sore AK, Aubert A et al. (September 2007). "Activity-dependent regulation of energy metabolism by astrocytes: an update". Glia 55 (12): 1251–62. doi:10.1002/glia.20528. PMID 17659524. 
+^ Holmgren CD, Mukhtarov M, Malkov AE, Popova IY, Bregestovski P, Zilberter Y (February 2010). "Energy substrate availability as a determinant of neuronal resting potential, GABA signaling and spontaneous network activity in the neonatal cortex in vitro". J. Neurochem. 112 (4): 900–12. doi:10.1111/j.1471-4159.2009.06506.x. PMID 19943846. 
+^ Khakhalin AS (May 2011). "Questioning the depolarizing effects of GABA during early brain development". J Neurophysiol 106 (3): 1065–7. doi:10.1152/jn.00293.2011. PMID 21593390. 
+^ Tyzio R, Allene C, Nardou R et al. (January 2011). "Depolarizing actions of GABA in immature neurons depend neither on ketone bodies nor on pyruvate". J. Neurosci. 31 (1): 34–45. doi:10.1523/JNEUROSCI.3314-10.2011. PMID 21209187. 
+^ Ruusuvuori E, Kirilkin I, Pandya N, Kaila K (November 2010). "Spontaneous network events driven by depolarizing GABA action in neonatal hippocampal slices are not attributable to deficient mitochondrial energy metabolism". J. Neurosci. 30 (46): 15638–42. doi:10.1523/JNEUROSCI.3355-10.2010. PMID 21084619. 
+^ Khakhalin AS (May 2011). "Questioning the depolarizing effects of GABA during early brain development". J Neurophysiol 106 (3): 1065–7. doi:10.1152/jn.00293.2011. PMID 21593390. 
+^ Zilberter, Yuri; Bregestovski, Piotr; Mukhtarov, Marat; Ivanov, Anton (2011). "Lactate Effectively Covers Energy Demands during Neuronal Network Activity in Neonatal Hippocampal Slices". Frontiers in Neuroenergetics 3: 2. doi:10.3389/fnene.2011.00002. PMID 21602909. PMC 3092068. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=3092068. 
+^ Kasischke, Karl (2011). "Lactate Fuels the Neonatal Brain". Frontiers in Neuroenergetics 3. doi:10.3389/fnene.2011.00004. 
+^ 23,0 23,1 23,2 23,3 Blood Test Results - Normal Ranges Bloodbook.Com
+^ 24,0 24,1 24,2 Derived from mass values using molar mass of 90.08 g/mol
+^ UK Food Standards Agency: Current EU approved additives and their E Numbers. Pridobljeno dne 2011-10-27.
+^ US Food and Drug Administration: Listing of Food Additives Status Part II. Pridobljeno dne 2011-10-27.
+^ Australia New Zealand Food Standards CodeStandard 1.2.4 - Labelling of ingredients. Pridobljeno dne 2011-10-27.
+
+
+Zunanje povezave
+Corn Plastic to the Rescue, Lactic acid: a safe and natural ingredient, Lactic Acid: Information and Resources, [http://Lactic%20Acid%20Is%20Not%20Muscles'%20Foe,%20It's%20Fuel Lactic Acid Is Not Muscles' Foe, It's Fuel
+
+
+
+
+
+ Ta članek s področja kemije je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Mlečna_kislina&oldid=4002153«				
+Kategorije: Kemijske škrbineHidroksikislineFiziologija telesne aktivnostiKonservansiSkrita kategorija: Članki s trditvami brez navedenega vira 
+
+
+

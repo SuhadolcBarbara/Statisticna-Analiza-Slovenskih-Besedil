@@ -1,0 +1,153 @@
+
+
+
+
+
+
+Enodelni hiperboloid je dvojno premonosna ploskev: lahko nastane s pomočjo dveh družin ravnih črt.
+
+
+Premonosna ploskev je ploskev na kateri lahko v vsaki točki ploskve potegnemo premico, ki v celoti leži na ploskvi. Najbolj znani zgledi so ravnina in ploskvi površine valja in stožca. Ostali zgledi so še stožčaste ploskve prava konoida, helikoid in tangentno nastala krivulja gladke prostorske krivulje.
+Premonosno krivuljo lahko vedno opišemo kot množico točk, ki jih dobimo z gibanjem ravne črte. Na ta način dobimo stožec tako, da ostane ena točka črte (premice) na miru, druga pa se giblje po krožnici.
+Ploskev je dvojno premonosna, če skozi vsako točko obstojata dve različni premici, ki v celoti ležita na ploskvi. Takšni ploskvi sta hiperbolični paraboloid in enodelni hiperboloid. Ravnina je edina ploskev, na kateri lahko v vsaki točki narišemo tri premice.
+
+
+Vsebina
+
+
+1 Premonosne ploskve in diferencialna geometrija
+2 Zavite ploskve
+3 Premonosne ploskve in algebrska geometrija
+4 Premonosne ploskve v arhitekturi
+
+
+Premonosne ploskve in diferencialna geometrija
+»Gibajoče se« premice pomenijo, da ima premonosna ploskev parametrično obliko enako
+
+
+
+kjer je
+
+ splošna točka na ploskvi
+
+
+je točka, ki sledi krivulji ležeči na ploskvi
+
+ vektor z dolžino ena, ki sledi krivulji na enotski sferi. Iz tega sledi, da v primeru, ko uporabimo
+
+
+
+
+dobimo premonosno ploskev, ki vsebuje Möbiusov trak.
+Lahko pa tudi premonosno ploskev parametriziramo z
+
+
+
+kjer sta
+
+ in
+ dve nesekajoči se krivulji, ki ležita na ploskvi. Ko se p(t) in q(t) gibljeta s konstantno hitrostjo vzdolž dveh mimobežnih premic, dobimo ploskev, ki ji pravimo hiperbolični paraboloid ali pa dobimo del enodelnega hiperboloida.
+
+Zavite ploskve
+Zavita ploskev je tista ploskev, ki jo lahko razvijemo v ravnino brez trganja ali raztezanja. Kadar zavita ploskev leži v trirazsežnem evklidskem prostoru in je kompletna, potem je premonosna. Obratno pa ni vedno res.
+Premonosne ploskve in algebrska geometrija
+V algebrski geometriji so premonosne ploskve definirane kot projektivne ploskve v projektivnem prostoru, ki vsebuje premico skozi vsako dano točko.
+Premonosne ploskve se pojavljajo tudi v Enriques-Kodairovi razvrstitvi projektivnih kompleksnih ploskev, ker je vsaka algebrska ploskev, ki ima Kodairovo razsežnost −∞, tudi premonosna ploskev.
+
+
+
+
+Helikoid je premonosna ploskev.
+
+
+Premonosne ploskve v arhitekturi
+
+
+
+
+
+
+
+Hladilni stolpi elektrarne v hiperbolični obliki Hiperboloidna struktura v kraju Didcot v Združenem kraljestvu ploskve so dvojno premonosne.
+
+
+
+
+
+
+
+
+
+Dvojno premonosni vodni stolp z rezervoarjem v obliki toroida (vrsta torusa), avtor je Jan Bogusławski iz kraja Čiehanuf na Poljskem.
+
+
+
+
+
+
+
+
+
+Hiperboloidni pristaniški stolp v kraju Kobe na Japonskem z dvojno premonosno površino.
+
+
+
+
+
+
+
+
+
+Ogrodje Stolpa Šuhovskega v Moskvi, njegovi preseki so dvojno premonosni.
+
+
+
+
+
+
+
+
+
+Premonosna helikoidna spirala na stopnišču v notranjosti Cremoni.
+
+
+
+
+
+
+
+
+
+Vaška cerkev v naselju Selo v Sloveniji, streha in stene so premonosne ploskve.
+
+
+
+
+
+
+
+
+
+Streha v obliki hiperboličnega paraboloida na Varšavske železniške postaje Ochota v Varšavi, Poljska.
+
+
+
+
+
+
+
+
+
+Premonosna oblika stožčastega klobuka.
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Premonosna_ploskev&oldid=4085648«				
+Kategorije: PloskveDiferencialna geometrijaDiferencialna geometrija ploskevKompleksne ploskveAlgebrske ploskveGeometrijske oblikeAnalitska geometrija 
+
+
+

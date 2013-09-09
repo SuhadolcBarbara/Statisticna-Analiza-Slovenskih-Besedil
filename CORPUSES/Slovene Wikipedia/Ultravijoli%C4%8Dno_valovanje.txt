@@ -1,0 +1,45 @@
+
+
+
+
+
+
+Ultravijolična slika Sončeve dejavne fotosfere Nasinega vesoljskega daljnogleda TRACE
+
+
+Últravijólično valovánje (kratica UV) je elektromagnetno valovanje z valovno dolžino krajšo od valovne dolžine vidne svetlobe, vendar daljšo od valovne dolžine rentgenskih žarkov. Območje ultravijoličnega valovanja lahko razdelimo na »bližnje UV območje« (valovna dolžina 380–200 nm) ter »ekstremno -« ali »vakuumsko UV območje« (200–10 nm). Pri preučevanju vpliva ultravijoličnega valovanje na okolje in zdravje človeka se pogosto območje razdeli na območje UV-A (380–315 nm), imenovano tudi dolgovalovno območje ali »črna svetloba«, UV-B (315–280 nm), imenovano tudi srednjevalovno območje, ter UV-C (280-10 nm), imenovano kratkovalovno ali »baktericidno« območje.
+Latinska predpona ultra- pomeni »prek«, »onstran« in se nanaša na to, da leži območje ultravijoličnega valovanja v spektru za območjem vijolične barve – slednja ima v vidnem delu spektra najkrajšo valovno dolžino. Ker je za človeško oko nevidna, jo ponekod pogovorno imenujejo tudi »črna svetloba«. Druge živali, med njimi nekateri ptiči, plazilci in žuželke (med njimi čebele), zaznavajo tudi bližnje ultravijolično območje spektra. Številni sadeži, cvetovi in semena v primerjavi z barvnim vidom človeka dosti močneje izstopajo od ozadja v ultravijoličnem delu spektra. Vzorci v perju številnih ptičev so nevidni v vidnem delu spektra, pokažejo pa se v ultravijoličnem, prav tako pa je v ultravijolični svetlobi dosti jasneje viden urin nekaterih živali.
+Sonce seva ultravijolično valovanje v območjih UV-A, UV-B in UV-C, zaradi absorpcije v ozonski plasti Zemljinega ozračja pa ultravijolično sevanje, ki doseže površje, v 99 % sestavljajo žarki UV-A. Nekateri žarki iz območja UV-C po drugi strani sodelujejo pri nastajanju ozona.
+Običajno steklo je prozorno za žarke UV-A, neprepustno pa za žarke s krajšimi valovnimi dolžinami. Kvarčno steklo je po drugi strani, odvisno od kakovosti, lahko prepustno celo za žarke iz območja »vakuumskih« ultravijoličnih žarkov.
+Meja »vakuumskih« ultravijoličnih žarkov je postavljena na 200 nanometrov, ker se žarki s krajšimi valovnimi dolžinami v zraku absorbirajo. Ta neprepustnost je posledica močne absorpcije v molekulah kisika v zraku. Čisti dušik z manj kot 10 ppm kisika je prepusten za valovne dolžine v območju 150–200 nm. To ima praktični pomen pri izdelavi polprevodniških integriranih vezij, pri katerih se zdaj uporabljajo UV žarki z valovno dolžino, krajšo od 200 nm. Za razliko od opreme za vakuumsko tehnologijo, ki mora prenesti velike tlačne razlike, so zahteve pri delu v dušikovi atmosferi oziroma atmosferi brez kisika veliko manjše. Tudi nekatere merilne inštrumente, denimo spektrometer na krožno dvolomnost, ki delujejo v tem območju, pred delom očistijo v dušikovi atmosferi.
+Glej tudi
+
+UV indeks
+
+
+
+
+Spekter elektromagnetnega valovanja
+Radijski valovi | Mikrovalovi | Infrardeče valovanje | Vidni spekter | Ultravijolično valovanje | Rentgenski žarki | Žarki gama
+
+Vidni spekter: Rdeča | Oranžna | Rumena | Zelena | Modra | Vijolična
+
+
+
+
+
+
+
+
+ Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Ultravijolično_valovanje&oldid=4064842«				
+Kategoriji: Fizikalne škrbineOptika 
+
+
+

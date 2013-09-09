@@ -1,0 +1,61 @@
+
+
+Kònjska móč - KM (HP) je skupni naziv več enot za merjenje moči. Pri nas se je večinoma uporabljala nemška definicija, po kateri je ena konjska moč enaka natančno 735,49875 W. Mednarodni sistem enot te enote ne dovoljuje več, kljub vsemu pa ostaja v rabi predvsem pri navajanju moči motorjev z notranjim izgorevanjem v letalstvu in avtomobilizmu.
+
+
+Vsebina
+
+
+1 Fizikalne definicije
+
+1.1 Metrična definicija
+1.2 Angleška definicija
+
+
+2 Definicije za obdavčenje
+
+2.1 Definicija Britanskega kraljevega avtomobilističnega kluba
+2.2 Francoska definicija
+
+
+
+
+Fizikalne definicije
+Metrična definicija
+V Nemčiji in srednji Evropi se je uporabljala definicija, ki je temeljila na zamisli, da bi ena konjska moč (KM) bila tolikšna moč, ki bi lahko dvignila breme z maso 75 kg v eni sekundi en meter visoko. Njena vrednost bi bila tako kot pri Wattovi definiciji odvisna od vrednosti težnostnega pospeška, zato je Physikalisch-Technische Bundesanstalt (PTB)[1] v Braunschweigu vrednost konjske moči definiral kot natančno
+
+1 KM = 735,49875 W
+
+V Nemčiji se je uporabljala kratica PS (nemško Pferdestärke, konjska moč), na Nizozemskem pk (nizozemsko paardenkracht), v Franciji cv (francosko cheval vapeur).
+Angleška definicija
+Izumitelj parnega stroja James Watt je definiral, da lahko konj dvigne breme z maso 33.000 funtov v eni minuti en čevelj visoko. Žal ima takšna definicija hudo pomanjkljivost, saj je njena vrednost odvisna od vrednosti težnostnega pospeška, ta je pa na tej točki takšen, na drugi točki spet drugačen. Da bi povsod govorili o isti stvari, je bil sprejet dogovor, po katerem skladno s tem konjska moč (oznaka hp iz angl. »horse power«) znaša natančno
+
+1 hp = 745,69987158227022 W
+
+Definicije za obdavčenje
+Definicija Britanskega kraljevega avtomobilističnega kluba
+Britanski kraljevi avtomobilistični klub (RAC, angl. Royal Automobile Club) je v začetku 20. stoletja za potrebe obdavčitve vozil definiral enoto, ki nima neposredne povezave s fizikalno definicijo moči, jo je pa moč enostavno izračunati iz dimenzij motorja in je dajala ob treh tehničnih predpostavkah razmeroma pravilne ocene moči motorjev. Enačba definira konjsko moč kot
+
+1 RAC h.p. = n D2/2,5
+
+Pri tem je n število valjev, D pa izvrtina valja, izražena v palcih.
+Uporabljene tehnične predpostavke so bile:
+
+izkoristek motorja je 75 %
+povprečni efektivni tlak v valju je 90 lb/in2
+povprečna hitrost bata je 1000 ft/min.
+
+Z razvojem motorjev in naraščajočimi izkoristki motorjev so postajala odstopanja med formulo in izmerjenimi močmi motorjev vse večja, kljub temu pa je formula ostala osnova za obdavčenje vozil v Veliki britaniji vse do 1960. let.
+Glej tudi članek http://www.designchambers.com/wolfhound/wolfhoundRACHP.htm
+Francoska definicija
+Svojo lestvico za obdavčenje uporablja Francija in za njo druge frankofonske dežele. Oznaka je CV (Cheval Vapeur). CV je povezana z močjo in, v novejšem času, z emisijami CO2.
+Število CV oziroma davčna moč je [2] = (P/40)1.6+ U/45, kjer je P maksimalna moč motorja v kW in U emisije CO2 v g/km.
+Najbolj znana primera francoskega poimenovanja velikosti avtomobilov pri nas sta Citroën 2CV in Renault 4CV - »Katrca«, iz francoskega: quatre = štiri.
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Konjska_moč&oldid=3945452«				
+Kategorija: Druge enote 
+
+
+

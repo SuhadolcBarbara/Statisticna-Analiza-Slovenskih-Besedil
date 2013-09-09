@@ -1,0 +1,74 @@
+
+
+Lomni količnik (ali redko refrakcijski indeks, običajna oznaka n) je v optiki razmerje med fazno hitrostjo razširjanja elektromagnetnega valovanja v praznem prostoru c in hitrostjo razširjanja v snovi vf:
+
+
+
+Lomni količnik je brezrazsežna količina. Največkrat se uporablja pri svetlobi z vakuumom kot referenčno snovjo. Nekdaj je bila referenčna snov na primer zrak pri standardnem tlaku in temperaturi. Za svetlobo velja:
+
+
+
+kjer sta εr relativna dielektričnost in μr relativna magnetna permeabilnost.
+Lomni količnik pove kako se npr. hitrost svetlobe (ali drugega valovanja kot je zvok ipd) zmanjša v snovi. Lomni količnik tipičnega mineralnega stekla je na primer 1,5, kar pomeni, da svetloba v steklu potuje za faktor 1/1,5 = 0,67 počasneje kot svetloba v praznem prostoru. Dve lastnosti stekla in drugi prosojnih snovi sta neposredno povezani z lomnim količnikom. Svetlobni žarki pri prehodu iz zraka v snov spremenijo smer, se lomijo, kar izkoriščajo leče. Svetloba se delno odbije od površin, katerih lomni količnih je različen od lomnega količnika okolice.
+Za večino snovi je μr pri optičnih frekvencah zelo blizu 1, tako da je lomni količnik približno:
+
+
+
+Običajna napačna predstava je da je lomni količnik vedno večji od 1. Pri rentgenskih žarkih je lomni količnik manjši od 1, kar je v praksi zelo uporabno zaradi učinkovitih zrcal za rentgenske žarke na podlagi popolnega zunanjega odboja.[1]
+S fazno hitrostjo se giblje valovno čelo. Fazna hitrost je hitrost s katero se giblje faza valovne poteze. Skupinska hitrost je hitrost, s katero potuje ovojnica valovne poteze (skupine valov pri potujočem valovanju z disperzijo), kar pomeni velikost odmika amplitude valovne poteze. Če pri gibanju valovna poteza ni preveč popačena, skupinska hitrost predstavlja hitrost prenosa informacij (in energije), ki jih lahko prenaša valovanje, na primer hitrost pri kateri potuje svetlobni pulz po otičnem vlaknu.
+Hitrost svetlobe
+
+
+
+
+Lom svetlobe na mejni ploskvi dveh snovi z različnima lomnima količnikoma, n2 > n1. Ker je fazna hitrost manjša v drugi snovi (v2 < v1), ki je zaradi tega optično gostejša, je lomni kot θ2 manjši od vpadnega θ1; smer žarka v snovi z večjim lomnim količnikom je bližje vpadni pravokotnici.
+
+
+Hitrost vsega elektromagnetnega valovanja v praznem prostoru je enaka, približno 3 · 108 m/s, in jo označujemo s c. Če je v fazna hitrost valovanja z določeno frekvenco v določeni snovi, je lomni količnik enak:
+
+
+
+oziroma obratno:
+
+
+
+To število je običajno večje od 1, večji je lomni količnik snovi, bolj se svetloba upočasni (glej pojav Čerenkova). Pri določenih frekvencah (na primer blizu absorpcijskih resonanc in za rentgenske žarke) je n dejansko manjši od 1. To ne nasprotuje teorijama relativnosti, po katerih se noben signal, ki nosi informacije, ne more gibati hitreje od c, ker fazna hitrost ni enaka skupinski hitrosti ali signalni hitrosti.
+Včasih definirajo »lomni količni skupinske hitrosti«, po navadi imenovan skupinski količnik:
+
+
+
+kjer je vg skupinska hitrost. Te količine ne smemo zamenjevati z n, ki je vedno določena glede na fazno hitrost. Skupinski količnik lahko zapišemo s členi, kjer je valovna dolžina odvisna od lomnega količnika:
+
+
+
+kjer je  valovna dolžina valovanja v praznem prostoru. Pri majhnih razdaljah se fazna hitrost elektromagnetnega valovanja v snovi zmanjša ker električno polje zmoti naboje vsakega atoma (v glavnem elektronov) sorazmerno z dielektričnostjo snovi. V splošnem bodo naboji nihali drugače kot faza v skladu z gonilnim električnim poljem. Naboji tako sevajo svoje elektromagnetno valovanje z enako frekvenco, vendar fazno zakasnjeno. Makroskopska vsota vseh takšnih prispevkov v snovi je valovanje z enako frekvenco, vendar s krajšo valovno dolžino od izvirnega, kar vodi do zmanjšanja fazne hitrosti valovanja. Večina valovanja nihajočih nabojev v snovi bo spremenila prihajajoče valovanje, njegovo hitrost. Nekaj energije pa se bo razpršilo v drugih smereh (glej sipanje).
+Če sta lomna količnika dveh snovi za dano frekvenco znana, lahko izračunamo kot, pri katerem se bo valovanje s takšno frekvenco pri prehodu iz prve v drugo snov lomilo, iz lomnega zakona.
+Če sta v danem območju vrednosti lomnih količnikov n ali ng različni od 1 (homogeno, izotropno ali ne), se območje v zgornjem smislu zaradi pomanjkanja Poincaréjeve simetrije razlikuje od praznega prostora.
+Negativni lomni količnik
+V zadnjem času so pokazali na obstoj negativnega lomnega količnika, ki se lahko pojavi, če sta realna dela  in  istočasno negativna, kar je sicer potreben, vendar ne zadosten pogoj. Lomni količnik se v naravi verjetno ne pojavlja, lahko pa nastopi v metamaterialih in omogoča popolne leče in druge eksotične pojave, kot je na primer obratni lomni zakon.[2][3]
+Opombe in sklici
+
+
+^ Sansosti, Tanya M. (marec 2002). Compound Refractive Lenses for X-Rays (v angleščini). Univerza Stony Brook. Pridobljeno dne 2008-12-07.
+^ Hecht, Jeff (2006-12-18). Red light debut for exotic 'metamaterial' (v angleščini). New Scientist Tech. Reed Business Information Ltd. Pridobljeno dne 2008-12-14.
+^ Cloaking Device Breakthrough? Negative Refraction Of Visible Light Demonstrated (v angleščini). ScienceDaily. ScienceDaily LLC (2007-03-23). Pridobljeno dne 2008-12-14.
+
+
+
+
+
+
+
+
+ Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Lomni_količnik&oldid=3901700«				
+Kategorije: Fizikalne škrbineOptikaBrezrazsežne količine 
+
+
+

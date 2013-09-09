@@ -1,0 +1,148 @@
+
+
+
+
+
+
+
+Grška abeceda
+
+
+Αα alfa
+Νν ni
+
+
+Ββ beta
+Ξξ ksi
+
+
+Γγ gama
+Οο omikron
+
+
+Δδ delta
+Ππ pi
+
+
+Εε epsilon
+Ρρ ro
+
+
+Ζζ zeta
+Σσς sigma
+
+
+Ηη eta
+Ττ tau (tudi tav)
+
+
+Θθ theta
+Υυ ipsilon
+
+
+Ιι jota
+Φφ fi
+
+
+Κκ kapa
+Χχ hi
+
+
+Λλ lambda
+Ψψ psi
+
+
+Μμ mi
+Ωω omega
+
+
+Danes opuščene črke
+
+
+ digama
+ san
+
+
+ stigma
+ šo
+
+
+ heta
+ kopa
+
+
+
+ Sampi
+
+
+
+
+
+
+grška ločevalna znamenja
+
+
+Béta (grško: βήτα; velika črka: Β, mala črka: β) je druga črka grške abecede in ima številčno vrednost 2. Črka beta se je razvila iz feničanske črke bet (). Iz črke beta izvira latinična črka B, pa tudi cirilični črki Б and В.
+V klasični grščini se je črka Β izgovarjala kot b v moderni grščini pa se izgovarja kot v. V moderni grščini se tudi ime črke beta izgovarja drugače: víta. (Opomba: glas b se v moderni grščini piše z digrafom ΜΠ - glej članek o črki Π.)
+Opozorilo: Mala črka β je po videzu precej podobna nemški črki ß (ostri s), vendar to ni ista črka.
+
+Pomeni
+
+V astronomiji označuje β drugo najsvetlejšo zvezdo v nekem ozvezdju.
+Beta verzija programa v računalništvu pomeni testno verzijo programa, oziroma verzijo, ki še ni amenjena redni prodaji.
+Razpad beta je radioaktivni razpad, pri katerem atomsko jedro izseva delec beta (elektron ali pozitron). Izsevane delce beta imenujemo tudi žarki beta.
+Beta sodček je vrsta terciarne strukture beljakovin
+Funkcija beta je matematična funkcija
+
+Unicode
+
+
+
+Velika črka Β
+mala črka β
+
+
+Unicode UTF-16
+U+0392
+U+03B2
+
+
+Ime Unicode
+Velika grška črka beta
+Mala grška črka beta
+
+
+Koda HTML
+&#914;
+&#946;
+
+
+Enota HTML
+&Beta;
+&beta;
+
+
+Zunanje povezave
+
+
+
+Poglejte si besedo beta ali Beta v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+
+ Ta članek o jeziku je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Beta&oldid=4056668«				
+Kategoriji: Jezikovne škrbineGrška abeceda 
+
+
+

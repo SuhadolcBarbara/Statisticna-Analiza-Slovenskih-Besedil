@@ -1,0 +1,177 @@
+
+
+Splôšna teoríja rêlativnosti in ~ relatívnosti (ali skrajšano STR) je fizikalna teorija gravitacije, ki jo je leta 1915 razvil in leta |1916 objavil Albert Einstein. Splošna teorija relativnosti razlaga gravitacijsko silo kot posledico ukrivljenosti prostora-časa. Teoriji rečejo tudi splošna relativnostna teorija.
+Gre za posplošitev Einsteinove posebne teorije relativnosti, ki pravi, da je v inercialnih (nepospešenih) opazovalnih sistemih hitrost svetlobe konstantna, torej invariantna količina. Iz tega sledi spoznanje, da fizikalne zakonitosti ne morejo biti odvisne od lege in gibanja opazovalca, spreminjajo se le enačbe, ki te zakonitosti opisujejo. Prek Lorentzovih transformacij, ki opisujejo navidezno skrčitev dolžin in podaljšanje časa, tako vidimo, da sta merjeni čas in dolžina odvisna od hitrosti gibanja opazovalca, torej sta relativna.:
+
+
+
+
+Splošna teorija relativnosti je razširitev posebne teorije relativnosti na inercialne sisteme, torej sisteme, v katerih je prisotna gravitacijska sila. Glavni doprinos je v načinu gledanja na prostor in čas. V Newtonovem času so namreč gledali na prostor, kot na posodo v kateri se nahajajo snovna telesa (materialni objekti) in na čas kot na neko gonilo, s pomočjo katerega lahko razločimo dva dogodka. Splošna teorija relativnosti prostor in čas poenoti v prostor-čas, saj prostor brez časa ne more obstajati in obratno.
+V splošni teoriji relativnosti je lastni čas funkcija Newtonovega absolutnega časa. V tem nekateri vidijo pomanjkljivost teorije. Nekaj od teh pomanjkljivosti naj bi odpravila kronotopologija. V Schwarzschildovi metriki:
+
+
+
+ima na primer časovna spremenljivka vrednosti kot .
+Einsteinova splošna teorija relativnosti ima tudi globlji filozofski in življenjski pomen. Iste stvari namreč izgledajo drugače, če jih gledamo z drugačnega gledišča. Vse je relativno.
+Zunanje povezave
+
+Sašo Dolenc, Prostor-čas in gravitacija: uvod v splošno teorijo relativnosti, Kvarkadabra: http://www.kvarkadabra.net/?/vesolje/teksti/relativnost_splosna.htm
+
+
+
+
+Teorije gravitacije
+p • p • u • z
+
+
+
+
+
+
+
+Gravitacija
+Tekmice STR
+Teorije poenotenega polja
+Druge
+
+
+
+
+Splošni gravitacijski zakon SGZ
+
+Klasična mehanika
+
+
+Splošna teorija relativnosti STR (Š)
+
+Polklasična gravitacija
+Tvistorska teorija
+Načelo ekvivalentnosti
+Gravitomagnetizem
+Matematika STR
+Preskusi STR
+
+
+Machovo načelo
+
+
+
+
+Klasične teorije gravitacije
+Konformna gravitacija
+Gravitacija f(R)
+Skalarne teorije
+
+Nordström
+Yilmaz
+
+
+Skalarno-tenzorske teorije
+
+Brans-Dicke
+Dilaton
+Samoustvarjalna kozmologija
+
+
+Bimetrične teorije
+
+Rosenova bimetrična teorija
+
+
+Druge teorije
+
+Einstein-Cartan
+
+Cartanova povezava
+
+
+Whitehead
+Nesimetrična gravitacija
+Skalarno-tenzorsko-vektorska
+Tenzorsko-vektorsko-skalarna
+Teorija supertekočega vakuuma
+Dinamična teorija (P)
+
+
+
+
+
+
+Teleparalelizem
+Geometrodinamika
+Kvantna gravitacija KG
+
+Nezvezna lorentzovska kvantna gravitacija
+Pojavljajoča gravitacija
+Evklidska KG
+Inducirana gravitacija
+Zančna kvantna gravitacija
+Wheeler-DeWittova enačba
+
+
+Teorija vsega
+
+Supergravitacija
+M-teorija
+Teorija superstrun (Š)
+Teorija strun
+
+Vsebine teorije strun
+
+
+Heim
+
+
+
+
+
+
+Večrazsežnostna STR
+
+Kaluza-Klein (Š)
+Model DGP
+
+
+Zamenjave za SGZ
+
+Aristotelska
+Boškovićeva
+Mehanske obravnave
+Fatio-Le Sage
+MOND
+
+
+Nerazvrščene
+
+Sestavljena gravitacija
+Masna gravitacija
+
+
+
+
+
+
+(Š) = škrbina
+(P) = psevdofizikalna
+
+
+
+
+
+
+
+
+
+ Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+      
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Splošna_teorija_relativnosti&oldid=4042454«				
+Kategorije: Teorije gravitacijeFizikalne škrbineSplošna področja fizikeSplošna teorija relativnostiOsnovni fizikalni koncepti1915 v znanosti1916 v znanostiAlbert Einstein 
+
+
+

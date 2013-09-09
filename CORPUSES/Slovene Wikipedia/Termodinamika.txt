@@ -1,0 +1,173 @@
+
+
+Têrmodinámika (grško θερμη: therme - toplota + δυναμις: dynamis - sprememba, moč) je veja fizike, ki preučuje energijo, njeno pretvarjanje med različnimi oblikami, kot je toplota, in sposobnost opravljanja dela. Termodinamika se ukvarja z makroskopskimi sistemi z zelo veliko prostostnimi stopnjami.
+Termodinamika sama je povsem fenomenološka znanost, ki se ne sprašuje ne po mehanizmu pojavov, niti po zgradbi snovi. Večino termodinamskih relacij pa je konec 19. stoletja statistična mehanika povezala z mehanskimi lastnostmi velikega števila delcev.
+Termodinamika se ukvarja predvsem z ravnovesnimi stanji, prehodi med stanji, in vzroki za prehode. Veja termodinamike, ki obravnava neravnovesne pojave, je neravnovesna termodinamika.
+
+
+Vsebina
+
+
+1 Termodinamski sistemi
+2 Termodinamske spremenljivke
+3 Plinski zakoni
+4 Zakoni termodinamike
+
+4.1 Ničti zakon termodinamike
+4.2 Prvi zakon termodinamike
+4.3 Drugi zakon termodinamike
+4.4 Tretji zakon termodinamike
+
+
+5 Specifična toplota
+
+5.1 Entalpija
+
+
+6 Termodinamski potenciali
+
+6.1 Prosta energija in prosta entalpija
+
+
+7 Fazni prehodi
+8 Zunanje povezave
+
+
+Termodinamski sistemi
+Pri termodinamski obravnavi miselno ločimo sistem od okolice. Glede na lastnosti takega sistema jih razvrstimo na več vrst:
+
+Izoliran sistem je povsem izoliran od okolice in z njo ne more izmenjavati ne snovi, ne toplote. Približek za izoliran sistem je denimo Dewarjeva posoda (gre za idealizacijo, v resnici noben realni sistem ni povsem izoliran).
+Zaprt sistem omejuje od okolice nepropustna pregrada, ki preprečuje izmenjavo snovi z okolico, sistem pa z okolico lahko izmenjuje toploto. Zgled za zaprt sistem je denimo topla greda.
+Odprt sistem lahko izmenjuje z okolico tako snov kot toploto. Zgled za tak sistem je denimo živa celica.
+
+Termodinamske spremenljivke
+Ravnovesno stanje sistema v termodinamiki določimo z razmeroma majhnim številom podatkov, ki jim pravimo termodinamske spremenljivke. To so enolične funkcije stanja, torej količine, ki so enolično določene s stanjem termodinamskega sistema. Njihove spremembe so odvisne le od začetnega in končnega stanja sistema, ne pa od »poti« med stanjema, torej od vmesnih stanj.
+Zgledi za termodinamske spremenljivke so temperatura, prostornina in tlak, ki povsem določajo stanje sistema z eno samo fazo.
+Plinski zakoni
+Zgodovinsko so nekatere termodinamske zveze najprej ugotovili pri plinih. Ti so namreč od vseh agregatnih stanj najpreprostejši. Vzamemo lahko, da med molekulami plina ne delujejo nobene sile razen izjemoma, kadar molekuli plina trčita. Molekule v plinu lahko nadalje obravnavamo kot točkasta telesa, tako da lahko zanemarimo delež, ki ga v prostoru, napolnjenem s plinom, zasedajo same molekule. Tak približek je znan kot idealni plin, ki navkljub vsem poenostavitvam razmeroma dobro opisuje razredčene pline.
+
+Boylov zakon povezuje prostornino in tlak idealnega plina pri stalni temperaturi
+
+
+
+
+
+Gay-Lussacov zakon (tudi Charlesov zakon) povezuje prostornino in temperaturo idealnega plina pri stalnem tlaku:
+
+
+
+
+
+Amontonsov zakon (tudi Grahamov zakon) povezuje tlak in temperaturo idealnega plina pri stalni prostornini:
+
+
+
+
+Sintezo vseh treh zakonov predstavlja splošna plinska enačba
+
+
+
+Pri tem je m masa plina, M njegova molska masa, R pa splošna plinska konstanta.
+Splošna plinska enačba razmeroma dobro opisuje stanje idealnega plina. Za opis realnih plinov pa je treba uporabiti katero od drugih enačb stanja, med katerimi je najbolj znana van der Waalsova enačba stanja.
+Zakoni termodinamike
+
+
+Glavni članek: zakoni termodinamike.
+
+
+Zakone termodinamike lahko navadno izrazimo na več matematično enakovrednih načinov.
+Ničti zakon termodinamike
+Ničti zakon termodinamike so pravzaprav dodali kot zadnjega k ostalim trem. Definira tranzitivnost toplotnega ravnovesja:
+
+Če je telo A v toplotnem ravnovesju s telesom B in je telo B v toplotnem ravnovesju s telesom C, je tudi telo A v toplotnem ravnovesju s telesom C.
+
+Ničti zakon termodinamike omogoča vpeljavo temperature kot količine, ki ima enako vrednost pri vseh telesih v toplotnem ravnovesju.
+Prvi zakon termodinamike
+Prvi zakon termodinamike je znan tudi kot energijski zakon.
+
+Sprememba polne energije sistema je enaka vsoti dovedenega dela in dovedene toplote.
+
+Drugi zakon termodinamike
+Drugi zakon termodinamike ali entropijski zakon je bil pravzaprav odkrit prvi. Znanih je več različnih formulacij tega zakona:
+
+Toplotno izoliranega sistema po opravljeni ireverzibilni spremembi ne moremo več povrniti v prvotno stanje (Caratheodoryjeva formulacija)
+Ni mogoča takšna krožna sprememba, pri kateri sistem prejme toploto iz toplotnega rezervoarja in jo v celoti pretvori v delo, pri čemer se ne spremeni nič drugega v okolici (Kelvinova formulacija).
+Ni mogoča takšna krožna sprememba, pri kateri se prenese toplota iz hladnejšega telesa na toplejše, pri čemer se ne spremeni nič drugega v okolici (Clausiusova formulacija)
+
+Tretji zakon termodinamike
+Tretji zakon termodinamike je znan tudi kot Nernstov zakon ali zakon o nedosegljivosti absolutne ničle.
+
+Sistema ni mogoče v končnem številu korakov ohladiti do absolutne ničle.
+
+Specifična toplota
+Eno od vprašanj, ki si jih lahko zastavimo, je, koliko toplote moramo dovesti, da zvišamo temperaturo neke količine dane snovi za določeno število kelvinov. Toploti, potrebni, da kilogram snovi segrejemo za en kelvin, pravimo specifična toplota snovi. V splošnem je odvisna od vrste snovi.
+Če dovajamo toploto pri stalni prostornini, je sprememba notranje energije kar premo sorazmerna spremembi temperature. Ker je prostornina stalna, telo ne opravlja dela pri raztezanju, zato je sprememba notranje energije kar enaka dovedeni toploti. Pri homogenih telesih je dovedena toplota tudi premo sorazmerna masi snovi, zato lahko zapišemo:
+
+
+
+Sorazmernostni koeficient cV imenujemo specifična toplota pri stalni prostornini.
+Če dovajamo toploto pri stalnem tlaku, pa moramo upoštevati, da se snov pri segrevanju razteza in pri tem ob odrivanju okolišnje snovi opravlja delo. Dovedana toplota se zato delno porabi za povečevanje notranje energije, del pa za opravljanje dela:
+
+
+
+Po analogiji s segrevanjem pri stalni prostornini definiramo še specifično toploto pri stalnem tlaku:
+
+
+
+Entalpija
+Po analogiji z notranjo energijo, katere sprememba je pri stalni prostornini enaka dovedeni toploti, uvedemo entalpijo (običajna oznaka je H) uvedemo kot termodinamično spremenljivko, katere sprememba je pri stalnem tlaku enaka dovedeni toploti.
+
+
+
+Entalpija je definirana kot vsota notranje energije in produkta tlaka in prostornine:
+
+
+
+Termodinamski potenciali
+Termodinamski potencial je takšna termodinamska spremenljivka, ki v stanju termodinamskega ravnovesja doseže ekstremno vrednost.
+Prosta energija in prosta entalpija
+Lastnost termodinamskega potenciala v zaprtem sistemu, katerega temperatura prek toplotnega stika z okolico ostaja konstantna, ima pri stalni prostornini sistema prosta energija (oznaka F), definirana kot:
+
+
+
+Lastnost termodinamskega potenciala v zaprtem sistemu, katerega temperatura prek toplotnega stika z okolico ostaja konstantna, ima pri stalnem tlaku prosta entalpija (oznaka G), definirana kot:
+
+
+
+Fazni prehodi
+Fazni prehod je sprememba, pri katerem preide termodinamski sistem iz ene faze v drugo. Najbolj znani zgledi za fazni prehod so npr. izparevanje, taljenje ali sublimacija. Poled teh poznamo tudi druge fazne prehode, npr. prehod feromagnetne snovi v paramagnetno.
+Zunanje povezave
+
+
+
+Poglejte si besedo termodinamika ali Termodinamika v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+
+p · p · u · zSplošna področja fizike
+
+
+
+
+
+
+Atomska in molekulska fizika · Elektrika in magnetizem · Fizika visokih energij · Fizika zgoščene snovi · Klasična mehanika · Kvantna mehanika · Optika · Statistična mehanika · Termodinamika · Relativnost
+
+
+
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Termodinamika&oldid=3848068«				
+Kategoriji: Splošna področja fizikeTermodinamika 
+
+
+

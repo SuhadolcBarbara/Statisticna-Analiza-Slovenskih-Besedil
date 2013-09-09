@@ -1,0 +1,342 @@
+
+
+
+
+
+
+Eksplozije
+
+
+Eksplozivna snov ali eksploziv je snov, ki vsebuje veliko količino notranje energije, ki po iniciaciji lahko povzroči eksplozijo, se pravi zelo hitro ekspanzijo snovi, katero običajno spremljajo svetloba, toplota in pritisk. Eksplozivni naboj je odmerjena količina eksplozivne snovi.
+Energija, ki je shranjena v eksplizivni snovi, je lahko:
+
+kemijska energija, na primer nitroglicerina ali žitnega prahu,
+energija komprimiranega plina, na primer plina v jeklenkah ali kovinskih posodah s pršili,
+jedrska energija, na primer radioaktivnih izotopov urana-235 in plutonija-239.
+
+Eksplozivne snovi se razvrščajo po hitrosti, s katero ekspandirajo. Snovi, ki detonirajo, se pravi da ekspandirajo s hitrostjo večjo od zvočne hitrosti, so zelo eksplozivne. Snovi, ki vzbuhnejo, so nizko eksplozivne. Eksplozivi se lahko razvrščajo tudi po njihovi občutljivosti. Občutljive snovi, katere inicirajo že majhne količine toplote ali majhen pritisk, so primarni eksplozivi, snovi, ki so relativno neobčutljive, pa so sekundarni eksplozivi.
+
+
+Vsebina
+
+
+1 Vrste reakcij
+
+1.1 Kemijska
+
+1.1.1 Razpad
+1.1.2 Deflagracija
+1.1.3 Detonacija
+
+
+1.2 Mehanska
+1.3 Eksotična
+
+
+2 Lastnosti eksplozivnih snovi
+
+2.1 Dostopnost in cena
+2.2 Občutljivost
+2.3 Občutljivost na iniciacijo
+2.4 Hitrost detonacije
+2.5 Stabilnost
+2.6 Moč
+2.7 Brizantnost
+2.8 Gostota
+2.9 Hlapnost
+2.10 Higroskopnost in odpornost proti vodi
+2.11 Toksičnost
+2.12 Eksplozijska veriga
+2.13 Volumen produktov eksplozije
+2.14 Potencial eksploziva
+2.15 Bilanca kisika (OB% ali Ω)
+2.16 Kemijska sestava
+
+2.16.1 Kemijsko čiste spojine
+2.16.2 Zmes oksidanta in goriva
+
+
+
+
+3 Razvrščanje eksplozivnih snovi
+
+3.1 Razvrščanje po občutljivosti
+
+3.1.1 Primarni eksplozivi
+3.1.2 Sekundarni eksplozivi
+
+
+3.2 Razvrščanje po hitrosti
+
+3.2.1 Nizko eksplozivni
+3.2.2 Visoko eksplozivni
+
+
+3.3 Razvrščanje po sestavi
+
+3.3.1 Netila
+
+
+3.4 Po transportnih oznakah
+
+3.4.1 Oznake OZN (HC/D)
+3.4.2 Razred 1 (eksplozivi)
+3.4.3 Združljivost skupin iz Razreda 1
+
+
+
+
+4 Sklici in opombe
+5 Viri
+6 Zunanje povezave
+
+
+Vrste reakcij
+Eksplozivnost snovi je posledica različni vzrokov. Eksplozivne snovi se pogosto razvrščajo po vrsti reakcije, ki poteka med eksplozijo.
+Kemijska
+Kemični eksplozivi so snovi, ki imajo veliko količino energije shranjene v kemijskih vezeh.
+Eksplozivi se glede na njihovo hitrost gorenja razvrščajo v nizko in visoko eksplozivne: nizkoeksplozivni hitro gorijo oziroma deflagrirajo, visokoeksplozivni pa detonirajo. Delitev eksplozivov po tej definiciji je zelo jasna, v praksi pa je zaradi težav z natančnim merjenjem velikih hitrosti razpadanja razvrščanje precej težavno.
+Razpad
+Kemični razpad eksploziva lahko traja več let, dni, ur ali pa samo odlomek sekunde. Najpočasnejši procesi razpadanja se dogajajo med skladiščenjem in so zanimivi samo s stališča staranja oziroma stabilnosti. Bolj zanimivi sta obe hitri obliki razpada: deflagracija in detonacija.
+Deflagracija
+Pri deflagraciji se razpad eksplozivne snovi širi preko ognjene fronte, ki se skozi eksplozivno snov giblje počasi. Deflagracija je značilna za nizkoeksplozivne snovi.
+Detonacija
+Detonacija je pojav, v katerem se razpad eksplozivne snovi širi po snovi z eksplozijskimi udarnimi valovi. Hitrost čela udarnega vala skozi visoko eksplozivno snov je zelo velika in običajno doseže nekaj tisoč metrov na sekundo.
+Mehanska
+Eksotična
+Poleg kemičnih eksplozivov obstoja tudi vrsta eksotičnih eksplozivnih snovi in teoretičnih metod, ki povzročijo eksplozijo. Sem spadajo različni jedrski eksplozivi, antimaterija in nenadno segrevanje snovi v stanje plazme z zelo zmogljivim laserjem ali električnim oblokom.
+Lastnosti eksplozivnih snovi
+Pri določanju primernosti eksplozivne snovi za nek poseben namen se najprej pečijo njene fizikalne lastnosti. Uporabnost eksploziva je potrjena šele potem, ko so popolnoma znane vse njegove lastnosti in dejavniki, ki vplivajo nanj. Med najpomembnejše lastnosti eksploziva spadajo:
+Dostopnost in cena
+Dostopnost in ceno eksploziva določajo razpoložljivost surovin za njegovo proizvodnjo in njhova cena ter zahtevnost in varnost proizvodnje.
+Občutljivost
+Občutljivost eksploziva je njegova lastnost, kako lahko in s čim se vname oziroma detonira, se pravi količina in intenzivnost udarca, trenja ali toplote, ki je za to potrebna. Občutljivost eksploziva je širok pojem, zato je treba točno vedeti, za katero občutljivost gre. Občutljivosti nekega eksploziva na trenje ali toploto sta namreč lahko zelo različni. Za ugotavljanje občutljivosti se uporabljajo naslednje metode:
+
+Občutljivost na udarec se izraža z višino, s katere mora pasti standardizirana, da snov eksplodira.
+Občutljivost na trenje se izraža s posledicami, ki jih povzroči utež nihala, ko podrgne po površini eksploziva (raza, razpoka, vžig in/ali eksplozija).
+Toplotna občutljivost se izraža s temperaturo, pri kateri se snov vname ali eksplodira.
+
+Občutljivost je pomemben podatek pri izbiranju eksploziva za določene namene. Eksplozivi v projektilih za prebijanju oklepov oklepnega orožja, morajo biti relativno neobčutljivi, da detonirajo v ravno pravi globini. Zelo neobčutljive morajo biti tudi eksplozivne leče okrog jedrskih nabojev, da se zmanjša tveganje nezgodnih eksplozij.
+Občutljivost na iniciacijo
+Občutljivost na iniciacijo je količina inicialnega eksploziva, ki je potrebna, da detonacija poteče brez prekinitve. Definirana je kot moč detonatorja, ki zanesljivo sproži nepretrgano detonacijo. Referenca za moč detonatorja je Selier-Bellotova skala, ki je sestavljena iz desetih detonatorjev z oznakami od 1 do 10. Vsak naslednji detonetor ima večjo moč. V praksi je večina sodobnih eksplozivov občutljiva na detonator št. 8, ki je ekvivalenten dvema gramoma živosrebrovega fulminata.
+Hitrost detonacije
+Hitrost detonacije je hitrost, s katero se kemijska reakcija širi po eksplozivu. Večina sodobnih rudarskih eksplozivov ima hitrost detonacije od 1800 do 8000 m/s. Hitrost detonacije se da meriti zelo natančno. Hitrost je skupaj z gostoto pomemben element, ki vpliva na izkoristek sproščene energije, tako v zraku kot v tleh.
+Stabilnost
+Stabilnost je sposobnost eksploziva, da se lahko skladišči brez kvarjenja. Na stabilnost eksploziva vplivajo naslednji činitelji:
+
+Kemijska sestava. Dejstvo, da nekatere običajne kemijske spojine pri segrevanju eksplodirajo, kaže na nestabilnost njihove zgradbe. Za takšno obnašanje ni nobene natančne razlage, na splošno pa velja spoznanje, da so v nekaterih radikalskih skupinah, na primer v nitritni (-NO2), nitratni (-NO3) in azidni (-N3), neke notranje napetosti. Povečanje napetosti zaradi segravanja lahko povzroči v molekuli nenaden razpad in posledično eksplozijo. V nekaterih primerih je molekula tako nestabilna, da razpad poteče že pri sobni temperaturi.
+Temperatura skladiščenja. Hitrost razpadanja eksplozivnih snovi z naraščajočo temperaturo raste. Za vse standardne vojaške eksplozive velja, da imajo visoko stabilnost pri temperaturah od -10 do +35°C, vsak od njih pa ima neko temperaturo, nad katero se hitrost razpadanja hitro poveča in temu primerno zmanjša njegova stabilnost. V grobem velja pravilo, da postane večina eksplozivov nevarno nestabilna pri temperaturah nad 70°C.
+Izpostavljenost soncu. Ultravijolični sončni žarki lahko povzročijo hiter razpad mnogih eksplozivnih snovi, ki vsebujejo funkcionalne skupine z dušikom, kar zmanjša njihovo stabilnost.
+Električno praznjenje. Številni eksplozivi so občutljivi na statično elektriko ali iskro, ki v določenih okoliščinah lahko sprožita detonacijo. Zaradi varnosti pri ravnanju z eksplozivi morajo biti pirotehniki skoraj vedno električno ozemljeni.
+
+Moč
+Moč ali učinek eksploziva pomenita njegovo sposobnost, da opravi neko delo. V praksi je moč eksploziva definirana kot njegova sposobnost, da odda zahtevano količino energije na primer za izstrelitev projektila, zračni udar, pogon raketnega motorja, podvodni udar itd. Moč oziroma učinek eksploziva se ovrednoti z nizom preskusov, na podlagi katerih se ugotovi, za kakšne namene je eksploziv primeren. Nekaj preskusov je opisanih v naslednih opisih. Preskus z raztezanjem valja in razstrelitev na zraku se uporabljata za večino eksplozivov, drugi preskusi pa so prilagojeni za posebne namene.
+
+Raztezanje valja. V dolg, votel, običajno bakren valj, se vloži standardno količino eksploziva. Eksploziv se na eni strani valja detonira, zatem pa se izmerijo podatki, ki so povezani s hitrostjo radialnega raztezanja valja in maksimalna hitrost stene valja. S preskusom se določi tudi Gurneyevo energijo ali 2E.
+Fragmentacija valja. Standardiziran jeklen valj se napolni z eksplozivom in detonira v jami, napolnjeni z žagovino. Po eksploziji se zberejo delci valja in naredi analiza porazdelitve njihove velikosti.
+Detonacijski tlak. Podatke o detonacijskem tlaku se dobi z merjenjem udarnih valov, ki jih v vodi povzroči detonacija valjastega eksplozivnega naboja standardne velikosti.
+Kritični premer. S tem preskusom se določa minimalna fizična velikost naboja eksploziva, ki je potrebna, da prenaša svoj detonacijski val. Kritični premer se določa z detoniranjem niza nabojev z različnimi premeri.
+Hitrost detonacije naboja z neskončnim premerom. Hitrost detonacije je odvisna od gostote (c) in premera naboja ter velikosti delcev. Hidrodinamična teorija detonacije, ki se uporablja za opisovanje eksplozije, ne upošteva premera naboja, zato se hitrost detonacije nanaša na nek imaginaren naboj z neskončnim premerom. Za ugotavljanje hirosti se uporabi niz nabojev z enako gostoto in obliko in različnimi premeri. Naboji se detonirajo, izmerjene hitrosti detonacije pa se ekstrapolirajo na hitrost detonacije naboja z neskončnim premerom.
+Tlak na predpisani razdalji. Naboj določene velikosti se detonira, zatem pa se izmeri tlak na predpisani razdalji. Dobljeno vrednost se primerja z vrednostjo za TNT.
+Impulz na predpisani razdalji. Naboj določene velikosti se detonira, zatem pa se na predpisani razdalji izmeri njegov impulz, se pravi pritisk v odvisnosti od časa. Rezulati se tabelirajo in izrazijo v ekvivalentih TNT.
+Relativna energija mehurčka (RBE) 5–50 kg naboj se detonira v vodi. S piezoelektričnimi tipali se izmeri maksimalni pritisk, časovna konstanta, impulz in energija.
+
+Brizantnost
+Eksploziv ima poleg moči še eno značilnost: sposobnost drobljenja ali brizantnost. V eksploziji cisterne propana, na primer, se sprosti več kemijske energije kot v eksploziji 30 g nitroglicerin, toda cisterna se bo razletela v velike kose zvite pločevine, medtem ko se bo kovinsko ohišje, v katerem je bil nitroglicerin, uprašilo. Ta značilnost eksploziva je pomembna za ugotavljanje učinkovitosti eksploziva za drobljenju ohišij granat, bomb in ročnih bomb. Merilo za brizantnost je hitrost, s katero eksploziv doseže svoj maksimalni tlak oziroma moč.
+Za neposredno primerjanje eksplozivnih lastnosti dveh ali več snovi ni na razpolago nobenega posebnega preskusa. Relativna brizantnost v primerjavi s TNT se običajno opravi s preskusom drobljenja peska, Trauzlovim preskusom s svinčenim blokom in drugih preskusi. Za ugotavljanje resnične brizantnosti so potrebni preskusi na terenu.
+Gostota
+Gostota polnjenja je masa eksploziva v enoti volumna. Eksploziv se lahko polni na več načinov: z vsipanjem granulata, ulivanjem in stiskanjem. Od načina polnjenja sta odvisna obnašanje eksploziva in njegova gostota. Povprečna gostota polnjenja je običajno 80-99 % maksimalne teoretične gostote eksploziva. Visoka gostota polnjenje lahko zmanjša občutljivost eksploziva, ker je masa bolj odporna na notranje trenje, če se gostota poveča do te mere, da pride do drobljenja posameznih kristalov, pa se občutljivost lahko poveča. Večja gostota omogoča tudi večjo maso naboja in s tem njegovo moč. Možno je tudi, da se eksploziv stisne preko točke občutljivosti, v kateri se eksploziva ne da več zanesljivo inicirati, če sploh.
+Hlapnost
+Hlapnost je lastnost snovi, da izpareva. Prekomerna hlapnost pogosto povzroči povečanje tlaka v granatah in nabojih, razpad zmesi v njene komponente in zmanjšanje stabilnosti eksploziva do te mere, da postane ravnanje z njim lahko nevarno.
+Higroskopnost in odpornost proti vodi
+Higroskopnost je sposobnost snovi, da absorbira vlago iz okolice. Prisotnost vode v eksplozivu zmanjšuje njegovo občutljivost ter moč in hitrost detonacije in je zato zelo nezaželena. Vlaga v eksplozivu lahko deluje kot inertna snov, ki med eksplozijo izpari in s tem porablja toploto in znižuje temperaturo eksplozije, lahko pa deluje kot topilo in povzroči nezaželene kemijske reakcije, na primer hidrolizo. Vse inertne snovi zmanjšujejo kontinuiteto mase eksploziva in s tem njegovo občutljivost, moč in hitrost detonacije. Vlaga zmajšuje tudi stabilnost eksploziva in povzroča korozijo kovinskih vsebnikov.
+Eksplozivi se v prisotnosti vode obnašajo zelo različno. Želatinasti dinamiti, ki vsebujejo nitroglicerin, so na vlago dokaj odporni, medtem ko so eksplozivi na osnovi amonijevega nitrata slabo odporni ali celo neodporni.
+Toksičnost
+Večina eksplozivov je zaradi svoje kemijske sestave bolj ali manj toksična. Toskični so tudi nekateri plini, ki nastanejo med eksplozijo.
+Eksplozijska veriga
+Eksplozijska veriga ali eksplozijsko zaporedje eskplozivne snovi je zaporedje dogodkov, ki kulminirajo v detonaciji eksploziva. Primer takšne verige je aktiviranje inicialnega eksploziva, ki sproži detonacijo glavnega naboja.
+Volumen produktov eksplozije
+Avogadrov zakon pravi, da je v enakih volumnih vseh idealnih plinov pri enaki temperaturi in tlaku enako število molekul. To pomeni, da je molski volumen vseh plinov enak in pri temperaturi 0°C in normalnem atmosferskem tlaku meri 22,4 l.
+Razpad nitroglicerina poteka po naslednji kemijski enačbi:
+
+C3H5(NO3)3 → 3CO2 + 2,5H2O + 1,5N2 + 0,25O2
+
+Če eksplodira 1 mol nitroglicerina, nastane 7,25 molov produktov, ki so vsi v plinastem stanju. To pomeni, da pri normalnih pogojih nastane 7,25 x 22,4 = 162,4 l plinov. Volumen plina se pri segrevanju za 1°C skladno z Gay-Lussacovim zakonom poveča za 1/273,15 njegovega volumna pri 0°C. Molski volumen idealnega plina pri 15°C je torej enak
+
+V15 = 22,414 (288,15/273,15) = 23,64 l/mol,
+
+volumen plinov, ki nastanejo iz 1 mola nitroglicerina pa
+
+V = (23,64 l/mol)(7,25 mol) = 171,4 l
+
+Potencial eksploziva
+Potencial eksploziva je celotno delo, ki ga lahko opravijo plini, nastali v eksploziji, ki adiabatno ekspandirajo, doker njihov tlak ne doseže atmosferskega tlaka in se ohladijo na temperaturo 15°C. Potencial eksploziva je torej enak celotni sproščeni toploti pri konstantnem volumnu, izraženi v ekvivalentnih enotah za delo. Potencial je torej merilo za moč eksploziva.
+Bilanca kisika (OB% ali Ω)
+Bilanca kisika je pokazatelj stopnje, do katere se eksploziv lahko oksidira. Če molekula eksploziva vsebuje ravno pravo količino kisika za pretvorbo vseh ogljikovih atomov v ogljikov dioksid, vseh vodikovih atomov v vodo in vseh atomov kovin v kovinske okside, ima molekula bilanco kisika enako nič. Če molekula vsebuje prebitek kisika, je njena bilanca pozitivna, če ima premalo kisika pa negativna.[1] Občutljivost eksploziva, moč in brizantnost so do neke mere povezani z bilanco kisika in se približujejo svojim maksimalnim vrednostim, ko se bilanca kisika približuje vrednosti nič.
+Kemijska sestava
+Eksploziv je lahko kemijsko čista snov, na primer nitroglicerin, zmes goriva in oksidanta, na primer črni smodnik ali zmes, na primer žitnega prahu in zraka.
+Kemijsko čiste spojine
+
+
+
+
+Detonacija 500-tonskega TNT eksploziva kot del operacije Sailor Hat leta 1965
+
+
+Nekatere kemijske spojine so nestabilne do takšne mere, da reagirajo na udarec in v skrajnem primeru tudi eksplodirajo. Vsaka molekula spojine razpade na dve ali več molekul, praviloma plina, pri čemer se sprosti energija. Med kemijsko čiste eksplozive spadajo:
+
+Nitroglicerin: zelo nestabilna in občutljiva tekočina.
+Aceton peroksid: zelo nestabilen organski peroksid.
+TNT (trinitro tuluen): neobčutljivi rumeni kristali, ki se lahko talijo in ulivajo brez detonacije.
+Nitroceluloza: nitrirana celuloza, ki je lahko visoko ali nizko eksplozivna, odvisno od stopnje nitracije in pogojev.
+RDX (ciklotrimetilen trinitramin), PETN (pentaeritritol tetranitrat), HMX (oktahidro-tetranitro-tetrazocin): zelo močni eksplozivi, ki se lahko uporabljajo čisti ali plastificirani.
+
+C4: plastificiran RDX, ki se lahko gnete in lepi na podlago.
+
+
+
+Omenjene čiste spojine običano sestavljajo glavnino eksploziva, saj se v praksi k njim primešajo manjše količine drugih snovi. Dinamit, na primer, je zmes zelo občutljivega nitroglicerina z lesnim prahom ali dobro uprašenim silicijevim dioksidom, najpogosteje pa z diatomejsko zemljo. Primesi delujejo kot stabilizatorji. Eksplozivom se lahko dodajo tudi plastične snovi in polimeri, ki povežejo prah v kompaktno maso. Voski omogočajo varnejše ravnjanje, aluminijev prah pa poveča celotno energijo in rušilni učinek. Iz eksplozivov se proizvajajo tudi njihove »zlitine«: HMX ali RDX se pogosto v talini mešata s TNT in tvorita Octol in Cycloctol.
+Zmes oksidanta in goriva
+Oksidant je čista snov, ki v kemijski reakciji z gorivom zreagira v obliki eksplozije. Zelo pogost oksidant je zračni ali tekoči kisik.
+
+Črni smodnik: zmes kalijevega nitrata, oglja in žvepla
+Bliskavica: zmes finega kovinskega prahu, običajno aluminija ali magnezija, in močnega oksidanta, na primer kalijevega klorata ali perklorata
+Amonal: zmes amonijevega nitrata in aluminijevega prahu
+Armstrongova zmes: zmes kalijevega klorata in rdečega fosforja; zmes je zelo občutljiva; občutljivost rahlo zmanjša delna ali popolna zamenjava fosforja z žveplom
+Sprengeljevi eksplozivi: razred eksplozivov, ki so sestavljeni iz močnega oksidanta in zelo reaktivnega goriva; najpogostejše so zmesi kloratov in nitroaromatov
+
+ANFO: zmes amonijevega nitrata in težkega olja
+Chedditi: zmesi kloratov ali perkloratov in olja
+Oksilikviti: zmesi organskih spojin in tekočega kisika
+Panklastiti: zmesi organskih spojin in didušikovega tetroksida
+
+
+
+Razvrščanje eksplozivnih snovi
+Razvrščanje po občutljivosti
+Primarni eksplozivi
+Primarni eksplozivi so eksplozivi, ki so izjemno občutljivi na udarec, trenje, statično elektriko in elektromagnetno sevanje. Za njihovo iniciacijo je potrebna relativno majhna količina energije. Po zelo grobem pravilu mednje spadajo vsi eksplozivi, ki so občutljivejši od PETN (pentaeritritol tetranitrat). V praksi to pomeni, da za njihovo zanesljivo iniciranje zadostuje udarec s kladivom. Pravilo je zelo splošno, saj se z udarcem kladiva lahko inicira tudi PETN, dušikov trijodid pa je tako občutljiv, da se z njim ne da ravnati, ne da bi pri tem ne prišlo do detonacije.
+Primarni eksplozivi se pogosto uporabljajo kot detonatorji za proženje večjih nabojev manj občutljivih sekundarnih eksplozivov. Primarni eksplozivi v vžigalnih kapicah prevedejo signal (električni tok, udarec, svetkobo) v eksplozijo. Za iniciranje večjih nabojev običajno zadostuje zelo majhna količina primarnega eksploziva (nekaj miligramov).[2]
+Med primarne eksplozive spadajo:
+
+Aceton peroksid
+Amonijev permanganat
+Azo-klatrati
+Bakrov acetilid
+Diazodinitrofenol
+Heksametilen triperoksid diamin
+Svinčev azid
+Svinčev trinitroresorcinat
+Svinčev pikrat[3]
+Živosrebrov fulminat
+Dušikov triklorid
+Dušikov trijodid
+Nitroglicerin
+Srebrov azid
+Srebrov acetilid
+Srebrov fulminat
+Natrijev azid
+Tetacen
+Tetraaminski bakrovi kompleksi
+Tetrazoli
+
+Sekundarni eksplozivi
+Sekundarni eksplozivi so mnogo manj občutljivi od primarnih in za iniciacijo zahtevajo mnogo več energije. Zaradi svoje manjše občutljivosti so zelo široko uporabni in varnejši za ravnanje in skladiščenje. Inicirajo se z majhnimi količinami primarnih eksplozivov.
+Sekundarna eksploziva sta, na primer, TNT in RDX.
+Razvrščanje po hitrosti
+Nizko eksplozivni
+Nizko eksplozivne so snovi, v katerih se hitrost razpada širi po snovi s hitrostjo, manjšo od hitrosti zvoka. Razpad se širi z ognjeno fronto (deflagracija), katere hitrost je mnogo manjša od hitrosti udarnega vala v visoko eksplozivnih snoveh. Pri normalnih pogojih je hitrost deflagracije od nekaj centimetrov do približno 400 metrov na sekundo. Zelo velika hitrost deflagracije ima podoben učinek kot detonacija. Do tega lahko pride pri visokem tlaku in temperaturi, ki sta običanja pri vžigu v zaprtem prostoru.
+Nizko eksplozivni eksplozivi so najpogosteje zmesi gorljivih snovi in močnih oksidantov. Hitrost gorenja je vsekakor manjša kot pri visoko eksplozivnih eksplozivih, ki gorijo ekstremno hitro.
+Nizko eksplozivni eksplozivi se uprabljajo kot pogonska goriva. Mednje spadajo smodniki in zmesi za svetlobna pirotehnična sredstva, na primer rakete in ognjemete.
+Visoko eksplozivni
+Visoko eksplozivi eksplozivi so snovi, ki detonirajo, sa pravi da se eksplozivni udar po njih širi z nadzvočno hitrostjo. Hitrost detonacije je od 3000 do 9000 metrov na sekundo. Uprabljajo se v rudarstvu, za rušenju objektov in v vojaške namene. Po občutljivosti se delijo v primarne in sekundarne eksplozive.
+Razvrščanje po sestavi
+Netila
+Netila so zmesi primarnih eksplozivov in dodatkov, ki uravnavajo (znižujejo) občutljivost eksploziva do zaželene stopnje.
+Primer: primarni eksplozivi so tako občutljivi, da se morajo skladiščiti in transportirati v mokrem stanju, s čemer se prepreči nezgodno iniciacijo.
+Po transportnih oznakah
+
+
+
+
+Opozorilni znak za označevanje eksplozivnih snovi
+
+
+Transportne oznake in etikete lahko vsebujejo oznake Organizacije združenih narodov in nacionalne oznake.
+Oznake Združenih narodov vsebujejo številko razreda nevarnosti in skupino (angleško: HC/D - Hazard Class and Division) ter črkovno oznako združljivosti. Razred in skupina sta sicer povezana, vendar sta različna in sta zato ločena. Primera takšnih oznak sta 1.4G in 1.4S, ki veljata za potrošniške ognjemete.
+Oznake OZN (HC/D)
+Razred nevarnosti in skupina (HC/D) je številčna oznaka znotraj razreda nevarnosti, ki opisuje prevladujoče nevarnosti, morebitne človeške žrtve in uničenje dobrin. Sistem je mednarodno sprejet, ker z najmanjšim možnim številom oznak sporoča glavne nevarnosti, ki so povezane z eksplozivno snovjo.[4]
+Razred 1 (eksplozivi)
+Razred 1 (eksplozivi) je razdeljen na naslednje skupine:[5]
+1.1 Nevarnost obsežne detonacije. V skupini HC/D 1.1 se pričakuje, da bo nenamerna eksplozija ene same enote ali palete povzročila detonacijo sosednjih enot. Eksplozija se lahko razširi na celotno količino ali večino vskladiščenih zalog in povzroči obsežno detonacijo. Dodatna nevarnost v okolici eksplozije so fragmenti poškodovanih vsebnikov in zgradb.
+1.2 Zmerna eksplozija, ki proizvaja fragmente. Skupina HC/D 1.2 je razdeljena na tri podskupine HC/D 1.2.1, 1.2.2 in 1.2.3, odvisno od obsega učinka eksplozije.
+1.3 Obsežen požar, majhna nevarnost detonacije in fragmentov. V to kategorijo spadajo pogonska goriva in mnoga pirotehnična sredstva. Iniciacija ene embalažne enote ali skladovnice se običajno razširi na sosednje enote in povzroči obsežen požar.
+1.4 Zmeren požar brez detonacije in fragmentov. V skupino HC/D 1.4 spadajo manj nevarni eksplozivi, na primer municija za večino ročnega orožja in nekaj pirotehničnih sredstev. Pri nenamerni iniciaciji teh predmetov ostane večina energije in fragmentov v skladiščnem prostoru ali celo v samih vsebnikih.
+1.5 Nevarnost obsežne detonacije, zelo neobčutljivo.
+1.6 Nevarnost detonacije brez obsežne detonacije, izjemno neobčutljivo.
+Združljivost skupin iz Razreda 1
+Združljivost skupin pomeni združljivost skladiščenja eksplozivnih snovi iz Razreda 1. Eksplozivi so razdeljeni na trinajst združljivih skupin.
+A: primarni eksplozi (1.1A).
+B: predmeti, ki vsebujejo primarne eksplozive in ne vsebujejo dveh ali več učinkovitih zaščitnih naprav. Sem spadajo detonatorski sklopi za razstreljevanje in netilke (1.1B, 1.2B, 1.4B)
+C: pogonske eksplozivne snovi in drugi deflagracijski eksplozivi ter predmeti, ki vsebujejo takšne eksplozivne snovi (1.1C, 1.2C, 1.3C, 1.4C). Sem spadajo neembalirana pogonska goriva, pogonski naboji in naprave, ki vsebojejo pogonska goriva z vžigalnimi napravami ali brez njih. V to skupino spadajo enokomponentna, dvokomponentna, trokomponentna in kompozitna pogonska goriva, trdna goriva za raketne motorje in municija z inertnimi projektili.
+D: sekundarni detonacijski eksplozivi, črni smodnik, predmeti, ki vsebujejo sekundarni detonacijski eksploziv, vendar brez iniciatorjev in pogonskih nabojev in predmeti, ki vsebujejo primarni eksploziv in dve ali več učinkovitih zaščitnih naprav (1.1D, 1.2D, 1.4D, 1.5D).
+E: predmeti, ki vsebujejo sekundarni detonacijski eksploziv brez vžigalnih naprav in pogonski naboji, ki ne vsebujejo vnetljive tekočine, gela ali hipergolične tekočine (1.1E, 1.2E, 1.4E).
+F: predmeti, ki vsebujejo sekundarni detonacijski eksploziv, vžigalne naprave in pogonske naboje, razen tistih, ki vsebujejo vnetljivo tekočino, gel ali hipergolično tekočino, pa tudi tisti brez pogonskih nabojev (1.1F, 1.2F, 1.3F, 1.4F).
+G: pirotehnične snovi ali predmeti, ki vsebujejo pirotehnične snovi, predmeti, ki vsebujejo eksploziv in svetilno snov, zažigalna sredstva, snovi ki povzročajo solzenje ali sproščajo dim. V to skupino ne spadajo snovi in predmeti, ki se aktivirajo z vodo, vsebujejo beli fosfor, fosfide, vnetljive tekočine, gele in hipergolične tekočine (1.1G, 1.2G, 1.3G, 1.4G). V skupino G spadajo svetlobni signali za pristajanje, svetlobne rakete, zažigalna sredstva, svetleča municija in naprave, ki sproščajo dim in solzivce.
+H: predmeti, ki vsebujejo eksplozivno snov in beli gosfor (1.2H, 1.3H). Ti predmeti se samodejno vžgejo v stiku z zrakom.
+J: predmeti, ki vsebujejo eksplozivno snov in vnetljivo tekočino ali gel (1.1J, 1.2J, 1.3J). Tekočine in geli, ki se samodejno vžgejo v stiku z vodo, so izvzeti in spadajo v skupino H. V to skupino spadajo zažigalni naboji, napolnjeni s tekočino ali gelom, eksplozivne naprave gorivo-zrak (FAE) in izstrelki z vnetljivim tekočim pogonskim gorivom.
+K: predmeti, ki vsebujejo eksplozivno snov in toksičen kemični agens (1.2K, 1.3K).
+L: eksplozivne snovi ali predmeti, ki vsebuje eksplozivno snov in povzročajo posebno nevarnost, na primer v stiku z vodo, vsebujejo hipergolične tekočine, fosfide ali pirofosforjeve spojine in zahtevajo strogo ločeno skladiščenje posameznih skupin (1.1L, 1.2L, 1.3L). V to skupino spada poškodovana municija in municija sumljive kakovosti.
+N: predmeti, ki vsebujejo samo izjemno neobčutljive detonirajoče snovi (1.6N).
+S: snovi ali predmeti, ki so zasnovani ali pakirani tako, da je nevarnost zaradi njihovega nezgodnega delovanja omejena do takšne mere, da za zadrževanje in gašenje v bližini teh snovi ali predmetov ni posebnih omejitev (1.4S).
+Sklici in opombe
+
+
+^ Meyer, Rudolf; Josef Köhler, Axel Homburg (2007). Explosives, 6th Ed.. Wiley VCH. ISBN 3-527-31656-6. 
+^ Primary Explosives. Globalsecurity.org. Retrieved on 2010-02-11.
+^ PowerLabs Lead Picrate Synthesis
+^ Table 12-4.—United Nations Organization Hazard Classes. Tpub.com. Pridobljeno 11. februarja 2010.
+^ Celotna tabela OZN je v točki 3-8 in 3-9 NAVSEA OP 5, 1. del, 3. poglavje
+
+
+Viri
+
+Army Research Office. Elements of Armament Engineering (Part One). Washington, D.C.: U.S. Army Materiel Command, 1964.
+Commander, Naval Ordnance Systems Command. Safety and Performance Tests for Qualification of Explosives. NAVORD OD 44811. Washington, D.C.: GPO, 1972.
+Commander, Naval Ordnance Systems Command. Weapons Systems Fundamentals. NAVORD OP 3000, vol. 2, 1st rev. Washington, D.C.: GPO, 1971.
+Departments of the Army and Air Force. Military Explosives. Washington, D.C.: 1967.
+USDOT Hazardous Materials Transportation Placards
+Swiss Agency for the Environment, Forests, and Landscap.  »Occurrence and relevance of organic pollutants in compost, digestate and organic residues«, Research for Agriculture and Nature. 8 November 2004. p 52, 91, 182.
+
+Zunanje povezave
+
+Blaster Exchange - Explosives Industry Portal
+Explosive information and guides
+Why high nitrogen density in explosives?
+The Explosives and Weapons Forum
+Military Explosives
+[1] UN Hazard Classification Code na Global Security.org
+Explosives na GlobalSecurity.org
+Class 1 Hazmat Placards
+Journal of Energetic Materials
+
+
+
+
+
+
+
+
+
+Portal Vojaštvo
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Eksploziv&oldid=3853593«				
+Kategorija: Eksplozivi 
+
+
+

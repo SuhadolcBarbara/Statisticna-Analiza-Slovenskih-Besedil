@@ -1,0 +1,537 @@
+
+
+
+
+
+
+
+mangan – železo – kobalt
+
+
+Fe
+Ru  
+ 
+ 
+
+
+
+Celotna tabela
+
+
+
+
+
+
+Splošno
+
+
+Ime, simbol, vrstno število
+železo, Fe, 26
+
+
+Kemijska vrsta
+prehodna kovina
+
+
+Skupina, perioda, blok
+8 (VIIIB), 4 , d
+
+
+Gostota, trdota
+7874 kg/m3, 4,0
+
+
+Videz
+svetleča kovina
+s primesjo sive
+
+
+
+Lastnosti atoma
+
+
+Relativna atomska masa
+55,845 a. e. m.
+
+
+Atomski polmer (izračunan)
+140 (156) pm
+
+
+Kovalentni polmer
+125 pm
+
+
+van der Waalsov polmer
+ni podatka
+
+
+Elektronska konfiguracija
+[Ar]3d64s2
+
+
+e- na energijski nivo
+2, 8, 14, 2
+
+
+Oksidacijska stanja (oksid)
+2,3,4,6 (amfoteren)
+
+
+Kristalna struktura
+Telesno centrirana kocka
+
+
+Fizikalne lastnosti
+
+
+Agregatno stanje
+trdno (feromagnetik)
+
+
+Tališče
+1808 K (2795 °F)
+
+
+Vrelišče
+3023 K (4982 °F)
+
+
+Molski volumen
+7,09 ×10−6 m3/mol
+
+
+Izparilna toplota
+349,6 kJ/mol
+
+
+Talilna toplota
+13,8 kJ/mol
+
+
+Parni tlak
+7,05 Pa pri 1808 K
+
+
+Hitrost zvoka
+4910 m/s pri 293,15 K
+
+
+Razne lastnosti
+
+
+Elektronegativnost
+1,83 (Paulingova lestvica)
+
+
+Specifična toplota
+440 J/(kg · K)
+
+
+Električna prevodnost
+9,93 106/(m·ohm)
+
+
+Toplotna prevodnost
+80,2 W/(m·K)
+
+
+1. ionizacijski potencial
+762,5 kJ/mol
+
+
+2. ionizacijski potencial
+1561,9 kJ/mol
+
+
+3. ionizacijski potencial
+2957 kJ/mol
+
+
+4. ionizacijski potencial
+5290 kJ/mol
+
+
+Najstabilnejši izotopi
+
+
+
+
+
+izo
+NA
+t1/2
+DM
+DE MeV
+DP
+
+
+54Fe
+5,8 %
+Fe je stabilen z 28 nevtroni
+
+
+55Fe
+{sint.}
+2,73 y
+ε capture
+0,231
+55Mn
+
+
+56Fe
+91,72 %
+Fe je stabilen z 30 nevtroni
+
+
+57Fe
+2,2 %
+Fe je stabilen z 31 nevtroni
+
+
+58Fe
+0,28 %
+Fe je stabilen z 32 nevtroni
+
+
+59Fe
+{sint.}
+44,503 d
+β
+1,565
+59Co
+
+
+60Fe
+{sint.}
+1,5E6 y
+β-
+3,978
+60Co
+
+
+
+
+
+Če ni označeno drugače, so
+uporabljene enote SI in standardni pogoji.
+
+
+Želézo (latinsko ferrum) je kemični element z znakom Fe v periodnem sistemu elementov in atomskim številom 26.
+V normalnem stanju je navadna (prava) kovina. Železo in nikelj sta znana po tem, da sta zadnja elementa, ki nastaneta v zvezdni nukleosintezi, in sta zaradi tega najtežja elementa, ki za nastanek ne potrebujeta supernove ali podoben kataklizmičen dogodek. Železo in nikelj sta tako najpogostejši kovini v kovinskih meteoritih in v gostih kovinskih skorjah planetov, kot je Zemlja.
+
+
+Vsebina
+
+
+1 Pridobivanje
+2 Tehnična uporaba
+3 Železo v organizmu
+
+3.1 Pomanjkanje železa
+3.2 Toksičnost
+3.3 Interakcije
+
+
+4 Glej tudi
+5 Literatura
+6 Zunanje povezave
+
+
+Pridobivanje
+Pomembnejše rudnine, iz katerih pridobivamo železo, so magnetit, hematit, limonit, siderit in piritni ogorki. Postopek pridobivanja lahko poteka na več različnih načinov:
+
+prek železove gobe (ni več v uporabi),
+taljenje in redukcija rud v plavžih (visokih pečeh), žilavenje, elektroliza za čisti Fe
+
+Železo je četrti najpogostejši element in najpogostejša težka kovina v zemeljski skorji. Ni še natančno znano, ali je zemeljska sredica res sestavljena iz zlitine železa in niklja. Železo je elementarno le v meteorjih, sicer je kemijsko vezano, tudi v organizmih. Rumeno, rjavo ali rdečo barvo dajejo prsti predvsem železovi oksidi.
+Železova ruda je zelo poceni, njeno ceno v glavnem določajo le stroški prevoza. Cena železa je potemtakem odvisna od cene goriva in od stroškov drugih, za proizvodnjo potrebnih snovi. Da dobijo 1000 ton železa, potrebujejo okrog 2000 ton rude, 1000 ton koksa, 600 ton dodatkov (npr. apnenca), 4000 ton zraka in 30 000 ton tehnološke vode za hlajenje in izpiranje. Po drugi strani pa na vsako tono železa nastane 600 ton odpadkov, 125 ton prahu in 5900 ton plavžnih plinov.[navedi vir]
+Tehnična uporaba
+
+lito železo
+jeklo (železo z ogljikom in dodatki)
+čisto železo kot mehkomagnetni material, v elektronkah itd.
+
+Železo v organizmu
+Železo je eden najpomembnejših biogenih elementov človeškega organizma. Skupna količina v telesu zdravega, odraslega človeka znaša 4,5 g. Je sestavni del več sto proteinov in encimov, med katerimi velja izpostaviti naslednje:
+
+železo v hemu je sestavni del proteinov udeleženih pri prenosu kisika- hemoglobina in mioglobina,
+hem je kofaktor citokromov-ključnih encimov biotransformacije ksenobiotikov,
+hem je kofaktor številnih encimov, ki sodelujejo pri mitohondrijskem prenosu elektronov oz. pri dihalni verigi,
+železo vsebujoči proteini z nehemsko strukturo, kot sta NADH dehidrogenaza in sukcinat dehidrogenaza, so ključni encimi primarnega metabolizma,
+katalaze in peroksidaze so hemski proteini, ki sodelujejo pri razgradnji vodikovega peroksida ter varujejo celice pred škodljivimi kisikovimi zvrstmi,
+hemski encim mieloperoksidazo uporabljajo nevtrofilci pri sintezi hipoklorne kisline, slednjo pa uporabljajo pri uničenju bakterij,
+človeški organizem uporablja železo-vsebujoč encim prolil hidroksilazo kot enega izmed senzorjev za hipoksijo ter tako omogoča prilagodljivost človeškega telesa življenju na različnih nadmorskih višinah,
+ribonukleotid reduktaza je železo-vsebujoč encim udeležen pri sintezi DNA
+
+Z uravnoteženo prehrano se dnevno vnese 10 do 30 mg železa. Naravni viri so tako rastlinskega kot živalskega izvora. Naslednja preglednica prikazuje količino železa v posamezni hrani na 100 g določenega živila.
+
+
+Živilo
+Železo (mg)
+
+
+Leča
+11,1
+
+
+Školjke
+10,9
+
+
+Goveja jetra
+10,8
+
+
+Sezam
+10,4
+
+
+Sojino zrnje
+9,7
+
+
+Piščančja jetra
+9,2
+
+
+Rdeč fižol
+6,4
+
+
+Ostrige
+5,1
+
+
+Govedina na žaru
+4,25
+
+
+Mandlji
+4,0
+
+
+Suhe marelice
+3,2
+
+
+Jajce
+2,0
+
+
+Piščančje prsi
+1,9
+
+
+Tofu
+1,2
+
+
+Losos
+1,2
+
+
+Brokoli
+1,0
+
+
+Absorpcija železa je v človeškem organizmu omejena s fizikalno-kemijskimi lastnostmi železovih ionov in s fiziološkim stanjem železa v organizmu. Železo v hrani živalskega izvora prihaja vezano na proteine, v hrani rastlinskega izvora prihaja kot sol anorganskih kislin. Železo, ki se uporablja v terapiji per os, prihaja kot sol anorganskih kislin. V organizmu zdravega, odraslega moškega se absorbira 0,5 do 1,0 mg železa, v organizmu zdrave, odrasle ženske 1,0 do 1,5 mg. V stanjih povečanih potreb je ta količina bistveno večja. Iz hrane živalskega izvora se železo absorbira sorazmerno dobro (20-odstotno), iz hrane rastlinskega izvora pa bistveno manj (10-odstotno). Železo v hrani je trivalentno, da se lahko absorbira, se mora najprej reducirat v dvovalentno. Absorpcija poteka po vsej dolžini tankega črevesa, vendar je najpomembnejša v duodenumu. V celicah črevesa se železo veže s proteinom apoferitin in nastaja feritin. Absorpcija se neha, ko so skladišča napolnjena in ves apoferitin izkoriščen. Ko se pojavi potreba po železu, se železo sprošča iz feritina, apoferitin pa se vrne v ciklus. Kolikor je omejena količina apoferitina, toliko je omejena tudi absorpcija železa( t.i. mukozna blokada). Če so potrebe po železu majhne, zaloge pa velike, se bo celotna količina absorbiranega železa prenesla v feritin. Tako se organizem zavaruje pred preveliko absorpcijo železa. Pred vstopom v plazmo se železo veže na feriglobulin in nastane transferin, s katerim se prenaša do ciljnega organa, kjer se veže na specifične receptorje. V procesu endocitoze transferin vstopa v eritroblast, sprošča železo in se uporablja v sintezi hemoglobina. Ena molekula transferina lahko veže največ 2 fero iona. Z merjenjem transferina se lahko določi kapaciteta možnega vezanega železa. Neuporabljeno železo se deponira v jetrih, vranici in kostnem mozgu kot rezervno železo. Železo se skladišči v dveh oblikah, pogostejši je feritin, topen v vodi, ki je sestavljen iz kristalov železovega hidroksida, prekritega z luskami beljakovine apoferitin. Druga oblika je v vodi netopen hemosiderin. Vrednost plazmatskega feritina se lahko uporablja za oceno zalog železa v organizmu. Absorpcija in prenosna kapaciteta se lahko povečuje pri pomanjkanju železa, hipoksiji, anemiji, pri povečani sintezi transferina.
+Nekateri dejavniki bodisi povečujejo bodisi zmanjšujejo absorpcijo. Med pospeševalce absorpcije železa štejemo:
+
+askorbinsko kislino (vitamin C): močno vpliva na absorpcijo železa z redukcijo trovalentnih železovih ionov v dvovalentne ter s tvorbo kompleksa z železovim Fe2+, ki ima visoko biološko uporabnost, železovi ioni v obliki Fe3+ se praktično ne absorbirajo,
+ostale organske kisline, kot so citronska, malna in mlečna kislina, ki vse po vrsti tvorijo različne komplekse z železovimi ioni Fe2+, in tako olajšajo njihovo absorpcijo
+rdeče meso, ribe, perutnina poleg tega, da vsebujejo železo v hemu, pospešujejo absorpcijo nehemskega železa.
+
+Zaviralci absorpcije so naslednji:
+
+fitinska kislina je prisotna v stročnicah, žitaricah in rižu, majhne količine fitinske kisline (5 do 10 mg) lahko zavrejo absorpcijo nehemskega železa do 50 %, zaradi česar je absorpcija železa iz zelenjave (soja, fižol, leča, grah) izjemno nizka
+polifenoli iz sadja, zelenjave, kave, čaja, vina in začimb lahko znatno zavrejo absorpcijo železa
+sojini proteini močno zavirajo absorpcijo železa, kar deloma sovpada s količino fitatov.
+
+Priporočeni dnevni odmerki železa po starostnih obdobjih so predstavljeni v naslednji preglednici:
+
+
+Življenjsko obdobje
+Starost
+Moški (mg/dan)
+Ženske (mg/dan)
+
+
+Dojenčki
+0-6 mesecev
+0,27
+0,27
+
+
+Dojenčki
+7-12 mesecev
+11
+11
+
+
+Otroci
+1-3 leta
+7
+7
+
+
+Otroci
+4-8 let
+10
+10
+
+
+Otroci
+9-13 let
+8
+8
+
+
+Adolescenti
+14-18 let
+11
+15
+
+
+Odrasli
+19-50 let
+8
+18
+
+
+Odrasli
+>51 let
+8
+8
+
+
+Nosečnice
+vse starosti
+-
+27
+
+
+Dojilje
+18 let in mlajše
+-
+10
+
+
+Dojilje
+19 let in starejše
+-
+9
+
+
+Pomanjkanje železa
+Pomanjkanje železa je najpogostejša oblika pomanjkanja mikroelementov v svetu. Poznamo 3 nivoje pomanjkanja železa, ki so razvrščeni glede na:
+
+izčrpane so zaloge, vendar funkcionalnega pomanjkanja še ni,
+zgodnje funkcionalno pomanjkanje železa že moti nastajanje rdečih krvnih celic,
+daljše pomanjkanja železa povzroči mikrocitno hipokromno slabokrvnost (anemijo), za katero so značilne majhne rdeče krvne celice z nizko vsebnostjo hemoglobina. Simptomi, kot so bledica, utrujenost, slabost, so posledica nezadostne oskrbe s kisikom. Ravno tako je moten potek vseh telesnih procesov, v katerih sodelujejo snovi, ki vsebujejo železo. Anemija zaradi pomanjkanja železa se zdravi z železovimi prehranskimi dopolnili.
+
+Vzroki za pomanjkanje so lahko:
+
+hitra rast,
+nosečnost- potrebe po železu so povečane zaradi oskrbe zarodka in posteljice ter povečanja volumna krvi,
+kronična krvavitev v primeru nekaterih bolezni,
+akutna krvavitev, ki pa običajno povzroči le kratkotrajno pomanjkanje, saj se izčrpajo le zaloge železa,
+bolezni, ki povzročajo slabšo absorpcijo železa v črevesju (celiakija, infekcija),
+vegetarijanstvo- ker je biološka razpoložljivost železa iz rastlinskih virov precej manjša kot biološka razpoložljivost iz živalskih virov, morajo vegetarijanci zaužiti približno 80 % več železa in paziti, da zaužijejo dovolj snovi, ki optimizirajo absorpcijo železa,
+redna in intenzivna telesna vadba- potrebe telesno aktivnih ljudi so lahko do 30 % višje kot pri neaktivni populaciji.
+
+Pri pomanjkanju železa pridejo v poštev prehranska dopolnila, ki vsebujejo železo v različnih oblikah in z različno vsebnostjo elementarnega železa:
+
+železov (II) sulfat heptahidrat, 22 % elementarnega železa,
+železov (II) sulfat monohidrat, 33 % elementarnega železa,
+železov (II) glukonat, 12 % elementarnega železa,
+železov (II) fumarat, 33 % elementarnega železa.
+
+Toksičnost
+Primeri zastrupitev z železom so redki. Pojavljajo se pri namernem jemanju velikih odmerkov ali pri obolenjih hemokromatoze, katerih vzrok je podedovana motnja čezmerne absorpcije železa. Smrtna doza je med 200 in 250 mg/kg telesne teže, simptomi akutne zastrupitve pa se lahko pojavijo že pri 20–60 mg/kg telesne teže. Simptomi se lahko pojavijo v štirih fazah:
+
+1-6 ur po zaužitju lahko pride do slabosti, bruhanja, šibkega srčnega utripa, nizkega krvnega tlaka, letargije in bolečin v trebušnem predelu,
+če zastrupitev ne povzroči takojšnje smrti, se lahko simptomi umirijo za naslednjih 12-24 ur,
+12-48 ur po zaužitju se simptomi vrnejo in lahko vključujejo še odpovedovanje srčno-žilnega sistema, jeter, ledvic in centralnega živčnega sistema,
+2-6 tednov po zaužitju se lahko razvijejo kronične poškodbe jeter, želodca in centralnega živčnega sistema.
+
+Interakcije
+
+Železo lahko vstopa v interakcije z mnogimi zdravili, pa tudi z določeno hrano in sestavinami hrane. Mleko, jajca, kava, črni čaj, fitinska kislina, celulozna vlakna zmanjšujejo absorpcijo železa, medtem ko jo alkohol znatno povečuje, kar lahko povzroči tudi toksičnost.
+
+
+Tetraciklinski antibiotiki: hkratna uporaba železa in tetraciklinskih antibiotikov lahko povzroči klinično pomembno interakcijo in zmanjša terapevtsko koncentracijo antibiotika, zato se dajanje železa priporoča najmanj dve uri pred antibiotikom ali po njem.
+Etidronat: klinično pomembna interakcija lahko nastane pri hkratni uporabi železa in etidronata, v kateri se pomembno zmnanjšuje absorpcija etidronata, zato se priporoča ločeno jemanje.
+Fluorokinoloni: hkratna uporaba železa in fluorokinolonov lahko izzove heliranje fluorokinolonov in tako zmanjša absorpcijo ter povzroča znižanje terapevtske vrednosti v seču in serumu. Da bi se zmanjšala možnost te klinično pomembne interakcije, se priporoča ločeno jemanje.
+Cimetidin, antacidi, kalcijeve spojine: lahko zmanjšajo absorpcijo železa, zato se mora povečati skupni dnevni vnos.
+Vitamin E: večji odmerki železa lahko katalizirajo oksidacijo in povečajo potrebe po vitaminu E.
+
+Glej tudi
+
+surovo železo
+
+Literatura
+
+Vovk Tomaž, Obreza Aleš: Prehranska dopolnila I: minerali in vitamini; Fakulteta za farmacijo, Ljubljana 2009
+Medić-Šarić Marica, Buhač Ines, Bradamante Vlasta: Vitamini in minerali; Ins obs medicus, Ptuj 2002
+Pokorn Dražigost: Prehrana v različnih življenjskih obdobjih: prehranska dopolnila v prehrani; Marbona, Ljubljana 2005
+
+Zunanje povezave
+
+
+
+Poglejte si besedo železo ali Železo v Wikislovarju, prostem slovarju.
+
+
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: Železo
+
+
+
+
+
+
+
+p · p · u · zKemični elementi
+
+
+
+
+
+
+
+ajnštajnij · aktinij · aluminij · americij · antimon · argon · arzen · astat · baker · barij · berilij ·berkelij · bizmut · bor · borij · brom · cerij · cezij · cink · cirkonij · darmštatij · disprozij · dubnij · dušik · erbij · evropij · fermij · fluor · fosfor · francij · gadolinij · galij · germanij · hafnij · hasij · helij · holmij · indij · iridij · iterbij · itrij · jod · kadmij · kalcij · kalifornij · kalij ·
+kirij · kisik · klor · kobalt · kositer · kripton · krom · ksenon · lantan · lavrencij · litij · lutecij · magnezij · mangan · majtnerij · mendelevij · molibden · natrij · neodim · neon · neptunij · nikelj · niobij · nobelij · ogljik · osmij · paladij · platina · plutonij · polonij · prazeodim · prometij · protaktinij · raderfordij · radij · radon · renij · rodij · rubidij · rutenij · samarij · siborgij · selen · silicij · skandij · srebro · stroncij · svinec · talij · tantal · tehnecij · telur · terbij · titan · torij · tulij · uran · vanadij · vodik · volfram · zlato · železo · živo srebro · žveplo
+
+
+
+
+
+
+Periodni sistem elementov
+
+
+
+
+
+
+
+
+
+
+
+ Ta članek s področja kemije je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+   
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Železo&oldid=4032967«				
+Kategorije: Kemijske škrbineKemični elementiMinerali v hraniPrehodne kovineGradbeni materialiŽelezoSkrita kategorija: Članki s trditvami brez navedenega vira 
+
+
+

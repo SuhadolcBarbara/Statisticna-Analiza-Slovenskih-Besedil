@@ -1,0 +1,47 @@
+
+
+
+
+
+
+Mešanja barv
+
+
+RGB je kratica, ki prihaja iz angleščine in pomeni »red«, »green« in »blue«, ki so tudi osnovne barve modela. Vsaka od teh barv se lahko pojavi v 256 odtenkih, kar skupno znaša 16.777.216 barv (256³).
+Barve RGB se pogosto zapisujejo v šestnajstiških trojčkih (predvsem spletne barve v HTML in CSS). Trojček vsebuje tri šestnajstiške vrednosti, ki ponazarjajo količino osnovne barve. Tako FF0000 ponazarja rdečo barvo.
+24-bitne barve
+V digitalni obliki lahko definiramo barvo s številom med 0 in 255, s kombinacijo teh treh števil pa kombinacijo treh osnovnih barv. Na primer:
+
+(0, 0, 0) je črna
+(255, 255, 255) je bela
+(255, 0, 0) je rdeča
+(0, 255, 0) je zelena
+(0, 0, 255) je modra
+(255, 255, 0) je rumena
+(0, 255, 255) je sinja
+(255, 0, 255) je vijolična
+
+Glej tudi
+
+barvni model CMYK
+barvni model HSL
+barvni model RYB
+
+Zunanje povezave
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: Barvni model RGB
+
+
+
+Tabela šestnajstiških trojčkov v HTML (v angleščini)
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Barvni_model_RGB&oldid=4055701«				
+Kategorija: Barvni modeli 
+
+
+

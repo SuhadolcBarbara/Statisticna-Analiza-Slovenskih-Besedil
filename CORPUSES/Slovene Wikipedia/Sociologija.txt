@@ -1,0 +1,155 @@
+
+
+Sociologija (iz latinske besede: socius) je znanost ali veda, ki se sistematično ukvarja s preučevanjem (z empiričnim in teoretičnim raziskovanjem) družbe, družbenega življenja in življenjem posameznika v družbi. Raziskuje pogoje, procese in posledice človekovega bivanja.
+Kot sistematična in kritična družbena veda, izvira sociologija iz dobe razsvetljenstva in je zavzela prostor med naravoslovnimi in humanističnimi vedami. Ime je dobila po Augustu Comtu in se zatem v drugi polovici 19. stoletja uveljavila kot samostojna akademska disciplina.
+Sociologija je:
+
+družbena veda,
+znanost o družbenih skupinah,
+znanost o družbenih pojavih in oblikah; o družbenem kot o procesu zbliževanja in oddaljevanja v družbenem prostoru,
+znanost o družbenih dejstvih in ustanovah, ki imajo moč prisile nad posamezniki, same pa so neodvisne od posameznikov,
+znanost, ki preučuje družbeno pogojena obnašanja.
+znanost o družbenih razmerjih.
+
+V sodobnem strokovnem/teoretskem diskurzu, kot utemeljitelja sociologije še posebej poudarjajo Maxa Webra in Émila Durkheima. Sociologijo so v začetku uveljavili tudi Anglež Herbert Spencer, Poljak Ludwig Gumplovicz, Italijan Vilfredo Pareto, ter Nemca Ferdinand Tönnies in Georg Simmel.
+
+
+Vsebina
+
+
+1 Definicija
+2 Zgodovina sociologije
+3 Teorija sociologije
+4 Družbena gibljivost
+
+4.1 Horizontalna gibljivost
+4.2 Vertikalna gibljivost
+
+
+5 Nekateri ključni sociološki koncepti
+
+5.1 Družba
+5.2 Družbeno delovanje
+5.3 Družbeno dejstvo
+5.4 Družbene spremembe
+5.5 Socialne norme
+
+
+6 Opombe in viri
+7 Glej tudi
+8 Zunanje povezave
+
+
+Definicija
+Sociologija je nastala iz humanističnih ved in predstavlja družboslovne vede. Medtem ko druge družboslovne discipline, kot sta politologija in ekonomija raziskujeta določena področja družbe s posebnega vidika (politika: legitimno uveljavljanje moči, ekonomija: pomanjkanje), raziskuje sociologija vsa področja družbenega življenja ljudi v skupnosti in družbi. Sprašuje se po smislu in sestavi družbenega delovanja (teorija delovanja) kakor tudi po delovanju upravljanja z vrednotami in normami. Predmet njenega raziskovanje je družba kot celota, prav tako pa tudi delna področja družbe kot so: družbeni sistemi, institucije, organizacije in skupine. Poleg tega se sociologija ukvarja z družbenimi interakcijami in dezintegracijo (posameznikov v družbo), s socialnimi neenakostmi, družbenimi konflikti in družbenim spremembami. Sociologija se poleg tega ukvarja s socialnimi strukturami, delom, spolom, socialnimi omrežji, skupinami, komunikacijskimi sredstvi (množični mediji), migracijami, z vsakdanjim življenjem, tehniko in z življenjskim prostorom. Za mnoge izmed teh tem so se uveljavile specialne sociologije (glej spodaj), druge teme, kot je na primer splošno vprašanje interakcije med delovanjem in strukturo, so predmet obče sociologije. Vprašanja v sociologiji pogosto sovpadajo s tistimi iz socialne psihologije in iz drugih družboslovnih in humanističnih ved, deloma tudi s tistimi iz naravoslovja, na primer iz nevrobiologije. Enotna strokovna opredelitev sociologije ne obstaja. Razširjeno definicijo sociologije, ki poudarja »družbeno delovanje«, je podal Max Weber.
+
+»Sociologija (kot tukaj razumemo to v različnih pomenih uporabljano besedo) nam pomeni znanost, ki želi interpretativno razumeti in na ta način vzročno pojasniti družbeno delovanje v njegovem poteku in učinkih. Pod »delovanjem« razumemo človeško obnašanje (vseeno, ali zunanje ali notranje delovanje, opustitev ali dopuščanje), kadar in kolikor akter ali akterji z njim povezujejo nek subjektivni smisel. Z izrazom »družbeno« pa označujemo tisto delovanje, ki se po smislu, ki mu ga pripisuje akter (der Handelnde) ali več akterjev, nanaša na druge in se usmerja po tem v svojem poteku.«[1]
+
+Zgodovina sociologije
+Sociologija je bila kot samostojna znanost priznana šele konec 19. stoletja. Kot samostojna veda se je v tem obdobju odcepila od filozofije, ekonomije, političnih ved in etnologije. Zgodovina njenega nastanka je tesno povezana z razvojem civilne družbe v Evropi v 19. stoletju, ter s progresivno industrializacijo. Predhodnike sociologije lahko zasledimo že v vedi o zgodovini, v nacionalni ekonomiji, pa tudi v novinarstvu in v policijskih vedah. Mislece, kot so Henri de Saint-Simon, Karl Marx in Herbert Spencer, ki so delovali na začetku in v sredini 19. stoletja, danes obravnavamo kot sociološke klasike (Pri sociologiji so nam zmeraj tako predavali in tudi predmet se je tako imenoval). Oče sociologije je bil Auguste Comte s svojim delom Système de politique positive, ou Traité de sociologie, instituant la religion de l’humanité, ki je bilo izdano v štirih delih v letih od 1851 do 1854. Sociologija poskuša vse od svojega začetka, deloma z razvojem, deloma v nasprotju s starejšimi avtorji, ki so se prav tako ukvarjali z družbenim delovanjem, oblikovati svoje zahteve po »lastnem predmetu spoznanja«. Za Comteja je ta predmet »socialna fizika« (physique sociale), ki jo razlikuje v skladu z zakoni socialne statike in socialne dinamike. Za Emila Durkheima je »družbeno dejstvo« (fait social) oz. »sociološko dejstvo«, ki obstaja zunaj individualne zavesti in ima prepričljiv značaj. Za Ferdinanda Tönniesa tvorijo predmet sociologije »socialna bistva«, to pomeni »želja po socialni afirmaciji«, ki temelji na socialnih stikih. Za Maxa Webra pa je to »socialno delovanje«.
+
+Teorija sociologije
+Sodobna sociologija je več-paradigmatska, v njej se odraža več zgodovinskih struj[2]. Vključuje Durkheimov funkcionalizem, v raziskavo konfliktov usmerjena zgodovinsko-materialistična temeljna dela Marxa, kakor tudi Simmelov mikro-strukturni pristop in pragmatični pristop k raziskavam socialnih interakcij Georgea Meada. Sodobna sociološka teorija ohranja sledi vseh teh pristopov.
+Bistvo sociologije so skušali opredeliti številni raziskovalci:
+Durkheimova teorija sociologije temelji na dejstvu, da sociologija preučuje družbena dejstva, ki so neodvisna od človekove zavesti in/ali volje ter zato delujejo kot nekaj zunanjega. Prav ta družbena dejstva moramo preučevati kot stvari. Družbeni pojavi se oblikujejo kot odnosi med ljudmi, zato jih ne moremo preučevati s perspektive posameznika; torej z značilnostmi in motivi posameznika.
+Max Weber je oblikoval drugačno definicijo sociologije, ki razlaga, da je sociologija znanost o družbenem delovanju. Kadar preučujemo delovanje ljudi, moramo najprej razumeti njihove motive in spoznati subjektivne razloge za takšno delovanje. Zato sociologija ne razkriva in preučuje splošne zakonistost družbe.
+Družbena gibljivost
+V sociologiji lahko najdemo različne delitve in klasifikacije družbene gibljivosti. Najosnovnejša pa je delitev na horizontalno in vertikalno.
+Horizontalna gibljivost
+O horizontalni gibljivosti, ki se deloma prekriva z geografskim pojmom selitev (vključno z migracijami), v sociologiji govorimo, če posamezniki ali skupine ne spremenijo družbenega statusa, ampak eno družbeno pozicijo iste vrste, istega ranga, menjajo za drugo ne da bi pri tem pridobili ali izgubili položaj na družbeni lestvici.
+Vertikalna gibljivost
+Z vidika posameznika glede na smer spreminjanja položaja ločimo gibljivost navzgor ali gibljivost navzdol. Prva pomeni pridobitev višjega položaja, pripadnost višjemu sloju, torej družbeni vzpon ali dvig (družbena promocija), posledica gibljivosti navzdol pa je obratno padec ali spust na nižji položaj (družbena degradacija).
+Intrageneracijska (znotrajgeneracijska) gibljivost se nanaša na družbeno gibanje znotraj ene generacije. Meri se s primerjanjem posameznika v dveh ali več fazah v posameznikovem življenju.
+Intergeneracijska (medgeneracijska) mobilnost pa se nanaša na spremembe, ki jih otroci dosežejo glede na status kot njihovih staršev in se nanaša na družbeno gibanje med generacijami ter se meri s primerjanjem statusa več generacij. Raziskave kažejo, da večina otrok dosega status, ki je približno enak statusu staršev ali o veliki stopnji samorekrutacije elite.
+Z vidika družbe ugotavljamo, kakšne možnosti napredovanja (izboljšanja družbenega položaja) omogoča posamezna družba. Tako ločimo odprte stratifikacijske sisteme (sodobne družbe), v katerih je možnost vertikalne mobilnosti precej velika in zaprte, v katerih je ta možnost majhna ali je ni.
+Nekateri ključni sociološki koncepti
+Družba
+Izraz družba – se nanaša na veliko količino odnosov in razmerij med posameznimi ljudmi. S tem ni mišljeno zgolj prostorsko in količinsko število individuumov (posameznikov), temveč njihove socialne interakcije. S tem označujemo strukture iz relativno stabilnih vedenjskih vzorcev, ki imajo svoj izvor v interaktivnem človeškem delovanju in na tem področju dosežejo svoj učinek. Točno določen sistem človeškega sobivanja se poimenuje z vsesplošnim pojmom »družba«. V sociologiji ne obstaja skupen sporazum o tem, kašne naj bi bile specifične značilnosti neke družbe. Proces, ki posameznike transformira v člane družbe, se imenuje »socializacija«. Institucije, kot so država, družina, pravo in šolstvo, imamo danes za podskupine (ali tudi: subsistem) v družbi. Prav razlikovanje med državo in družbo je utemeljilo začetek sociologije. Pojma »družbeno« oziroma »družbenost« ustrezata raziskovalnemu predmetu sociologije in v njunem pomenu ustrezata pojmu »družbe«.
+Družbeno delovanje
+Izraz delovanje – po Maxu Webru v sociologiji pomeni "delovanje" (storiti, tolerirati ali opustiti), ki je za delovanje (»akterjev«) subjektivno povezano z bistvom. V skladu z Maxom Webrom se »družbeno delovanje« definira s tem, da se v povezavi z drugimi, smiselno orientira na vedenju drugih.
+Družbeno dejstvo
+»Družbeno dejstvo« (fait social) je po Emile Durkheimu vsaka bolj ali manj definirana vrsta delovanja, ki ima sposobnost nad posameznikom izvajati zunanjo prisilo, oziroma se pojavlja na splošno na področju dane družbe, pri čemer je neodvisno od njenih individualnih pojavnih oblik. Integracija - dezintegracija V sociologiji se vse od Augusta Comta sprašujejo: Kaj ločuje, kaj povezuje ljudi, kaj skrbi za napredek in hkrati za red? To temo je v strukturnem-funkcionalizmu obravnaval predvsem Talcott Parsons. V sedanjem času (2008) se spet poleg drugih teorij, množično interpretira tudi Wilhelm Heitmeyerjeva teorija dezintegracije.
+Družbene spremembe
+Z družbenimi spremembami kot z obsežnimi spremembami relativno stabilne družbene strukture se sociologija ukvarja vse od svojega nastanka. Pomembno vlogo so igrale že v razmišljanju Saint-Simonsa in Marxa. Kot koncept so se uveljavile šele zaradi Ogburnovega eseja Družbene spremembe (Social Change, 1922). Družbene spremembe so v zadnjem času v središču več teorij modernizacije.
+Socialne norme
+Socialne norme so pričakovana vedenja posameznikov in skupin v določenih socialnih situacijah z različnimi stopnjami obveznosti, ki se uveljavljajo s pozitivnimi in negativnimi sankcijami. Upoštevanje norm socialnega vedenja je zelo zgodnja tema za sociologijo. Z njimi so se še posebej ukvarjala Emile Durkheim in Talcott Parsons, v nemški povojni sociologiji pa tudi Ralf Dahrendorf in Heinrich Popitz.
+
+Opombe in viri
+
+^ Vir: Adam, Frane; Tomšič, Matevž:Kompendij socioloških teorij. Ljubljana, 2004, str. 57.
+^ Abend, Gabriel. 2008. "The meaning of 'Theory'." Sociological Theory, 26:2
+
+
+Barle, A. in drugi. Sociologija: Gradivo za srednje šole. Ljubljana: Zavod RS za šolstvo, 1999
+Jambrek, P. Uvod v sociologijo
+Flere, S. Uvod v sociologijo
+Haralambos, M in Holborn M. "Sociologija: teme in pogledi". Ljubljana: DZS, 1999
+Andrey Korotayev, Artemy Malkov, and Daria Khaltourina, Introduction to Social Macrodynamics, Moscow: URSS, 2006. ISBN 5-484-00414-4 [1].
+
+
+
+
+
+
+
+
+
+Émile Durkheim
+
+
+
+
+
+
+
+
+
+Ferdinand Tönnies
+
+
+
+
+
+
+
+
+
+Georg Simmel
+
+
+
+
+
+
+
+
+
+Max Weber
+
+
+
+
+
+Glej tudi
+
+sociolog
+socializacija
+stigmatizacija
+seznam socioloških vsebin
+
+Zunanje povezave
+
+
+
+Poglejte si besedo sociologija ali Sociologija v Wikislovarju, prostem slovarju.
+
+
+  
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Sociologija&oldid=4048867«				
+Kategoriji: SociologijaDružboslovje 
+
+
+

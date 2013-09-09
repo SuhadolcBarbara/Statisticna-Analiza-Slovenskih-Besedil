@@ -1,0 +1,76 @@
+
+
+
+
+Po prehodu bele svetlobe skozi optično prizmo dobimo zaradi odvisnosti lomnega količnika od valovne dolžine na drugi strani cel spekter barv (mavrico).
+
+
+Za druge pomene glej Disperzija (razločitev).
+Disperzíja ali razklòn je v optiki pojav, ki se kaže v tem, da je fazna hitrost valovanja (v splošnem elektromagnetnega valovanja in tudi poljubnega valovanja) odvisna od frekvence.[1] Včasih to vrsto odvisnosti imenujemo tudi kromatična disperzija. Nastane zaradi tega, ker je lomni količnik odvisen od valovne dolžine svetlobe (frekvence). Opazimo lahko tudi disperzijo skupinske hitrosti.
+Pojav je odkril Isaac Newton (1642 – 1727) okoli leta 1672, pojasnili pa so ga mnogo let pozneje.
+Najenostavnješi primer za prikaz disperzije je prehod bele svetlobe preko optične prizme (glej sliko na desni strani). Najbolj znan pojav, ki nastane zaradi disperzije svetlobe, je mavrica. Posledica disperzije je tudi kromatična aberacija, ki je ena izmed napak optičnih naprav.
+
+
+Vsebina
+
+
+1 Disperzija fazne hitrosti
+2 Disperzija skupinske hitrosti
+3 Glej tudi
+4 Opombe in sklici
+5 Viri
+6 Zunanje povezave
+
+
+Disperzija fazne hitrosti
+Fazna hitrost je določena kot . Pokazatelj odvisnosti lomnega količnika od valovne dolžine je  ali disperzija fazne hitrosti. Kadar je ta vrednost negativna, pravimo, da je disperzija normalna. Kadar pa je pozitivna, govorimo o nenormalni disperziji. Pri normalni disperziji je torej:
+
+
+
+To pomeni, da vrednost lomnega količnika pada kadar valovna dolžina svetlobe raste. To pomeni, da je lomni količnik rdeče svetlobe manjši od lomnega količnika rumene svetlobe, ta pa je manjši od lomnega količnika modre svetlobe. Fazna hitrost svetlobe v poljubnem sredstvu je podana z
+
+
+
+kjer je
+
+ fazna hitrost svetlobe
+ hitrost svetlobe
+ lomni količnik sredstva
+
+V splošnem je lomni količnik funkcija frekvence  oziroma valovne dolžine . Oblika funkcije je odvisna od materiala. Opiše se s Cauchyjevo in tudi s Seillmeierjevo enačbo.
+Skupinska hitrost pove kako hitro se gibljejo spremembe v amplitudi valovanja.
+Disperzija skupinske hitrosti
+Če skupinsko hitrost označimo s , potem velja naslednja zveza med fazno in skupinsko hitrostjo :
+
+
+
+kjer je
+
+ fazna hitrost svetlobe
+ je valovna dolžina svetlobe v vakuumu
+
+Skupinska hitrost je določena kot .
+Skupinska hitrost običajno tudi določa, kako hitro se giblje energija vzdolž smeri gibanja valovanja. Lahko tudi rečemo, da pove, kako hitro se giblje sprememba amplitude (znana tudi kot ovojnica valovanja)
+Glej tudi
+
+optična prizma
+
+Opombe in sklici
+
+
+^ Breuer (1993), str. 249.
+
+
+Viri
+
+Breuer, Hans (1993). Atlas klasične in moderne fizike. Ljubljana: DZS. ISBN 86-341-1105-9. COBISS 35693056. 
+
+Zunanje povezave
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Disperzija_(optika)&oldid=4018206«				
+Kategorije: OptikaSteklo1672 v znanosti 
+
+
+

@@ -1,0 +1,577 @@
+Dobava blaga z montažo in DDV
+
+Logo-DURS-racunovodstvo-VitagoPrejeli smo vprašanje davčnega zavezanca glede davčne obravnave dobave blaga z montažo, pri čemer nemški davčni zavezanec v okviru izvajanja svojih pogodbenih obveznosti vnaša v Slovenijo blago iz držav članic EU, kakor tudi iz tretjih držav.
+
+Direktiva 2006/112/ES v prvem odstavku 36. člena določa, da se kadar blago, ki ga odpošlje ali prevaža dobavitelj, pridobitelj ali tretja oseba, instalira ali montira dobavitelj ali druga oseba za njegov račun s poskusnim zagonom ali brez njega, za kraj dobave šteje kraj, kjer je blago instalirano ali montirano.
+
+Drugi odstavek 36. člena iste direktive določa, da kadar se instalacija ali montaža opravi v drugi državi članici, kot je država dobavitelja, sprejme država članica, na ozemlju katere se opravi instalacija ali montaža, vse potrebne ukrepe za izognitev dvojnemu obdavčevanju v tej državi članici.
+
+Nemški davčni zavezanec v okviru izvajanja svojih pogodbenih obveznosti vnaša v Slovenijo blago iz držav članic EU, kakor tudi iz tretjih držav. Kot je že navedeno, lahko v skladu s sklenjeno pogodbo slovenski naročnik nastopa kot uvoznik blaga, ki ga dobavi in montira nemški davčni zavezanec.
+
+Odgovor na vprašanje, ali pri opisanem poslovnem dogodku pride do uporabe 36. člena Direktive 2006/112/ES, je odvisen od tega, kdo je lastnik blaga, v času, ko je blago uvoženo v Slovenijo.
+
+Če je blago, ki se uvaža iz tretje države v času uvoza v lasti dobavitelja iz druge države članice, so dejansko izpolnjeni pogoji iz 36. člena Direktive 2006/112/ES. Dobavitelj iz druge države članice plača DDV od uvoza blaga (ki ga lahko odbije, če je v Sloveniji identificiran za DDV) in mora obračunati tudi DDV od dobave blaga z montažo, ki jo opravi na ozemlju Slovenije.
+
+Iz pogodbe, sklenjene med slovenskim naročnikom in nemškim davčnim zaveznavem izhaja, da pri dobavi blaga, ki jo opravi nemški davčni zaveaznec, lastništvo na blagu preide na slovenskega naročnika pred uvozom blaga. V času uvoza je lastnik blaga torej slovenski naročnik, ki kot uvoznik plača DDV od uvoza blaga. Slovenski davčni zavezanec ima v skladu s prvim odstavkom 63. člena ZDDV-1 pravico do odbitka DDV, plačanega pri uvozu, če blago uporabi za namene svojih obdavčenih transakcij. Nemški davčni zavezanec tako na ozemlju Slovenije opravi storitev montaže, in ne dobave blaga z montažo, saj je lastništvo na blagu prešlo na slovenskega naročnika pred uvozom blaga v Slovenijo.
+
+Vir: Pojasnilo DURS, št. 4230-544338/2012, 15. 11. 2012
+
+Regres za letni dopust za leto 2012 za javne uslužbence po 62.c členu ZIPRS1314 in dohodnina
+
+Logo-DURS-racunovodstvo-VitagoObveščamo vas, da je bil v Uradnem listu RS, št. 46 dne 29. 5. 2013, objavljen Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2013 in 2014 – ZIPRS1314. Skladno s 16. členom ZIPRS1314 začne veljati naslednji dan po objavi v Uradnem listu RS, uporabljati pa se začne prvega dne v mesecu, ki sledi mesecu, v katerem je uveljavljen ta zakon.
+
+V nadaljevanju pojasnjujemo davčno obravnavo regresa za leto 2012 za javne uslužbence, ki je določena v 62.c členu ZIPRS1314.
+
+ZIPRS1314 v prvem odstavku 62.c člena določa izplačilo razlike regresa za letni dopust za leto 2012 javnim uslužbencem in funkcionarjem, ki so v letu 2012 prejeli regres v nižjem znesku kot 692 eurov. Razliko med izplačanim regresom v letu 2012 in zneskom 692 eur bodo javni uslužbenci prejeli z zakonskimi zamudnimi obrestmi od dne izplačila plače za mesec april 2012 oziroma od dne pridobitve pravice do regresa za letni dopust za leto 2012 do dne izplačila te razlike ter zakonske zamudne obresti v zvezi z že izplačanim regresom za letni dopust za leto 2012 za čas od dne izplačila plače za mesec april 2012 oziroma od dne pridobitve pravice do regresa za letni dopust za leto 2012 do dne izplačila tega regresa. Skladno s tretjim odstavkom 62.c člena ZIPRS1314 so te zamudne obresti oproščene plačila dohodnine.
+
+Glede na določilo četrtega odstavka 62.c člena se pri odmeri dohodnine na letni ravni pri dohodku iz delovnega razmerja v višini razlike med že izplačanim regresom za leto 2012 in regresom v višini 692 eur upošteva povprečenje po 120. členu Zakona o dohodnini – ZDoh-2 (Uradni list RS, št. 13/11 – UPB7, 24/12, 30/12, 40/12-ZUJF, 75/12 in 94/12).
+
+Plačnik davka ob izplačilu razlike v regresu odda obračun davčnega odtegljaja za dohodke iz delovnega razmerja REK-1 obrazec z oznako vrste dohodka 1090 in oznako, da se dohodek povpreči.
+
+Vir: Pojasnilo DURS, št. 4210-4458/2013 2 01-610-501, 30. 5. 2013
+
+Zahteve za računalniške programe za izdajanje računov – vprašanja in odgovori
+
+Logo-DURS-racunovodstvo-Vitago1. Kateri predpisi določajo tehnične zahteve za računalniške programe in elektronske naprave, ki se uporabljajo za izdajanje oziroma hrambo računov pri gotovinskem poslovanju?
+
+Ureditev je predpisana v osmem in devetem odstavku 38. člena Zakona o davčnem postopku – ZDavP-2 (Uradni list RS, št. 13/2011-UPB4, 32/2012 in 94/2012). Podrobneje so zahteve za računalniške programe in elektronske naprave urejene s Pravilnikom o zahtevah za računalniške programe in elektronske naprave, upravljanje in delovanje informacijskega sistema ter vsebini, obliki, načinu in rokih za predložitev podatkov (Uradni list RS, št. 35/2013 (42/2013 popr.) – v nadaljevanju Pravilnik), ki je izdan na podlagi enajstega odstavka 38. člena ZDavP-2.
+
+2. Kakšne so obveznosti proizvajalcev, dobaviteljev oziroma vzdrževalcev računalniških programov ali elektronskih naprav?
+
+Proizvajalci, dobavitelji oziroma vzdrževalci računalniških programov ali elektronskih naprav zavezancem za davek ne smejo dobavljati oziroma zagotavljati računalniških programov ali elektronskih naprav, ki omogočajo naknadno spreminjanje podatkov o izdanih računih pri gotovinskem poslovanju, brez hrambe izvornih podatkov in vseh poznejših sprememb. Programska oprema mora zagotavljati izpis izvornih podatkov o izdanih računih in njihovih morebitnih spremembah.
+
+3. Kakšne so obveznosti uporabnikov računalniških programov ali elektronskih naprav?
+
+Zavezanci za izdajanje računov pri gotovinskem poslovanju ne smejo imeti ali uporabljati računalniških programov ali elektronskih naprav, ki omogočajo naknadno spreminjanje podatkov o izdanih računih pri gotovinskem poslovanju, brez hrambe izvornih podatkov in vseh poznejših sprememb. Prav tako morajo ti računalniški programi zagotavljati predpisano obliko in vsebino elektronskega izpisa podatkov o izdanih računih. Te izpise morajo zavezanci predložiti davčnemu organu v morebitnem postopku davčnega nadzora.
+
+4. Ali obstaja prehodno obdobje, v katerem morajo ponudniki in uporabniki opreme le-to spremeniti?
+
+Oprema bo morala izpolnjevati predpisane zahteve od vključno 01.07.2013 dalje.
+
+5. Kdo bo izvajal nadzor nad uporabo opreme?
+
+Nadzor nad uporabo opreme bo izvajala davčna uprava v postopkih davčnega nadzora.
+
+6. Kakšne so zagrožene globe za kršitelje?
+
+Globe za posameznike znašajo od 3.000 do 10.000 evrov, za samostojne podjetnike in posameznike, ki samostojno opravljajo dejavnost, od 20.000 do 70.000 evrov, za pravne osebe od 50.000 do 150.000 evrov, če pa se pravna oseba po zakonu, ki ureja gospodarske družbe, šteje za srednjo ali veliko gospodarsko družbo, pa se za prekršek kaznuje z globo od 70.000 do 250.000 evrov. Predpisane globe za odgovorne osebe znašajo od 1.500 do 10.000 evrov.
+
+7. Ali bo s to ureditvijo prepovedano storniranje računov?
+
+Storniranje računov ni prepovedano, ker je to v določenih primerih popolnoma legitimno dejanje. Ureditev sankcionira nezakonito popravljanje oziroma prirejanje vsebine računov brez hrambe naknadnih sprememb.
+
+8. Kaj se bo zgodilo v primeru, če bo prodajalec kupcu nekaj zaračunal narobe (po nesreči)? Bo v tem primeru lahko storniral račun in mu izdal novega, ali to ne bo več mogoče? Torej, kaj se bo zgodilo v primerih, pri katerih ne gre za namerno brisanje računov ampak za napako. Recimo, za podvojeno računanje enega izdelka ali kaj podobnega. Bo v tem primeru brisanje še dovoljeno? Ali pa recimo, če bo kupcu pozabil obračunati popust, ki ga sicer oglašuje, pa ga je potrebno vnesti naknadno, pa je prodajalec na to pozabil v trenutku izdaje računa? Bo to še dovoljeno in v kakšnih primerih?
+
+Vsi navedeni popravki bodo še vedno možni, vendar bodo morali biti evidentirani v elektronski evidenci izdanih računov na blagajni ter na elektronskem izpisu, ki ga bo zavezanec predložil v postopku davčnega nadzora. Računalniški program oziroma elektronska naprava bo moral hraniti izvorne podatke o izdanih računih in vse kasnejše spremembe teh podatkov.
+
+9. Ali mora hrambo izvornih podatkov o izdanih računih zagotavljati elektronska naprava (blagajna) preko katere je bil izdan račun?
+
+Če ja, to pomeni, da moramo hraniti podatke na vsaki blagajni za celotno predpisano obdobje hrambe?
+
+V skladu z drugim odstavkom 3. člena Pravilnika so podatki o izdanih računih pri gotovinskem poslovanju in njihove poznejše spremembe lahko shranjeni v sami elektronski napravi ali na drugem elektronskem nosilcu podatkov. Hrambe navedenih podatkov zato ni treba zagotavljati v blagajni, preko katere je bil račun izdan.
+
+10. Ali mora izpis podatkov o izdanih računih zagotoviti elektronska naprava (blagajna), na kateri je bil račun izdan ali lahko izpis zagotovimo preko katerekoli druge elektronske naprave oz. informacijskega sistema (npr. iz ločene podatkovne baze v centrali za izdane račune v poslovalnicah)?
+
+V 4. členu Pravilnika je predpisana obveznost zavezanca, ki uporablja računalniške programe ali elektronske naprave, da na zahtevo davčnega organa predloži izpis podatkov o izdanih računih na način in v obliki, podrobneje določenima v prilogi, ki je sestavni del pravilnika. Pravilnik tako ne določa, da mora izpis zagotavljati blagajna, preko katere je bil račun izdan, kar pomeni, da se izpis lahko zagotovi tudi preko druge naprave oziroma sistema.
+
+11. Ali je potrebno zagotoviti izpis podatkov za vsako posamezno blagajno posebej ali združeno na nivoju poslovalnic ali na nivoju celotne družbe?
+
+Izpis mora zavezanec zagotoviti na podlagi zahteve davčnega organa v postopku davčnega nadzora, v okviru katerega se tudi določi obseg samega nadzora, torej ali je treba zagotoviti zbirne podatke za celoto družbe ali podatke za posamezno poslovno enoto ali za posamezno elektronsko napravo.
+
+12. Zaradi obsežnosti podatkov ne moremo zagotoviti izpisa podatkov za celo koledarsko leto v eni datoteki. Kako ravnati v tem primeru?
+
+Če zaradi obsežnosti podatkov ni možno zagotoviti izpisa podatkov za celo koledarsko leto v eni datoteki, se lahko podatki razdelijo na posamezna obdobja ali posamezne elektronske naprave ali posamezne poslovne enote, in zapišejo v več datotek.
+
+13. Ali Pravilnik kakorkoli vpliva na ureditev poslovanja podjetij, ki pri svojem poslovanju uporabljamo paragonski blok? Določeni manjši zavezanci še vedno uporabljamo navedeni način poslovanja.
+
+Pravilnik ne vpliva na ureditev poslovanja podjetij, ki za izdajanje računov pri gotovinskem poslovanju oziroma za hrambo teh računov ne uporabljajo računalniških programov ali elektronskih naprav. Zavezanci, ki pri svojem poslovanju uporabljajo paragonski blok (papirnati), bodo lahko tudi v bodoče opravljali navedeni način poslovanja.
+
+14. Kako se v polja 9, 10 in 11 v datoteki IZPIS RAČUNI GLAVE.TXT vpisujejo izdani računi na katerih je zaračunano blago, ki je oproščeno plačila DDV oziroma je stopnja DDV enaka nič?
+
+V polje 9 (»Znesek računa skupaj z DDV«) se vpiše končna vrednost računa – v konkretnem primeru vrednost brez DDV, skupaj z morebitnimi drugimi dajatvami, po zmanjšanju za zneske popustov, rabatov … V polji 10 (»Obračunan DDV po stopnji 8,5%«) in 11 (»Obračunan DDV po stopnji 20%) se vpiše vrednost 0 oziroma sta polji 10 in 11 prazni.
+
+V primeru datotek IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT ne gre za vodenje DDV evidenc, temveč za vodenje evidenc o izdanih računih pri gotovinskem poslovanju, ki so bili izdani s pomočjo računalniških programov ali elektronskih naprav. Evidence morajo voditi vsi zavezanci, ki pri izdajanju računov pri gotovinskem poslovanju uporabljajo računalniške programe ali računalniške naprave, in sicer tako zavezanci, ki so identificirani za DDV, kot tudi zavezanci, ki niso identificirani za DDV.
+
+15. Glede na zahteve Pravilnika (datoteka z zbirnimi podatki o izdanih računih, stolpec 7) naj bi zavezanec v izpisu davčnemu organu predložil le podatke o kupcih – zavezancih za DDV, kar pa bi pomenilo, da bi zavezanec moral predhodno pri vsakem kupcu preverjati ali gre za zavezanca za DDV ali ne?
+
+Pravilnik določa le minimum zahtevanih podatkov, zato se bo vsebina polja 7 štela za ustrezno tudi, če bo polje vsebovalo podatke o vseh kupcih, ki bodo navedeni na izdanih računih, ne glede na to ali je kupec identificiran za DDV ali ne. Izdajatelju računa ni potrebno preverjati ali je kupec identificiran za DDV ali ne. Davčna uprava bo v tem primeru na podlagi registracijskih podatkov zavezancev za DDV, s katerimi razpolaga, v morebitnem postopku davčnega nadzora sama ugotovila kupce, ki so identificirani za DDV.
+
+Pomembno je, da zavezanec v polju 7 zagotovi podatke o kupcih, ko so le-ti navedeni na izdanih računih.
+
+16. Smo prodajalec registrskih blagajn. Ali lahko pristojni organ opravi pregled blagajn oziroma poda svoje mnenje o ustreznosti?
+
+Nadzor nad upoštevanjem določb osmega in devetega odstavka 38. člena ZDavP-2 bo izvajal davčni organ v postopkih davčnega inšpekcijskega nadzora. Zakonodaja ne predvideva drugih načinov preverjanja opreme (certificiranje, podaja mnenja o pravilnosti delovanja opreme …).
+
+Šteje se, da računalniški program ali elektronska naprava izpolnjuje zahteve iz osmega oziroma devetega odstavka 38. člena ZDavP-2, če računalniški program ali elektronska naprava, ki jo zavezanec za davek uporablja za izdajanje računov pri gotovinskem poslovanju oziroma za hrambo teh računov, zagotavlja hrambo ter izpis podatkov o izdanih računih in njihovih poznejših spremembah v skladu s Pravilnikom.
+
+17. Ali po 01.07.2013 še lahko uporabljam klasično elektronsko registrsko blagajno ali jo moram zamenjati za računalniško registrsko blagajno?
+
+V primeru, da vaša elektronska registrska blagajna izpolnjuje oziroma bo od 01.07.2013 dalje izpolnjevala zahteve, ki so prepisane s Pravilnikom, jo boste lahko uporabljali tudi v prihodnje in je ne bo potrebno menjavati z računalniško vodeno registrsko blagajno.
+
+V 6. členu Pravilnika je za zavezance za davek, ki za izdajanje računov uporabljajo elektronske naprave, ki zaradi tehničnih lastnosti ne omogočajo izdelave izpisa podatkov v vsebini, obliki in na način, določen v prilogi Pravilnika (npr. klasične elektronske registrske blagajne) predpisana možnost drugačnega načina predložitve podatkov. Ti zavezanci davčnemu organu v skladu s 6. členom Pravilnika predložijo izpis podatkov o izdanih računih, ki vsebuje vse podatke, ki so navedeni na izvorno izdanih računih, in vse poznejše spremembe teh podatkov.
+
+Podatki se zapišejo v strukturirane računalniške datoteke v standardni obliki z imenom IZPIS_REG_BLAG.TXT, v formatu ASCII. Če elektronska naprava zaradi tehničnih lastnosti ne omogoča takšnega izpisa podatkov, se podatki predložijo v obliki izpisa kontrolnega traku registrske blagajne na papirju.
+
+18. Kako naj vem ali moja blagajna izpolnjuje zahteve, ki so predpisane s Pravilnikom?
+
+V primeru, da niste prepričani ali vaša oprema izpolnjuje zakonske pogoje, se obrnite na proizvajalca, vzdrževalca ali dobavitelja opreme.
+
+19. Kdaj bo pristojna inšpekcijska služba pričela s preverjanjem ali so računalniški programi in elektronske naprave v skladu s Pravilnikom?
+
+Nadzore bo davčna uprava pričela izvajati z dnem pričetka veljavnosti pravilnika, to je s 01.07.2013.
+
+20. Ali lahko zavezanec predloži izpis podatkov, ki ni v obliki, ki je določena v prilogi Pravilnika?
+
+Šteje se, da računalniški program ali elektronska naprava izpolnjuje zahteve iz osmega oziroma devetega odstavka 38. člena ZDavP-2, če računalniški program ali elektronska naprava, ki jo zavezanec za davek uporablja za izdajanje računov pri gotovinskem poslovanju oziroma za hrambo teh računov, zagotavlja hrambo ter izpis podatkov o izdanih računih in njihovih poznejših spremembah v skladu s Pravilnikom.
+
+Davčni zavezanci morajo davčnemu organu v postopku nadzora predložiti izpis podatkov v vsebini, obliki in na način, ki je določen v Pravilniku.
+
+21. Sem razvijalec programske opreme za blagajniško poslovanje. Kako naj preprečim zlorabo s strani tretje osebe, če bo stranka uporabila za spreminjanje podatkov program tretje osebe? Ali sem v takem primeru odgovoren tudi jaz kot proizvajalec programske opreme?
+
+Potencialno zlorabo podatkov s strani tretje osebe lahko kot proizvajalec računalniškega programa zaščitite do določene mere. Popolna zaščita podatkov pri »odprtih« sistemih, ki so danes v uporabi, ni možna. Če bo stranka za spreminjanje podatkov uporabila program tretje osebe, je odgovornost za kršenje določil zakona na strani stranke in tretje osebe.
+
+V postopkih nadzora se bo ugotavljala morebitna povezanost med tretjo osebo in proizvajalcem programa za blagajniško poslovanje.
+
+22. Moti me, da ni tabelaričnih prikazov vsebine in oblike datotek izpisa podatkov, kot je to bilo doslej npr. IZPIS GLAVNE KNJIGE, saj DOS programi ne morejo mešati numeriko z alfabet polji, ampak so potrebne določene pozicije od do.
+
+V Pravilniku sta za datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT predpisana tehnično praktično enaka tabelarična prikaza kot pri datoteki IZPIS_GLAVNE KNJIGE.TXT. Pri datotekah IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT je kot ločilo med posameznimi polji predpisano podpičje. V datoteki IZPIS GLAVNE KNJIGE.TXT je kot ločilo med posameznimi polji prav tako predpisano podpičje, dodatno pa je definirana še dolžina polj od-do.
+
+Za pripravo ustreznega strukturiranega izpisa v tekstovni obliki zadošča že določitev podpičja kot ločila med posameznimi polji. Predpisano izdelavo izpisa omogočajo tudi DOS programi.
+
+23. Ali so ostale elektronske naprave tudi register blagajne?
+
+Elektronske naprave so tudi elektronske registrske blagajne, ki se uporabljajo za izdajanje računov pri gotovinskem poslovanju.
+
+24. Ali račune še lahko pišem v Excelu ali Wordu?
+
+Če zavezanec Word oziroma Excel uporablja le za vnos in izpis podatkov (kot pisalni stroj), brez avtomatizacije opravil in uporabe izdelanih namenskih aplikacij, ki npr. omogočajo avtomatsko knjiženje, izdelavo in vodenje poročil in evidenc, implementacijo kontrol, itd., ne moremo govoriti o elektronskem obdelovanju podatkov. V tem primeru določbe 8. in 9. člena ZDavP-2 in Pravilnika zanj ne veljajo.
+
+V nasprotnem primeru morajo tudi programi za izdajanje računov v Wordu in Excelu izpolnjevati določbe 8. in 9. člena ZDavP-2 ter Pravilnika.
+
+25. Račune pišem s kemičnim svinčnikom in pisalnim strojem na obrazce DZS. Ali bom lahko po 01.07.2013 še uporabljal takšen način izdajanja računov?
+
+V konkretnem primeru ne gre za elektronsko obdelavo podatkov, zato določbe 8. in 9. odstavka ZDavP-2 ter Pravilnika za zavezanca ne veljajo. Zavezanec lahko tudi po 01.07.2013 izdaja račune na takšen način.
+
+26. Katera oznaka se uporabi, če je določeno polje v datotekah IZPIS RAČUNI GLAVE.TXT ali IZPIS RAČUNI POSTAVKE.TXT prazno?
+
+Prazno polje ne vsebuje nobenega znaka.
+
+27. Zahteve po vpisu podatkov o obračunanem DDV po 8,5% in 20% na posamezni postavki v datoteko IZPIS RAČUNI POSTAVKE.TXT so v nasprotju z ZDDV-1, ki glede poenostavljenih računov določa, da se navede znesek DDV, ki se plača ali informacije, ki so potrebne za njegov izračun.
+
+Izpis podatkov o obračunanem DDV po stopnji 8,5% in 20% na poenostavljenih računih ni potreben (peta točka 2. odst. 83. člena ZDDV-1). Vendar pa mora davčni zavezanec te podatke zagotavljati za namene izpolnjevanja obračuna DDV (obračunan DDV je treba ločiti po stopnjah) in pripravo datotek, ki jih določa že obstoječi Pravilnik o vsebini, obliki, načinu in rokih za predložitev izpisa podatkov iz elektronsko vodenih poslovnih knjig in evidenc zavezanca za davek (10. odstavek 38. člena ZDavP-2).
+
+Pravilnik ne zahteva, da se ti podatki izpišejo na računu. Zapisati se morajo le v datoteko IZPIS RAČUNI POSTAVKE.TXT.
+
+28. V evidencah bodo torej davčni zavezanci morali imeti zelo veliko podatkov, ki se jih vseh ne bo dalo izpisati na računih. Tudi sicer predvidevamo, da zahteva po vodenju evidenc s temi podatki ne pomeni hkrati, da bodo ti podatki morali biti tudi na računih, saj takšna zahteva ne bi bila skladna s predpisi o DDV, ki pri poenostavljenem računu po 83. členu ZDDV-1 zahtevajo manj podatkov.
+
+Pravilnik ne predpisuje izpisovanja vseh podatkov na račun temveč le njihovo evidentiranje v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT. Vsebino podatkov, ki morajo biti izpisani na računu, predpisujejo drugi zakoni.
+
+29. Programska oprema, ki jo mi implementiramo strankam omogoča to kar zahteva zakon (vklop funkcije za beleženje vseh sprememb). Problem je v tem, da se v tem primeru potrebuje mnogo bolj zmogljivo strojno opremo (procesorska moč, trajni spomin, začasni spomin … v vsakem primeru se upočasni delovanje …). Ocenjujemo, da bi zaradi vklopa te funkcije (beleženje vseh sprememb) bilo primoranih v zamenjavo strojne opreme (fizičnih strežnikov) vsaj tretjina poslovnih subjektov, ki jih vzdržujemo. Prav tako bi morala ta podjetja trajno hraniti veliko več podatkov kot doslej.
+
+V zvezi z izvajanjem določb 8. in 9. odstavka 38. člena ZDavP-2 je izdan Pravilnik o zahtevah za računalniške programe in elektronske naprave, upravljanje in delovanje informacijskega sistema ter vsebini, obliki, načinu in rokih za predložitev podatkov (Uradni list RS, št. 35/13). Le-ta določa, da se 8. in 9. odstavek 38. člena nanašata na programsko opremo oziroma elektronske naprave, ki se uporablja za izdajanje računov pri gotovinskem poslovanju. Pravilnik tudi predpisuje, katere izvorne podatke in njihove naknadne spremembe morajo hraniti računalniški programi oziroma elektronske naprave ter način, vsebino in obliko za izpis teh podatkov.
+
+30. Ali se v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT zapisujejo vse spremembe, ki so bile narejene, ali samo spremembe med izvorno in zadnjo verzijo računa? Če se zapisujejo vse spremembe, ali se med seboj primerjajo posamezne “verzije” računa ali vedno primerjamo tekočo verzijo z izvornim računom?
+
+V datoteke se zapisujejo vse spremembe, ki so bile narejene na izdanem računu. Pri vpisovanju sprememb se med seboj primerjajo posamezne »verzije« računa. Pri tem se evidentirajo samo spremembe. Ne primerjamo posameznih verzij računa z izvornim računom (Če npr. v datoteki z zbirnimi podatki o izdanih računih po posameznih datumih seštejemo polje »Znesek računa skupaj z DDV« (Rac polje), moramo kot rezultat dobiti znesek iztržkov po posameznih dnevih).
+
+POMEMBNO: Za spremembo se šteje, če se je naknadno spremenila vsebina računa, ki je že bil izdan. Pri spreminjanju računa do njegove izdaje ne gre za spremembe, ki se vpisujejo v datoteke.
+
+31. Ali se pri zapisovanju sprememb postavk računa zapišejo tudi spremembe, ki niso bile narejene neposredno, ampak so nastale kot spremembe določenega parametra (npr. če se količina zmanjša za 1, ali zabeležimo tudi, da se je cena spremenila za sprememba_količine x cena …)?
+
+Pri zapisovanju sprememb postavk računa se zapišejo tudi spremembe, ki niso bile narejene neposredno (če se količina zmanjša za 1, se zabeleži tudi, da se je cena zmanjšala za sprememba količine x cena …).
+
+POMEMBNO: Za spremembo se šteje, če se je naknadno spremenila vsebina računa, ki je že bil izdan. Pri spreminjanju računa do njegove izdaje ne gre za spremembe, ki se vpisujejo v datoteke.
+
+32. V Pravilniku piše, da se v primeru zmanjšanja vrednosti beležijo negativne vrednosti. Kaj pa v primeru povečanja vrednosti?
+
+V primeru povečanja vrednosti se beležijo pozitivne vrednosti.
+
+33. Ali se kot sprememba zapiše tudi, če je bila kakšna postavka na računu dodana ali izbrisana?
+
+Kot sprememba se zapiše tudi, če je bila kakšna postavka na izdanem računu dodana ali izbrisana.
+
+POMEMBNO: Za spremembo se šteje, če se je naknadno spremenila vsebina računa, ki je že bil izdan. Pri spreminjanju računa do njegove izdaje ne gre za spremembe, ki se vpisujejo v datoteke.
+
+34. Ali se v prvo vrstico datotek IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT vpišejo nazivi polj ali se začnejo podatki vpisovati že v prvo vrstico?
+
+V prvi vrstici datotek IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT so navedena imena posameznih, ki so razvidna iz tabelaričnega prikaza – krajše ime polja.
+
+35. Kako se v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT vpišejo podatki o izdanem dobropisu?
+
+Podatki o izdanem dobropisu se lahko v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT vpišejo na dva načina:
+
+a) 1. NAČIN:
+
+Dobropis se evidentira kot naknadna sprememba izdanega računa. V datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT se v polje »Številka računa« vpiše številka izvornega (prvotnega) računa, ki se z dobropisom spreminja. S tem je zagotovljena sledljivost sprememb prvotnega računa (Neobvezno: V datoteko IZPIS RAČUNI GLAVE.TXT se lahko v tem primeru predvidi novo polje, v katerega se vpisujejo številke dobropisov.)
+
+PRIMER:
+
+Izdan je dobropis št. 5555, in sicer za 2 kosa ARTIKLA_1, ki sta bila zaračunana z računom št. 1167. Cena ARTIKLA_1 na enoto mere brez DDV znaša 10 EUR. Stopnja DDV je 20%.
+
+V datoteko IZPIS RAČUNI GLAVE.TXT se vpiše:
+V polje št. 1 se vpiše davčna številka zavezanca za davek
+V polje št. 2 se vpiše številka računa, ki se z dobropisom spreminja: 1167.
+V polje št. 3 se vpiše datum računa, ki se z dobropisom spreminja.
+V polje št. 5 se vpiše oznaka poslovne enote, v kateri je bil izdan račun, ki se spreminja.
+V polje št. 6 se vpiše oznaka elektronske naprave, preko katere je bil izdan račun, ki se spreminja.
+V polje št. 9 se vpiše znesek dobropisa skupaj z DDV: -24,00.
+V polje št. 11 se vpiše znesek obračunanega DDV 20%: -4,00.
+V polje št. 12 (znesek plačila z gotovino) se vpiše -24,00.
+V polje št. 15 se vpiše datum izdaje dobropisa.
+V polje št. 16 se vpiše ura izdaje dobropisa.
+V polje št. 17 se vpiše zaporedna številka spremembe: 1.
+V polje št. 18 se vpiše oznaka razloga spremembe računa: D.
+V polje št. 20 se vpiše uporabniško ime osebe, ki je izdala dobropis.
+V polje št. 21 se vpiše ime in priimek osebe, ki je izdala dobropis.
+Neobvezno: Doda se lahko novo polje v katerega se vpiše številka dobropisa.
+
+V datoteko IZPIS RAČUNI POSTAVKE.TXT se vpiše:
+V polje št. 1 se vpiše davčna številka zavezanca za davek
+V polje št. 2 se vpiše številka računa, ki se z dobropisom spreminja: 1167.
+V polje št. 3 se vpiše datum računa, ki se z dobropisom spreminja.
+V polje št. 4 se vpiše oznaka poslovne enote, v kateri je bil izdan račun, ki se spreminja.
+V polje št. 5 se vpiše oznaka elektronske naprave, preko katere je bil izdan račun, ki se spreminja.
+V polje št. 7 se vpiše šifra blaga oziroma storitve.
+V polje št. 8 se vpiše naziv blaga: ARTIKEL_1.
+V polje št. 9 se vpiše količina blaga: -2,00.
+V polje št. 10 se vpiše enota mere blaga: KOS.
+V polje št. 11 se vpiše cena blaga na enoto mere: 12,00.
+V polje št. 13 se vpiše obračunan DDV 20%: -4,00.
+V polje št. 14 se vpiše zaporedna številka spremembe: 1.
+Polja »Davčna številka zavezanca za davek«, »Številka računa«, »Datum računa« »Oznaka poslovne enote«, »Oznaka elektronske naprave« enolično definirajo izvorni račun, na katerega se sprememba nanaša (velja pri vseh vpisih naknadnih sprememb). Ostala polja opisujejo naknadno spremembo načina plačila pri izvornem računu.
+
+b) 2. NAČIN:
+
+V primeru, da računalniški program ne omogoča povezave med dobropisom in izvornim (prvotnim) računom, oziroma če delovni proces tega ne zahteva, oziroma če zavezanec z dobropisom ne spreminja točno določenega izvornega (prvotnega) računa, se izdan dobropis v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT evidentira kot nov dokument. V polje »Številka računa« se v tem primeru vpiše številka dobropisa.
+
+PRIMER:
+
+Izdan je dobropis št. 5555, in sicer za 2 kosa ARTIKLA1, ki sta bila zaračunana z računom št. 1167. Cena ARTIKLA1 na enoto mere brez DDV znaša 10 EUR. Stopnja DDV je 20%.
+
+V datoteko IZPIS RAČUNI GLAVE.TXT se vpiše:
+V polje št. 1 se vpiše davčna številka zavezanca za davek
+V polje št. 2 se vpiše številka dobropisa: 5555.
+V polje št. 3 se vpiše datum dobropisa.
+V polje št. 4 se vpiše ura izdaje dobropisa.
+V polje št. 5 se vpiše oznaka poslovne enote v kateri je bil izdan dobropis.
+V polje št. 6 se vpiše oznaka elektronske naprave, preko katere je bil izdan dobropis.
+V polje št. 9 se vpiše znesek dobropisa skupaj z DDV: -24,00.
+V polje št. 11 se vpiše znesek obračunanega DDV 20%: -4,00.
+V polje št. 12 (znesek plačila z gotovino) se vpiše: -24,00.
+
+V datoteko IZPIS RAČUNI POSTAVKE.TXT se vpiše:
+V polje št. 1 se vpiše davčna številka zavezanca za davek
+V polje št. 2 se vpiše številka dobropisa: 5555.
+V polje št. 3 se vpiše datum dobropisa.
+V polje št. 4 se vpiše oznaka poslovne enote v kateri je bil izdan dobropis.
+V polje št. 5 se vpiše oznaka elektronske naprave, preko katere je bil izdan dobropis.
+V polje št. 6 se vpiše zaporedna številka postavke na dobropisu.
+V polje št. 7 se vpiše šifra blaga oziroma storitve.
+V polje št. 8 se vpiše naziv blaga: ARTIKEL_1.
+V polje št. 9 se vpiše količina blaga: -2,00.
+V polje št. 10 se vpiše enota mere blaga: KOS.
+V polje št. 11 se vpiše cena blaga na enoto mere skupaj z DDV: 12,00.
+V polje št. 13 se vpiše obračunan DDV po stopnji 20%: -4,00.
+
+36. Blagajniški program, ki ga izdelujemo, omogoča izvedbo storniranja celotnega računa. Kako se v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT vpiše takšno storniranje računa?
+
+PRIMER: Stornira se račun z naslednjo vsebino:
+1 KOS x ARTIKEL_1; cena na enoto z DDV = 12,00 EUR; stopnja DDV=20%;
+SKUPAJ vrednost računa z DDV: 12,00 EUR
+SKUPAJ vrednost DDV 20%: 2,00 EUR
+
+V datoteko IZPIS RAČUNI GLAVE.TXT se vpiše:
+V polje št. 1 se vpiše davčna številka zavezanca za davek
+V polje št. 2 se vpiše številka računa, ki se stornira.
+V polje št. 3 se vpiše datum izdaje računa, ki se stornira.
+V polje št. 5 se vpiše oznaka poslovne enote, kjer je bil izdan račun, ki se stornira.
+V polje št. 6 se vpiše oznaka blagajne preko katere je bil izdan račun, ki se stornira.
+V polje št. 9 se vpiše znesek računa, ki se stornira, skupaj z DDV: -12,00.
+V polje št. 11 se vpiše znesek DDV po stopnji 20%, ki se stornira: -2,00.
+V polja št. 12, 13 in/ali 14 se vpiše ustrezni negativni znesek plačila, ki se stornira.
+V polje št. 15 se vpiše datum izvedbe storniranja računa.
+V polje št. 16 se vpiše ura izvedbe storniranja računa.
+V polje št. 17 se vpiše zaporedna številka spremembe: 1 (če gre za prvo spremembo izdanega računa).
+V polje št. 18 se vpiše oznaka razloga spremembe računa: S (Storno).
+V polje št. 20 se vpiše uporabniško ime osebe, ki je izvedla storniranje računa.
+V polje št. 21 se vpiše ime in priimek osebe, ki je izvedla storniranje računa.
+
+V datoteko IZPIS RAČUNI POSTAVKE.TXT se vpiše:
+V polje št. 1 se vpiše davčna številka zavezanca za davek.
+V polje št. 2 se vpiše številka računa, ki se stornira.
+V polje št. 3 se vpiše datum izdaje računa, ki se stornira.
+V polje št. 4 se vpiše oznaka poslovne enote, kjer je bil izdan račun, ki se stornira.
+V polje št. 5 se vpiše oznaka blagajne preko katere je bil izdan račun, ki se stornira.
+V polje št. 7 se vpiše oznaka (šifra) blaga oziroma storitve, ki se stornira.
+V polje št. 8 se vpiše naziv blaga oziroma storitve, ki se stornira: ARTIKEL_1.
+V polje št. 9 se vpiše negativna količina blaga oziroma storitve, ki se stornira: -1,00.
+V polje št. 10 se vpiše enota mere blaga oziroma storitve, ki se stornira: KOS.
+V polje št. 11 se vpiše pozitivna cena blaga oziroma storitve na enoto mere skupaj z DDV, ki se stornira: 12,00.
+V polje št. 13 se vpiše negativni obračunan DDV po stopnji 20%, ki se stornira: -2,00.
+V polje št. 14 se vpiše vrednost 1 (zaporedna številka spremembe – enaka vrednost kot v istoimenskem polju zap. št. 17 v datoteki IZPIS RAČUNI GLAVE.TXT)
+
+Polja »Davčna številka zavezanca za davek«, »Številka računa«, »Datum računa« »Oznaka poslovne enote«, »Oznaka elektronske naprave« enolično definirajo izvorni račun, na katerega se sprememba nanaša (velja pri vseh vpisih naknadnih sprememb). Ostala polja opisujejo naknadno spremembo načina plačila pri izvornem računu.
+
+37. Ali se v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT vpisujejo samo računi, ki so izdani preko registrskih blagajn ali vsi računi plačani z gotovino?
+
+V datoteke se vpisujejo vsi računi, ki so plačani z gotovino.
+
+38. Zanima me ali računi, izdani za komunalne storitve ali za dobavo elektrike, katere lahko končni potrošnik poravna preko transakcijskega računa ali pa jih pride končni potrošnik poravnat na blagajno naknadno, zapadejo pod ta Pravilnik? V kolikor tovrstni računi zapadejo pod ta Pravilnik, nas nadalje zanima, kako se obravnavajo ti računi ob prehodu leta, ker se do plačila računa ne ve, ali bo poravnan z gotovino ali preko transakcijskega računa.
+
+Če zavezanec ob izdaji računa ne ve, ali bo le-ta poravnan z gotovino pri izdajatelju računa (zavezanec omogoča gotovinsko plačilo računa na lastnem blagajniškem mestu), se vsi ti računi vpišejo v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT, vendar brez vpisovanja podatkov o zneskih po načinih plačila v datoteko IZPIS RAČUNI GLAVE.TXT – polja 12, 13 in 14
+
+Za vse takšne račune v datoteki IZPIS RAČUNI GLAVE.TXT naknadno (ko je kateri od računov plačan) ni potrebno zagotavljati podatkov o načinu plačila. V takem primeru podatke o plačilu teh računov (način plačila, datum plačila, znesek plačila …) zavezanec zagotavlja v drugih knjigovodskih evidencah.
+
+To pravilo velja za vse račune pri katerih zavezanec v trenutku izdaje računa ne ve na kakšen način bodo plačani, obstaja pa možnost, da bodo plačani z gotovino.
+
+39. Ali se račun plačan z »avansnim« gotovinskim plačilom poroča v datoteko IZPIS RAČUNI GLAVE.TXT v stolpec 12 – Znesek plačila z gotovino skupaj z DDV?
+
+Ne. Znesek plačila se v tem primeru poroča v polje 14 – Znesek plačila na drug način skupaj z DDV.
+
+40. Kaj se vpiše v datoteko IZPIS RAČUNI GLAVE v polja o načinu plačila (polja 12,13,14) v primeru izdaje računa za obročno plačevanje? Ali moram v datoteko evidentirati plačila posameznih obrokov?
+
+V primeru izdaje računa, ki bo poravnan v dveh ali več obrokih z gotovinskim plačilom, se znesek računa vpiše v datoteko IZPIS RAČUNI GLAVE.TXT v polje 14 – Znesek plačila na drug način skupaj z DDV. V datoteko vam ni potrebno vpisovati plačila posameznih obrokov.
+
+41. Ali se plačilo z darilnim bonom vpiše v datoteko IZPIS RAČUNI GLAVE.TXT kot znesek plačila z gotovino?
+
+Ne. Plačilo z darilnim bonom se v datoteko IZPIS RAČUNI GLAVE.TXT vpiše v polje 14 – Znesek plačila na drug način.
+
+42. Kam se v datoteko IZPIS RAČUNI GLAVE.TXT evidentira plačilo računa z Moneto?
+
+Plačilo računa z Moneto se evidentira v datoteko IZPIS RAČUNI GLAVE.TXT v polje 13 – znesek plačila s plačilno kartico skupaj z DDV.
+
+43. V kakšnih primerih se plačilo računa v datoteko IZPIS RAČUNI GLAVE.TXT evidentira v polje 14 – Znesek plačila na drug način skupaj z DDV?
+
+V primeru plačila računa z darilnimi boni, čeki; v primeru obročnega plačevanja; če je bil račun plačan z gotovinskim avansom …
+
+44. Ali morajo biti v datoteki IZPIS RAČUNI GLAVE.TXT vpisane tudi morebitne naknadne spremembe pri plačilu računa?
+
+Podatek o plačilu ne predstavlja neposredno vsebine računa, zato kasnejših sprememb, ki se nanašajo na plačilo računa, ni potrebno evidentirati.
+
+V datoteko IZPIS RAČUNI GLAVE.TXT se vpiše podatek o znesku oziroma načinu plačila, ki je realiziran oziroma je znan ob izdaji računa. Kasnejših sprememb pri plačilih oziroma morebitna naknadna plačila računov ni potrebno vpisovati.
+
+Morebitne kasnejše spremembe pri plačilih se vpišejo le v primeru, če z računalniškim programom za izdajanje računov evidentirate tudi te spremembe (npr. ob izdaji računa ugotovite, da ste znesek plačila vpisali narobe in ga popravite GOTOVINA -> PLAČILNA KARTICA).
+
+45. Kako lahko popravim, če sem se zmotil pri vnosu zneska načina plačila? Ali moram v tem primeru prvotni račun stornirati in izdati novega?
+
+Ne. Znesek plačila lahko spremenite ne da bi stornirali prvotni račun (če vam to seveda omogoča program za blagajniško poslovanje).
+
+PRIMER: Sprememba »zneska plačila z gotovino« v »znesek plačila s plačilno kartico«. Znesek plačila je 100,00 EUR.
+
+Sprememba se vpiše v datoteko IZPIS RAČUNI GLAVE.TXT. Možnih je več načinov:
+
+a) Evidentiranje spremembe z enim zapisom
+V polje »Davčna številka zavezanca za davek« se vpiše davčna številka zavezanca za davek – izdajatelja računa.
+V polje »Številka računa« se vpiše številka računa, ki se popravlja.
+V polje »Datum računa« se vpiše datum izdaje računa, ki se popravlja.
+V polje »Oznaka poslovne enote« se vpiše oznaka poslovne enote, kjer je bil izdan račun, ki se popravlja.
+V polje »Oznaka elektronske naprave« se vpiše oznaka blagajne preko katere je bil izdan račun, ki se popravlja.
+V polje »Znesek plačila z gotovino…« se vpiše negativni znesek -100,00.
+V polje »Znesek plačila s plačilno kartico…« se vpiše pozitivni znesek 100,00.
+V polje »Datum spremembe računa« se vpiše datum spremembe računa.
+V polje »Ura spremembe« se vpiše ura izvedbe spremembe računa.
+V polje »Zaporedna številka spremembe« se vpiše številka 1.
+V polje »Oznaka razloga spremembe« se vpiše O (Ostalo).
+V polje »Opis razloga spremembe računa« se vpiše razlog za spremembo računa (npr: napaka pri vnosu,…)
+V polje »Uporabniško ime osebe, ki je spremenila računa« se vpiše uporabniško ime osebe, ki je izvedla spremembo.
+V polje »Ime in priimek osebe, ki je spremenila račun« se vpiše ime in priimek osebe, ki je izvedla spremembo.
+
+b) Evidentiranje spremembe z dvema zapisoma
+Prvi zapis (izvedba stornacije »zneska plačila z gotovino«):
+V polje »Davčna številka zavezanca za davek« se vpiše davčna številka zavezanca za davek – izdajatelja računa.
+V polje »Številka računa« se vpiše številka računa, ki se popravlja.
+V polje »Datum računa« se vpiše datum izdaje računa, ki se popravlja.
+V polje »Oznaka poslovne enote« se vpiše oznaka poslovne enote, kjer je bil izdan račun, ki se popravlja.
+V polje »Oznaka elektronske naprave« se vpiše oznaka blagajne preko katere je bil izdan račun, ki se popravlja.
+V polje »Znesek plačila z gotovino…« se vpiše negativni znesek -100,00.
+V polje »Datum spremembe računa« se vpiše datum spremembe računa.
+V polje »Ura spremembe« se vpiše čas spremembe računa.
+V polje »Zaporedna številka spremembe« se vpiše številka 1
+V polje »Oznaka razloga spremembe« se vpiše O (Ostalo).
+V polje »Opis razloga spremembe računa« se vpiše razlog za spremembo računa
+V polje »Uporabniško ime osebe, ki je spremenila računa« se vpiše uporabniško ime osebe, ki je izvedla spremembo računa.
+V polje »Ime in priimek osebe, ki je spremenila račun« se vpiše ime in priimek osebe, ki je izvedla spremembo računa.
+
+Drug zapis (zapis »zneska plačila s plačilno kartico«):
+V polje »Davčna številka zavezanca za davek« se vpiše davčna številka zavezanca za davek – izdajatelja računa
+V polje »Številka računa« se vpiše številka računa, ki se popravlja.
+V polje »Datum računa« se vpiše datum izdaje računa, ki se popravlja.
+V polje »Oznaka poslovne enote« se vpiše oznaka poslovne enote, kjer je bil izdan račun, ki se popravlja.
+V polje »Oznaka elektronske naprave« se vpiše oznaka blagajne preko katere je bil izdan račun, ki se popravlja.
+V polje »Znesek plačila s plačilno kartico…« se vpiše pozitivni znesek 100,00.
+V polje »Datum spremembe računa« se vpiše datum spremembe računa.
+V polje »Ura spremembe« se vpiše čas spremembe računa.
+V polje »Zaporedna številka spremembe« se vpiše številka 2
+V polje »Oznaka razloga spremembe« se vpiše O (Ostalo).
+V polje »Opis razloga spremembe računa« se vpiše razlog za spremembo računa
+V polje »Uporabniško ime osebe, ki je spremenila računa« se vpiše uporabniško ime osebe, ki je izvedla spremembo računa.
+V polje »Ime in priimek osebe, ki je spremenila račun« se vpiše ime in priimek osebe, ki je izvedla spremembo računa.
+Polja »Davčna številka zavezanca za davek«, »Številka računa«, »Datum računa« »Oznaka poslovne enote«, »Oznaka elektronske naprave« enolično definirajo izvorni račun, na katerega se sprememba nanaša (velja pri vseh vpisih naknadnih sprememb). Ostala polja opisujejo naknadno spremembo načina plačila pri izvornem računu.
+
+46. Kaj se vpisuje v datoteko IZPIS RAČUNI POSTAVKE.TXT v polje 11 (»Cena blaga oziroma storitve na enoto mere skupaj z DDV«)?
+
+V polje 11 (»Cena blaga oziroma storitve na enoto mere skupaj z DDV«) se vpiše končna cena blaga oziroma storitve na enoto mere skupaj z DDV in morebitnimi drugimi dajatvami, po zmanjšanju za zneske popustov, ipd. Pri popustih se upoštevajo tako popusti na poziciji artikla kot tudi ustrezno preračunani popusti, ki so dani na celotni znesek računa.
+
+Glej primer vpisa računa v datoteke IZPIS RAČUNI GLAVE in IZPIS RAČUNI POSTAVKE.TXT.
+
+47. Pri pojasnilu vsebine polja 11 (»Cena blaga oziroma storitve na enoto mere skupaj z DDV« – datoteka IZPIS RAČUNI POSTAVKE.TXT) je v Pravilniku navedeno: »V polje se vpiše cena blaga oziroma storitve na enoto mere, skupaj z DDV. Znesek predstavlja končno vrednost postavke, po zmanjšanju za zneske popustov«. Zakaj je v pojasnilu v prvem stavku navedeno, da se vpiše cena blaga na enoto mere, medtem ko je v drugem stavku navedena vrednost postavke?
+
+V Pravilniku je pri opisu vsebine polja pod zap. št. 11 napaka. Pravilen opis vsebine polja pod zap. št. 11 se glasi: »Vpiše se cena blaga oziroma storitve na enoto mere. Znesek predstavlja končno ceno blaga oziroma storitve na enoto mere, po zmanjšanju za zneske popustov, ipd.«
+
+V polje 11 se vpiše končna cena blaga oziroma storitve na enoto mere skupaj z DDV in morebitnimi drugimi dajatvami, po zmanjšanju za zneske popustov, ipd. Pri popustih se upoštevajo tako popusti na poziciji artikla kot tudi ustrezno preračunani popusti, ki so dani na celotni znesek računa.
+
+Glej primer vpisa računa v datoteke IZPIS RAČUNI GLAVE in IZPIS RAČUNI POSTAVKE.TXT.
+
+48. Ali se v datoteko IZPIS RAČUNI POSTAVKE.TXT v polji št. 12 in 13 (»Obračunan DDV po stopnji 8,5% oziroma 20%) vpisujejo podatki o obračunanem DDV, ki je preračunan na vrednost postavke ali podatki o obračunanem DDV, ki je preračunan na ceno blaga oziroma storitve na enoto mere?
+
+V datoteko IZPIS RAČUNI POSTAVKE.TXT se v polji o vrednosti obračunanega DDV (št. 12 in 13) vpisuje vrednost obračunanega DDV, ki je preračunan na vrednost postavke izdanega računa.
+
+Glej primer vpisa računa v datoteke IZPIS RAČUNI GLAVE in IZPIS RAČUNI POSTAVKE.TXT.
+
+49. V katera polja v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT se vpišejo morebitni drugi davki oziroma dajatve, ki so obračunane na računih?
+
+Morebitni drugi davki oziroma dajatve se vpisujejo v datoteko IZPIS RAČUNI GLAVE.TXT v polje št. 9 v okviru končne vrednosti računa in v datoteko IZPIS RAČUNI POSTAVKE.TXT v polje št. 11 v okviru končne cene blaga oziroma storitve na enoto mere.
+
+50. Kako v datoteke IZPIS RAČUNI GLAVE in IZPIS RAČUNI POSTAVKE vpisujem »avansne« račune?
+
+Glede evidentiranja računov za predplačila je potrebno upoštevati splošna določila ZDDV-1 glede obveznosti izdajanja računov (81. do 84. člen). Če obstaja obveznost izdaje računa za prejeto predplačilo, se takšen račun evidentira v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT.
+
+51. Za storitve ne vpisujemo vedno Enoto mere. Ali je lahko polje »Enota mere blaga oziroma storitve« v datoteki IZPIS RAČUNI POSTAVKE.TXT tem primeru prazno?
+
+Da.
+
+52. Ali se v datoteko IZPIS RAČUNI GLAVE.TXT v stolpec št. 14 »Znesek plačila na drug način skupaj z DDV« vpiše tudi plačilo po TRR-ju?
+
+Ne. V stolpec št. 14 »Znesek plačila na drug način skupaj z DDV« se vpisujejo le druga gotovinska plačila.
+
+53. V katero koledarsko leto se vpisujejo npr. izdan račun v letu 2013 in kasnejša sprememba tega računa v letu 2014?
+
+Podatki o prvotno izdanem računu se vpišejo v letu 2013, podatki o spremembi računa se vpišejo v letu 2014.
+
+54. Ali moram vse podatke, ki se vpisujejo v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT izpisati tudi na izdanem računu kupcu?
+
+Ne. Podatke, ki jih mora vsebovati izdan račun kupcu ne predpisuje ta Pravilnik, temveč drugi predpisi.
+
+55. Nisem identificiran za DDV. Ali moram izpolnjevati zahteve, ki so predpisane s Pravilnikom?
+
+Zahteve se nanašajo na vse zavezance za davek, ki pri izdajanju računov pri gotovinskem poslovanju uporabljajo računalniške programe ali elektronske naprave, ne glede na dejavnost, ki jo opravljajo in ne glede na to, ali so identificirani za DDV ali ne.
+
+56. Za evidentiranje »količine blaga oziroma storitve«, »cene blaga oziroma storitve na enoto mere« ter »obračunanem DDV po posamezni postavki« pri izdelavi računa uporabljamo 4 decimalna mesta. Ali lahko tudi v datoteko IZPIS RAČUNI POSTAVKE.TXT vpisujemo te podatke na 4 decimalna mesta natančno?
+
+Da. Pravilnik določa le minimum zahtevanih podatkov. V datoteko IZPIS RAČUNI POSTAVKE.TXT v tem primeru vpišite podatke na toliko decimalnih mest natančno kot jih uporabljate pri izdelavi računa.
+
+57. V našem podjetju vrednost obračunanega DDV po posameznem računu izračunamo tako, da najprej seštejemo osnove za isto DDV stopnjo in šele nato izračunamo vrednost DDV. Po predpisani obliki poročanja v Pravilniku pa se DDV izračunava po posameznih postavkah, zaradi česar bo prihajalo do razhajanj zaradi zaokroževanja. Zneski iz datoteke s postavkami se zato ne bodo popolnoma ujemali z zneski iz datoteke z glavami računov. Ali gre v tem primeru za nepravilnost?
+
+Ne. Predpisana vsebina izpisa v datoteki IZPIS POSTAVKE RAČUNI.TXT ne pomeni, da morate spremeniti način izračunavanja vrednosti obračunanega DDV. Razhajanja, ki bodo posledica zaokroževanja, v takšnih primerih ne bodo pomenila nepravilnosti. Pravilnost obračunavanja DDV in vpisovanje v poslovne knjige in evidence se bo presojala na podlagi podatkov o obračunanem DDV, ki izhaja iz datoteke IZPIS RAČUNI GLAVE.TXT.
+
+58. Primer vpisa računa s popusti na postavki in popusti na celotno vrednost računa v datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT:
+
+Izdamo račun za blago z naslednjimi podatki:
+2 KOS x ARTIKEL_1: cena na enoto z DDV, brez popusta= 12,00 EUR; popust na ARTIKEL_1 znaša 15%; stopnja DDV=20%;
+2 KOS x ARTIKEL_2: cena na enoto z DDV, brez popusta = 24,00 EUR; popust na ARTIKEL_2 znaša 10%; stopnja DDV=20%;
+Na koncu se obračuna popust v vrednosti 30% na celoten znesek računa.
+SKUPAJ vrednost računa z DDV: 44,52 EUR
+SKUPAJ vrednost DDV 20%: 7,42 EUR
+Račun je plačan z gotovino – z bankovci in kovanci.
+
+V datoteko IZPIS RAČUNI GLAVE.TXT se vpiše:
+V polje št. 1 se vpiše davčna številka zavezanca za davek.
+V polje št. 2 se vpiše številka računa.
+V polje št. 3 se datum računa.
+V polje št. 4 se vpiše ura izdaje računa.
+V polje št. 5 se vpiše oznaka poslovne enote.
+V polje št. 6 se vpiše oznaka elektronske naprave.
+V polje št. 9 se vpiše znesek računa skupaj z DDV: 44,52.
+V polje št. 11 se vpiše obračunan DDV po stopnji 20%: 7,42.
+V polje št. 12 se vpiše znesek plačila z gotovino: 44,52.
+
+V datoteko IZPIS RAČUNI POSTAVKE.TXT se vpiše:
+Prvi zapis:
+V polje št. 1 se vpiše davčna številka zavezanca za davek.
+V polje št. 2 se vpiše številka računa.
+V polje št. 3 se vpiše datum računa.
+V polje št. 4 se vpiše oznaka poslovne enote.
+V polje št. 5 se vpiše oznaka elektronske naprave.
+V polje št. 6 se vpiše zaporedna številka postavke: 1.
+V polje št. 7 se vpiše šifra blaga oziroma storitve.
+V polje št. 8 se vpiše naziv blaga oziroma storitve: ARTIKEL_1.
+V polje št. 9 se vpiše količina blaga oziroma storitve: 2,00.
+V polje št. 10 se vpiše enota mere blaga oziroma storitve: KOS.
+V polje št. 11 se vpiše cena blaga na enoto mere skupaj z DDV, zmanjšana za vse popuste: 7,14.
+V polje št. 13 se vpiše obračunan DDV na postavko po stopnji 20%: 2,38.
+
+Drugi zapis:
+V polje št. 1 se vpiše davčna številka zavezanca za davek.
+V polje št. 2 se vpiše številka računa.
+V polje št. 3 se vpiše datum računa.
+V polje št. 4 se vpiše oznaka poslovne enote.
+V polje št. 5 se vpiše oznaka elektronske naprave.
+V polje št. 6 se vpiše zaporedna številka postavke: 2.
+V polje št. 7 se vpiše šifra blaga oziroma storitve.
+V polje št. 8 se vpiše naziv blaga oziroma storitve: ARTIKEL_2.
+V polje št. 9 se vpiše količina blaga oziroma storitve: 2,00.
+V polje št. 10 se vpiše enota mere blaga oziroma storitve: KOS.
+V polje št. 11 se vpiše cena blaga na enoto mere skupaj z DDV, zmanjšana za vse popuste: 15,12.
+V polje št. 13 se vpiše obračunan DDV na postavko po stopnji 20%: 5,04.
+
+59. Datoteke IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT so navadne tekstovne datoteke, ki jih lahko zavezanec pred posredovanjem davčnemu inšpektorju spremeni z urejevalnikom besedila. Ali bomo za takšne spremembe avtomatsko odgovarjali proizvajalci in dobavitelji programske opreme?
+
+Ne. V primeru, da bo davčni organ pri pregledu datotek IZPIS RAČUNI GLAVE.TXT in IZPIS RAČUNI POSTAVKE.TXT ugotovil nepravilnosti, to še ne pomeni, da je za njih odgovoren proizvajalec oziroma dobavitelj programske opreme. Odgovornost proizvajalca se bo ugotavljala šele na podlagi ugotovitev forenzičnega pregleda podatkov na trdih diskih oziroma drugih pomnilniških medijih ter podrobnega pregleda vsebine originalnih podatkovnih baz in analize delovanja programa za blagajniško delovanje.
+
+Vir: Pojasnilo DURS, št. brez številke, 04.06.2013 (datum objave)
+
+Davčna obravnava začasnega in občasnega dela upokojencev v skladu z ZPDDP
+
+Logo-DURS-racunovodstvo-VitagoV dopisu se podaja razumevanje, upoštevaje veljavno zakonodajo, skupne obremenitve z davki in prispevki prejemkov, izplačanih zaradi opravljanja začasnega in občasnega dela upokojencev, in sicer:
+
+»V 27.a členu Zakona o spremembah in dopolnitvah Zakona o urejanju trga dela – ZUTD-A (Uradni list RS, št. 21/13) je določena obveznost delodajalcev za plačilo 25% dajatve od prejemkov, izplačanih zaradi opravljanja začasnega ali občasnega dela upokojencev.
+
+Ker se to delo opravlja po civilnopravni pogodbi obstaja po določbah Zakona o posebnem davku na določene prejemke tudi obveznost izplačevalca dohodka za obračun in plačilo 25% posebnega davka od posameznega bruto izplačila.
+
+Glede na to, da z ZUTD-A ni bila določena oprostitev plačila 25% posebnega davka od izplačil upokojencem za začasno ali občasno delo, ki se opravlja v skladu z določbami ZUTD oziroma, da Zakona o posebnem davku na določene prejemke ni bil usklajen z določbami novele ZUTD in da določa oprostitev plačila 25% posebnega davka samo od plačil za začasno ali občasno opravljanje dela učencev in študentov preko študentskih servisov to pomeni, da bo delodajalec od zneska bruto izplačila upokojencu za začasno ali občasno delo, ki se opravlja v skladu z določbami ZUTD dolžan plačati skoraj 60% dajatev (skupaj z upoštevanjem obveznosti plačila 8,85% prispevka za PIZ po določbah Zakona o pokojninskem in invalidskem zavarovanju – ZPIZ-2).«.
+
+V zvezi z navedenim se naproša za pojasnilo glede obveznosti plačila posebnega davka od navedenih prejemkov. Naš odgovor je naslednji:
+
+Razumevanje zakona ki ureja posebni davek na določene prejemke, v zvezi z začasnim ali občasnim delom je pravilno. Upoštevaje opredelitev predmeta obdavčitve taksativno naštetih oprostitev, in namene Zakona o posebnem davku na določene prejemke, ni pravne podlagi za oprostitev plačila posebnega davka v primeru začasnega ali občasnega dela na podlagi ZUTD-A.
+
+Vir: REPUBLIKA SLOVENIJA
+MINISTRSTVO ZA FINANCE
+Direktorat za sistem davčnih, carinskih in drugih javnih prihodkov
+Številka: 429-103/2013/2
+Datum: 12.04.2013
+
+Pojasnilo glede upoštevanja ugodnosti po pogodbi s slovenskim podjetniškim skladom o izdaji garancije in subvencioniranju obrestne mere v povezavi z olajšavo za investiranje
+
+Logo-DURS-racunovodstvo-VitagoV zvezi z uveljavljanjem olajšave za investiranje po 55.a členu Zakona o davku od dohodkov pravnih oseb – ZDDPO-2 (Uradni list RS, št. 117/06, 56/08, 76/08, 5/09, 96/09, 110/09 – ZDavP-2B, 43/10, 59/11, 24/12, 30/12 in 94/12) oziroma po 66.a členu Zakona o dohodnini – ZDoh-2 (Uradni list RS, št. 13/11-UPB7, 24/12, 30/12, 40/12 – ZUJF, 75/12 in 94/12) je bilo izpostavljeno vprašanje, ali v primeru družbe oziroma samostojnega podjetnika, ki ima s Slovenskim podjetniškim skladom sklenjeno pogodbo o izdaji garancije in subvencioniranju obrestne mere za kredit za sofinanciranje nakupa osnovnega sredstva (opreme, ki je predmet olajšave za investiranje), prejete ugodnosti v obliki garancije in subvencije obrestne mere na podlagi pogodbe s Slovenskim podjetniškim skladom vplivajo na pravico do koriščenja olajšave, ker je oprema financirana pod ugodnejšimi pogoji (državna pomoč de minimis na podlagi priglašene sheme Programa ukrepov za spodbujanje podjetništva in konkurenčnosti za obdobje 2007-2013).
+
+V skladu s prvim in drugim odstavkom 55.a člena ZDDPO-2 in v skladu s prvim in drugim odstavkom 66.a člena ZDoh-2 lahko zavezanec uveljavlja znižanje davčne osnove na račun olajšave za investiranje v višini 40 % investiranega zneska v opremo in v neopredmetena sredstva. Izpostavljeno vprašanje se nanaša na določbi devetega odstavka 55.a člena ZDDPO-2 oziroma devetega odstavka 66.a člena ZDoh-2, ki določata, da zavezanec ne more uveljavljati olajšave za investicije v delu, ki so financirane iz sredstev proračunov samoupravnih lokalnih skupnosti, proračuna Republike Slovenije oziroma proračuna EU, če imajo ta sredstva naravo nepovratnih sredstev. Pomeni, da zavezanec, ki v letnem davčnem obračunu uveljavlja olajšavo za investiranje po 55.a členu ZDDPO-2, v znesek investicij v opremo in neopredmetena sredstva, za katera se lahko uveljavlja davčna olajšava v davčnem obdobju, ne sme vključiti tistega dela investicij, ki so financirane iz sredstev proračunov, če imajo ta sredstva naravo nepovratnih sredstev.
+
+Navedeni določbi urejata pravilo, da se olajšava ne more uveljaviti za del investicij, ki so že financirane na drug način s strani proračuna Republike Slovenije, lokalne skupnosti ali EU. Pomeni, da v primeru, če je zavezanec za vlaganje v opremo, ki je predmet davčne olajšave po 55.a členu ZDDPO-2, že prejel nepovratna proračunska sredstva, potem za to opremo ne more uveljavljati davčne olajšave za celotni znesek vlaganj, temveč za znesek vlaganj, zmanjšan za znesek že prejetih nepovratnih proračunskih sredstev za financiranje te investicije.
+
+V zvezi s predmetnim vprašanjem izpostavljamo dva javna razpisa, ki jih je objavil Javni sklad Republike Slovenije za podjetništvo (s skrajšano firmo Slovenski podjetniški sklad, v nadaljevanju: Sklad), in sicer Javni razpis Garancije Sklada za bančne kredite s subvencijo obrestne mere – P1 2012 (Uradni list RS, št. 26/12) in Javni razpis Garancije Sklada za bančne kredite s subvencijo obrestne mere namenjene tehnološko inovativnim projektom – P1 TIP 2012 (Uradni list RS, št. 43/12). Javna razpisa sta pridobila soglasje Ministrstva za gospodarski razvoj in tehnologijo, na podlagi potrjenega programa »Program instrumentov finančnega inženiringa za MSP v Republiki Sloveniji – PIFI za obdobje 2009-2013«, Dopolnjenega programa za izvajanje Garancijskega sklada za bančne kredite s subvencijo obrestne mere.
+
+Na vprašanje ali prejete ugodnosti v obliki garancije in subvencije obrestne mere na podlagi pogodbe s Slovenskim podjetniškim skladom vplivajo na pravico do koriščenja olajšave, glede na navedeni določbi ZDDPO-2 in ZDoh-2, da zavezanec ne more uveljavljati olajšave za investicije v delu, ki so financirane iz sredstev proračunov samoupravnih lokalnih skupnosti, proračuna Republike Slovenije oziroma proračuna EU, če imajo ta sredstva naravo nepovratnih sredstev, je Ministrstvo za gospodarski razvoj in tehnologijo, ki je pristojno za ukrep podeljevanja garancij za bančne kredite s subvencijo obrestne mere, ki ga izvaja Slovenski podjetniški sklad, pojasnilo naslednje:
+
+Ukrep podeljevanja garancij za bančne kredite s subvencijo obrestne mere, ki ga izvaja Slovenski podjetniški sklad, je ukrep, na podlagi katerega so podjetjem odobrene garancije za kredite po ugodnejši obrestni meri. Predmet kredita so lahko investicije ali obratna sredstva, ki pa jih podjetja odplačujejo po ugodnejših kreditnih pogojih. Gre torej za povratna sredstva, kjer pomoč ne predstavlja sofinanciranje v investicije, temveč le v vrednost kredita, ki ga banke brez te pomoči v obliki zavarovanja morda ne bi odobrile. V ukrepu je sicer uporabljena beseda »subvencija« obrestne mere, vendar naj obrazložimo, da podjetja za investicije ne prejmejo nobenih sredstev, temveč imajo le nižjo obrestno mero, saj ministrstvo krije banki razliko med tržno in subvencionirano obrestno mero. Na podlagi navedenega menimo, da navedeni ukrep ne posega v pravice do koriščenja olajšav za investiranje, saj podjetja celotno investicijo z izplačevanjem kredita financirajo sama.
+
+Vir: Pojasnilo DURS, št. 4200-810/2013-3 01-640-02, 6. 6. 2013
+
+Upoštevanje posebne ”študentske” olajšave – Pogoji vpisa do 26. leta starosti
+
+Logo-DURS-racunovodstvo-VitagoV zvezi z vprašanjem, kako se upošteva, za priznavanje posebne osebne olajšava dijakom in študentom, pogoj vpisa na študij do dopolnjenega 26. leta starosti in kateri dan se šteje kot dan vpisa na študij, pojasnjujemo:
+
+Pogoj vpisa na študij do dopolnjenega 26. leta starosti se upošteva na letni ravni. To pomeni, da se posebna osebna olajšava prizna osebi, ki se je vpisala na študij v letu, ko je dopolnila starost 26 let, ne glede na to, da je ob samem vpisu (v mesecu septembru) dejansko že starejša od 26 let (dopolnila v mesecu aprilu). Če se študent vpiše na več fakultet, se upošteva datum zadnjega vpisa.
+
+Po tretjem odstavku 113. člena Zakona o dohodnini – ZDoh-2 (Uradni list RS, št. 13/11 – UPB7, 24/12, 30/12, 40/12 – ZUJF, 75/12 in 94/12) se rezidentu, ki se izobražuje in ima status dijaka ali študenta, do dopolnjenega 26. leta starosti prizna zmanjšanje davčne osnove od dohodka za opravljeno začasno ali občasno delo na podlagi napotnice pooblaščene organizacije ali Zavoda Republike Slovenije za zaposlovanje, ki opravlja dejavnost posredovanja dela dijakom in študentom, v skladu s predpisi s področja zaposlovanja, v znesku, ki je enak 75 % zneska splošne olajšave iz 111. člena tega zakona.
+
+Navedena olajšava se prizna tudi osebi, ki izpolnjuje pogoje iz prejšnjega stavka in je starejša od 26 let, če se vpiše na študij do 26. leta starosti, in sicer za dodiplomski študij za dobo največ šest let od dneva vpisa in za podiplomski študij za največ štiri leta od dneva vpisa. Pri tem se pogoj vpisa na študij do dopolnjenega 26. leta starosti upošteva na letni ravni.
+
+Vir: Pojasnilo DURS, št. 4210-4414/2013-2 01-610-02, 5. 6. 2013
+
+Pojasnilo DURS Računovodstvo
+Sorodni članki:
+Dijaki in študenti starejši od 18 let naj v septembru oziroma oktobru pravočasno poskrbijo tudi za ureditev svojega obveznega zdravstvenega zavarovanja
+Pojasnilo drugega odstavka 12. člena uredbe o davčni obravnavi povračil stroškov in drugih dohodkov iz delovnega razmerja
+Po novem tudi dijaki in študenti na zdravniški pregled
+Javni razpis za neposredno sofinanciranje kadrovskih štipendij delodajalcem za šolsko/študijsko leto 2010/2011
+Zasavje: Javni poziv delodajalcem za vključitev v regijsko štipendijsko shemo Zasavje

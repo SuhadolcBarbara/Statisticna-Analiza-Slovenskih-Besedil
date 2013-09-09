@@ -1,0 +1,192 @@
+
+
+
+
+Red velikosti
+
+
+površina
+
+
+denar
+
+
+podatki
+
+
+gostota
+
+
+energija
+
+
+frekvenca
+
+
+dolžina
+
+
+masa
+
+
+števila
+
+
+moč
+
+
+tlak
+
+
+specifična toplotna prostornina
+
+
+hitrost
+
+
+temperatura
+
+
+čas
+
+
+prostornina
+
+
+Pretvorba med enotami
+
+
+fizikalne enote
+
+
+SI
+
+
+osnovne enote SI
+
+
+izpeljane enote SI
+
+
+predpone SI
+
+
+Planckove enote
+
+
+Mednárodni sistém enôt (po izvirnem francoskem izrazu Système International d'Unités pogosto imenovan tudi SI) je najpogosteje uporabljan sistem merskih enot.
+Enote v mednarodnem sistemu enot določijo na konferencah, ki jih organizira mednarodni urad za uteži in mere (fr. Bureau International des Poids et Mesures) s sedežem v Sévresu blizu Pariza. Sistem je izšel iz Metrske konvencije, ki jo je leta 1875 podpisalo 17 držav in osnovalo mednarodni urad za uteži in mere. Svoje sedanje ime je Mednarodni sistem enot dobil leta 1960 na 11. generalni konferenci za uteži in mere. Na priporočilo generalne konference je večina držav podpisnic mednarodni sistem (z manjšimi spremembami) sprejela v svoje zakonodaje.
+Mednarodni sistem enot definira osnovne enote SI, izpeljane enote SI ter predpone SI. Poleg tega določa tudi enote, ki so še sprejemljive za uporabo s sistemom enot SI in enote, katerih uporaba s sistemom enot SI ni sprejemljiva (prepovedana).
+V Jugoslaviji je mednarodni sistem enot stopil v veljavo s 1. januarjem 1981, ko je stopil v veljavo Zakon o merskih enotah in merilih (Ur. list SFRJ št. 13, 2. 4. 1976).
+
+
+Vsebina
+
+
+1 Seznam ne-SI enot sprejemljivih za uporabo s sistemom SI
+2 Seznam ne-SI enot sprejemljivih za uporabo s sistemom SI v strokovne namene
+3 Gravitacijski sistem enot
+4 Zunanje povezave
+
+
+Seznam ne-SI enot sprejemljivih za uporabo s sistemom SI
+Seznam ne-SI enot, ki so sprejemljive za uporabo z sistemom SI. V to skupino so vključene enote, ki so v vsakodnevni rabi (čas) ali pa imajo poseben pomen v nekaterih tehničnih vedah.
+
+
+Ime
+Oznaka enote
+Definicija
+
+
+minuta
+min (ali m)
+1 min = 60 s
+
+
+ura
+h
+1 h = 60 min = 3.600 s
+
+
+dan
+d
+1 d = 24 h = 86.400 s
+
+
+kotna stopinja
+°
+1º = (π/180) rad
+
+
+kotna minuta
+′
+1' = (1/60)º = (π /10.800) rad
+
+
+kotna sekunda
+″
+1" = (1/60)' = (π /648.000)rad
+
+
+liter
+l ali L
+1l = 1dm3 = 10−3 m3
+
+
+tona
+t
+1t = 103 kg
+
+
+neper
+Np
+1Np = 1
+
+
+bel
+B
+1B = (1/2)ln10(Np)
+
+
+Seznam ne-SI enot sprejemljivih za uporabo s sistemom SI v strokovne namene
+Seznam ne-SI enot, ki so sprejemljive za uporabo s sistemom SI in so njihove vrednosti dobljene eksperimentalno in zato niso točno (eksaktno, enolično) določene. Podane vrednosti so usklajene s standardno nezanesljivostjo, zato sta zadnji dve cifri prikazani v oklepaju. Te enote se lahko javno uporabljajo kvečjemu v strokovne namene.
+
+
+Ime
+Oznaka enote
+Vrednost izražena z enoto SI
+
+
+elektronvolt
+eV
+1 eV = 1.60217733(49) · 10−19 J
+
+
+poenotena atomska masa
+u
+1 u = 1.6605402(10) · 10−27 kg
+
+
+astronomska enota
+a.e.
+mednarodna: AU
+1 a.e. = 1.49597870691(30) · 1011 m
+
+
+Gravitacijski sistem enot
+Nekaj časa je bil zlasti v tehniki v uporabi sistem enot, pri katerem je namesto mase kot osnovna enota uporabljena sila, pri metrični varianti je to kilopond. Sistem meter-kilopond-sekunda so imenovali »tehniški sistem enot«. Ostanek tega pogleda na merske enote je definicija konjske moči. Konjsko moč so definirali kot moč, ki dvigne maso 75 kg za en meter v eni sekundi. Definicijo je potrebno dopolniti s podatkom o zemeljski privlačni sili ali gravitaciji, torej o težnem pospešku na kraju preiskusa. To so dopolnili z dogovornim standardneim težnim pospeškom: 9,80665 m/s2. Zaradi tega je
+1 konjska moč (KM) = 735,49875 W
+in ne okroglo 3/4 kW.
+Zunanje povezave
+
+The International System of Units (SI)
+
+  
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Mednarodni_sistem_enot&oldid=3848040«				
+Kategorije: Sistemi enotMednarodni standardiEnote SI 
+
+
+

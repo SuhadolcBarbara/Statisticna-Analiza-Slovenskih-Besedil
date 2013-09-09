@@ -1,0 +1,34 @@
+
+
+Tlák ali pritísk (oznaka p) je kot fizikalna intenzivna količina razmerje med velikostjo ploskovno porazdeljene sile F in površino ploskve S, na katero ta sila prijemlje ( p = F / S ). V diferencialni obliki lahko zapišemo:
+
+
+
+V mirujoči tekočini pritiska sila vedno pravokotno na ploskev, zato tlak ni odvisen od smeri ploskve. Predznak je izbran tako, da je tlak v tekočini pozitiven.
+Tlak je ena od osnovnih termodinamskih spremenljivk, od katere je odvisno stanje kapljevine ali plina.
+Mednarodni sistem enot določa za tlak enoto pascal (okrajšava Pa), enako enemu newtonu na kvadratni meter. Druge enote za merjenje tlaka so še funt na kvadratni palec (PSI), bar, atmosfera in tor oz. milimeter živega srebra.
+Tlačni tenzor
+V gibajoči se tekočini, še bolj pa pri trdnih snoveh ne moremo več računati, da je sila pravokotna na podlago. Zvezo med silo in ploskvijo, na katero sila deluje, moramo zato zapisati v splošnejši obliki:
+
+
+
+Pri tem je p tlačni tenzor,. Za mirujoče tekočine je tlačni tenzor izotropen. V elastomehaniki se za isti tenzor z nasprotnim predznakom uporablja izraz napetostni tenzor σ:
+
+
+
+Merjenje tlaka
+Za merjenje tlaka uporabljamo manometer, npr. membranski manometer, manometer na Bourdonovo cev ali kapljevinski manometer.
+Manometer za merjenje zračnega tlaka je barometer, npr. živosrebrni barometer ali kovinski barometer (aneroid).
+Za merjenje zelo majhnih tlakov uporabljamo vakuummeter, npr. ionizacijski vakuumeter.
+Merimo tudi krvni tlak. Za to, da dobi glava in mišice dovolj krvi, zagotavlja srce z določenim tlakom in številom utripov.
+Tlak in pritisk
+V pogovorni rabi se pogosto uporablja izraz »pritisk« v pomenu kvocienta med velikostjo sile in površine, npr. »pritisk v gumah«, »krvni pritisk« ipd.
+V tehniki ima izraz »pritisk« drug pomen: to je sila, ki deluje na kaj, npr. »dovoljeni pritisk na os«.
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Tlak&oldid=3986158«				
+Kategorije: TlakFizikalne količineMehanikaMehanika tekočin 
+
+
+

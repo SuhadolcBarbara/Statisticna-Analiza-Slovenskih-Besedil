@@ -1,0 +1,67 @@
+
+
+Valovánje je širjenje motnje, navadno sinusnega nihanja, v sredstvu ali v polju. Z izjemo elektromagnetnega valovanja in verjetno tudi gravitacijskih valov, ki se širita v elektromagnetnem oz. gravitacijskem polju potrebuje valovanje za širjenje sredstvo, ki je prožno deformabilno, tako da lahko delci snovi izmenjujejo energijo, ne da bi pri tem trajno spremenili svojo lego. Z drugimi besedami, z valovanjem ni povezan prenos snovi, ampak delci snovi le nihajo okrog svoje ravnovesne lege.
+
+
+Vsebina
+
+
+1 Transverzalno in longitudinalno valovanje
+2 Valovni pojavi
+3 Fizikalni opis valovanja
+
+3.1 Potujoče valovanje
+3.2 Valovna enačba
+
+
+4 Stoječe valovanje
+
+
+Transverzalno in longitudinalno valovanje
+Pri transverzalnem valovanju nihajo delci snovi ali polje pravokotno na smer širjenja motnje. Zgleda sta elektromagnetno valovanje ter valovanje prožne vrvi. Pri longitudinalnem valovanju pa nihajo delci snovi v smeri širjenja motnje; zgled je zvok.
+Valovi na morski gladini niso ne spadajo v nobeno od naštetih skupin, ampak so kombinacija obeh; delci pri valovanju opisujejo eliptične poti.
+Valovni pojavi
+Ne glede na vrsto valovanja (zvočno, elektromagnetno ipd.) imajo valovanja nekatere skupne lastnosti.
+
+odboj - ko valovanje naleti na neko oviro in se odbije. Ohrani se frekvenca, hitrost, valovna dolžina. Spremeni se kot in smer.
+lom - na prehodu v snov z drugačno hitrostjo razširjanja valovanja, valovanje spremeni smer (spremenijo se valovna dolžina, hitrost in smer)
+uklon - širjenje valovanja v geometrijsko senco, npr. ob prehodu skozi tanko režo
+interferenca - pozitivno ali negativno seštevanje pri sestavljanju valovanj, ki so v stiku
+disperzija - odvisnost hitrosti razširjanja valovanja od njegove frekvence
+
+Fizikalni opis valovanja
+Valovanje lahko opišemo z običajnimi količinami, kot so frekvenca, valovna dolžina, amplituda in perioda.
+Potujoče valovanje
+Potujoče valovanje lahko opišemo z izrazom, ki ga dobimo kot rešitev valovne enačbe:
+
+
+
+Pri tem je A(x,t) amplituda valovanja, ki je v splošnem lahko odvisna od kraja x in časa t, ω krožna frekvenca valovanja, k valovni vektor in φ fazni premik valovanja. Celotnemu argumentu sinusne ali kosinusne funkcije pravimo faza valovanja.
+Valovna enačba
+Valovna enačba je parcialna diferencialna enačba, ki v splošnem opisuje različna valovanja, kot so zvočno valovanje, svetlobno valovanje in vodno valovanje. Povezuje drugi odvod izbrane količine s (npr. tlaka, jakosti električnega polja ali krajevne višine vodne gladine) po času t z drugim odvodom te iste količine po kraju x:
+
+
+
+Pri tem je c hitrost razširjanja valovanja. V trorazsežnem prostoru nadomestimo drugi odvod po kraju z Laplaceovim operatorjem delta ∇2:
+
+
+
+Stoječe valovanje
+Stoječe valovanje imenujemo valovanje, ki se na koncu vrvi, oziroma na koncu piščali odbije in potuje nazaj, pri čemer se vpadni in odbiti val srečata in seštejeta. Kjer se srečata dva hriba ali dve dolini, se valovanje ojači, kjer se srečata hrib in dolina, se pa valovanje oslabi. Stoječe valovanje je valovanje, ki ne potuje, ampak valovi se na istem mestu gibljejo gor in dol. Kjer je vrv vpeta, zrak ne more nihati, zato se na teh mestih pojavijo vozli, kjer pa zrak niha z največjo amplitudo se pojavijo hrbti. Enako je v piščali. Nastanek stoječega valovanja je možen le za tiste valovne dolžine, ki imajo vozel na zaprtem delu piščali ali na vpetem delu strune, oziroma pri določenih frekvencah, ki jih imenujemo lastne frekvence. Vsak omejen prostor ima svoje lastne frekvence, ki so odvisne od oblike in velikosti. Valovanja z ustreznimi frekvencami se ojačijo, tista z drugačnimi pa ne, zato tak prostor imenujemo resonator. Pri človeku sta resonatorja govorni trakt in uho, pri instrumentih pa je resonator trup instrumenta.
+
+
+
+
+
+ Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Valovanje&oldid=3852473«				
+Kategorije: Fizikalne škrbineNihanje in valovanjeValovanje 
+
+
+

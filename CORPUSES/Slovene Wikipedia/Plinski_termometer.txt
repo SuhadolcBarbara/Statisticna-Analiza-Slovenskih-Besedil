@@ -1,0 +1,23 @@
+
+
+Plínski termométer ali plínski toplomér je fizikalna merilna priprava za merjenje temperature, ki deluje na načelu raztezanja idealnega plina. Plinski termometri se v praksi ne uporabljajo, pomembni pa so za razumevanje teorije merjenja temperature ter za kalibracijo drugih vrst termometrov.
+Delovanje plinskega termometra
+
+Splošno plinsko enačbo delimo s tlakom p tako, da na levi strani obdržimo le prostornino:
+
+
+
+Pri stalnem tlaku je sprememba prostornine kar premo sorazmerna spremembi temperature. Za raztezek dobimo V2 - V1 = S(l2 - l1) = mR(T2 - T1)/Mp, pri čemer je S presek cevke. Vidimo, da velja Δl/ΔT = mR/(SMp). Ker so na desni strani izraza same konstnantne količine, je lestvica takega toplomera linearna.
+V praksi plinskih termometrov pri stalnem tlaku ne uporabljamo, ker bi morala biti cevka zelo dolga. Namesto tega raje uporabljamo plinske termometre pri stalni prostornini. Pri stalni prostornini je tlak plina premo sorazmeren temperaturi:
+
+
+
+S premikanjem gibljive cevke, polne živega srebra, uravnamo tlak tako, da je prostornina plina konstantna.
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Plinski_termometer&oldid=3857487«				
+Kategorija: Termometri 
+
+
+

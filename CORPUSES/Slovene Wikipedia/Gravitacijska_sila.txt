@@ -1,0 +1,218 @@
+
+
+
+
+
+
+Gravitacija vzdržuje gibanje planetov po orbitah okoli Sonca.
+
+
+Téžnost ali gravitácijska sila je ena od štirih osnovnih interakcij v naravi. Je sila, ki povzroča, da objekti oz. telesa z maso privlačijo drug drugega.[1]
+V vsakdanjem življenju je gravitacija najbolj opazna kot sila, ki da telesom z maso težo in povzroči, da padejo na tla po spustitvi iz neke višine. Med drugim povzroči tudi povezavo razpršenega materiala v Vesolju, zaradi česar nastanejo makroskopska telesa, kot so Zemlja, Sonce idr. Je tudi odgovorna za vzdrževanje gibanja Zemlje in drugih planetov po orbitah okoli Sonca; za vzdrževanju gibanja Lune po orbiti okoli Zemlje; za pojav bibavice; za pojav konvekcije, preko katere nastane tok tekočine; za segrevanje notranjosti nastajajočih planetov in zvezd do zelo visokih temperatur itd.
+V splošnem lahko gravitacijsko silo med dvema telesoma, ki sta dovolj daleč narazen, da je njuna velikost zanemarljiva v primerjavi z njuno medsebojno razdaljo in ju lahko imamo za točkasti telesi v njunih težiščih, izračunamo z Newtonovim splošnim gravitacijskim zakonom:
+
+kjer so:
+
+
+
+
+Prikaz težnosti na Luni
+
+
+Oprostite, vaš brskalnik ima onemogočen JavaScript ali pa nima nobenega podprtega predvajalnika.
+Posnetek lahko snamete ali prenesete predvajalnik za predvajanje posnetka v svojem brskalniku.
+
+
+
+David Scott, poveljnik Lunine odprave Apollo 15 (1971), prikazuje učinek težnosti na pero in kladivo, ki ju je pustil pasti v brezzračnem prostoru na Luni.
+
+
+
+
+
+
+
+
+
+
+
+,  - masi teles
+ - razdalja med težiščema teles
+ - gravitacijska konstanta
+
+(Splošna) gravitacijska konstanta je enaka:[2]
+
+
+
+Enačba pa tudi ne velja le za točkasta telesa, pač pa tudi za homogeni krogli z razdaljo r med njunima središčema. Omeniti pa je potrebno naslednji 2 dejstvi:
+
+Gravitacijska sila je vedno privlačna (torej nikoli odbojna).
+Gravitacijska sila je zelo šibka, razen v primeru, da ima vsaj eno od teles zelo veliko maso (npr. asteroidi, planeti ali zvezde).
+
+Moderna fizika sicer opisuje gravitacijo s pomočjo splošne teorije relativnosti, pri kateri je gravitacija posledica ukrivljenja prostor-časa.
+Glej tudi
+
+gravitacijska fizika
+
+Opombe in sklici
+
+
+^ "Does Gravity Travel at the Speed of Light?". UCR Mathematics, 1998. Pridobljeno 11.04.2010.
+^ Gravitacijsko kostanto, ki je podana v enotah SI, označujemo tudi z G (Pople, Stephen. Fizika: Shematski pregledi. Tehniška založba Slovenije, Ljubljana 1998.)
+
+
+Zunanje povezave
+
+
+
+Poglejte si besedo težnost ali Težnost v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+Teorije gravitacije
+p • p • u • z
+
+
+
+
+
+
+
+Gravitacija
+Tekmice STR
+Teorije poenotenega polja
+Druge
+
+
+
+
+Splošni gravitacijski zakon SGZ
+
+Klasična mehanika
+
+
+Splošna teorija relativnosti STR (Š)
+
+Polklasična gravitacija
+Tvistorska teorija
+Načelo ekvivalentnosti
+Gravitomagnetizem
+Matematika STR
+Preskusi STR
+
+
+Machovo načelo
+
+
+
+
+Klasične teorije gravitacije
+Konformna gravitacija
+Gravitacija f(R)
+Skalarne teorije
+
+Nordström
+Yilmaz
+
+
+Skalarno-tenzorske teorije
+
+Brans-Dicke
+Dilaton
+Samoustvarjalna kozmologija
+
+
+Bimetrične teorije
+
+Rosenova bimetrična teorija
+
+
+Druge teorije
+
+Einstein-Cartan
+
+Cartanova povezava
+
+
+Whitehead
+Nesimetrična gravitacija
+Skalarno-tenzorsko-vektorska
+Tenzorsko-vektorsko-skalarna
+Teorija supertekočega vakuuma
+Dinamična teorija (P)
+
+
+
+
+
+
+Teleparalelizem
+Geometrodinamika
+Kvantna gravitacija KG
+
+Nezvezna lorentzovska kvantna gravitacija
+Pojavljajoča gravitacija
+Evklidska KG
+Inducirana gravitacija
+Zančna kvantna gravitacija
+Wheeler-DeWittova enačba
+
+
+Teorija vsega
+
+Supergravitacija
+M-teorija
+Teorija superstrun (Š)
+Teorija strun
+
+Vsebine teorije strun
+
+
+Heim
+
+
+
+
+
+
+Večrazsežnostna STR
+
+Kaluza-Klein (Š)
+Model DGP
+
+
+Zamenjave za SGZ
+
+Aristotelska
+Boškovićeva
+Mehanske obravnave
+Fatio-Le Sage
+MOND
+
+
+Nerazvrščene
+
+Sestavljena gravitacija
+Masna gravitacija
+
+
+
+
+
+
+(Š) = škrbina
+(P) = psevdofizikalna
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Težnost&oldid=3852232«				
+Kategorije: Teorije gravitacijeMehanikaFizikalne sileGravitacija 
+
+
+

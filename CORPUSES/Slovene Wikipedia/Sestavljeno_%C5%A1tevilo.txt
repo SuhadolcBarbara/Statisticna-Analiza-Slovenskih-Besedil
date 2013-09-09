@@ -1,0 +1,250 @@
+
+
+
+
+Množice celih števil
+glede na deljivost
+
+
+Oblika razcepa:
+
+
+praštevilo
+
+
+sestavljeno
+
+
+močno
+
+
+polpraštevilo
+
+
+deljivo brez kvadrata
+
+
+Ahilovo
+
+
+Vsiljene vsote deliteljev:
+
+
+popolno
+
+
+skoraj popolno
+
+
+navidezno popolno
+
+
+mnogokratno popolno
+
+
+hiperpopolno
+
+
+enotno popolno
+
+
+polpopolno
+
+
+primitivno polpopolno
+
+
+praktično
+
+
+Števila z mnogo delitelji:
+
+
+obilno
+
+
+zelo obilno
+
+
+nadobilno
+
+
+izjemno obilno
+
+
+zelo sestavljeno
+
+
+izredno zelo sestavljeno
+
+
+Drugo:
+
+
+nezadostno
+
+
+čudno
+
+
+prijateljsko
+
+
+tovariško
+
+
+družabno
+
+
+osamljeno
+
+
+vzvišeno
+
+
+s harmoničnimi delitelji
+
+
+varčno
+
+
+enakoštevčno
+
+
+potratno
+
+
+nedotakljivo
+
+
+Glej tudi:
+
+
+število deliteljev
+
+
+delitelj
+
+
+prafaktor
+
+
+praštevilski razcep
+
+
+faktorizacija
+
+
+Sestavljeno število je v matematiki naravno število n > 1, ki ni praštevilo. Vsako sestavljeno število ima več različnih pravih deliteljev in hkrati več različnih ali enakih prafaktorjev. Število 1 po definiciji ni ne sestavljeno število in ne praštevilo, in zato nima prafaktorjev. Celo število 14 je na primer sestavljeno, ker ga lahko zapišemo kot produkt 2 · 7. Prva sestavljena števila so (OEIS A002808):
+
+4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21, 22, 24, 25, 26, 27, 28, 30, 32, 33, 34, 35, 36, 38, 39, 40, 42, 44, 45, 46, 48, 49, 50, ...
+
+Tukaj so krepko označena zelo sestavljena števila, katerih množica je podmnožica sestavljenih števil brez števil 1 in 2.
+
+
+Vsebina
+
+
+1 Značilnosti sestavljenih števil
+2 Vrste sestavljenih števil
+
+2.1 Razvrstitev glede na prafaktorje
+2.2 Razvrstitev glede na delitelje
+
+
+
+
+Značilnosti sestavljenih števil
+
+vsa soda števila večja od 3 so sestavljena.
+najmanjše sestavljeno število je 4.
+vsako sestavljeno število lahko zapišemo kot produkt dveh ali več (ne nujno različnih) praštevil (osnovni izrek aritmetike).
+za vsa sestavljena števila n > 5 velja  (glej tudi Wilsonov izrek).
+razlika dveh zaporednih sestavljenih števil večjih od 4 je enaka 1 ali 2.
+
+Vrste sestavljenih števil
+Razvrstitev glede na prafaktorje
+Sestavljena števila lahko razvrstimo po štetju prafaktorjev. Sestavljeno število z dvema prafaktorjema, ki sta lahko enaka, je polpraštevilo.
+Sestavljeno število z natančno tremi različnimi prafaktorji se imenuje klinasto število.
+Množica prvih deset klinastih števil je:
+
+30 = 2 · 3 · 5; je tudi 11-kotniško glede na mnogokotnost in povezano z praštevilskimi dvojčki,
+42 = 2 · 3 · 7; povezano s praštevilskimi dvojčki,
+66 = 2 · 3 · 11; je tudi trikotniško, šestkotniško, 23-kotniško in palindromno,
+70 = 2 · 5 · 7; je tudi petkotniško in 13-kotniško,
+78 = 2 · 3 · 13,
+102 = 2 · 3 · 17; povezano s praštevilskimi dvojčki,
+105 = 3 · 5 · 7; je tudi 12-kotniško
+110 = 2 · 5 · 11,
+114 = 2 · 3 · 19,
+130 = 2 · 5 · 13; je tudi 23-kotniško.
+
+Tudi ta množica je seveda podmnožica sestavljenih števil.
+Včasih je potrebno razlikovati med sestavljenimi števili z lihim številom različnih prafaktorjev od sestavljenih števil s sodim številom različnih prafaktorjev. Za zadnje velja:
+
+
+
+kjer je μ(·) Möbiusova funkcija in x polovica vseh prafaktorjev, za sestavljena števila z lihim številom različnih prafaktorjev pa velja:
+
+
+
+Za vsa praštevila je vrednost Möbiusove funkcije prav takop enaka -1 in velja še . Za število n z enim ali več ponovljenim prafaktorjem velja . Takšno število ni deljivo brez kvadrata.
+Razvrstitev glede na delitelje
+Sestavljena števila lahko razvrstimo glede na število deliteljev. Vsa sestavljena števila imajo vsaj tri delitelje. V primeru kvadratov praštevil so delitelji . Število n, ki ima več deliteljev kot katerikoli x < n, je zelo sestavljeno število (čeprav sta najmanjši takšni števili 1 in 2, ki nista sestavljeni).
+
+
+
+
+
+
+p · p · u · zMnožice, sistemi in vrste števil
+
+
+
+
+
+Števne množice
+
+naravna ()  · cela ()  · racionalna ()  · algebrska ()  · periode  · izračunljiva  · aritmetična
+
+
+
+
+
+
+Realna števila in
+njihove razširitve
+
+realna ()  · kompleksna ()  · kvaternioni ()  · bikvaternioni ()  · oktonioni ()  · sedenioni ()  · Cayley-Dicksonova konstrukcija  · dualna  · hiperbolična  · hiperkompleksna  · superrealna  · iracionalna  · transcendentna  · hiperrealna ()  · surrealna
+
+
+
+
+
+
+Drugi sistemi
+
+kardinalna  · ordinalna  · transfinitna  · p-adična  · supernaravna
+
+
+
+
+
+
+Druge značilnosti
+
+praštevilskost  · sestavljenost  · deljivost brez kvadrata  · palindromnost  · normalnost
+
+
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Sestavljeno_število&oldid=4041318«				
+Kategorija: Teorija števil 
+
+
+

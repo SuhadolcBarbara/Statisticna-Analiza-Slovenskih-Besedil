@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+Ta članek potrebuje čiščenje. Pri urejanju upoštevaj pravila slogovnega priročnika. Razlog za to je: veliko zelo kratkih poglavij. Prosimo, da nam pomagaš izboljšati ta članek. 
+
+
+
+
+Rastline
+Fosilni razpon: kambrij - recentno
+
+
+
+
+
+
+
+Znanstvena klasifikacija
+
+
+
+
+
+Domena:
+Eukaryota (evkarionti)
+
+
+Kraljestvo:
+Plantae
+Haeckel, 1866[1]
+
+
+
+
+
+Debla
+
+
+
+
+Zelene alge
+
+Chlorophyta
+Charophyta
+
+
+Kopenske rastline (embriofiti)
+
+Necevnice (briofiti)
+
+Marchantiophyta
+Anthocerotophyta
+Bryophyta (mahovi)
+
+
+†Horneophytopsida
+Cevnice (traheofiti)
+
+†Rhyniophyta
+†Zosterophyllophyta
+Lycopodiophyta
+†Trimerophytophyta
+Pteridophyta (praprotnice)
+
+
+†Progymnospermophyta
+
+Semenke (spermatofiti)
+
+†Pteridospermatophyta
+Pinophyta (iglavci)
+Cycadophyta
+Ginkgophyta
+Gnetophyta
+Magnoliophyta (kritosemenke)
+
+
+
+
+
+
+
+† Nematophytes
+
+
+
+Rastlíne (znanstveno ime Plantae) so eno izmed kraljestev živih bitij (približno 300.000 vrst), ki vključuje vsakdanje organizme, kot so drevesa, rože, trave in praproti. Skupnosti vseh rastlin na določenem območju v določenem času pravimo flora.
+
+
+Vsebina
+
+
+1 Kaj je rastlina
+
+1.1 Današnja definicija rastlin (Plantae)
+1.2 Skupine rastlin
+
+
+2 Zgradba rastlin
+3 Fotosinteza
+4 Zakaj rastline potrebujejo vodo?
+5 Transpiracija in osmoza
+6 Občutljivost rastlin
+7 Razmnoževanje rastlin
+
+7.1 Spolno razmnoževanje
+
+7.1.1 Metageneza
+7.1.2 Pridelovanje semen
+7.1.3 Oprašitev
+7.1.4 Oploditev
+
+
+7.2 Nespolno razmnoževanje
+
+
+8 Plodovi in semena
+
+8.1 Plod
+8.2 Razširjanje semen
+
+
+9 Pestrost rastlin
+10 Opombe in reference
+11 Glej tudi
+
+
+Kaj je rastlina
+Aristotel je razdelil vsa živa bitja na živali, ki se lahko premikajo, da si ulovijo hrano in rastline, ki se na splošno ne premikajo ali imajo čutne organe. V von Linnéjevem sistemu so postale rastline kraljestvo Vegetabilia (kasneje Metaphyta ali Plantae). Od takrat naprej je bilo jasno, da so Plantae, kakor so bile določene na začetku, vsebovale različne nesorodne skupine, glive ter različne skupine alg, ki so bile prestavljene v nova kraljestva. Vseeno jih pogosto smatrajo kot rastline v različnih sobesedilih.
+Današnja definicija rastlin (Plantae)
+Ko se ime Plantae ali rastlina uporabi za določeni takson, se to običajno nanaša na en izmed treh pojmov. Ti trije pojmi so:
+
+
+Ime(na)
+Območje
+Opis
+
+
+Kopenske rastline, znane tudi kot Embryophyta ali Metaphyta (embriofiti).
+Plantae sensu strictissimo (v najožjem pomenu)
+
+
+
+Zelene rastline - znane tudi kot Viridiplantae, Viridiphyta ali Chlorobionta
+Plantae sensu stricto (v ožjem pomenu)
+Vključuje zgoraj navedene Embryophytes, Charophyta (i.e., primitivne parožnice), in Chlorophyta (i.e., zelene alge kot je morska solata). Viridiplantae vsebujejo skupino organizmov, ki imajo klorofil a in b, imajo plastide, ki so obdani z dvema celičnima membranama, so zmožne shranjevati škrob, in imajo celulozo v svojih celičnih stenah.
+
+
+Archaeplastida, Plastida ali Primoplantae
+Plantae sensu lato (v širšem pomenu)
+Vključuje zgoraj navedene zelene rastline, kot tudi Rhodophyta (rdeče alge) in Glaucophyta. Kot najširši klad rastlin vključuje večino evkariontov.
+
+
+Izven uradnih znanstvenih okvirih, izraz "rastlina" pomeni povezavo z določenimi lastnosti, kot so večceličnost, celuloza in fotosinteza[2][3].
+Skupine rastlin
+Rastline so osnova življenja na zemlji. Omogočajo življenje vseh drugih bitij, saj so vse druge oblike življenja posredno ali ne posredno navezane na rastlinsko hrano. Nasprotno pa je večina rastlin sposobna s pomočjo sončne svetlobe sama pripravljati hrano. Rastline delimo v dve osnovni skupini. To so cvetnice, rastline s pravimi cvetovi, ki so jim dali tudi ime. Med ne cvetnice pa spadajo primitivne rastline, kot so mahovi, praproti, preslice in jetrnjaki, ter golosemenke, kamor spadajo iglavci. Danes živi na Zemlji okrog četrt milijona cvetnic, in to vsepovsod, od zasneženih gora do izsušenih puščav.
+Rastline sodijo med:
+
+evkarionte
+avtotrofne organizme - hrano si pridelujejo same, opravljajo fotosintezo; izjeme so nekatere rastline, ki so izgubile klorofil in so paraziti na drugih rastlinah
+
+Morfološko jih delimo na:
+
+steljčnice - so brez tkiv in rastlinskih organov (stebla, listov, korenin ...). Zgrajene so iz steljke ali talus.
+rastline na vmesni stopnji razvoja - npr. mahovi, ki imajo razvito stebelce in liste, ne pa korenin (namesto njih imajo rizoide)
+brstnice - imajo rastlinske organe in tkiva, npr. praprotnice, semenke
+
+Zgradba rastlin
+Brez rastlin ne bi bilo življenja na zemlji. Rastline lahko rastejo zato, ker s procesom, imenovanim fotosinteza, pridelujejo lastno hrano iz snovi, ki jo dobijo v zemlji in zraku. Živali ne morejo pridelovati hrane, zato se v boju za preživetje hranijo z rastlinami (ali drugimi živalmi, ki so se pred tem hranile z rastlinami).
+
+Listi
+
+
+
+
+
+list je pomemben del tvorjenja fotosinteze
+
+
+Listi so za rastline nekakšne tovarne za predelavo hrane. V listnih celicah so majcena telesa, imenovana kloroplasti, kjer se s postopkom fotosinteza prideluje hrana. Kloroplasti vsebujejo zeleno snov, imenovano klorofil, ki daje rastlinam zelen videz. Rastline za fotosintezo potrebujejo vodo in ogljikov dioksid. Voda se dovaja po steblu v liste skozi osrednjo žilo in žilice. Odprtine na površju listov – listne reže, omogočajo izhlapevanje vode in sprejemanje ali sproščanje kisika. Listi rastlin so oblikovani zelo različno.
+
+Cvetovi
+
+Cvetovi vsebujejo razmnoževalne organe rastline, dele, s katerimi bo pridelala semena, iz katerih bodo potem vzniknile nove rastline. Razmnoževalne organe obdajajo in varujejo venčni in čašni listi. Venčni listi so pogosto živo obarvani in dehteči, da privabljajo žuželke, ptice in druge živali, ki imajo pomembno vlogo pri razmnoževanju rastlin.
+
+Steblo
+
+Steblo nosi liste in dovaja vodo iz korenin po njem se pretaka voda in hrana. Vsebuje sveženje cevk, ki jim pravimo žilno tkivo. Ločimo dve vrsti cevk: ksilemske za dovajanje vode in floemske za dovajanje raztopljenih hranljivih snovi. Rastlina raste od končnega popka na vrhu vsakega stebla.
+
+Korenine
+
+Korenine zasidrajo rastlino v zemlji ter iz prsti srkajo vodo in raztopljene mineralne snovi. Tako kot steblo so sestavljene iz žilnega tkiva. Prekrivajo jih tanki laski, skozi katere prihaja voda v korenine, nekatere rastline, kot na primer korenje, redkvica in repa, imajo le glavno korenino, v kateri shranjujejo hranljive snovi. Obdajajo jo manjše sekundarne korenine. Druge rastline imajo številne tanke, vlaknate korenine.
+Fotosinteza
+Fotosinteza je proces, s katerim zelene rastline pridelujejo hrano v svojih listih. Med fotosintezo se voda in ogljikov dioksid spreminjata v saharozo in kisik. Saharoza je hrana rastlin. Rastline ne potrebujejo vsega kisika, ki ga pridelajo med fotosintezo, tako da se ga nekaj sprošča v ozračje. Fotosintezo poganja energija sonca. Klorofil, ki je zelena snov v listih rastlin, vsrkava energijo sončne svetlobe in jo spreminja v kemično energijo, ki se lahko uporablja med fotosintezo.
+Zakaj rastline potrebujejo vodo?
+Rastline potrebujejo vodo za fotosintezo in tudi kot nadomestek za tekočino, izgubljeno med tako imenovano transpiracijo. Če rastlinske celice nimajo dovolj vode, rastlina oveni. Rastline črpajo vodo iz prsti, voda pa vsebuje tudi mineralne snovi, ki jih rastline potrebujejo za rast.
+Transpiracija in osmoza
+Transpiracija je izhlapevanje vode iz listov rastlin skozi listne reže. Da rastlina med izparevanjem vode to izgubo nadomesti, se s pomočjo transpiracije (izhlapevanja) ta voda dviguje iz korenin navzgor. Temu pravimo transpiracijski tok. Voda se skozi rastlino pretaka z osmozo. Osmoza je pretakanje vode iz šibkejše raztopine v močnejšo. Voda v rastlinskih celicah je šibka raztopina mineralnih snovi. Ko v listnih celicah izhlapi, postane raztopina v njih močnejša, tako da se voda pretaka vanje iz bližnjih celic. To povzroča verižno reakcijo skozi vse celice rastlin.
+Občutljivost rastlin
+
+
+
+
+praprotnice
+
+
+Rastline so občutljive za različne dražljaje – na primer za svetlobo – in se nanje tudi odzivajo. Načinu, kako se rastline obračajo ali rastejo proti dražljajem (ali proč od njih), pravimo tropizem.
+Če rastlino postavimo na primer na sončno okensko polico, se po nekaj dneh večina njenih listov obrne proti svetlobi. Takšni reakciji pravimo fototropizem. Hidrotropizem je rast korenin proti vodi, geotropizem pa je reakcija rastlin na zemeljsko težnost, ko korenine rastejo navzdol.
+Razmnoževanje rastlin
+Rastline se razmnožujejo na več načinov. Cvetnice na primer se razmnožujejo z razvijanjem semen. Temu pravimo spolno razmnoževanje, saj se semena oblikujejo tedaj, ko se združita moška in ženska spolna celica v zigoto. Pri nekaterih cvetnicah poznamo tudi nespolno razmnoževanje.
+Spolno razmnoževanje
+Organizmi se razmnožujejo s spolnimi celicami. Spolni celici se vedno fiziološko razlikujeta, ena je žensko(♀), druga pa moško (♂) orientirana, in sta haploidni.
+Glede na to, kolikšen del življenja organizmi preživijo v diploidnem ali haploidnem stanju jih ločimo na:
+
+haplonti: so organizmi, ki so večji del življenja v haploidnem stanju. Diploidne so le zigote, ki nastanejo po združitvi spolnih celic. Takoj poteče redukcijska delitev in celice so spet haploidne. (večina rastlin)
+
+
+♀(n) + ♂(n) --> zigota(2n) --> R!( redukcijska delitev)--> (n)
+
+
+diplonti: so organizmi, ki so celo življenje sestavljeni iz diploidnih celic. Spolne celice nastajajo pri mejozi. Po združitvi teh pa spet nastopi diploidno stanje. (večina živali)
+
+
+(2n)--> mejoza -->♀(n) + ♂(n) --> zigota(2n)
+
+
+haplodiplonti: so organizmi, ki del življenja preživijo v haploidnem, del pa v diploidnem stanju. (nekateri mahovi)
+
+Metageneza
+
+
+
+
+Menjavanje spolne in nespolne generacije
+
+
+Metageneza je izmenjavanje spolne in nespolne generacije.
+Spolna generacija je haploiden gametofit, ki nosi spolne organe – gametangije, na katerih so spolne celice – gamete.
+Nespolna generacija je diploiden sporofit, na katerem je sporangij s sporogenim tkivom v katerem so haploidne spore.
+Kriteriji pri delitvi metagnenez:
+
+Jedrna faza gametofita in sporofita:
+
+haplofazična metageneza - obe generaciji sta haploidni.
+diplofazična metageneza - obe generaciji sta dioploidni
+haplodiplofazična metageneza - prva generacija je haploidna, druga pa diploidna.
+
+
+Morfološke podobnosti med gametofitom in sporofitom :
+
+izomorfna metageneza - gametofit in sporofit sta enaka (alge)
+heteromorfna metageneza - gametofit in sporofit se morfološko razlikujeta (mah)
+
+
+Tip spor:
+
+izosporija - enake spore (lisičjaki (praprotnice))
+heterosporija - različne spore (drežnice (praprotnice))
+
+
+
+Pogosto razlike med sporami in gametami ni, v tem primeru lahko iste celice bodisi služijo razširjanju haploidne rastline, bodisi kopulirajo med seboj in tvorijo zigoto.
+Pridelovanje semen
+Cvetovi vsebujejo razmnoževalne organe, se pravi dele, ki razvijajo moške in ženske celice. Delom, ki vsebujejo moške celice, pravimo prašniki, tistim, ki vsebujejo ženske celice, pa plodni listi. Nekatere rastline imajo le po en plodni list v vsakem cvetu. Druge, kot na primer zlatica, jih imajo več. Znotraj vsakega plodnega lista je plodnica, ki vsebuje eno ali več plodnih zasnov, to je ženskih celic, vsak plodni list ima lepljiv vrh, ki mu pravimo brazda. V prašnikih nastaja na tisoče manjših zrn, ki jim pravimo pelod, in vsako zrno vsebuje moško celico. Peclji prašnikov se imenujejo prašne niti, vrhovi pa prašnice. V prašnicah so pelodne vrečice, v katerih nastaja cvetni prah, ko je ta nared, se vrečice razpočijo.
+Oprašitev
+Za nastanek semena mora pelod potovati od prašnikov do brazde drugega cveta istega tipa. Temu pravimo oprašitev. Pelod od cveta do cveta lahko prenašajo žuželke, netopirji, ptice ali veter. Žuželke obiskujejo cvetove, da zbirajo nektar, sladko tekočino, ki nastaja na dnu venčnih listov. Ko pristanejo na cvetu, se pelod prilepi nanje. Ko obiščejo naslednji cvet, se pelod otre na brazdi, se pravi na vrhu plodnega lista. Za cvetove, ki jih oprašijo žuželke, so bolj ali manj značilni živobarvni venčni listi in vonj, ki žuželke privlači. Venčni listi imajo pogosto vzorce, ki usmerjajo žuželke k nektarju, in jim pravimo medeni vodniki. Cvetovi, ki jih opraši veter, na primer cvetovi evkalipta, imajo venčne liste in ne izločajo nektarja ali vonja. Njihov pelod je droben in gladek in prašniki visijo zunaj cvetov, tako da pelod zlahka odpihne že rahel veter.
+Oploditev
+Ko zrnce peloda pristane na brazdi, razvije cev navzdol, skozi plodni list do semenskih zasnov, tako da se lahko združita moška in ženska celica. Temu pravimo oploditev, združenim celicam pa zigota. Po oploditvi plodnica zraste in se razvije v plod. Oblikujejo se semena. Rastlina ne potrebuje več svojih preostalih cvetnih delov, tako da ti ovenijo in odmrejo. Vsako seme vsebuje kalček, ki se bo razvil v novo rastlinico, in hrano imenovano endosperm, ki zagotavlja energijo za rast nove rastline.
+Nespolno razmnoževanje
+
+
+
+
+Mesojeda rastlina
+
+
+Nekatere rastline se razmnožujejo brez semen. Pri nespolnem razmnoževanju ne sodelujeo moške in ženske celice, ampak celice nespolnega razmnoževanja (spore ali trosi), ki nastanejo pri redukcijski delitvi in predstavljajo sporogeno tkivo.
+Poznamo več oblik nespolnega razmnoževanja:
+
+delitev celice (najpogosteje pri enoceličnih organizmih)
+brstenje (na matični rastlini se pojavi brst, ta se odlomi in lahko zaživi kot samostojna rastlina)
+vegetativne oblike razmnoževanja (o njih govorimo takrat, kadar se rastline razmnožujejo z vegetativnimi organi: list, steblo ali korenina): s potaknjenci (lahko so stebeljni ali listni, nediferencirane celice se pretvorijo v celice nadomestnih korenin); s čebulicami; z zarodnimi brstiči; z gomolji (lahko so pretvorjene stranske korenine ali stebla)
+
+Plodovi in semena
+Cvetnice se razmnožujejo z razvijanjem semen. Semena ščitijo plodovi, ki imajo bodisi debela in v mnogih primerih okusne mesnate plasti, ali pa le suhe lupine ali ovoji s semeni znotraj njih. Vsako seme vsebuje kal, iz katerega se bo v ustreznih razmerah razvila nova rastlina.
+Plod
+Ko se znotraj cveta oblikujejo semena, se deli cveta razvijejo v plod. Poznamo številne vrste in oblike plodov. Nekateri izmed njih, ki sodijo k zelenjavi – na primer paradižnik – so pravzaprav sadeži.
+Razširjanje semen
+Rastline so se razvile na več načinov za raznašanje svojih semen, tako da ne tekmujejo z matično rastlino za prostor, svetlobo in vodo. Temu pravimo razširjanje semen. Semena lahko raznosijo živali, veter ali voda, ali pa se razširijo naokrog potem, ko se sadež razpoči. Semena, ki jih razprši veter, so zelo lahka in imajo dlačice ali tanka, papirju podobna krila, da jih veter lažje nosi po zraku. Razpršena semena se razvijejo v strokih. Potem, ko se stroki posušijo, se hipoma odprejo, tako da se semena raztresejo proč od matične rastline. Semena, ki jih razširi voda, na primer kokosovi orehi, imajo nepremočljive lupine. Kokosovi orehi so semena kokosove palme. Plavajo na rekah ali morju, dokler jih voda ne naplavi na obrežje. Mesnate plodove s semeni, kot na primer jagode, jedo ptice in druge živali, ki semena potem izločijo s svojimi iztrebki. Semena s kavlji, kakršna ima na primer repinec, se oprijemajo živalskega kožuha, lešnika in zrna pa lahko živali odnesejo daleč proč in zakopljejo.
+Pestrost rastlin
+Poznamo več kot 300000 različnih vrst rastlin. So najrazličnejših oblik in imajo zelo raznovrstne življenjske navade. Tako npr. med rastline uvrščamo nežne, na vlažne življenjske razmere prilagojene mahove iz skupine jetrnjakov, pa tudi kaktuse, ki so sposobni preživeti puščavsko sušo in vročino. Med rastlinami najdemo koruzo in druge zelnate vrste, ki končajo svoj življenjski krog v enem samem letu, in orjaška mamutovčeva drevesa, ki živijo tisoče let. Prav zaradi velike pestrosti oblik so se lahko rastline prilagodile in preživele v različnih okoljih ter naselile skoraj vsa območja našega planeta. V tem so bile najuspešnejše kritosemenke ali prave cvetnice (deblo Angiospermophyta), ki so med približno 250 000 različnimi vrstami najštevilnejša in najbolj razširjena rastlinska skupina. Njeni predstavniki uspevajo od tropskih gozdov do polarnih pustinj. Kljub veliki raznovrstnosti imajo vse rastline nekaj pomembnih skupnih lastnosti. Praviloma so vse prave rastline zelene in si s fotosintezo same pridobivajo rastlinsko hrano; večinoma so udi pritrjene v prst ali drugo podlago in se ne morejo samostojno premikati. Glive (kraljestvo Fungi) in enocelične alge (iz kraljestva Protista) imajo z rastlinami nekatere skupne lastnosti, zato jih po navadi obravnavamo skupaj z rastlinami, čeprav ne sodijo med prave rastline.
+Opombe in reference
+
+
+^ Haeckel G (1866). Generale Morphologie der Organismen. Berlin: Verlag von Georg Reimer. Str. vol.1: i–xxxii, 1–574, pls I–II; vol. 2: i–clx, 1–462, pls I–VIII. 
+^ plant[2 - Definition from the Merriam-Webster Online Dictionary]. Pridobljeno dne 2009-03-25.
+^ plant (life form) -- Britannica Online Encyclopedia. Pridobljeno dne 2009-03-25.
+
+
+Glej tudi
+
+rastlinsko kraljestvo
+poenostavljeni rastlinski sistem
+osnovna rastlinska živila v gospodinjstvu
+
+
+
+
+
+
+p · p · u · zBotanika
+
+
+
+
+
+Področja botanike
+
+
+Splošna botanika: Morfologija rastlin · Fiziologija rastlin · Ekologija rastlin
+Specialna botanika: Etnobotanika · Paleobotanika · Sistematika rastlin · Aplikativna botanika · Geobotanika
+
+  
+
+
+
+
+
+Vrste rastlin
+
+Evolucija rastlin · Alge · Mahovi · Praprotnice · Golosemenke · Kritosemenke
+
+
+
+
+
+
+Organi rastlin
+
+Cvet · Socvetje · List · Korenina · Steblo · Sadež · Seme · Les
+
+
+
+
+
+
+Rastlinske celice
+
+
+Sestavni deli celic: Celična stena · Protoplazma · Citoplazma · Celični organeli · Vakuola
+Delitev celic: Amitoza · Mitoza · Zoritvena delitev · Delitev s celično ploščo · Brazdanje
+
+
+
+
+
+
+Procesi v rastlinah
+
+
+Primarni metabolizem: Fotosinteza · Transpiracija  · Dihanje · Glikoliza
+Sekundarni metabolizem: Alkaloidi · Terpeni · Rastlinski hormoni
+
+
+
+
+
+
+Razmnoževanje rastlin
+
+Opraševanje · Oploditev · Plod · Kalitev · Pelod · Spora · Sporofit · Gametofit · Metageneza
+
+
+
+
+
+
+Življenjska doba
+
+Enoletnica · Dvoletnica · Večletnica · Trajnica
+
+
+
+
+
+
+Taksonomija rastlin
+
+Botanično ime · Botanična nomenklatura · Herbarij · IAPT · ICN · Species Plantarum, Linné
+
+
+
+
+
+
+Kategorija · Projekt · Portal
+
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Rastline&oldid=3946527«				
+Kategorije: Taksonomija rastlinRastlineTaksoni, opisani leta 1866Skriti kategoriji: Članki, ki so potrebni čiščenjaČlanki, ki so potrebni čiščenja s parametrom razlog 
+
+
+

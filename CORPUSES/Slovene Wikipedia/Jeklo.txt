@@ -1,0 +1,139 @@
+
+
+
+
+
+
+Pridobivanje surovega jekla
+
+
+Jêklo je železova zlitina, pri katerih je poleg samega železa najpomembnejši zlitinski element ogljik. Ogljika je v jeklih razmeroma malo, lahko pa so dodani še drugi legirni elementi. Njegov masni delež je navadno manjši kot 2 %. Kljub temu ima najpomembnejši vpliv na uporabne lastnosti jekel.
+Najpogostejša so ogljikova jekla. To so jekla, ki poleg železa vsebujejo le ogljik ter manjše količine mangana, silicija in aluminija. Slednje tri elemente dodamo z namenom, da bi zmanjšali ali povsem izničili negativen vpliv nečistoč, kot so žveplo, fosfor, kisik in dušik. Druga skupina jekel so legirana jekla. Ta – za razliko od ogljikovih jekel - vsebujejo še znatne količine kroma, niklja, molibdena ali katerega drugega elementa. Posebna legirana jekla, ki so znana kot nerjavna, vsebujejo najmanj 11,5 % kroma. Orodna jekla so posebna vrsta jekel. Namenjena so odrezovanju in oblikovanju kovinskih in nekovinskih materialov v želeno obliko. Nekatera jekla dobijo svojo končno obliko z litjem (jeklena litina), medtem ko večino jekel oblikujemo v končno obliko z gnetenjem (preoblikovanjem) in jih lahko prištevamo h gnetnim zlitinam.
+
+
+Vsebina
+
+
+1 Lastnosti jekel
+2 Zgodovina
+
+2.1 Do 20. stol. pr. n. št.
+2.2 Od 20. stol. pr. n. št. do 14. stol. n. št.
+2.3 Od 15 stol. n. št. do 19 stol. n. št.
+2.4 Od 20. stol. n. št. do danes
+
+
+3 Sistematika jekel
+4 Razdelitev jekel
+
+4.1 glede na kemično sestavo
+4.2 glede na vrsto uporabe
+
+
+5 Neporušitvene preiskave
+6 Literatura
+7 Glej tudi
+8 Zunanje povezave
+
+
+Lastnosti jekel
+
+
+
+
+Jeklena vrv
+
+
+Jeklo je elastično, modul elastičnosti E znaša od 2,0 do 2,2×105 N/mm². Čisto železo ima trdoto le 60 HV. S postopki toplotne obdelave dosegamo v jeklu trdote tudi do 800 HV, s postopki toplotno kemične obdelave pa tudi vrednosti 2000 HV. Natezna trdnost čistega železa znaša približno 200 N/mm², jekla pa tudi do 4000 N/mm²
+Zgodovina
+Načrtovana in nenaključna proizvodnja jekla poteka iz predhodno pridobljenega železa. Ker je jeklo zlitina železa in ogljika, pri zgodovini jekla dejansko obravnavamo železo. Danes večino železa pretvorijo v jeklo.
+Železa, za razliko od nekaterih drugih kovin kot so zlato, srebro in platina, v naravi ne najdemo v elementarni obliki, ampak navadno v kombinaciji s kisikom in žveplom. Z obdelavo iz železove rude odstranimo kisik in dodamo ogljik ali druge elemente za izboljšanje lastnosti materiala.
+Težavo pri pridobivanju železa v preteklosti je predstavljalo predvsem visoko tališče železa, pri katerem je možno iz rude izločiti kisik. Tališča, ki znaša 1535 °C, ni bilo možno doseči z odprtim ognjem, ki je lahko dosegel temperaturo do največ 1100 °C. Človek je poznal železovo rudo, vendar je ni znal obdelovati.
+Do 20. stol. pr. n. št.
+Najstarejše najdbe, ki kažejo prve znake uporabe železa, izhajajo iz starega Egipta in Mezopotamije in datirajo okoli 4000 let pr. n. št. Egipčani in Sumerci so v tem času iz železa izdelovali nakit, konice sulic in bodala. Železo, ki so ga obdelovali, vsebuje več kot 6 % niklja, tako kot snov meteoritov, kar nakazuje, da je izvor tega železa nezemeljski oz. iz meteoritov. Nikelj-železo je bilo primerno za obdelavo, ne da bi ga bilo potrebno predhodno segreti do temperature tališča čistega žleza.
+Prve najdbe železnih predmetov, ki ne vsebujejo niklja in so zemeljskega izvora, so iz obdobja med 3000 in 2000 let pr. n. št. ter izhajajo iz Anatolije (danes Turčije), Egipta in Mezopotamije. Manjše kepe železa so našli v talilnicah bakra, kar podpira teorijo, da je bilo to železo stranski produkt proizvodnje bakra.
+Z vpihovanjem zraka skozi votle cevi, so v pečeh dosegali višje temperature ognja (do 1200 °C), hkrati pa se je temperatura tališča železove rude, z dodajanjem ogljika v obliki oglja, znižala. Tako so iz železove rude dobili grude stopljenega železa ali t.i. železov cvet. Ne glede na to ali so železov cvet dobili kot stranski produkt ali z načrtno proizvodnjo, so v tem obdobju železovo rudo že lahko obdelovali. Ogret železov cvet so nadalje obdelovali s kladivom, da so se znebili neželenih primesi.
+Od 20. stol. pr. n. št. do 14. stol. n. št.
+Dosedanja odkritja damascenskega (s kovanjem vzorčasto okrašenega) jekla iz 20. stol. pr. n. št. izhajajo iz območja nekdanje Anatolije. Civilizaciji Hetitov iz Anatolije pripisujejo najstarejšo proizvodnjo jekla. Železo so mehanično ločili od ostalih snovi v železovi rudi in kovali vroče železo pri 800 °C, s čimer so dodatno izločili nečistoče v obliki tekoče žlindre. Tako so dobili kovano železo. Hetiti so iz jekla izdelovali orožje ali pa ga uporabljali kot menjalno sredstvo za srebro z Asirci.
+Egipčani so svoje železne premete vrednotili zadosti, da so jih pokopavali v grobnice. Egipčanski vladar Tutankamon, ki je umrl leta 1323 pr. n. št. je bil pokopan z železnim bodalom.
+Starim Grkom in Rimljanom je bil proces pridelave jekla tako zanimiv, da so ga opisovali celo pisatelji. Homerjeve pesnitve (cca 880 let pr. n. št.), Herodotova »Zgodovina« (446 let pr. n. št.), Aristotel (350 let pr. n. št.) in Plinijeva »Zgodovina narave« (leta 77) opisujejo procese pridelave jekla. Grki in Rimljani so jeklo uporabljali predvsem za meče. Kljub visoki natezni trdnosti ga niso uporabljali v konstrukcijske namene. Čeprav bi lahko izdelovali dolge traverze, je vse kar najdemo, nekaj majhnih nosilcev v kopališčih iz kovanega železa.
+Indijci so za damasciranje uporabljali jeklo imenovano Wootz. To jeklo so pričeli proizvajati okoli 3. stoletja pr. n. št. na jugu Indije in je vsebovalo veliko ogljika. Wootz so dobili tako, da so železovo rudo karbonizirali, da so jo lahko stalili, zatem pa še dekarbonizirali, do stopnje vsebovanega ogljika od 1 % do 1,6 %. Jeklo so nato v obliki materiala in končnih izdelkov izvažali v Evropo, Kitajsko, Arabski svet in Bližnji vzhod, kljub temu pa je postopek izdelave zelo kvalitetnega jekla Wootz ostal skrivnost vse do prenehanja njegove proizvodnje v 17. stoletju n. št.
+Kitajci, ki so železo in jeklo pričeli uporabljati približno 1000 let kasneje kot Hetiti, so močno razširili uporabo te kovine. Uporabljali so jo za orodje, orožje, posodo, kuhinjske pripomočke in tudi v konstrukcijske namene. Prvi železni viseči most so konstruirali in izvedli Kitajci. Njihovo prečiščevanje staljenega surovega železa in kovaško obdelovanje, je bilo okoli 500 let pr. n. št. zelo razvito, saj so enako tehnologijo Evropejci pričeli uporabljati šele 2000 let kasneje.
+Od 15 stol. n. št. do 19 stol. n. št.
+V Evropi lito železo do 14. stol. ni bilo cenjeno. S pričetkom uporabe jekla za topove pa se je zanimanje za železovo rudo povečalo. Pomemben pobudnik razvoja je bila tudi železnica s svojimi potrebami. Železničarji so potrebovali kvalitetnejši material za tirnice, ki so jih sicer morali menjavati vsakih 6 mesecev in so bile vzrok za številne nesreče.
+Povečana pridelava jekla je terjala porabo velikih količin oglja, kar je pomenilo ogromno krčenje gozdov, zato je v 17. stol. prišlo do zamenjave oglja s premogom, vendar je premog vseboval žveplo, kar je naredilo jeklo krhko. Rešitev so našli pivovarji, ki jim je pri uporabi premoga za varjenje piva nezaželeno žveplo dajalo smrdljiv priokus pivu. Žvepla so se znebili tako, da so premog pekli, tako da je ostal čisti ogljik. Švedski kemik Torbern Olof Bergman je leta 1781 v svoji znanstveni razpravi Disseratatio Chemica de Analysi Ferri razkril pomembno vlogo ogljika v železni zlitini in determiniral kompozicijo litega železa, jekla in surovega železa. Odslej je bila razlika med železom in jeklom jasno določena.
+Britanski izumitelj Henry Bessemer je izumil tehniko masovne proizvodnje jekla in jo leta 1855 patentiral. Bessemer je med projektiranjem topovskih izstrelkov za Britansko vojsko prišel na idejo, da bi iz poceni železne zlitine odstranjevali ogljik, namesto da so ga dodajali dragemu nizko karbonskemu surovemu jeklu. Bessemerjev postopek je zajemal vpihovanje zraka pod velikim pritiskom (s pomočjo parnega stroja) v staljeno surovo železo, kar je imelo dvojni učinek: kisik je nase vezal ogljik in se izločil kot ogljikov dioksid, hkrati pa je oksidacija dobavljala toploto, ki je bila potreba za ohranjanje taline, saj se je z zniževanjem ravni ogljika poviševala talilna temperatura. Odkritje je pomenilo pričetek poceni industrijske proizvodnje jekla.
+Nemški inženir Carl Wilhelm Siemens je leta 1856 predstavil izboljšavo talilne peči. Iznašel je regeneracijski postopek, na osnovi katerega sta Francoza Emile in Pierre Martin leta 1864 konstruirala in patentirala peč. Ta je dobila ime Siemens-Martinova peč. Pri teh pečeh se uporablja postopek regeneracije toplote tako, da se v plamenih peči temperatura bistveno zviša s predogrevanjem zraka in generatorskega plina, ki služi kot gorivo. S konvektorskim postopkom se proizvajajo kisla in bazična jekla glede na vrsto obloge v konvektorjih, kjer se poleg grodlja tali tudi staro železo. Možnost uporabe starega železa pri proizvodnji novega je pomenila pomemben korak naprej v jeklarski industriji.
+Angleža Percy Carlyle Gilchrist in Sidney Gilchrist Thomas sta leta 1878 modificirala Bessemerjev proces. Z dodajanjem apnenca ali dolomita sta iz taline odstranila fosfor in žveplo. Možnost odstranjevanja nečistoč je pomenil novo prelomnico, saj sta postali angleška in nemška železova ruda, ki sta vsebovali veliko fosforja, prav tako uporabni za pridelavo kvalitetnega jekla, kot je bila prej švedska ruda. Proces je po izumitelju poimenovan Thomasov proces.
+Po številnih poizkusih izumiteljev v 19 stol. je elektropeči leta 1900 razvil Francoz Paul L.T. Heroult. V elektropečeh se je s pomočjo oglenih elektrod tik nad surovinami ustvaril električni oblok, ki je talil surovine ter zgoreval ogljik. Pri tem postopku ni bilo potrebno dovajati zraka, zato se v talini niso ustvarjali dodatni zračni mehurčki. Elektroobločni postopek je omogočil izdelavo visokokakovostnih in posebnih vrst jekel, ki so jih uporabljali za orodja in vzmetnice. Osnovna pomanjkljivost električnih peči je visoka količina porabljene energije.
+Od 20. stol. n. št. do danes
+V začetku 20. stol. je bila zaradi njegove neenotne kompozicije ukinjena uporaba litega in surovega železa v konstrukcijske namene. V skladu s tedanjimi predpisi je bilo pri gradnji dovoljeno uporabljati le jeklo. Konstrukcijsko jeklo je bilo material specifičnih oblik, zanesljive kemične sestave in točno določene trdote, kar pa je zagotavljalo primerno stopnjo varnosti konstrukcije.
+Jeklo je material, ki je prisoten pri vsej arhitekturi 20. stoletja: v ploščah, vezivih, vijakih, žebljih, v obliki palic in mrež kot armatura v betonu. Konstrukcijsko jeklo je omogočilo razvoj hitro postavljivih poslovnih objektov, strehe velikih razponov brez vmesnih nosilcev in gradnjo nebotičnikov.
+Pomemben napredek v jeklarski industriji je bilo odkritje nerjavečega jekla. Anglež Harry Brearley ga je prvič proizvedel z dodajanjem kroma železu v električni peči leta 1913. Po njegovem odhodu iz laboratorijev Brown Firth je z raziskavami nadaljeval dr. William H. Hatfield, ki je leta 1924 izumil še danes najbolj razširjeno vrsto nerjavečega jekla, t.i. jeklo »18/8«, katerega 18 % teže predstavlja krom in 8 % teže je niklja.
+Danes se večina konstrukcijskega jekla proizvaja s procesom imenovanim osnovni oksidacijski postopek (BOS – ang. Basic oxygen steelmaking), ki je izboljšana metoda Bessemerjevega procesa v t.i. LD–konverterju, ki je poimenovan po dveh Avstrijskih krajih – Linz in Donawitz. Postopek je razvilo in prvič predstavilo Avstrijsko podjetje Voestalpine AG leta 1952. Z vpihovanjem čistega kisika na surovo železo se temperatura dvigne do 1700 °C, zniža se raven ogljika in pridobivamo nizko karbonsko jeklo. Bistvena izboljšava od Bessemerjevega postopka je uporaba kisika namesto zraka, ki skupaj z modernim prečiščevalnim procesom zagotavlja dobro zrnavost in dobro varljiv material z enakomerno trdnostjo in žilavostjo.
+Leta 1952 je bila ustanovljena Evropska skupnost za premog in jeklo, z namenom zagotoviti rekonstrukcijo ključnih industrij po drugi svetovni vojni. Proces je bil za obe panogi zelo zahteven, vendar se je le tako oblikovala vitka, fit in moderna jeklarska industrija. Jeklo je postalo moderen material z obetajočo prihodnostjo. Danes je jeklo najpogosteje recikliran material na svetu. Ocenjujemo, da je od novo proizvedenega jekla približno 42,3 % recikliranega materiala. Vse jeklo, ki je na razpolago se reciklira. Dolga življenjska doba in uporaba v konstrukcijske namene pomeni zaloge za recikliranje v prihodnosti, toda da bi zapolnili današnje potrebe je potrebno proizvajati tudi jeklo iz železove rude.
+Sistematika jekel
+Tehnična železa, med katere spada jeklo, so med kovinami oziroma zlitinami po uporabnosti najbolj razširjena. Gospodarska in tehnična uporabnost ni le v veliki količini, temveč tudi v izredno visoki uporabnosti lastnosti. Lastnosti jekel spreminjamo predvsem z legiranjem, s plastičnim preoblikovanjem v toplem in hladnem ter s toplotno obdelavo. Tako je mogoče natezno trdnost spreminjati od 200 do 4000 N/mm2, magnetne lastnosti pa od feromagnetnih do paramagnetnih. Korozijsko obstojnost lahko prilagajamo najrazličnejšim zahtevam, prav tako tudi tehnološke lastnosti. Jeklo lahko oblikujemo v vročem z ulivanjem, kovanjem, valjanjem in stiskanjem; v hladnem pa z valjanjem, vlečenjem, stiskanjem in z odrezovanjem. Jekla lahko izdelujemo tudi s postopki prašne metalurgije. Jeklene dele lahko spajamo z varjenjem, lotanjem, kovičenjem, vijačenjem.
+Razdelitev jekel
+glede na kemično sestavo
+
+nelegirano jeklo
+
+navadno ogljikovo jeklo
+rafinirano ogljikovo jeklo
+
+
+legirano jeklo
+
+malo legirano jeklo
+visoko legirano jeklo ali močno legirano jeklo
+
+
+avstenitno jeklo
+feritno jeklo
+
+glede na vrsto uporabe
+
+orodno jeklo primeri oznak TC140, 210CrW12
+
+npr. HSS jeklo primeri oznak HS12-1-5-5
+
+
+splošno konstrukcijsko jeklo ali navadno konstrukcijsko jeklo primeri oznak S355J2G3
+konstrukcijsko jeklo za toplotno obdelavo
+posebno konstrukcijsko jeklo
+
+npr. ventilno jeklo
+
+
+
+Neporušitvene preiskave
+S temi preiskavami odkrivamo napake v materialu, ne da bi ga poškodovali ali celo uničili in ga kasneje lahko vgradimo v kakšno napravo. Najbolj sta razširjeni dve metodi: preiskava z ultrazvokom in preiskava z rentgenskimi žarki
+Literatura
+
+Bojan Kraut: Krautov strojniški priročnik (KSP)
+Franc Vodopivec: Kovine in zlitine, Inštitut za kovinske materiale in zlitine, 2002
+Aleksander Kveder (ur.): Metalurški priročnik, Tehniška založba Slovenije, 1972
+
+Glej tudi
+
+jeklena litina
+seznam proizvajalcev jekla
+nitridiranje
+kaljenje jekel
+
+Zunanje povezave
+
+
+
+Poglejte si besedo jeklo ali Jeklo v Wikislovarju, prostem slovarju.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Jeklo&oldid=4074549«				
+Kategorije: MetalurgijaStrojništvoZlitineJeklo 
+
+
+

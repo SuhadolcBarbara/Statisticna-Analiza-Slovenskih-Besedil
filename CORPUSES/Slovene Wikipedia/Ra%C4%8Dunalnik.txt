@@ -1,0 +1,89 @@
+
+
+
+Računalnik
+
+
+
+
+
+
+
+
+
+
+
+
+Osebni računalnik
+
+
+Računalnik je naprava, ki lahko izračuna vse, kar se izračunati da.[1] Danes je računalnik predvsem elektronska naprava za avtomatsko obdelavo, shranjevanje in prenos podatkov. Posredno se danes uporablja tudi za krmiljenje strojev.
+Z njegovo zgradbo, delovanjem in uporabo se ukvarja veda računalništvo.
+
+
+Vsebina
+
+
+1 Opis računalnika
+2 Zgradba računalnika
+3 Vrste računalnikov
+4 Opombe in sklici
+5 Viri
+6 Zunanje povezave
+
+
+Opis računalnika
+Računalnik je naprava, ki obdeluje podatke v skladu s seznamom ukazov, katerega imenujemo program. Računalniki se pojavljajo v številnih fizičnih oblikah. Prve naprave, ki so podobne današnjim računalnikom, so iz sredine 20. stoletja (okoli 1940-1941), čeprav so zasnova računalnika in mnogi računalniku podobni stroji obstajali že prej. Zgodnji elektronski računalniki so bili velikosti večje sobe in so porabili toliko energije, kot je porabi več sto sodobnih računalnikov skupaj. Moderni računalniki so zasnovani na relativno majhnih integriranih vezjih in so milijon- do milijarde- krat bolj zmogljivi, zasedejo pa le malo prostora. Dandanes so enostavni računalniki lahko narejeni tako majhni, da se jih lahko vgradi v ročno uro, poganja pa jih baterija ure. Osebni računalniki mnogih izvedb so simboli informacijske dobe in so po mnenju mnogih ljudi to, kar bi naj pomenila beseda »računalnik«. Kljub temu je najpogostejša oblika računalnika v današnji rabi vgradni računalnik. Vgradni računalniki so majhne, preproste naprave, ki so pogosto uporabljene za nadzor nad drugimi napravami, najdemo jih lahko npr. v vojaških letalih, tovarniških robotih, digitalnih kamerah in celo otroških igračah. Računalnik je vsestranski zaradi sposobnosti shranjevanja in izvajanja množice ukazov, imenovanih programi. Po tem se razlikuje od navadnega kalkulatorja. Church-Turingova teza je matematična izjava o tej vsestranskosti: Vsak računalnik z določeno minimalno sposobnostjo je v principu sposoben opravljati iste naloge kot katerikoli drugi računalnik. Torej so računalniki s sposobnostjo in kompleksnostjo, ki se vrsti od osebnih digitalnih asistentov do superračunalnikov, zmožni opravljati iste računske naloge, če imajo dovolj časa in prostora za shranjevanje podatkov.!
+Zgradba računalnika
+Vsi računalniki vsebujejo enote, brez katerih celotna naprava ne bi delovala. Za delovanje potrebujemo programsko in strojno opremo, ki med seboj usklajeno in sinhronizirano delujejo. Zgradba računalnika:
+
+matična plošča
+centralno procesna enota ali procesor
+notranji pomnilnik (RAM, ROM)
+vhodno-izhodne enote
+zunanji pomnilniki
+
+Vrste računalnikov
+Poznamo naslednje vrste računalnikov:
+
+superračunalnik (supercomputer)
+veliki računalnik (mainframe)
+miniračunalnik (minicomputer)
+notesnik (notebook), prenosnik (portable)
+mikroračunalnik (microcomputer) oz. osebni računalnik (personal computer)
+dlančnik (PDA)
+tablični računalnik
+
+Opombe in sklici
+
+
+^ Kodek (1994).
+
+
+Viri
+
+Kodek, Dušan (1994). Arhitektura računalniških sistemov. Ljubljana: Bi-tim. ISBN 961-6046-01-2. COBISS 37856512. 
+
+Zunanje povezave
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: Računalnik
+
+
+
+
+
+Poglejte si besedo računalnik ali Računalnik v Wikislovarju, prostem slovarju.
+
+
+
+ 
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Računalnik&oldid=4062264«				
+Kategoriji: RačunalništvoRačunalniki 
+
+
+

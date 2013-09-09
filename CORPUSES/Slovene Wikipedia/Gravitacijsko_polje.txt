@@ -1,0 +1,267 @@
+
+
+
+
+
+
+Gravitacijsko polje Zemlje z makroskopskega vidika; polje je radialno. Zelene puščice označujejo silnice gravitacijskega polja.
+
+
+Gravitácijsko oziroma téžnostno polje je področje, v katerem na telesa z maso deluje gravitacijska sila. Predstavlja fizikalni model za opis kako gravitacija obstaja v Vesolju.
+
+
+Vsebina
+
+
+1 Pregled
+2 Jakost Zemljinega gravitacijskega polja
+3 Jakost Sončevega gravitacijskega polja
+4 Jakost gravitacijskega polja ob neskončni steni
+5 Ubežna hitrost
+6 Problemi Newtonovega opisa gravitacije
+7 Jakost gravitacijskega polja črne luknje
+8 Opombe in sklici
+9 Literatura
+
+
+Pregled
+Gravitacijsko polje je določeno z jakostjo gravitacijskega polja, kar označujemo s črko g in je določena kot:[1]
+
+
+
+pri čemer je:
+
+ - gravitacijska sila,
+ - masa telesa.
+
+Gravitacijsko polje je vektorsko polje in je dejansko enako gravitacijskemu pospešku v dani točki.
+Gravitacijsko polje je posplošitev vektorske forme, ki pride še posebej prav kadar se obravnava več kot dve telesi (na primer raketa med Zemljo in Luno). Gravitacijska polja so konservativna - delo, ki ga opravi gravitacija iz ene lege v drugo, je neodvisno od poti. Zaradi tega obstaja potencialno polje , da velja:
+
+
+
+Jakost gravitacijskega polja lahko zapišemo tudi kot gradient gravitacijskega potenciala:[2]
+
+
+
+Jakost gravitacijskega polja na zemeljskem površju je:
+
+
+
+Ker je gravitacijska sila med dvema telesoma enaka produktu mase drugega telesa (m) in jakosti gravitacijskega polja ( in je ),
+je torej jakost gravitacijskega polja .[3]
+Seveda tudi 2. telo z maso m ustvarja gravitacijsko polje, ki deluje na 1. telo z maso M. V obeh primerih pa vendar velja, da je .
+Izvirno je bila gravitacija zamišljena kot sila med točkastimi telesi. Po Newtonovem zgledu je Laplace poskušal modelirati gravitacijo kot neke vrste sevalnega polja ali tekočine, tako da so od 19. stoletja na gravitacijo po navadi gledali z očmi poljskega modela, in ne kot na privlak med točkami.
+V poljskem modelu masni delci izobličijo prostor-čas s svojo maso, to izobličenost pa zaznamo subjektivno kot »silo«. Dejansko v takšnem modelu ni sile, saj se snov preprosto odziva ukrivljenosti samega prostor-časa.
+Jakost Zemljinega gravitacijskega polja
+Na površju Zemlje je:
+
+
+
+kjer so:
+
+ - masa Zemlje (M = 5,9742 · 1024 kg), [4]
+ - srednji polmer Zemlje (R = 6372797 m), [4]
+ - gravitacijska konstanta ( m3/kg s2).
+
+Nad površjem Zemlje je
+
+
+
+pri čemer je  razdalja do izbrane točke nad površjem Zemlje. Zgornjo enačbo lahko izpeljemo iz  ter .
+Jakost Sončevega gravitacijskega polja
+Na Soncu je:
+
+
+
+tako da je:
+
+
+
+Jakost gravitacijskega polja ob neskončni steni
+Za masni delec z maso m, ki se nahaja na razdalji h od neskončno velike stene z masno gostoto ρ, je jakost gravitacijskega polja neodvisna od razdalje:[5]
+
+
+
+Ubežna hitrost
+Ubežna hitrost je hitrost, s katero mora telo z maso m zapustiti površino planeta, da popolnoma ubeži njegovemu gravitacijskemu polju oziroma da se lahko odmakne »neskončno« daleč. Telo mora imeti dovolj kinetične energije, da lahko opravi delo, potrebno za premik s površine v neskončnost oziroma iz točke, kjer je  v točko, kjer je ,
+pri čemer je:
+
+ - gravitacijski potencial nad površjem planeta,
+ - gravitacijski potencial na površju planeta,
+ - polmer planeta.
+
+Pri tem se potencial spremeni za , potrebno delo pa je enako . Zvezo med kinetično energijo in delom zapišemo kot: , pri čemer je  ubežna hitrost. Z izpeljavo te enačbe dobimo enačbo za ubežno hitrost, ki je: 
+Ubežna hitrost za Zemljo je: 
+Problemi Newtonovega opisa gravitacije
+Newtonov opis gravitacije je dovolj natančen za mnogo praktičnih namenov in se zaradi tega na široko uporablja. Odstopanja od takšnega opisa so majhna kadar sta brezrazsežni količini  in  veliko manjši od 1, pri čemer sta v hitrost opazovanega telesa in c hitrost svetlobe. Newtonov opis gravitacije daje zadovoljive rezultate sistema Zemlja-Sonce, saj velja:
+
+
+
+kjer je  astronomska enota.
+V primerih kadar je eden od teh dveh brezrazsežnih parametrov velik, je treba za opis sistema upoštevati splošno teorijo relativnosti. Splošna teorija relativnosti preide v Newtonov opis gravitacije pri malih potencialih in nizkih hitrostih, tako da se splošni gravitacijski zakon smatra kot spodnja gravitacijska meja splošne teorije relativnosti.
+Jakost gravitacijskega polja črne luknje
+Zgled za sistem kjer odpove Newtonov opis gravitacije je gravitacijsko polje črne luknje.
+...
+Opombe in sklici
+
+
+^ Jakost gravitacijskega polja je vektor.
+^ Poenostavljena razlaga gravitacijskega polja. Pridobljeno 2007-07-25. (v angleščini)
+^ Znotraj telesa ta enačba ne velja: .
+^ 4,0 4,1 Uvod v astronomska opazovanja. Pridobljeno 2007-07-25.
+^ Neskončna stena (An Infinite Wall). Pridobljeno 2007-08-02. (v angleščini)
+
+
+Literatura
+
+Pople, S. ([1996] 1998). Fizika: Shematski pregledi. Ljubljana: Tehniška založba Slovenije, str. 34-35. ISBN 86-365-0253-5
+Breuer, H. ([1987, 1988] 1993). Atlas klasične in moderne fizike. Ljubljana: DZS, str. 45. ISBN 86-341-1105-9 (COBISS)
+
+
+
+
+
+Teorije gravitacije
+p • p • u • z
+
+
+
+
+
+
+
+Gravitacija
+Tekmice STR
+Teorije poenotenega polja
+Druge
+
+
+
+
+Splošni gravitacijski zakon SGZ
+
+Klasična mehanika
+
+
+Splošna teorija relativnosti STR (Š)
+
+Polklasična gravitacija
+Tvistorska teorija
+Načelo ekvivalentnosti
+Gravitomagnetizem
+Matematika STR
+Preskusi STR
+
+
+Machovo načelo
+
+
+
+
+Klasične teorije gravitacije
+Konformna gravitacija
+Gravitacija f(R)
+Skalarne teorije
+
+Nordström
+Yilmaz
+
+
+Skalarno-tenzorske teorije
+
+Brans-Dicke
+Dilaton
+Samoustvarjalna kozmologija
+
+
+Bimetrične teorije
+
+Rosenova bimetrična teorija
+
+
+Druge teorije
+
+Einstein-Cartan
+
+Cartanova povezava
+
+
+Whitehead
+Nesimetrična gravitacija
+Skalarno-tenzorsko-vektorska
+Tenzorsko-vektorsko-skalarna
+Teorija supertekočega vakuuma
+Dinamična teorija (P)
+
+
+
+
+
+
+Teleparalelizem
+Geometrodinamika
+Kvantna gravitacija KG
+
+Nezvezna lorentzovska kvantna gravitacija
+Pojavljajoča gravitacija
+Evklidska KG
+Inducirana gravitacija
+Zančna kvantna gravitacija
+Wheeler-DeWittova enačba
+
+
+Teorija vsega
+
+Supergravitacija
+M-teorija
+Teorija superstrun (Š)
+Teorija strun
+
+Vsebine teorije strun
+
+
+Heim
+
+
+
+
+
+
+Večrazsežnostna STR
+
+Kaluza-Klein (Š)
+Model DGP
+
+
+Zamenjave za SGZ
+
+Aristotelska
+Boškovićeva
+Mehanske obravnave
+Fatio-Le Sage
+MOND
+
+
+Nerazvrščene
+
+Sestavljena gravitacija
+Masna gravitacija
+
+
+
+
+
+
+(Š) = škrbina
+(P) = psevdofizikalna
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Gravitacijsko_polje&oldid=3972275«				
+Kategorije: Teorije gravitacijeMehanikaGravitacija 
+
+
+

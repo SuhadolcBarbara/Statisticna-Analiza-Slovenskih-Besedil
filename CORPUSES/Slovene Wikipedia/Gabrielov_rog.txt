@@ -1,0 +1,65 @@
+
+
+
+
+
+
+Torricellijeva trobenta
+
+
+Torricellijeva trobenta (tudi Gabrielov rog) je geometrijsko telo, ki ga je odkril Evangelista Torricelli. Telo ima navidez paradoksalno značilnost, da ima neskončno veliko površino, vendar končno prostornino. Drugo ime telesa se nanaša na tradicijo, ki označuje nadangela Gabriela kot angela, ki piha v rog med najavljanjem sodnega dne. Zgodba povezuje božansko, ali neskončno s končnim.
+Torricelijeva trobenta je telo, ki nastane z vrtenjem grafa funkcije , za  (tako se izognemo asimptoti pri x = 0), okrog osi x.
+Če opazujemo del trobente med  in  je površina enaka  prostornina pa .
+Če se a povečuje v neskončnost, gre tudi velikost površine v neskončnost, prostornina pa gre proti π.
+Navidezni paradoks neskočne površine in končne prostornine je zbudil velik spor glede narave neskončnosti, v katerem je sodelovalo več tedanjih pomembnih mislecev in naravoslovcev, med njimi: Hobbes, Wallis in Galilei.[1]:82–91
+
+
+Vsebina
+
+
+1 Sorodna telesa
+2 Opombe in sklici
+3 Viri
+4 Zunanje povezave
+
+
+Sorodna telesa
+V sodobni fizikalni kozmologiji je pomembno sorodno telo, Picardov rog, ki so ga poimenovali Aurich, Lustig, Steiner in Then v svojem članku Hiperbolična vesolja z rogovno topologijo in anizotropijo mikrovalovnega prasevanja ozadja (Hyperbolic Universes with a Horned Topology and the CMB Anisotropy).[2] Takšen prostor je kvocient modela hiperboličnega 3-prostora zgornje polravnine z grupo , ki ga je prvi opisal Picard leta 1884.[3][4]
+S Picardovim modelom se je poskušalo opisati mikrovalovno prasevanje ozadja v Vesolju. Ima končno prostornino in uporabne spektralne značilnosti. Izračunali so prvih nekaj lastnih vrednosti laplasiana, ki se dobro skladajo z opazovanji. V tem modelu se en konec telesa ukrivlja neskončnokrat v rogov zvonec. Krivulja vzdolž katerekoli strani roga je negativna. Drugi konec krivulje se razteza v neskončnost. S Picardovim modelom se lahko pojasnijo manjkajoče valovne dolžine v mladem Vesolju, ter zakaj so najmanjše podrobnosti prasevanja eliptične.
+Med športnimi navijači je priljubljeno trobilo s podobno obliko vuvuzela.
+Opombe in sklici
+
+
+^ Havil (2007), str. 82–91.
+^ Aurich, idr. (2004)
+^ http://www.academie-sciences.fr/activite/archive/dossiers/Picard/Picard_oeuvre.htm
+^ Picard (1884).
+
+
+Viri
+
+Aurich, Ralf; Lustig, Sven; Steiner, Frank; Then, Holger (2004). "Hyperbolic Universes with a Horned Topology and the CMB Anisotropy" (v v angleščini). Classical and Quantum Gravity (Fizikalni inštitut (IOP)) 21: 4901–4926. doi:10.1088/0264-9381/21/21/010. Arhivirano iz  prvotnega spletišča dne 2004-10-14. http://arXiv.org/abs/astro-ph/0403597. Pridobljeno 2011-08-24. 
+Havil, Julian (2007). Nonplussed!: mathematical proof of implausible ideas. Princeton University Press. ISBN 0-691-12056-0. 
+Picard, Charles Émile (1884-03-07). "Sur un groupe de transformations des points de l'espace situés du même côté d'un plan" (v v francoščini). Bulletin de la Société Mathématique de France 12: 43-37. http://www.numdam.org/item?id=BSMF_1884__12__43_0. Pridobljeno 2011-08-24. 
+
+Zunanje povezave
+
+Gabriel's Horn (v angleščini)
+
+
+
+
+
+
+ Ta matematični članek je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Torricellijeva_trobenta&oldid=3855220«				
+Kategorije: Matematične škrbineParadoksiGeometrija 
+
+
+

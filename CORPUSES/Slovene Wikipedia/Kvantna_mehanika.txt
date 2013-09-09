@@ -1,0 +1,82 @@
+
+
+Kvántna mehánika (tudi kvántna fízika) je fizikalna teorija, ki opisuje obnašanje snovi na majhnih razdaljah. V Sloveniji se izraza kvantna teorija večinoma ne uporablja.
+
+
+
+
+Valovne funkcije elektrona v vodikovem atomu imajo določeno energijo (naraščajoče od zgoraj: n=1,2,3,...) in vrtilno količino (naraščajoče prek: s, p, d,...). Svetlejša področja odgovarjajo višji verjetnostni gostoti za merjenje lege. Vrtilna količina in energija sta kvantizirani in zavzemata le nezvezdne vrednosti, kot jih kažejo slike.
+
+
+
+
+Vsebina
+
+
+1 Uvod
+2 Opis teorije
+3 Matematična opredelitev
+4 Medsebojni vpliv z drugimi fizikalnimi teorijami
+5 Uporabe
+6 Filozofsko razpravljanje
+7 Zgodovina
+
+
+Uvod
+Kvantna mehanika ponuja kvantitativno razlago dveh vrst pojavov, ki jih klasična mehanika in klasična elektrodinamika ne moreta pojasniti:
+
+Nekatere opazljive fizikalne količine, kot denimo skupna energija črnega telesa, lahko namesto zveznih zavzamejo le nezvezne vrednosti. Pojav je znan kot kvantizacija, najmanjši korak med stanji pa je kvant. Velikost kvanta je praviloma odvisna od opazovanega sistema.
+Pod določenimi pogoji se mikroskopski delci, kot so atomi ali elektroni, obnašajo kot valovanje; opazimo lahko denimo interferenco. Pod drugimi pogoji pa se isti delci obnašajo kot klasični »delci«, torej točkasta telesa omejena na določen del prostora; opazimo lahko denimo sipanje. Ta pojav je znan kot valovno-delčna dvojnost.
+
+Osnove kvantne mehanike so postavili v prvi polovici 20. stoletja fiziki, kot so Niels Henrik David Bohr, Werner Karl Heisenberg, Erwin Schrödinger, Vladimir Aleksandrovič Fok, Paul Adrien Maurice Dirac, Albert Einstein in drugi. Nekatere osnovne vidike teorije še vedno dejavno raziskujejo, po drugi strani pa izsledke kvantne mehanike že dolgo uporabljajo številne veje fizike in kemije, med njimi fizika kondenzirane snovi, kvantna kemija in fizika osnovnih delcev.
+Opis teorije
+Kvantna mehanika opisuje trenutno stanje sistema z valovno funkcijo, s katero je povezana verjetnostna gostota vseh merljivih lastnosti ali opazljivk. Opazljivke sistema so lahko energija, lega, gibalna količina, vrtilna količina ipd. V kvantni mehaniki opazljivkam ne moremo pripisati določenih vrednosti, ampak lahko sklepamo le o njihovih verjetnostnih porazdelitvah. Valovno obnašanje snovi lahko pojasnimo z interferenco valovnih funkcij.
+Valovne funkcije so lahko odvisne od časa. V nekem trenutku lahko denimo delec v praznem prostoru opišemo z valovno funkcijo, ki je valovni paket s središčem v neki povprečni legi. V nekem poznejšem času se valovni paket spremeni, s tem pa je tudi večja verjetnost, da delec najdemo na nekem drugem mestu. Časovni razvoj valovnih funkcij opisuje Schrödingerjeva enačba.
+Nekatere valovne funkcije opisujejo verjetnostne gostote, ki se s časom ne spreminjajo. Mednje sodijo tudi mnogi sistemi, ki bi jih v klasični mehaniki obravnavali dinamično. Zgled je elektron v nevzbujenem atomu, ki ga klasično opisujemo kot delec, ki kroži okoli atomskega jedra, v kvantni mehaniki pa ga opišemo s statičnim krogelno simetričnim oblakom verjetnostne gostote, v katerem središču je atomsko jedro.
+Z merjenjem določene opazljivke sistema vedno zmotimo valovno funkcijo, tako da ta zavzame eno od tako imenovanih lastnih stanj te opazljivke. Verjetnost za posamezno lastno stanje določa stanje valovne funkcije, tik preden smo jo zmotili. Za zgled si oglejmo delec, ki se giblje v praznem prostoru. Če izmerimo lego delca, bomo dobili neko naključno vrednost x. V splošnem njene natančne vrednosti ne moremo napovedati vnaprej, je pa verjetneje, da bomo izmerili vrednost blizu središča valovnega paketa, kjer je amplituda verjetnostne gostote večja. V trenutku, ko meritev izvedemo, pa se valovna funkcija »sesede« v lastno stanje, ki je ostro nakopičeno okoli izmerjene vrednosti x.
+Med samim procesom sesedanja valovne funkcije za slednjo ne velja Schrödingerjeva enačba. Ta je deterministična v smislu, da za valovno funkcijo v nekem trenutku povsem natančno napoveduje njeno vrednost v nekem poznejšem času. Med meritvijo pa je lastno stanje, v katero se sesede valovna funkcija, določeno verjetnostno in ne deterministično. Verjetnostna narava kvantne mehanike tako izhaja iz samega dejanja merjenja.
+Ena od posledic sesedanja valovnih funkcij je ta, da določenih parov opazljivk, kot sta denimo lega in gibalna količina, ne moremo obenem določiti s poljubno natančnostjo. To je znano kot Heisenbergovo načelo nedoločenosti.
+Kvantna mehanika je Heisenbergova zasluga, ki je leta 1927 postavil svoje temeljno načelo nedoločenosti. Načelo pravi, da nobenemu nebesnemu, atomskemu ali podatomskemu telesu ne moremo istočasno z enako stopnjo natančnosti določiti lego in hitrost v prostoru. Einstein je kvantno mehaniko zavračal, saj je menil, »da bog ne kocka«. S tem je poudaril svoje prepričanje, da naj bog pač ne bi prepuščal, da bi se stvari odvijale zgolj naključno. Angleški teorijski fizik Stephen Hawking, ki trpi zaradi bolezni gibalnih nevronov, zaradi česar je močno ohromljen, je ugotovil, da črne luknje v bistvu »izhlapevajo«. Za vrednost »izhlapevanja« je s pomočjo fizikalnih modelov določil vrednost 1060 let; to je število s 60-imi ničlami, kar je veliko več od starosti Vesolja in jasno določenih starosti najstarejših zvezd (med 12 do 15 milijardami let). Hawking je ugotovil, kakor se je izrazil v svoji zbirki esejev Kratka zgodovina časa, in v zbirki Črne luknje in otroška vesolja, »... bog ne samo, da rad kocka, ampak vrže kocko tudi tja, kjer je mi ne moremo več zaznati ...« Naključja so prav glavna domena te zanimive teorije, ki je kot protiutež delovala splošni in posebni teoriji relativnosti. Ker so imeli fiziki in drugi znanstveniki veliko težav, ko so poskušali iznajti teorijo vsega in jim to do sedaj še ni uspelo. Ta teorija naj bi združila vse v eni preprosti fizikalni enačbi, ki bi bila prilagodljiva, in bi se jo dalo uporabiti povsod in bi dala odgovore na vsa znana vprašanja. Združila naj bi tudi vse štiri glavne fizikalne sile.
+Matematična opredelitev
+Medsebojni vpliv z drugimi fizikalnimi teorijami
+Uporabe
+Filozofsko razpravljanje
+Zgodovina
+
+
+
+
+
+p · p · u · zSplošna področja fizike
+
+
+
+
+
+
+Atomska in molekulska fizika · Elektrika in magnetizem · Fizika visokih energij · Fizika zgoščene snovi · Klasična mehanika · Kvantna mehanika · Optika · Statistična mehanika · Termodinamika · Relativnost
+
+
+
+
+
+
+
+
+
+
+
+ Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+ 
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Kvantna_mehanika&oldid=4048595«				
+Kategorije: Fizikalne škrbineSplošna področja fizikeMehanikaKvantna mehanika 
+
+
+

@@ -1,0 +1,77 @@
+
+
+
+
+
+
+Strela je ena najbolj dramatičnih pojavov povezanih z elektriko
+
+
+Eléktrika je navadno sopomenka za električni naboj, lastnost nekaterih osnovnih delcev (npr. elektron ali proton), da nanje deluje električno polje, kot tudi, da sami ustvarjajo okoli sebe električno polje, kar vodi v privlačne ali odbojne sile med njimi. Ta sila je ena od štirih osnovnih sil v naravi, električni naboj pa je fizikalna količina, ki se ohranja in ga lahko kvantiziramo. V tem pomenu je »množina elektrike« enakovreden pojem za električni naboj. V naravi obstajata dve vrsti električnega naboja, ki ju imenujemo »pozitivni« in »negativni«. S poskusi so pokazali, da se istoimenski električni naboji (npr. pozitivni-pozitivni ali negativni-negativni) medsebojno odbijajo, različnoimenski pa privlačijo. Silo med električnimi naboji podaja Coulombov zakon. S tehnično izrabo elektrike se ukvarja elektrotehnika.
+Pojem »elektrika« je dostikrat rabljen ohlapno; z njim označujemo poleg električnega naboja (denimo v zvezi »statična elektrika«) včasih tudi električni tok (»ubila ga je elektrika«) ali celo električno energijo (»plačati račun za elektriko«).
+
+
+Vsebina
+
+
+1 Zgodovina
+2 Električni tok
+3 Električna energija
+4 Električna vezja
+5 Glej tudi
+6 Zunanje povezave
+
+
+Zgodovina
+Zapisi Talesa iz Mileta iz okoli leta 600 pr. n. št pričajo, da je bila elektrika znana starim Grkom, ki so odkrili, da, če jantarno palico podrgnejo s krznom, palica privlači krzno. Ugotovili so tudi, da jantarni gumbi privlačijo lahke predmete, kot je denimo las, ter da z dovolj vztrajnim drgnjenjem jantarja lahko dosežejo celo to, da preskoči iskra.
+Predmet, imenovan »Bagdadska baterija«, ki so ga našli med izkopavanji v Iraku in je datiran v obdobje okoli leta 250 pr. n. št., spominja na elektrokemijsko celico, zato so nekateri mnenja, da so ga uporabljali za galvanizacijo. O namenu predmeta ne obstajajo trdni dokazi, velja pa omeniti, da so tudi v Egiptu na stenah in v zapisih našli anahronistične opise električnih naprav.
+K raziskovanju elektrike se je leta 1600 vrnil angleški znanstvenik Gilbert v svoji študiji De Magnete, ki je tudi skoval novolatinsko besedo electricus iz grškega izraza ήλεκτρον (elektron, jantar), ki so jo prevzeli vsi drugi jeziki. Angleški besedi electric in electricity sta se prvič pojavili leta 1646 v Pseudodoxia Epidemica Tomasa Browna.
+Leta 1660 je von Guericke izumil zgodnjo obliko elektrostatičnega generatorja. Drugi pionirski raziskovalci elektrike iz Evrope so še Boyle, ki je leta 1675 odkril, da delujeta električni privlak in odboj tudi v praznem prostoru, Gray, ki je leta 1729 razdelil snovi na prevodnike in izolatorje, ter du Fay, ki je prvi identificiral dve vrsti elektrike, kasneje označeni kot »pozitivna« in »negativna«. Van Musschenbroek z Univerze v Leidnu je leta 1745 izumil leidensko steklenico, izvedbo kondenzatorja, ki je omogočila shranjevanje večjih količin elektrike. Watson je dve leti pozneje pri poskusih z leidensko steklenico ugotovil, da je razelektritev statične elektrike enaka električnemu toku.
+Junija 1752 je Franklin promoviral svoje raziskave elektrike z znamenitim in izjemno nevarnim poskusom, v katerem je med nevihto spuščal zmaja. Kasnejši romantizirani opisi poskusa najverjetneje ne ustrezajo resnici, saj bi se končali tragično. Kljub vsemu je na osnovi teh poskusov Franklin izumil strelovod ter ugotovil zvezo med strelo in elektriko. Bodisi Franklin, bodisi Kinnersley iz Philadelphije je tudi avtor poimenovanja »pozitivnega« in »negativnega« pola. Franklinova opažanja so pomagala kasnejšim raziskovalcem, kot so Faraday, Galvani, Volta, Ampère in Ohm, katerih delo predstavlja osnovo sodobni elektrotehniki. Pomen dela Faradayja, Volte, Ampera in Ohma je družba priznala s tem, da se po njih imenujejo osnovne enote električnih količin.
+Volta je pri poskusih s kemikalijami ugotovil, da lahko pri kemijski reakciji ustvari pozitivno anodo in negativno katodo. Ko med ti dve elektrodi, med katerima je razlika električnih potencialov (električna napetost), priključimo električni prevodnik, požene razlika potencialov po prevodniku električni tok. V počastitev Voltovega dela so osnovno enoto za električni potencial poimenovali volt.
+V 19. stoletju in začetku 20. stoletja so delovali velikani elektrotehnike: Tesla, izumitelj indukcijskega motorja in osnov distribucijskega omrežja za izmenični tok; Morse, izumitelj telegrafa; Meucci, izumitelj telefona; Edison, izumitelj fonografa in električne žarnice; Westinghouse, izumitelj električne lokomotive, ter Steinmetz, teoretik izmeničnega toka.
+Nikola Tesla je izvajal legendarne poskuse z zelo visokimi napetostmi, ki so vključevali tudi kroglaste strele; nekateri njegovi poskusi so bili pozneje ponovljeni in razloženi, drugi pa še do danes ne. Tesla, izumitelj indukcijskega motorja in večfaznega sistema, je v elektrotehniko prispeval teorijo večfaznega izmeničnega toka, ki ga je leta 1882 uporabil za prvi indukcijski motor. Maja 1885 je Westinghouse, tedaj predsednik družbe Westinghouse Electric Company iz Pittsburgha v Pensilvaniji odkupil od Tesle patentne pravice za večfazni izmenični dinamo.
+V naslednjih letih se je med Westinghousovim izmeničnim tokom in Edisonovim istosmernim tokom razvilo močno tekmovanje, kateri sistem bo prevladal v praksi. Edison je v kampanji promoviral tudi električni stol kot metodo usmrtitve. Električni stol je deloval na Westinghousov izmenični tok, s čimer je Edison hotel dokazati, da je izmenični tok ubijalski, zato se mora nanj gledati kot na inherentno nevarnega. Kampanja strahu, negotovosti in dvoma je vključevala tudi usmrtitev slončka Topsyja z električnim stolom. Kljub vsemu je navsezadnje povsod po svetu prevladal sistem izmeničnega toka.
+Električni tok
+Usmerjeno gibanje nosilcev električnega naboja imenujemo električni tok. Ti se lahko gibljejo bodisi po praznem prostoru, bodisi po kovini ali drugem električnem prevodniku. Električni tok je definiran kot količina naboja, ki v danem časovnem intervalu preteče skozi dani presek električnega kroga. V električnih izolatorjih je po drugi strani električni naboj vezan in se ne more premikati. Napravam, ki izrabljajo lastnosti električnega toka v praznem prostoru ali v polprevodnikih, pravimo elektronske naprave.
+Po dogovoru pravimo, da teče električni tok od »pozitivnega« proti »negativnemu« polu (tako imenovan konvencionalni tok). Razlikujemo istosmerni tok, katerega smer se s časom ne spreminja, ter izmenični tok, katerega smer oz. polariteta se s časom periodično spreminja.
+Zaradi varnosti je ena stran električnega vezja vezana na »zemljo«, kar pomeni, da je priključena na elektrodo, zakopano v tleh; enako je na v tla zakopano elektrodo priključen tudi izvor te žice v elektrarni. Vzamemo lahko, da so vsi ti priključki na istem električnem potencialu, ki je po dogovoru enak nič.
+Fenomenološko zvezo med električnim tokom I skozi upornik z upornostjo R, na katerega je priključena dana električna napetost U, podaja Ohmov zakon:
+
+
+
+Električna energija
+Ustvarjanje in distribucijo električne energije je domena elektroenergetike. Za večino odjemalcev električne energije to ustvarjajo centralno v elektrarnah ter jo po daljnovodih pripeljejo do porabnikov.
+Električna vezja
+Električno vezje je sestavljeno iz najmanj enega vira električne energije, enega porabnika in vodnikov, ki povezujejo porabnik in vir.
+Sestavin v električnem krogu je lahko več oblik, ki lahko vključujejo elemente, kot so upori, kondenzatorji, stikala, transformatorji in elektronike. Elektronska vezja vsebujejo aktivne sestavine, običajno polprevodnike in po navadi kažejo nelinearno obnašanje, ki zahteva kompleksne analize. Najenostavnejši električni sestavni deli so tisti, ki se označijo kot pasivni in linearni.
+Upor je morda najbolj enostavni pasivnimi element vezja. Kot že ime pove se upor upira toku in pri tem absorbira energijo to pa spreminja v toploto. Upornost je posledica gibanja, skozi vodnik. Na primer pri kovinah je upornost predvsem posledica trkov med elektroni in ioni. Ohmov zakon je temeljni zakon teorije vezja, ki navaja, da trenutno poteka skozi upor, ki je sorazmernen z morebitnimi razlikami med njimi. Upornost večine materialov je relativno konstantna v območju temperatur in tokov, materiali pod temi pogoji so znani kot »ohmski«. Ohm, je enota upora, imenovana v čast Georgu Ohmu, in simbolizira grško črko Ω. 1 Ω je upor, ki bo morebitna potencialna razlika enega volta kot odgovor na trenutni en amper.
+Kondenzator je naprava, ki lahko shrani naboj, in s tem shranjevanje električne energije v nastalem področju. Konceptualno, je sestavljen iz dveh plošč, med seboj tvorijo tanko izolacijsko plast, v praksi, so to tanke kovinske folije navite skupaj, povečanje površine na enoto prostornine in zato kapacitivnosti. Enota kapacitivnosti je Farad, poimenovana po Michaelu Faradayu, označimo pa jo s simbolom F. En Farad je kapacitivnost, ki proizvede potencialno razlikoenega volta, ko shrani naboj enega Columba. Kondenzator priključen na napajalno napetost na začetku povzroči trenutno polnenje, to polnenje pa bo upadlo v času, ko se kondenzator napolni, na koncu pa ta naboj pade na nič. Kondenzator zato ne drži enakomernega toka, temveč to blokira.
+Tuljava je po navadi iz žice, ki shranjuje energijo v magnetnem polje v odgovor na tok skozi njo. Ko se tok spremeni se magnetno polje prav tako in inducira napetost med dvema koncema vodnika. Inducirana napetost je sorazmerna s časom hitrosti spremembe toka. Konstanta sorazmernosti se imenuje induktivnost. Enota induktivnost je Henry, ki se imenuje po Josephu Henryu, sodobnik Faradaya. En Henry je induktivnost, ki bo spodbudila potencialno razliko enega volta, če se tok skozi to spremeni v višini enega ampera na sekundo. Obnašanje tuljave je v določenem smislu nasprotje kondenzatorju.
+Glej tudi
+
+električna baterija
+električni generator
+elektromotor
+Visoka napetost
+Nizka napetost
+Električna oprema v ogroženih okoljih
+Elektrostatično razelektrenje
+
+
+Zunanje povezave
+
+
+
+Poglejte si besedo elektrika ali Elektrika v Wikislovarju, prostem slovarju.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Elektrika&oldid=3994193«				
+Kategorija: Elektrika 
+
+
+

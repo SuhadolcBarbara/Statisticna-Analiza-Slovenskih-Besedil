@@ -1,0 +1,215 @@
+
+
+Bíbavica ali plimovánje je izraz, ki opisuje pojav izmeničnega spreminjanja višine vodne gladine v morjih in oceanih. Na morske mene (plima in oseka) vpliva gravitacijska sila predvsem Lune in v manjši meri Sonca. Ostali faktorji, ki vplivajo so: konfiguracija obale, krajevna globina morja, topografija morskega dna, veter in vreme; vsi ti faktorji povečujejo ali zmanjšujejo interval nastopanja in razliko v višini.
+
+
+
+
+
+
+
+Oseka
+
+
+
+
+
+
+
+
+Plima
+
+
+
+
+
+
+
+
+
+Zimska visoka voda v Wimereuxu v Franciji
+
+
+Izračuni variirajo od opazovanj in pokrivajo le standardne pogoje. Če so vremenski pogoji različni od normalnih, se tudi računske vrednosti ne ujemajo. Na splošno veter s kopnega in visok zračni pritisk zmanjšujeta nivo morja in obratno, veter z morja in nizek pritisk povišujeta nivo morja. Zato morajo morjeplovci upoštevati lokalne vremenske pogoje, preden izvajajo aktivnosti, na katere vpliva morska mena.
+Ker bibavica povzroča tokove polarne tekočine (voda) v zemljinem magnetnem polju, posledično vpliva na spremembo tega polja.
+Izguba vrtilne energije Zemlje, zaradi vpliva bibavice ter gravitacijskega vpliva deformacije le-te, povzroča upočasnitev vrtenja Zemlje in povečuje oddaljenost Lune.
+Največja amplituda je izmerjena v zalivu Fundy ( 45°00′N, 65°48′W) v Kanadi, kjer doseže med 15–20 m, v Evropi v izlivu reke Severn v Angliji, kjer doseže 13–16 m, v zalivu Saint-Malo (Francija) pa 12–16 m. Na Jadranu pa je največja amplituda 60 cm, v Tržaškem zalivu.
+
+
+Vsebina
+
+
+1 Izrazoslovje
+2 Časovni zamiki
+3 Fizikalna razlaga
+
+3.1 Amplituda in časovni cikel
+3.2 Časovni zamik
+3.3 Alternativna razlaga
+
+
+4 Bibavica in tekočine
+5 Bibavica in navigacija
+6 Ostale bibavice
+7 Glej tudi
+8 Zunanje povezave
+
+
+Izrazoslovje
+Največji nivo imenujemo »plima« ali »visoka voda«, najmanjši nivo pa »oseka« oziroma »nizka voda«. Plima nastopi na dveh koncih Zemlje hkrati in sicer na strani, ki gleda proti Luni in na nasprotni strani. Pri tem obstajata dve oseki, ki sta za 90° po zemljepisni dolžini zamaknjeni od plime. Na vsaki točki morja se dnevno pojavita dve plimi, ena visoka in ena nizka ter dve oseki, ravno tako ena visoka in ena nizka. Povprečno nastopi visoka plima v intervalu 12 ur in 24 minut, pri tem 12 ur zaradi rotacije Zemlje in 24 minut zaradi Luninega vrtenja okrog Zemlje. Pri tem velja, da je 12 ur polovica dolžine solarnega dne ter 24 minut polovica lunarne ekstenzije, ki znaša 1/29 lunarnega cikla.
+Čas med plimo in oseko imenujemo »upadanje morja«, medtem ko čas med oseko in plimo imenujemo »naraščanje morja«. V času plime in oseke, pa čas imenujemo »plimni obrat« oz. »obrat oseke«.
+Višina plime in oseke variira glede na povprečno gladino. Okoli mlaja in ščipa, ko so Sonce, Luna in Zemlja v liniji, se vpliva Sonca in Lune seštejeta tako, da je amplituda večja.
+Ko je Luna v prvem in zadnjem krajcu, in se nahajata Sonce in Luna pod kotom 90° eden nasproti drugemu, vpliv Sonca zmanjšuje vpliv Lune, in tako nastanejo najmanjše amplitude. Interval med močnimi in slabotnimi plimami in osekami znaša sedem dni.
+Relativna oddaljenost Lune od Zemlje ravno tako vpliva na višino plime in oseke. Ko je Luna v perigeju (najbližje Zemlji), takrat se aplituda poveča, in obratno, ko je Luna v apogeju (najdalj od Zemlje), se amplituda zmanjša. 7½ sinodičnega meseca (sinodični mesec traja ~29.53 dni) se pokrijeta perigej in ščip ali mlaj, in takrat nastopi največja sprememba amplitude. Efekt pa se še dodatno poveča, če ob perigeju nastopi Lunin mrk ali Sončev mrk.
+Časovni zamiki
+Glede na to, da se vse okoli Zemlje, Lune in Sonca odvija predvidljivo, to pomeni v točno določenih časovnih intevalih, pa z bibavico ni tako. Masa vode, ki se premika, je ogromna. Pri tem premikanju jo ovira kopno. Edino prosto območje je okoli Antarktike, tam se morske mase gibljejo nemoteno. Ravno tako vpliva na velikost amplitude razčlenjenost obale. Zaradi omenjenih vplivov, se dogaja, da v nekaterih območjih severne poloble, večja amplituda zamuja ob nastopu polne Lune tudi dva dni.
+Fizikalna razlaga
+Če odmislimo delovanje zunanjih sil, bo ocenska gladina tvorila geopotencialno ploskev oz. geoid, kjer kažejo gravitacijske sile proti centru Zemlje, pri tem ne obstajajo druge sile, ki bi povzročile tok vodne mase.
+
+
+
+
+Diferencial Luninega polja težnosti na zemljinem površju imenovan sila bibavice. To je primarni mehanizem, ki povzroča spremembo gladine.
+
+
+Dodajmo masivni telesi, kot sta Luna in Sonce, ki z gravitacijskim poljem, odvisnim od razdalje, vplivata na Zemljo. Tako imenovana prostorska razlika, imenovana gradient, gravitacijskega polja vpliva na obliko geoida. Deformacija, ki jo povzroča, ima fiksno orientacijo, ki je relativna na vplivno telo, in ki skupaj z rotacijo Zemlje, vodi bibavico. Gravitacijske sile so nasprotno proporcionalne kvadratu razdalje, sile bibavice pa so celo nasprotno proporcionalne tretji potenci razdalje. Sončeva privlačnost je sicer 179 krat večja od Lunine, toda zaradi mnogo večje razdalje, je njegovo polje gradienta in s tem tudi sila, ki deluje na oceane manjša od Lune (cca. 46 %).
+Ker je zemljina skorja trdna, in se premika z vsem kar vsebuje, se premika, kot eno telo, kar lahko predstavimo z neko silo, ki deluje v središču Zemlje. Voda na površju, pa se lahko prosto giblje, seveda pod vplivom sil, ki delujejo na njene delčke. Nastane razlika sil, ki delujejo na center in površje Zemlje, kar imenujemo silo bibavice.
+V točki, točno »pod« Luno (sub-lunarna točka), je voda bližje, kot pa center Zemlje, torej privlači vodo bolj in zato se dviguje, medtem ko pa na drugi strani, privlači Zemljo bolj kot vodo, zato se voda ravno tako dvigne. Ob tako imenovanih straneh, pa rezultanta sil deluje proti centru Zemlje. Nekje pri 55° orbitalne ravnine obstaja točka, kjer je sila plime in oseke tangencialna zemljinemu površju. Te (tangencialne) komponente največ prispevajo k bibavici. Dejanske sile, ki delujejo na delčke tekočine so reda velikosti desetinko milijona gravitacijske sile Zemlje.
+Amplituda in časovni cikel
+Ker se Zemlja zavrti relativno na Luno v lunarnem dnevu (24 ur, 48 minut), potujeta izbočitvi z enako hitrostjo, kar povzroča eno visoko plimo v časovnem razdobju 12 ur in 24 minut. Teoretična amplituda oceanske bibavice, pri vplivu Lune, je 54 cm v najvišji točki. To amplitudo bi dosegla bibavica, če bi ne bilo kopna in se Zemlja ne bi vrtela.
+Sonce ravno tako prispeva k bibavici, pri tem pa je njegov prispevek 25 cm oz. 46 % Luninega prispevka, njegov cikel pa 12 ur.
+Pri najvišji plimi, kjer se efekta združita, bi teoretično dosegla amplituda 79 cm, pri najnižji oseki pa 29 cm.
+Prave amplitude odstopajo od zgoraj opisanega zaradi topografije, pa tudi zaradi naravne periode oceanov, pri tem pa je magnituda istega reda velikosti kot perioda rotacije 30 ur (zaradi primerjave, naravna perioda nihanja Zemljine skorje je približno 57 minut). To pomeni, če bi Luna naenkrat izginila (ne bi več vplivala na bibavico), bi gladina oceanov nihala v periodi 30 ur.
+Razdalja med Zemljo in Soncem variira, ker orbita, po kateri se giblje Zemlja ni popoln krog temveč elipsa. To povzroča variacijo sile in teoretične amplitude za približno ±18 % pri vplivu Lune in ±5 % vplivu Sonca. Če bi bila oba v najbližji poziciji, bi teoretično dobili 93 cm veliko amplitudo.
+Časovni zamik
+Zato ker Lunina privlačnost vpliva na oceane v periodi 12,42 ure (polovica Zemljine sinodične periode vrtenja), kar je manj od naravne periode oceanov, pride do fenomena kompleksne resonance. Zakasnitev med Luninim prehodom in reakcijo bibavice variira od 2 ur na južni polobli, pa do dveh dni na Severnem morju. Povprečno je plimni časovni zamik šest ur (oseka se pojavi ko je Luna v zenitu, kar je v nasprotju z intuicijo). Izguba rotacijske energije Zemlje, zaradi vpliva bibavice ter gravitacijskega efekta deformacije le-te, povzroča upočasnitev rotacije Zemlje in povečuje oddaljenost Lune.
+Alternativna razlaga
+
+
+Vrtenje Zemlje okrog baricentra
+
+
+Nekatere fizikalne razlage bibavice vključujejo tako imenovano centrifugalno silo, ki nastane zaradi »premika« Zemlje okrog baricentra (skupni masni center Zemlje in Lune). Baricenter se nahaja na ¾ radiusa, gledano iz centra Zemlje. Pomembno je to, da se Zemlja ne vrti okrog te točke, temveč le pomika v cirkularni smeri (glej sliko). Vsaka točka na Zemlji ima enako kotno hitrost in enak radius orbite, toda z izmaknjenim centrom vrtenja. Ta centrifugalna sila deluje povsod enako, in tako ne vpliva na bibavico (toda z nasprotnim predznakom) izničuje gravitacijsko silo, ki deluje v masnem centru Zemlje. Torej z odštevanje gravitacijske sile, ki deluje v centru Zemlje od lokalnih gravitacijskih sil površja, pridemo do efekta dodajanja enako porazdeljene centrifugalne sile. Ti dve razlagi sta povsem različni, a pridemo do istega rezultata.
+Bibavica in tekočine
+Bibavica se dogaja, pogledano splošno, vedno pri premiku nekega telesa v gravitacijskem polju, ki ni enolično. Kakor koli gledano, vsa telesa v vesolju so podvržena vplivu bibavice. Pri delovanju na idealno togo telo se to ne bo zgodilo, a taka telesa ne obstajajo. Veliko teles je krogel, katerih sestava je le plin ali tekočina, nekatera imajo zelo tanko skorjo. Sile bibavice povzročajo razliko v pritisku med materialom, ki gradi taka telesa, s tem pa povzročajo tokove le tega. Ti argumenti načeloma veljajo za vsa telesa, a tu smo se omejili le na sistem Zemlja-Luna.
+Lunin vpliv na bibavico povzroča polje pospeška na zemljini površini. To polje lahko predstavimo kot jakost sile teže ene desetine mikrograma na kilogram snovi. Z drugimi besedami, na maso enega kilograma deluje sila »navzgor« v velikosti ekvivalenta ene desetine mikrograma.
+Jasno je, da se nič ne začne premikati navzgor, če na njega deluje tako majhna sila. Namesto tega se spremeni statični pritisk v tekočini oz. na gladini in blizu le te, ta pa povzroči tok v tekočini, dokler se pritisk ne izravna.
+Sekundarni vpliv povzročijo zastoji oz. prepreke, ki nastanejo ob različno razčlenjeni obali, in tako namesto amplitude 60 cm dobimo celo 12 m veliko amplitudo.
+Razlika v pritisku vpliva, ne le na tokove materiala v oceanih, temveč tudi v notranjosti Zemlje. Efekt toka materiala v Zemlji, povzročenega s silami bibavice, ravno tako vpliva na njeno elektromagnetno polje. Bibavica v notranjosti Zemlje povzroča (seizmične) valova, ki pa so merljivi.
+Bibavica in navigacija
+Bibavico v pomorstvu, predvsem v predelih, kjer je njena amplituda zelo velika, morajo upoštevati. Zgodi se lahko, da plovila z velikim grezom, čakajo na ugodno priložnost za zaplutje v pristanišča. Pri nas in širše gledano v Mediteranu teh problemov ni, saj je amplituda zelo majhna.
+Poleg opazovanj gibanja amplitude, se tudi računsko ugotavlja čas in velikost amplitude. V obzir je vedno potrebno vzeti še vremenske prilike. Nizek zračni pritisk vedno povečuje amplitudo, in nasprotno, visok pritisk amplitudo zmanjšuje. Smer vetra ravno tako vpliva na višino, saj veter »od obale« zmanjšuje vpliv in seveda obratno veter »na obalo« nariva večje količine vode, s tem pa povečuje amplitudo.
+Ostale bibavice
+Iz vsega, kar je bilo opisano zgoraj, lahko sklepamo, da ne obstaja le bibavica, ki vpliva na morsko gladino, temveč obstaja ta vpliv tudi na druge tekočine in pline. Omenimo atmosfersko bibavico in bibavico kopna. Medtem, ko si lahko predstavljamo atmosfersko, si bibavico kopna le težko predočimo, a vendar obstaja. Gravitacijske sile delujejo na notranjost Zemlje, in ker le ta ni idealno togo telo, povzroča razlika gravitacijkih sil tok v predelu materije, ki je tekočem agregatnem stanju. Seveda pri tem skorja, ki plava na tej masi, ne ostane inertna.
+Glej tudi
+
+Bibavični pas
+
+Zunanje povezave
+
+
+
+Poglejte si besedo bibavica ali Bibavica v Wikislovarju, prostem slovarju.
+
+
+
+[http://www.jal.cc.il.us/~mikolajsawicki/Tides_new2.pdf »Mit
+
+o gravitaciji in bibavici« (Myths about Gravity and Tides - pdf)]
+
+Razhajanja v predstavah o bibavici
+
+
+
+
+
+
+p · p · u · z Luna
+
+
+
+
+
+Fizikalne značilnosti
+
+Notranja zgradba • Gravitacijsko polje • Topografija • Magnetno polje • Atmosfera
+
+
+
+
+
+
+
+Gibanje
+
+Tir • Mene • Sončev mrk • Lunin mrk • Plimovanje
+
+
+
+
+
+
+Površje
+
+Rob • Selenografija • Bližnja stran • Oddaljena stran • Morja • Kraterji • Kotanja južni tečaj-Aitken • Krater Shackleton • Voda • Tla • Vrh večne svetlobe • Vesoljsko preperevanje • Prehodni lunarni pojavi
+
+
+
+
+
+
+Znanosti o Luni
+
+Geologija (časovna lestvica) • Domneva velikega trka • Mineralogija • Meteoriti • KREEP • ALSEP • Lasersko določanje razdalje do Lune • Pozno veliko bombardiranje
+
+
+
+
+
+
+Raziskovanje
+
+Raziskovanje Lune • Program Apollo • Robotsko raziskovanje • Odprave na Luno • Naselitev Lune • Teorije zarote o pristankih
+
+
+
+
+
+
+Drugo
+
+Koledar • Mesec • Luna v umetnosti in književnosti • Luna v mitologiji • Optična prevara Lune • Lunin učinek • Kraterji, imenovani po ljudeh • Podobe na Luni
+
+
+
+
+
+
+Glej tudi Osončje · naravni satelit
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal Astronomija
+
+
+
+,
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Bibavica&oldid=4056759«				
+Kategorije: HidrologijaVodeMorjaMorski pasovi 
+
+
+

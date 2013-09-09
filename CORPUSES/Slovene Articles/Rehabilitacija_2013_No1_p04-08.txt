@@ -1,0 +1,127 @@
+4
+
+Krajnik, Olenšek, Tomšič, Gorišek Humar, Klemen, Oblak / Rehabilitacija - letn. XII, št. 1 (2013)
+
+Prispelo /Received: 5. 12. 2012Sprejeto /Accepted: 25. 2. 2013E-naslov za dopisovanje /Email for correspondence (AO):andrej.olensek@ir-rs.siIzvlečekIzhodišča:Pri klinični analizi hoje je za kvantitativno ocenjevanje kinetičnih parametrov in spremenljivk nujno, da preiskova-nec pri hoji pritiskovno ploščo obremeni samo z eno nogo in s celim stopalom, vendar v ta namen ne sme prilagoditi dolžine koraka. Zanesljivo oceno kinetičnih parametrov in spremenljivk predstavlja povprečje vsaj treh tovrstnih ustreznih obremenitev z vsako nogo. Če je merilnih plošč malo, zaradi njihove nespremenljive postavitve, spremen-ljive dolžine korakov in različnih dolžin spodnjih udov to redko dosežemo v manj kot dvajsetih ponovitvah hoje, kar je za preiskovanca pogosto zelo naporno. Metode:Stezo za usmerjanje hoje predstavlja projekcija sheme stopal na svetlem traku, ki teče čez merilne plošče v smeri hoje tako, da je projekcija vsaj enega stopala v mejah pritiskovne plošče. Sistem smo preizkusili pri desetih otrocih v testni in desetih otrocih v kontrolni skupini. Pri obeh skupinah smo zapisovali, kolikokrat je hojo treba ponoviti, da bo otrok ustrezno obremenil pritiskovno ploščo vsaj trikrat z levo in trikrat z desno nogo.Rezultati:Rezultati kažejo, da je z uporabo sistema za usmerjanje hoje število ponovitev hoje, ki zagotavljajo zadostno število ustreznih obremenitev pritiskovnih plošč z levo in desno nogo, mogoče skoraj prepoloviti. Razlika je statistično značilna (p = 0,001).Zaključki:Zmanjšanje števila potrebnih ponovitev hoje z uporabo sistema za usmerjanje hoje je ključnega pomena pri pacientih, ki zaradi bolj izraženih anomalij težko hodijo. Na ta način lahko zagotovimo konsistentnost in majhno variabilnost rezultatov in zato tudi natančen in reprezen-tativen vzorec hoje vsakega posameznika.AbstractIntroduction:Loading the forceplates with one foot exclusively and with-out adapting the step length is a prerequisite for objective assessment of kinetic parameters and variables of gait. We consider an average of at least three good loadings with each leg to be a reliable assessment of kinetic parameters and variables of gait. Due to limited number of force plates, their fixed location, variable step length and different lengths of lower limbs is this rarely achieved in less than twenty trials, which is often very tiring.Methods:Gait guiding trail is a projection of footprints on the floor in the gait direction in such a way that at least one footprint is correctly located on a force plate. We tested the system in a test and in a control groups, each including ten children. In both groups we determined how many trial repetitions were necessary to appropriately load the force plates at least three times with the left and three times with the right leg. Results:The results show that such a guiding trail may reduce the number of trial repeitions that ensure appropriate force plate loading almost by a half. This difference is statistically significant (p = 0.001).Conclusion: Reducing the number of necessary trial repetitions by using gait guiding trail is crucial when gait is to tiring due to more expressive anomalies. By doing this we ensure consistency and small variability of results as well as very accurate and representative gait pattern of each individual.STEZA ZA USMERJANJE HOJE ČEZ PRITISKOVNE PLOŠČE – ZEBRATHE “ZEBRA” GAIT GUIDING TRAIL OVER FORCE PLATES
+
+mag. Janez Krajnik, univ. dipl. inž. fiz., znan. sod. dr. Andrej Olenšek, univ. dipl. inž. el., Igor Tomšič, 
+
+univ. dipl. org., Marta Gorišek Humar, dipl. fiziot., Ana Klemen, dipl. fiziot., dr. Jakob Oblak, dipl. inž. el.
+
+Univerzitetni rehabilitacijski inštitut Republike Slovenije – Soča, Ljubljana
+
+
+
+
+5
+
+Krajnik, Olenšek, Tomšič, Gorišek Humar, Klemen, Oblak / Rehabilitacija - letn. XII, št. 1 (2013)
+
+Ključne besede:klinična analiza hoje, patološka hoja, kinematika hoje, kinetika hoje, sistem za usmerjanje hojeUVOD Sodobna klinična analiza hoje običajno vključuje merjenje osnovnih časovnih in dolžinskih parametrov hoje, kinematič-nih (1) in kinetičnih (2) spremenljivk ter tudi električno aktiv-nost osnovnih mišičnih skupin spodnjih udov (3) (površinska EMG). Kinematične parametre in spremenljivke običajno merimo z elektrooptičnimi sistemi, ki zapisujejo položaj izbranih točk na telesu, označenih z markerji, ki odbijajo infrardečo svetlobo. Ti markerji določajo skeletno strukturo, katere gibanje nas zanima pri hoji. Po končani meritvi lahko z ustreznimi matematičnimi modeli izračunamo goniograme, ki opisujejo časovno odvisnost tridimenzionalnih rotacij v sklepih udov in so objektivna osnova za klinično oceno hoje (5, 6). Merilni sistemi običajno vključujejo tudi pritiskovne plošče, ki izmerijo vektorja sile in navora, ki jo na ploščo izvaja preiskovanec z nogo v opori. Pri tem je potrebno zagotoviti, da je pritiskovna plošča ustrezno obremenjena – pritiskovno ploščo mora preiskovanec obremeniti s celo-tnim stopalom, obenem pa plošče ne sme obremeniti tudi z drugim stopalom, da bi to dosegel, pa preiskovanec ne sme prilagajati dolžine korakov (6). Le tako lahko zanesljivo izračunamo tudi kinetične podatke (sile, navore in moč v opazovanih sklepih), tj. spremenljivke, ki podajajo vzroke za spremenljivost gibanja telesnih segmentov. Ker so merilne plošče vgrajene v stezo, po kateri preiskovanec hodi, in ker je dolžina korakov pri preiskovancu vedno spremenljiva, bi bila verjetnost za uspešno obremenitev, če so plošče popolnoma skrite, zelo majhna. Za zadovoljivo statistično zanesljivost rezultatov je potrebno zbrati vsaj nekaj uspešnih ponovitev hoje. Da bi se izognili prevelikemu ponavljanju hoje in pre-tiranemu telesnemu obremenjevanju preiskovanca, moramo osebe z zmanjšanimi zmožnostmi pri hoji usmerjati. Da bi to Key words: clinical gait analysis, pathological gait, gait kinematics, gait kinetics, gait guided trailše izboljšali, smo razvili sistem, ki na stezo, ki pelje čez meril-ne plošče, projicira sheme stopal, katerih položaji ustrezajo dolžini koraka, ki je za posameznega preiskovanca običajen. Sistem je dovolj fleksibilen, da bistveno ne spremeni načina izvedbe meritev in preiskovanca manj obremenjuje.METODESteza za usmerjanje hojeČe ocenimo, da preiskovanec težko hodi in da bo le s težavo opravil do 30 ponovitev hoje, kolikor predvidoma zadostuje, da zberemo ustrezne kinetične podatke (3 za levo in 3 za desno stran), pred kliničnim testiranjem motoričnih okvar pri preiskovancu in merjenjem njegove hoje opravimo meritev za določitev dolžine korakov (levega in desnega). Preiskovancu na obe nogi namestimo po tri markerje (na peto in zunanjo maleulo in na koren drugega prsta – sicer je pri merjenju preiskovanec opremljen z osemnajstimi takimi markerji in desetimi elektrodami za EMG), nato preiskovanec hodi v merilnem prostoru sistema Vicon, ne da bi ga vodil usmer-jevalni sistem. Dolžini levega in desnega koraka določimo med kliničnim testiranjem otroka s kinematično analizo tirnic markerjev na stopalih kot pri običajni meritvi hoje. Podatek je obvezni vhodni parameter uporabniške aplikacije, napisane v programskem okolju MATLAB, ki na računalniški zaslon v projekcijsko okno izriše stezo s shemami stopal. Enaka slika steze s shemami stopal se prek projektorja, ki je nameščen pod stropom in pravokotno na merilno stezo, projicira na zrcalo na nasprotni strani merilne steze, ki sliko usmeri v merilno območje sistema Vicon na tleh. Shematski prikaz sistema predstavljamo na sliki 1.
+
+Slika 1: Shematski prikaz sistema za usmerjanje hoje: 1 – projektor, 2 – zrcalo, 3 – pritiskovni plošči za merjenje reakcijskih sil podlage, 4 – kamera Vicon MX za zajemanje kinematike, 5 – oseba, opremljena z markerji in površinskimi elektro-dami za EMG, 6 – steza za usmer-janje hoje.
+
+
+
+
+6
+
+Ob zagonu aplikacije se na ekranu pojavita dve okni. V prvem oknu mora uporabnik nastaviti dolžinske parametre. Nasta-viti je treba dolžino dvojnega koraka, kot smo ga izmerili in izračunali z meritvijo pred tem, če je preiskovančeva hoja asimetrična, pa moramo ustrezno prilagoditi tudi dolžini korakov leve in desne noge na realni vrednosti, kot smo ju ugotovili s prejšnjo meritvijo. Ko izberemo ustrezni dolžini korakov za levo in desno nogo, nastavimo izhodiščni polo-žaj za hojo in njeno smer ter začetek hoje z levo ali desno nogo tako, da se projekcija enega stopala natanko ujema z mejami posamezne pritiskovne plošče. Nazadnje izberemo še število stopal, ki jih projiciramo – za nastavitev izhodiščnega položaja hoje izberemo projekcijo vseh stopal, za izvedbo meritve pa le tistih, ki preiskovanca vodijo do pritiskovnih plošč, ne pa tudi do obrisov stopal na ploščah. Na ta način povečamo verjetnost, da bo preiskovanec pritiskovne plošče pravilno obremenil, obenem pa mu preveč ne vsiljujemo izbrane dolžine koraka, ampak dopustimo pričakovano variabilnost le-tega.Sočasno z vnašanjem nastavitev se posodablja tudi projek-cijsko okno (slika 2), katerega slika se prek projektorja, ki je povezan z računalnikom, in zrcala projicira na merilno stezo. Projekcijsko okno prikazuje obrise stopal, ki preiskovanca med hojo vodijo, in obrise dveh pritiskovnih plošč. V izhodišč-nem položaju za hojo preiskovanec stoji s stopali vzporedno, nato pa prične hoditi z izbrano nogo. Analize dolžin kora-kov kažejo, da pri normalnih hitrostih hoje večinoma drugi korak doseže že približno 90 % stacionarne vrednosti. Zato projekcije stopal nastavimo tako, da je plošča obremenjena s tretjim korakom, ko se hitrost ne razlikuje statistično zna-čilno (p > 0,05) od srednje vrednosti stacionarne hitrosti, tj. povprečne hitrosti težišča telesa pri posameznikovi naravni in sproščeni hoji. V projekcijskem oknu rdeče obrarvana obrisa stopal tako označujeta izhodiščni položaj hoje, rumeno so obarvani obrisi stopal, ko hoja še ni stacionarna, zeleni obrisi stopal pa označujejo področje stacionarne hoje. Položaj in velikost projekcijskega okna je ob zagonu programa tak, da se obrisa plošč v njem ujemata z robovi plošč, ki so vgrajene v tla kineziološkega laboratorija, dolžine korakov pri projekciji stopal na tleh pa se zadovoljivo ujemajo z dolžinami, ki smo jih izbrali v prvem oknu. Uporabo sistema za usmerjanje hoje med merjenjem kinematike in kinetike hoje pri otroku predstavljamo na sliki 3.MeritveSistem smo preizkusili pri testni skupini desetih naključno izbranih otrok, ki smo jih med hojo usmerjali s stezo za usmerjanje hoje, in rezultate primerjali s kontrolno skupino desetih naključno izbranih otrok, pri katerih smo prilagodili samo izhodišče hoje, sicer pa so hodili brez usmerjanja. Pri vseh otrocih tako v testni kot tudi v kontrolni skupini je bila patološka hoja različno izražena, kineziološka meritev hoje pa je bila del redne obravnave na Univerzitetnem rehabilita-cijskem inštitutu Republike Slovenije – Soča. Naš cilj je bil pri vsakem otroku izmeriti kinematiko in kinetiko hoje vsaj treh korakov za levo in desno nogo – pri posameznem otroku smo torej hojo ponovili tolikokrat, da je otrok z levo in desno nogo sočasno ali posamič pravilno obremenil pritiskovni plošči 
+
+Slika 2: Projekcijsko okno: začetek hoje z levo nogo in obrisi vseh stopal (zgoraj) in začetek hoje z levo nogo in s prikritimi obrisi stopal čez pritiskovni plošči.Slika 3: Steza za usmerjanje hoje pri merjenju kinematike in kinetike hoje otroka; rdeče v ozadju kamera Vicon MX.Krajnik, Olenšek, Tomšič, Gorišek Humar, Klemen, Oblak / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+7
+
+vsaj trikrat – obenem pa smo zapisovali, kolikokrat je bilo hojo treba ponoviti, da so to dosegli. Povprečje za kotrolno in testno skupino smo primerjali s testom t, pri čemer smo za mejo statistične značilnosti privzeli p < 0,05.REZULTATIV tabeli 1 so zbrani podatki o potrebnem številu ponovitev hoje ter številu uspešnih obremenitev pritiskovnih plošč bodisi z levo bodisi z desno nogo ali z obema nogama hkrati pri kontrolni in testni skupini. Otroci v kontrolni skupini so v povprečju potrebovali 2,24 koraka za vsako ustrezno obremenitev pritiskovnih plošč, v testni skupini pa samo 1,27 koraka za vsako ustrezno obremenitev pritiskovnih plošč. Test t pokaže, da je ta razlika povprečij statistično značilna (p = 0,001). Podatki prav tako kažejo, da je bilo za ustrezno obremenitev pritiskovnih plošč pri kontrolni skupini v povprečju potrebnih 21.2 ponovitev hoje pri vsaki osebi, medtem ko je pri testni skupini zadostovalo samo 13.4 ponovitev pri vsaki osebi. Pri tem je pomembno, da so tri osebe iz kontrolne skupine (osebe 5, 7 in 8) z levo nogo ustrezno obremenile pritiskovne plošče trikrat, kar je najmanjše zahtevano število ustreznih obremenitev za vsako nogo. Sicer je bilo povprečno število ustreznih obremenitev pritiskovnih plošč pri kontrolni skupini 4,1 za levo nogo in 5,4 za desno nogo, pri testni skupini pa je bilo povprečno število ustreznih obremenitev pritiskovnih plošč 5,5 za levo nogo in 5,2 za desno nogo.Tabela 1: Rezultati meritev.
+
+Oseba
+
+Št. ustre-
+
+znih obre-
+
+menitev 
+
+samo z levo 
+
+nogo
+
+Št. ustre-
+
+znih 
+
+obremeni-
+
+tev samo z 
+
+desno nogo
+
+Št. ustre-
+
+znih obre-
+
+menitev 
+
+z levo in 
+
+desno nogo 
+
+hkrati
+
+Skupaj št. 
+
+ustreznih 
+
+obremenitev 
+
+z levo nogo
+
+Skupaj št. 
+
+ustreznih 
+
+obremenitev 
+
+z desno nogo
+
+Št. potrebnih 
+
+ponovitev
+
+Št. potrebnih 
+
+ponovitev / 
+
+št. ustreznih 
+
+obremenitev z 
+
+levo ali desno 
+
+nogo
+
+Kontrolna 
+
+skupina144044182,25244044273,3834100410402,86445045252,78534034152,14634367211,62734034111,57835035182,25954054161,781057057211,75Povprečje4,15,421,22,24 (SD 1,17)
+
+Testna 
+
+skupina120464161,60276187251,67330474100,91412345121,33555055131,30633144131,62756056141,27844044111,3890077790,641001556111,00Povprečje5,55,213,41,27 (SD 0,65)RAZPRAVARezultati kažejo, da je s sistemom za usmerjanje hoje mogo-če s precej manj ponovitvami hoje zagotoviti enako število ustreznih obremenitev pritiskovnih plošč, kot bi bilo sicer potrebno samo s prilagajanjem izhodiščnega položaja. Prav tako lahko ugotovimo, da s takšnim sistemom z enakim številom ponovitev, torej brez dodatnega obremenjevanja osebe, število uspešnih obremenitev pritiskovnih plošč skoraj podvojimo. Ker na ta način pridobimo skoraj dvakrat več podatkov o kinematiki in kinetiki hoje pri posamezniku, je vzorec hoje, ki ga izračunamo, bolj reprezentativen. To bi sicer lahko dosegli tudi z večjim številom pritiskovnih plošč, vendar so le-te precej dražje kot sistem za usmerjanje hoje. Hkrati se lahko vprašamo, ali posameznik zaradi takšnega usmerjanja svojo hojo ustrezno prilagodi in če jo, v kolikšni meri kinematika in kinetika hoje odstopata od naravne hoje, pri kateri posameznika na nikakršen način ne usmerjamo. Krajnik, Olenšek, Tomšič, Gorišek Humar, Klemen, Oblak / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+8
+
+Po dognanjih iz literature bi lahko predvidevali, da bo prišlo do manjših odstopanj v časovnih in dolžinskih parametrih (7, 8), osnovna oblika vzorca, ki je bistvena za ugotavljanje primarnih anomalij hoje pri posamezniku in sekundarnih kompenzacijskih mehanizmov, pa se naj ne bi bistveno spre-menila (4). Vpliv sistema za usmerjanje hoje na kinematiko in kinetiko hoje bomo ocenili v ločeni študiji v prihodnje.V literaturi nismo našli podatkov o podobnem sistemu za usmerjanje hoje, je pa soroden sistemu Rehawalk, ki ga izde-luje podjetje Zebris Medical GmbH (9). Sistem Rehawalk je terapevtska naprava, ki projicira stopala na tekoči trak, po katerem oseba hodi. Zato morajo osebe prilagoditi mehaniz-me svoje hoje, ki naj bi izboljšali nekatere parametre hoje, kar pa ni bilo preverjeno. Skladno s to zamislijo bi lahko tudi sistem za usmerjanje hoje uporabili v terapevtske namene. Tako bi se izognili nekaterim spremembam v kinematiki in kinetiki hoje, ki nastanejo pri hoji po tekočem traku, saj oseba hodi po tleh. Največja omejitev sistema pri terapevtski upora-bi je največja možna dolžina projekcije na tla, ki je omejena s kotom projekcije projektorja in z velikostjo zrcala.ZAKLJUČEKPri načrtovanju sistema za usmerjanje hoje smo izhajali iz zahteve, da je merjenje kinematike in kinetike hoje potrebno izvesti v čim krajšem času in brez pretiranega obremenjevanja osebe, največkrat otroka. S predstavljeno študijo smo ugoto-vili, da s sistemom za usmerjanje hoje, ki smo ga razvili na Univerzitetnem rehabilitacijskem inštitutu Republike Slove-nije – Soča, zberemo enako število ustreznih obremenitev pritiskovnih plošč s precej manjšim številom ponovitev hoje kot s standardnim pristopom s prilagajanjem izhodiščnega položaja. Ker zberemo več podatkov o kinematiki in kinetiki hoje otroka (z enakim številom ponovitev hoje jih skoraj podvojimo), s tem zagotovimo konsistentnost in majhno razpršenost rezultatov in zato tudi natančen in reprezen-tativen vzorec hoje vsakega posameznika, pri nekaterih posameznikih pa le tak sistem omogoča, da meritve sploh lahko izvedemo. Dolgotrajno ponavljanje hoje brez steze za 
+
+usmerjanje hoje bi bilo namreč za posameznika z bolj izra-ženimi anomalijami pri hoji prevelika obremenitev, rezultati pa bi bili manj zanesljivi.
+
+Literatura:Sutherland DH. The evolution of clinical gait analysis. 1. Part II: kinematics. Gait Posture 2002; 16(2): 159-79.Sutherland DH. The evolution of clinical gait analysis. 2. Part III: kinetics and energy assessment. Gait Posture 2005; 21(4): 447-61.Sutherland DH. The evolution of clinical gait analysis. 3. Part I: kinesiological EMG. Gait Posture 2001; 14(1): 61-70.Winter DA. Biomechanics and motor control of human 4. gait: normal, elderly and pathological. 2nd ed. Waterloo: University of Waterloo Press, cop. 1991.Gage JR. Gait analysis. An essential tool in the treatment 5. of cerebral palsy. Clin Orthop Relat Res 1993; (288): 126-34.Gage JR. The treatment of gait problems in cerebral 6. palsy. London: Mac Keith Press, 2004.Chow JW, Hemleben ME, Stokic DS. Effect of centerline-7. guided walking on gait characteristics in healthy subjects. J Biomech 2009; 42(8): 1134-7.Wearing SC, Urry SR, Smeathers JE. The effect of visual 8. targeting on ground reaction force and temporospatial parameters of gait. Clin Biomech (Bristol, Avon) 2000; 15(8): 583-91.Zebris Gait Analysis and Gait Training for Rehabilitation. 9. http://www.zebris.de/english/medizin/medizin-reha.phpKrajnik, Olenšek, Tomšič, Gorišek Humar, Klemen, Oblak / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+

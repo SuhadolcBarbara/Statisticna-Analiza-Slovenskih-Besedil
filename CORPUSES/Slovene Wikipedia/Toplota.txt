@@ -1,0 +1,64 @@
+
+
+Toplôta (oznaka Q) je v fiziki količina, ki meri energijo, katera zaradi razlike v temperaturi prehaja iz enega telesa na drugo.
+O toploti govorimo, kadar imamo opravka s spreminjanjem notranje energije telesa. Ker je merilo za notranjo energijo temperatura, se z dovajanjem toplote (segrevanjem telesa) notranja energija in s tem temperatura povečuje, z odvajanjem toplote (ohlajanjem telesa) pa zmanjšuje.
+Toplota je del notranje energije, ki se pretaka z mesta z višjo temperaturo na mesto z nižjo temperaturo, če sta mesti staknjeni. Z medsebojnimi trki molekul toplejši del oddaja, hladnejši del pa prejema notranjo energijo. Skladno s prvim zakonom termodinamike je sprememba notranje energije toplotno izoliranega telesa enaka vsoti prejetega ali oddanega dela in toplote. Toplote ne moremo izmeriti neposredno, ampak le posredno prek temperaturnih sprememb, ki jih povrzoča.
+Mednarodni sistem enot določa za merjenje toplote izpeljano enoto joule (džul), starejše enote so kalorija in kilokalorija.
+
+
+
+
+Toplota
+
+
+
+
+Vsebina
+
+
+1 Sončna toplota
+2 Toplotna energija
+3 Trdne snovi, tekočine in plini
+
+3.1 Vrelišče
+3.2 Tališče
+
+
+4 Infrardeči žarki
+5 Zunanje povezave
+
+
+Sončna toplota
+Sončna toplota, ki jo občutimo, je del toplote, ki se sprošča zaradi reakcij na Soncu. Toplota je za človeštvo zelo pomembna. Vreme je odvisno od sončne toplote, ki vpliva na vetrove in deževja. Žareča zemeljska sredica, kjer je nakopičeno zelo veliko toplote, povzroča izbruhe vulkanov in potrese. Avtomobilski, letalski in drugi motorji, ki poganjajo različna prevozna sredstva, izkoriščajo toplotno energijo, ki se sprošča pri izgorevanju goriva, in jo spreminjajo v gibanje. Toplota je oblika energije. Tudi najbolj mrzli predmeti »vsebujejo« toploto, vendar manj kot vroči predmeti. Toplota je namreč odraz gibanja majhnih delcev, iz katerih je snov zgrajena, tj. atomov oz. molekul. Molekule v vročih snoveh se gibljejo hitreje kot molekule v hladnejših snoveh.
+Toplotna energija
+Toplota je ena od mnogih oblik energije. Ogenj npr. spreminja kemijsko energijo v toplotno energijo. Električni grelci spreminjajo električno energijo v toplotno energijo.
+Trdne snovi, tekočine in plini
+Večina snovi je lahko v odvisnosti od zunanjih pogojev, to je od temperature in pritiska, v trdnem, tekočem in plinastem agregatnem stanju. Pri segrevanju ali ohlajanju prehaja snov iz enega stanja v drugo. Tekoča voda prehaja npr. pri visoki temperaturi v paro, pri nizki pa v led.
+Vrelišče
+Vrelišče je tista temperatura, pri kateri se tekočina po celotni prostornini(ne le po površini) spreminja v paro. Pri temperaturi, ki je nižja od temperature vrelišča, se plin spet spremeni v tekočino. Vrelišče vode pri normalnem tlaku je (760mm Hg = 1atm) je 100 °C oz. 373K.
+Tališče
+Pri segrevanju se trdna snov raztali. Da se snov tali, jo moramo segreti do določene temperature, do tališča. Pri temperaturi, ki je nižja od tališča, se snov spet strdi. Taišče vode(pri normalnem tlaku) je 0 °C oz. 273K.
+Infrardeči žarki
+Toplotno sevanje imenujemo tudi infrardeče sevanje. Ti nevidni žarki so precej podobni rdeči svetlobi, zato jim tudi pravimo infrardeči. Vsi predmeti sevajo te žarke, vendar vroči predmeti oddajajo intenzivnejše infrardeče sevanje kot mrzli predmeti. Nekateri grelci imajo posebno oblikovane reflektorje, da odbijajo toplotne žarke v določeni smeri.
+
+Zunanje povezave
+
+Izparilna toplota je toplota, ki jo moramo pri stalnem tlaku dovesti enemu kilogramu dane snovi v kapljevinastem agregatnem stanju, segrete do vrelišča, da izpari, torej da preide v plinasto agregatno stanje.
+Specifična toplota snovi je toplota, ki jo je treba dovesti, da se 1 kg dane snovi segreje za 1 K (ali za 1 °C), oziroma toplota, ki jo mora 1 kg snovi oddati, da se ohladi za 1 K.
+Sublimacijska toplota (tudi specífična sublimacíjska toplota) je toplota, ki jo moramo pri stalnem tlaku dovesti enemu kilogramu dane snovi v trdnem agregatnem stanju, segrete do temperature sublimacije, da sublimira, torej da preide v plinsto agregatno stanje.
+Talilna toplota (tudi specifična talilna toplota) je toplota, ki jo moramo pri stalnem tlaku dovesti enemu kilogramu dane snovi v trdnem agregatnem stanju, segrete do tališča, da se stali, torej da preide v kapljevinasto agregatno stanje.
+
+
+
+
+Poglejte si besedo toplota ali Toplota v Wikislovarju, prostem slovarju.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Toplota&oldid=3851786«				
+Kategoriji: Osnovni fizikalni konceptiToplota 
+
+
+

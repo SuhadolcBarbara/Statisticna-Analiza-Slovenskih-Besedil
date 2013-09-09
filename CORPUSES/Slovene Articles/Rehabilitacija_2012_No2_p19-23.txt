@@ -1,0 +1,157 @@
+19
+
+OCENJEVANJE VPLIVA OKVARE ZGORNJEGA UDA NA IZVEDBO ŽELENIH AKTIVNOSTIASSESSING THE IMPACT OF UPPER LIMB IMPAIRMENT ON PERFORMING DESIRED ACTIVITIES
+
+Zdenka Pihlar, dipl. del. ter., doc. dr. Gaj Vidmar, univ. dipl. psih., Zdenka Prosič, dipl. del. ter., Sara 
+
+Rupnik Mihelčič, dipl. del. ter.
+
+Univerzitetni rehabilitacijski inštitut Republike Slovenije – Soča, Ljubljana
+
+Pihlar, Vidmar, Prosič, Rupnik Mihelčič / Rehabilitacija - letn. XI, št. 2 (2012)
+
+Prispelo /Received: 16. 4. 2012Sprejeto /Accepted: 10. 11. 2012E-naslov za dopisovanje /Email for correspondence (ZP): zdenka.pihlar@ir-rs.siIzvlečekIzhodišča: Ljudje imajo po okvari zgornjega uda težave pri številnih aktivnostih, ki so zanje pomembne. Želeli smo oceniti, v kolikšni meri in na katerih področjih jim okvara pri tem povzroča težave.Metode: S Southamptonskim testom za ocenjevanje roke (Southampton Hand Assessment Procedure – SHAP) smo ocenili enaindvajset bolnikov z okvaro zgornjega uda, ki smo jih sprejeli na bolnišnično rehabilitacijsko obravnavo. Z ročnim dinamometrom smo jim izmerili grobo moč prijema, bolniki pa so v intervjuju navedli aktivnosti, pri katerih imajo težave.Rezultati: Okvara zgornjega uda vpliva na zmanjšano zmožnost prijemanja. Oslabljena groba moč zmanjša sposobnost posameznika za izvedbo številnih aktivnosti, ki so zanj pomembne in jih želi oziroma jih mora opravljati.Zaključki: S Southamptonskim testom za ocenjevanje roke in merjenjem grobe moči bolnikov smo potrdili, da okvara zgornjega uda vpliva na bolnikovo sposobnost prijema-nja in na izvedbo številnih aktivnosti na področju skrbi za sebe, dela in produktivnosti. To je potrebno upošte-vati pri načrtovanju delovno-terapevtske obravnave in celostne rehabilitacije.Ključne besede: funkcija roke, ocenjevanje, moč prijema, aktivnostiAbstractBackground: People with upper limb impairment face problems in per-forming many activities that they consider important. We wanted to assess to what extent and in which areas does the impairment cause them problems.Methods: Using the Southampton Hand Assessment Procedure (SHAP), we assessed twenty-one patients with upper limb impairment admitted to inpatient rehabilitation. Using a hand dynamometer we measured their grip strength. The activities where they experience problems were identified during an interview.Results: We found that upper limb impairment reduces gripping ability. Reduced grip strength reduces the ability to per-form several activities that a person wants to or has to perform.Conclusions: Using the SHAP and grip strength measurement we con-firmed that upper limb impairment affects gripping ability and thus the ability to perform several activities in the fields of self-care and work and productivity. This has to be taken into account when planning occupational therapy and comprehensive rehabilitation.Key words: function, hand, assessment, grip strength, activities
+
+
+
+
+20
+
+UVOD Funkcionalnost roke je definirana kot sposobnost prijemanja in manipulacije z različnimi predmeti pri aktivnostih vsak-danjega življenja. Okvara zgornjega uda vpliva na sposob-nost prijemanja, manipulacije s predmeti in na grobo moč. Ima pomembno vlogo pri izvedbi namenskih aktivnosti na različnih področjih človekovega delovanja in tako bistveno vpliva na kakovost posameznikovega življenja. Ocenjevanje ima pomembno vlogo pri načrtovanju terapev-tske obravnave, ki mora temeljiti na sodobnih smernicah, potrjenih z dokazi. Rezultati ocenjevanja nam pomagajo razumeti bolnikove omejitve in sposobnosti za izvajanje vsakodnevnih aktivnosti. Uporaba primernih ocenjevalnih orodij nam pomaga načrtovati ustrezno obravnavo bolnika, ki mora temeljiti na poznavanju značilnosti bolezni in nje-nega napredovanja, stopnje strukturnih sprememb zaradi bolezenskega stanja in vpliva le-teh na bolnikovo izvajanje aktivnosti in njegovo sodelovanje v družbenem in socialnem okolju.V literaturi je le malo podatkov o zanesljivi povezanosti med izvedbo aktivnosti in omejeno funkcijo zgornjega uda (sposobnostjo prijemanja in izvedbo aktivnosti) zaradi poškodbe ali bolezni. Poleg tega je veliko več uporabnih ocenjevalnih orodij, s katerimi ocenjujemo zmanjšano funk-cijo zgornjega uda pri bolnikih z okvarami živčevja, kot pa orodij za ocenjevanje le-te pri bolnikih z mišično-skeletnimi okvarami. Eden od teh je Southamptonski test za ocenjevanje roke (Southampton Hand Assessment Procedure – SHAP), ki so ga razvili leta 2002 na Univerzi v Southamptonu (1). Izoblikovali so ga na podlagi analize vzorcev prijemov in pogostosti uporabe le-teh v aktivnostih vsakdanjega življenja (2). Razvili so ga za ocenjevanje učinkovitosti proteznih rok, sedaj pa ga uporabljajo za ocenjevanje funkcije roke tudi pri bolnikih z drugimi okvarami: mišično-skeletnimi in okvarami živčevja ter pri biomehaničnem ocenjevanju dejavnosti vsakdanjega življenja in biomehaničnih analizah funkcionalne drže roke pri prijemanju (2). V Veliki Britaniji so za zdrave preiskovance pripravili normative in želeli ugotoviti, za koliko se poslabša funkcija roke pri ljudeh v različnih starostnih obdobjih, na enak način pa so normative nato pripravili tudi v Sloveniji (2).Test SHAP sestavlja 26 časovnih nalog, ki so razdeljene na dva dela. V prvem delu ocenjujemo 6 osnovnih prijemov z uporabo različnih lažjih in težjih predmetov. Z uporabo teh predmetov preverimo preiskovančeve sposobnosti za moč-nejši prijem. V drugem delu testa ocenjujemo 14 simuliranih aktivnosti vsakdanjega življenja, od katerih vsaka temelji na enem ali več osnovnih prijemih. Aktivnosti vključujejo odpenjanje gumbov, rezanje, prelivanje tekočine ter dviganje in prenos tovora. Čeprav se zdi, da so nekatere naloge izobli-kovane za soročno izvedbo (npr. odpenjanje gumbov), mora preiskovanec zaradi predpisanega postopka nalogo izvesti samo z eno roko, druga roka pa je le za oporo (2).S testom SHAP lahko pri bolnikih spremljamo napredek in s tem ocenjujemo uspešnost rehabilitacije. Če za ocenjeva-nje uporabljamo še druge teste, lahko ocenimo delovanje bolnikovega celotnega uda. Vsak prijem, ki je ocenjen vsaj z oceno 95, lahko štejemo za uspešnega, ocena pod 95 pa pomeni, da je funkcija roke slabša (2).METODEV raziskavo smo vključili bolnike z okvaro zgornjega uda, ki smo jih v obdobju od marca do maja leta 2012 prvič sprejeli na bolnišnično rehabilitacijsko obravnavo v Univerzitetni rehabilitacijski inštitut Republike Slovenije – Soča (URI-Soča). Vključitveni kriteriji so bili poškodba zgornjega uda, okvara perifernega živčevja ali revmatična bolezen. Izključitvena kriterija sta bila spremljajoča bolezen, ki vpli-va na potek rehabilitacije (možganska kap, demenca ipd.), in nepripravljenost bolnikov za sodelovanje v raziskavi. Funkcijo zgornjega uda s testom SHAP smo pri bolnikih ocenili prvi dan obravnave v delovni terapiji, hkrati pa smo opravili tudi polstrukturiran intervju, ki je bil usmerjen v izvedbo aktivnosti.Vse bolnike smo ob sprejemu in ob odpustu ocenili s testom SHAP in jim izmerili grobo moč prijema po standardizira-nem postopku z ročnim dinamometrom JAMAR® (3). Oceno s testom SHAP smo izrazili kot skupni indeks funkcioniranja v razponu od 0 do 100 glede na slovenske normative (2). Grobo moč prijema smo standardizirali (izrazili kot vrednost z, t.j. odstopanje od populacijskega povprečja deljeno s populacijskim standardnim odklonom) glede na objavljene populacijske norme za dominantno in nedominantno roko, ki so ločene po starostni skupini in spolu (4). Prvi dan obravnave v delovni terapiji smo bolnike intervjuvali in le-ti so navedli aktivnosti, pri katerih imajo težave. Te aktivnosti smo uvrstili v eno od treh glavnih področij: skrb za sebe, delo in produktivnost ali prosti čas (5).Za vse obravnavane spremenljivke smo izračunali opisne sta-tistike. Razlike v povprečni vrednosti številskih spremenljivk pri bolnikih med sprejemom in odpustom smo preizkusili s testom t za odvisna vzorca. Razlike v dvojiških opisnih spremenljivkah smo preizkusili z eksaktnim McNemarovim testom. Povezanost med številskimi spremenljivkami smo ocenili s Pearsonovim koeficientom korelacije (r). Za vnos, prikaz in analizo podatkov smo uporabili elektronsko pregle-dnico Microsoft® Excel 2010 (Microsoft Corp., Redmond, WA, 2010). Kot mejo statistične značilnosti smo upoštevali p ? 0,05.REZULTATIV raziskavo je bilo vključenih 21 bolnikov – 10 moških (48 %) in 11 žensk (52 %), starih med 34 in 87 let (pov-prečna starost 51 let, mediana 49 let). Devet bolnikov je Pihlar, Vidmar, Prosič, Rupnik Mihelčič / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+
+21
+
+imelo poškodbo enega oziroma obeh zgornjih udov, osem bolnikov je imelo okvaro perifernega živčevja in dve osebi revmatično bolezen.Opisne statistike za ocene s testom SHAP pri bolnikih ob sprejemu in odpustu so skupaj z rezultati statističnih testov primerjave povprečij zbrane v tabeli 1. Porazdelitve ocen pri-kazuje slika 1. Skupni indeks funkcioniranja se pri bolnikih niti ob sprejemu niti ob odpustu ni statistično značilno raz-likoval med nedominantno in dominantno roko, statistično značilno pa se je pri njih povečal tako za nedominantno kot za dominantno roko ob odpustu v primerjavi s sprejemom.Tabela 1: Opisne statistike in statistični testi primerjave povprečij za skupni indeks funkcioniranja, ocenjen s testom SHAP.
+
+Sprejem
+
+Odpust
+
+p
+
+(testi 
+
+t
+
+ za odvisna vzorca)
+
+povprečje
+
+(SD)
+
+mediana
+
+(razpon)
+
+povprečje
+
+(SD)
+
+mediana
+
+(razpon)
+
+Nedominantna
+
+roka83,486,090,593,0sprejem vs.nedomin. vs.(14,0)(38; 98)(8,5)(68; 99)odpust: 0,026dominantna ob
+
+Dominantna
+
+roka84,991,091,296,0sprejem vs.sprejemu: 0,739(17,3)(31; 98)(13,3)(38; 99)odpust: 0,009odpustu: 0,821Slika 1: Porazdelitev skupnega indeksa funkcioniranja, ocenjenega s testom SHAP, za nedominantno in dominantno roko pri bolnikih ob sprejemu in odpustu (poenostavljeni škatlastih grafikoni v sivi barvi prikazujejo prvi kvartil, mediano in tretji kvartil; v točkovnih grafikonih dejanskih vrednosti polni krožci označujejo vrednosti, ki pomenijo normalno funkcioniranje).Največkrat so bili nižje ocenjeni triprstni prijem, cilindrični prijem, lateralni in pincetni prijem. Na področju ocene aktiv-nosti so se pokazale težave zlasti pri pobiranju kovancev, zapenjanju gumbov, rezanju, zapenjanju zadrge in delu z izvijačem.Pred začetkom rehabilitacije je bila pri vseh bolnikih sku-pna ocena indeksa funkcioniranja nižja od meje za normal-no funkcioniranje vsaj pri eni od obeh rok, pri 14 bolnikih pa pri obeh rokah. Glede na mejno vrednost indeksa je imel normalno funkcijo nedominantne roke ob sprejemu en bolnik, ob odpustu pa šest; normalno funkcijo dominantne roke je ob sprejemu imelo šest bolnikov, ob odpustu pa 11 (tabela 2). Delež bolnikov z normalno funkcijo se niti ob 
+
+sprejemu niti ob odpustu ni statistično značilno razlikoval, čeprav je bilo očitno boljše funkcioniranje dominantne roke (tabela 2). Razlika v deležu bolnikov z normalno funkcijo glede na mejno vrednost indeksa med sprejemom in odpustom prav tako ni bila statistično značilna niti za nedominantno niti za dominantno roko, čeprav je bilo očitno povečanje deleža za obe roki in je bila razlika blizu statistične značilnosti.Tabela 2: Normalna funkcija roke glede na skupni indeks funkcioniranja, izmerjen s testom SHAP – kontingenčne tabele in statistični testi primerjave deležev.
+
+Ob sprejemu
+
+Funkcija dominantne rokeFunkcija nedominantne rokeokvarjenanormalnaSkupajokvarjena14620normalna11Skupaj15621
+
+Ob odpustuFunkcija dominantne rokeFunkcija nedominantne rokeokvarjenanormalnaSkupajokvarjena8715normalna246Skupaj101121
+
+Nedominantna rokaFunkcija ob odpustuFunkcija ob sprejemuokvarjenanormalnaSkupajokvarjena15520normalna11Skupaj15621
+
+Dominantna rokaFunkcija ob odpustuFunkcija ob sprejemuokvarjenanormalnaSkupajokvarjena9615normalna156Skupaj101121Pihlar, Vidmar, Prosič, Rupnik Mihelčič / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+
+22
+
+Opisne statistike za standardizirane vrednosti grobe moči pri-jema so skupaj z rezultati statističnih testov zbrane v tabeli 3. Porazdelitve ocen prikazuje slika 2. Pri osemnajstih bolnikih je bila groba moč prijema zmanjšana (vrednost z negativna) na obeh rokah, pri vseh bolnikih pa vsaj na eni roki.Podobno kot skupni indeks funkcioniranja se moč niti ob sprejemu niti ob odpustu ni statistično značilno razlikovala med nedominantno in dominantno roko. Tako za nedominan-tno kot za dominantno roko pa se je pri bolnikih statistično značilno povečala ob odpustu v primerjavi s sprejemom.Tabela 3: Opisne statistike in statistični testi primerjave povprečij za standardizirano vrednost grobe moči prijema.
+
+Sprejem
+
+Odpust
+
+p
+
+(testi t za odvisna vzorca)
+
+povprečje
+
+(SD)
+
+mediana
+
+(razpon)
+
+povprečje
+
+(SD)
+
+mediana
+
+(razpon)
+
+Nedominantna
+
+roka-2,49-2,45-1,93-1,91sprejem vs.nedomin. vs.(1,66)(-4,96; 1,04)(1,53)(-4,49; 1,15)odpust: <0,001dominantna ob
+
+Dominantna
+
+roka-2,62-2,48-2,06-2,44sprejem vs.sprejemu: 0,836(1,82)(-5,63; 0,54)(1,75)(-4,82; 0,94)odpust: <0,001odpustu: 0,812Slika 2: Porazdelitev standardizirane vrednosti grobe moči prijema, izmerjenega z ročnim dinamometrom, za nedo-minantno in dominantno roko pri bolnikih ob sprejemu in odpustu (poenostavljeni škatlasti grafikoni v sivi barvi prikazujejo prvi kvartil, mediano in tretji kvartil; točkovni grafikoni prikazujejo posamezne vrednosti).Korelacije med ocenami oziroma meritvami so navedene v tabeli 4. Pri bolnikih ob sprejemu in ob odpustu sta bila tako skupni indeks funkcioniranja kot groba moč prijema med rokama neodvisna. Tako skupni indeks funkcioniranja kot groba moč prijema sta bila na obeh rokah statistično značilno povezana med sprejemom in odpustom.V intervjuju so vsi bolniki navedli vsaj eno aktivnost, pri kateri imajo težave. Prevladovale so težave na področju dela in produktivnosti, ki jih je navedlo 18 bolnikov (od ena do dve aktivnosti, skupaj 28 aktivnosti), ter na področju skrbi za sebe, ki jih je navedlo 15 bolnikov (od ena do tri aktivnosti, skupaj 26 aktivnosti). Težave na obeh področjih je navedlo 12 bolnikov. Le en bolnik je navedel težave na področju pro-stega časa, in sicer pri eni aktivnosti (igranje kitare; hkrati je navedel še težave na področju skrbi za sebe).Bolniki so navedli, da imajo težave najpogosteje pri nasle-dnjih aktivnostih:• na področju skrbi za sebe: oblačenje (zlasti zapenjanje gumbov in zadrge), obuvanje/sezuvanje in hranjenje (zlasti rezanje hrane);
+
+Tabela 4: Korelacije skupnega indeksa funkcioniranja in standardizirane grobe moči prijema (pod vrednostmi Pearsono-vega r so v oklepajih navedene vrednosti p).
+
+Sprejem
+
+OdpustDominantnarokaNedominantnarokaDominantnaroka
+
+Skupni
+
+indeks
+
+funkcioniranja
+
+SprejemNedominantnaroka0,2490,761(0,276)(<0,001)Dominantnaroka0,813(<0,001)
+
+OdpustNedominantnaroka0,066(0,783)
+
+Standardizirana
+
+groba
+
+moč
+
+prijema
+
+SprejemNedominantnaroka-0,2610,941(0,252)(<0,001)Dominantnaroka0,942(<0,001)
+
+OdpustNedominantnaroka-0,105(0,650)Pihlar, Vidmar, Prosič, Rupnik Mihelčič / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+
+23
+
+• na področju dela in produktivnosti: gospodinjska opravila (rezanje pri kuhanju, likanje, šivanje), fizično delo pri opravljanju poklica (prenašanje bremen, natančno ročno delo) in delo na vrtu.RAZPRAVAZ raziskavo smo želeli oceniti, kako in koliko okvara zgor-njega uda vpliva na izvedbo želenih aktivnosti pri osebah z okvaro zgornjega uda. Rezultati študije so pokazali, da okvara zgornjega uda pomembno vpliva na sposobnost izvedbe številnih aktivnosti na vseh področjih človekovega delovanja. Iz ugotovitev do sedaj opravljenih raziskav je znano, da okvara zgornjega uda vpliva na sposobnost prijemanja in izvedbo aktivnosti na ožjem in širšem področju človeko-vega delovanja (6, 7). S testom SHAP smo potrdili, da so sposobnosti bolnikov za izvedbo aktivnosti slabše, saj je bila pred začetkom rehabilitacije pri vseh bolnikih skupna ocena indeksa funkcioniranja nižja od meje za normalno funkcioniranje vsaj pri eni od obeh rok. Pri vseh bolnikih je bila prav tako vsaj pri eni roki zmanjšana groba moč prijema, kar je vplivalo na manj učinkovito in manj varno izvedbo aktivnosti. V skladu s tem so tudi težave, ki so jih bolniki navedli.Tri četrtine bolnikov je v intervjuju navedlo največje težave pri izvajanju aktivnosti na področju skrbi za sebe. Največkrat so navajali težave pri oblačenju (zapenjanju zadrg in gum-bov, zavezovanju vezalk, zavezovanju kravate, zapenjanju nedrčka, obuvanju čevljev in nogavic) in pri osebni negi (umivanju las, britju, česanju, tuširanju, striženju nohtov). Dobra četrtina bolnikov je poudarila težave pri opravljanju poklica, predvsem pri fizičnem delu. Na področju produk-tivnosti je največ bolnikov navedlo težave pri opravljanju gospodinjskih aktivnosti, predvsem pri prenašanja bremen, rezanju hrane, odpiranju konzerv, gnetenju, likanju in čiščenju stanovanja. Na področju prostega časa je samo en bolnik navedel igranje na bas kitaro kot aktivnost, ki mu povzroča težave.S pomočjo testa SHAP in merjenja grobe moči prijema z ročnim dinamometrom smo torej dobili pomembne informa-cije o bolnikovih sposobnostih na področju telesnih funkcij in pri izvedbi dnevnih aktivnosti. Obe ocenjevalni orodji sta pomembni za načrtovanje kratkoročnih in dolgoročnih ciljev obravnave bolnikov. Menimo, da sta pomembni predvsem za spremljanje, ocenjevanje in vrednotenje učinka delovno-terapevtske obravnave. Zaradi različnih okvar in njihovih posledic pri bolnikih je mnogokrat potrebna prilagoditev izvedbe aktivnosti v bolnikovem ožjem in širšem življenj-skem okolju.Našo izkušnjo o uporabnosti testa SHAP pri oceni okvare zgornjega uda potrjujejo tudi rezultati raziskav, ki so jih 
+
+opravili pri pacientih z amputacijo zgornjega uda, deloma pa tudi pri pacientih z okvaro zgornjega uda (8) .ZAKLJUČEKRezultati študije so pokazali, da okvara zgornjega uda vpliva na bolnikovo sposobnost prijemanja in izvedbo številnih aktivnosti na področju skrbi za sebe, dela in produktivnosti. Glede na to menimo, da sta uporabljeni ocenjevalni orodji uporabni tako v klinični praksi kot tudi za raziskovalne namene. Test SHAP in dinamometrično merjenje grobe moči prijema sta v delovno-terapevtski obravnavi oziroma pri celostni rehabilitaciji osebe po poškodbi zgornjega uda uporabna za načrtovanje kratkoročnih ciljev obravnave, merjenja učinka in ocenjevanje doseženih ciljev obravna-ve.
+
+Literatura:1. Light CM, Chappell PH, Kyberd PJ. Establishing a standardized clinical assessment tool of pathologic and prosthetic hand function: normative data, reliability, and validity. Arch Phys Med Rehabil 2002; 83(6): 776-83.2. Rupnik Mihelčič S. Funkcija roke – izdelava normativov za test SHAP v Sloveniji = Function of the hand - making norms for SHAP test in Slovenia. [Diplomska naloga]. Ljubljana: Univerza v Ljubljani, Zdravstvena fakulteta, Oddelek za delovno terapijo, 2010.3. Mathiowetz V, Weber K, Volland G, Kashman N. Relia-bility and validity of grip and pinch strength evaluations. J Hand Surg Am 1984; 9(2): 222-6.4. Mathiowetz V, Kashman N, Volland G, Weber K, Dowe M, Rogers S. Grip and pinch strength: normative data for adults. Arch Phys Med Rehabil 1985; 66(2): 69-74.5. Pihlar Z, Križnar A, Mikuletič M, Vidmar G, Prešern-Štrukelj M, Burger H. Začrtajmo pot do dobrega počutja: aktivnosti oseb po amputaciji spodnjega uda = Let's map the path to well-being : activities of persons after lower limb amputation. Rehabilitacija 2010; 9(1): 17-22.6. Kingston G, Tanner B, Gray MA. The functional impact of a traumatic hand injury on people who live in rural and remote lacations. Disabil Rehabil 2010; 32(4): 326-35.7. Schier JS, Chan J. Changes in life roles after hand injury. J Hand Ther 2007; 20(1): 57-69.8. Kyberd PJ, Murgia A, Gasson M, Tjerks T, Metcalf C, Chappell PH, et al. Case studies to demonstrate the range of applications of the Southampton Hand Assessment Procedure. Br J Occup Ther 2009; 72(5): 212-8.Pihlar, Vidmar, Prosič, Rupnik Mihelčič / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+

@@ -1,0 +1,209 @@
+
+
+
+Voda
+
+
+Splošno
+
+
+
+
+
+
+
+
+
+Ime
+voda, vodikov(I) oksid, oksidan
+
+
+Kemijska formula
+H2O
+
+
+Videz
+brezbarvna tekočina, brez vonja in okusa
+
+
+
+Fizikalne lastnosti
+
+
+
+Molekulska masa
+180 g/mol a.e.m.
+
+
+Tališče
+273,16 K, 0 °C
+
+
+Vrelišče
+373,16 K, 100 °C
+
+
+Kritična temperatura
+647 K
+
+
+Kritični tlak
+22,064 MPa
+
+
+Gostota
+1,0·103 kg/m3
+
+
+
+Termokemijske lastnosti
+
+
+
+ΔfH0plin
+-241,83 kJ/mol
+
+
+ΔfH0tekoče
+-285,83 kJ/mol
+
+
+ΔfH0trdno
+-291,83 kJ/mol
+
+
+S0plin, 1 bar
+188,84 J/mol·K
+
+
+S0tekoče, 1 bar
+69,95 J/mol·K
+
+
+S0trdno
+41 J/mol·K
+
+
+
+Tveganje
+
+
+
+Zaužitje
+Potrebna za življenje; prevelika zaužita količina lahko povzroča glavobol, zmedenost in krče, lahko je usodna pri športnikih
+
+
+Vdihavanje
+Nestrupena. Topna v notranjosti pljuč. Zadušitev v vodi je utopitev.
+
+
+Koža
+Podaljšana potopitev lahko povzroča luščenje.
+
+
+Oči
+Nenevarna.
+
+
+Uporabljene so enote SI kjer je bilo možno. Kjer ni drugače navedeno, so mišljeni standardni pogoji.
+Viri
+
+
+
+Voda ali sistematično oksidan je kemijska spojina in polarna molekula, pri standardnih pogojih tekočina s kemijsko molekulsko formulo H2O. Formula pove, da je ena molekula vode sestavljena iz dveh vodikovih in iz enega kisikovega atoma. Vodo najdemo skoraj povsod na Zemlji in je potrebna za vse znane oblike življenja. Okoli 70 % Zemljine površine je prekrito z vodo.
+
+
+Vsebina
+
+
+1 Splošno
+2 Bipolarna narava vode
+3 Voda kot topilo
+4 Biološki pomen vode
+5 Opombe in viri
+6 Glej tudi
+7 Zunanje povezave
+
+
+Splošno
+
+
+
+
+Voda v treh agregatnih stanjih - kapljevinskem, trdnem (led) in plinastem (kot nevidna vodna para v zraku). Oblaki v ozadju so iz drobnih kondenziranih kapljic vode.
+
+
+Trdno stanje vode je znano kot (vodni) led, plinsko stanje je vodna para. Enoti za temperaturo (nekdaj stopinja Celzija in sedaj Kelvin) sta določeni s trojno točko vode 273,16 K (0.01 °C) in 611,2 Pa, pri temperaturi in parnem tlaku, ko so trdna, kapljevinasta in plinasta voda v termodinamskem ravnovesju.
+Pri temperaturah večjih od 647 K in tlakih večjih kot 22,064 MPa vodne molekule zavzamejo superkritično stanje, kjer kapljevinske skupine plavajo znotraj parne faze.
+Velika množina vode lahko pomeni ocean, jezero, reka, potok, kanal, ribnik. Za podatke o oskrbi z vodo glej vodno bogastvo. Glej tudi obala, trajekt, pomol.
+Kemiki včasih vodo v šali poimenujejo divodikov monoksid ali DVMO (glej http://www.dhmo.org), s sistematičnim kovalentnim imenom te molekule, še posebej v parodijah o kemijskem raziskovanju, ki kliče po izobčenju te »smrtonosne kemikalije«. Sistematično kislinsko ime za vodo je hidroksidna kislina ali hidroksilna kislina, čeprav pojma skoraj nikoli ne uporabljajo.
+Bipolarna narava vode
+Pomembna značilnost vode je njena polarna narava. V vodni molekuli so vodikovi atomi razporejeni na konceh, kisikovi pa v temenih. Ker ima kisik višjo elektronegativnost od vodika, je območje molekule s kisikovim atomom delno negativno nabito glede na vodikovo stran. Molekula s takšno razliko naboja se imenuje dipol. Razlika naboja med seboj privlači vodne molekule kakor tudi druge polarne molekule. To privlačevanje se imenuje vodikova vez.
+
+
+
+
+Kapljica vode
+
+
+Ta sorazmerno šibka privlačna sila (glede na kovalentne vezi znotraj same vodne molekule) povzroča fizikalne lastnosti kot je visoko vrelišče, ker je za prekinitev vodikovih vezi med molekulami potrebno veliko toplotne energije. Žveplo, na primer, leži v periodnem sistemu elementov pod kisikom, njegova enakovredna spojina, vodikov sulfid (H2S) nima vodikove vezi. Tako je njegova molekula dvakrat težja od vodne in je pri sobni temperaturi plin. Dodatne vezi med vodnimi molekulami povzročajo, da ima tekoča voda veliko specifično toploto.
+Vodikova vez je odgovorna tudi za nenavadno obnašanje vode pri zmrzovanju. Kakor druge snovi tudi tekočina z nižanjem temperature postaja gostejša. Vendar, za razliko od drugih snovi, pri ohlajanju blizu ledišča prisotnost vodikove vezi pomeni, da molekule pri preurejanju zaradi zmanjšanja svoje energije na najmanjšo možno mero, tvorijo snov, ki je dejansko manj gosta. Zaradi tega led plava v vodi in voda se pri zmrzovanju razširja. Druge snovi se pri strjevanju krčijo. Tekoča voda je najgostejša pri temperaturi 4 °C. To vodi do zanimive posledice med zimskim časom. Ohlajena voda na površini postaja gostejša in potone, pri čemer tvori toplotni tok, ki ohlaja celotno množino vode. Ko temperatura jezera doseže 4 °C, voda na površini, ki se še naprej ohlaja, postane manj gosta, ostaja kot površinska plast, ter končno tvori led. Ker je prenos toplote v spodnjih delih zaradi spremembe gostote onemogočen, bo večji del vsake velike količine zmrznjene vode med zimo še vedno tekoč pri 4 °C pod ledeno skorjo. Na ta način ribe lahko preživijo. To dejstvo je eden od osnovnih zgledov za dobro uravnane fizikalne lastnosti, ki omogočajo življenje na Zemlji in ga uporabljajo kot podporo za antropično kozmološko načelo.
+
+
+
+
+Voda omoči steno, živo srebro pa ne
+
+
+Druga posledica je, da se bo led pri dovolj velikem tlaku stopil.
+Voda kot topilo
+Sestavljena je iz 2 atomov vodika in 1 atoma kisika, pri 4 °C ter tlaku 1 bar ima voda največjo gostoto. Poznamo jo v 3 agregatnih stanjih:
+
+trdno,
+plinasto in
+tekoče.
+
+Biološki pomen vode
+Biološki pomen vode je odvisen od fizikalnih lastnosti vode. Ker ima voda lastnosti topila, ji to omogoča, da je transportno sredstvo za polarne topljence. Primeri tega so spiranje soli v jezera in morja, transport po krvi in limfi v večceličnih živalih ter odstranjevanje odpadkov presnove (kot sta amoniak in sečnina v seču). Kohezijske in adhezijske lastnosti vode vplivajo na njeno viskoznost, da je primerno mazivo v bioloških sistemih. Primeri tega so sklepna oz. sinovialna tekočina, plevralna tekočina in sluz. Sorazmerno šibke posamezne vodikove vezi omogočajo, da se lahko vodne molekule gibljejo, kar omogoča osmozo. Voda je tudi prozorna, zaradi česar prepušča vidno svetlobo in s tem omogoča fotosintezo ter z njo povezane prehranjevalne verige.[1]
+Velika specifična toplota omogoča živim organizmom termostabilnost in manjšo občutljivost na poškodbe zaradi sprememb okolne temperature. Visoka izparilna toplota pa omogoča živim organizmom močno ohlajanje z relativno majhno izgubo vode; tako se ohlajajo sesalci z znojenjem, plazilci s sopenjem ter listi rastlin s transpiracijo. Zaradi hlapnosti voda lahko kroži preko izhlapevanja, transpiracije in padavin. Spreminjanja gostote vode ob zmrzovanju omogoča kroženje vode v velikih vodnih kotanjah in s tem kroženje hranilnih snovi.[1]
+Transpiracija omogoča neprekinjeni steber vode v rastlinah, ki se dviga po ksilemu zaradi kohezijskih sil med vodnimi molekulami in zaradi privlaka med vodo in stenami ksilemskih žil, s čimer dobijo vršički rastlin in listi vodo in ione; temu toku pravimo transpiracijski tok.[2] Posledica kohezijskih sil med vodnimi molekulami je težka stisljivost vode, zaradi česar služi voda tudi kot oporno sredstvo. Biološki primeri so hidrostatsko ogrodje (npr. pri deževniku), turgorski tlak v rastlinskih celicah, amnionska tekočina, ki podpira in ščiti plod pri sesalcih, pa tudi splošno okolje, ki podpira velike vodne živali (npr. kit).[1]
+Voda ima veliko vlogo pri presnovi, saj sodeluje neposredno npr. kot reagent, natančneje kot vir vodika za redukcijo pri fotosintezi, ter pri hidrolizi makromolekul v njihove podenote (npr. pri prebavi), in je tudi medij, v katerem potekajo vse biokemične reakcije.[1]
+Opombe in viri
+
+
+^ 1,0 1,1 1,2 1,3 Pickering, W.R. (2002). Biologija: Shematski pregledi. Ljubljana: Tehniška založba Slovenije, str. 8. ISBN 86-365-0190-3
+^ Stušek, P. & Gogala, N. (2007). Funkcionalna anatomija s fiziologijo. Ljubljana: DZS, str. 10. ISBN 978-86-341-1822-3
+
+
+Glej tudi
+
+težka voda
+vodikov peroksid
+Kroženje vode v naravi
+
+Zunanje povezave
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: Voda
+
+
+
+
+
+Poglejte si besedo voda ali Voda v Wikislovarju, prostem slovarju.
+
+
+
+Stanje voda na arso.gov
+Lower S. Voda in njena struktura. (v angleščini)
+
+        
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Voda&oldid=4070740«				
+Kategorije: Naravni viriKisikove spojineVodikove spojineVoda 
+
+
+

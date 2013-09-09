@@ -1,0 +1,79 @@
+
+
+Fázni prehòd ali fázna spremémba (v tehniki tudi fázna preména ali fázna transformácija) je sprememba, pri katerem preide termodinamski sistem iz ene faze v drugo. Značilna za fazni prehod je nezveznost ene ali več fizikalnih značilnosti, npr. specifične toplote, pri spreminjanju ene od termodinamskih spremenljivk, npr. temperature ali tlaka.
+Zgledi faznega prehoda so
+
+prehodi med agregatnimi stanji, npr. izparevanje, taljenje ali sublimacija,
+prehodi magnetnih snovi med feromagnetno in paramagnetno fazo v Curiejevi točki,
+pojav superprevodnosti pri ohlajanju nekaterih snovi pod določeno temperaturo,
+kvantna kondenzacija bozonskih tekočin, npr. Bose-Einsteinova kondenzacija ali prehod tekočega helija v supertekočo fazo,
+zlom simetrije v fizikalnih zakonih pri ohlajanju v zgodnjem razvoju Vesolja.
+
+
+
+Vsebina
+
+
+1 Fazni prehodi med agregatnimi stanji
+2 Klasifikacije
+
+2.1 Ehrenfestova klasifikacija
+
+
+3 Opombe in sklici
+4 Viri
+
+
+Fazni prehodi med agregatnimi stanji
+
+
+Ime faznega prehoda
+Začetna faza
+
+
+trdnina
+kapljevina
+plin
+
+
+Končna faza
+trdnina
+ 
+strjevanje
+resublimacija
+
+
+kapljevina
+taljenje
+ 
+kondenzacija
+
+
+plin
+sublimacija
+izparevanje
+ 
+
+
+Klasifikacije
+Ehrenfestova klasifikacija
+Ehrenfest je klasificiral fazne prehode na podlagi obnašanja termodinamske proste energije kot funkcije drugih termodinamskih spremenljivk. V tem sistemu so bili fazni prehodi označeni s najnižjim odvodom proste energije, ki je pri prehodu nezvezen. Fazni prehodi prvega reda imajo nezveznost v prvem odvodu proste energije glede na kakšno termodinamsko spremenljivko.[1] Različni fazni prehodi iz trdnega, kapljevinskega ali plinskega stanja so klasificirani kot prehodi prvega reda, saj obsegajo nezvezno spremembo v gostoti, ki je prvi odvod proste energije glede na kemijski potencial. Fazni prehodi drugega reda so zvezni v prvem odvodu (parameter reda, ki je prvi odvod proste energije glede na zunanje polje, je pri prehodu zvezen), vendar imajo nezveznost v drugem odvodu proste energije.[1] Taki prehodi so npr. feromagnetni fazni prehodi v snoveh, kot je železo, kjer se namagnetenost, ki je prvi odvod proste energije glede na jakost magnetnega polja, povečuje zvezno od nič, če se temperatura zmanjša pod Curiejevo temperaturo. Magnetna susceptibilnost, drugi odvod proste energije s poljem, se spreminja nezvezno. V Ehrenfestovem klasifikacijskem sistemu so načeloma lahko fazni prehodi tretjega, četrtega reda ali višjega reda.
+Čeprav je uporabna, je Ehrenfestofa klasifikacija netočna metoda za klasifikacijo faznih prehodov, ker ne upošteva primera, ko odvod proste energije divergira, kar je možno le v termodinamični limiti. V feromagnetnem faznem prehodu npr. toplotna kapaciteta divergira v neskončnost.
+Opombe in sklici
+
+
+^ 1,0 1,1 Blundell; Blundell (2008).
+
+
+Viri
+
+Blundell, Stephen J.; Blundell, Katherine M. (2008). Concepts in Thermal Physics. Oxford University Press. ISBN 978-0198567707. 
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Fazni_prehod&oldid=3851950«				
+Kategorije: TermodinamikaKemijaFizika 
+
+
+

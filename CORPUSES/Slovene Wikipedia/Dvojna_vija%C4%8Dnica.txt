@@ -1,0 +1,55 @@
+
+
+Dvojna vijačnica se preusmerja sem. Za druge pomene glej Dvojna vijačnica (razločitev).
+
+
+
+
+Komplementarna predela molekul DNK se povežeta in tvorita bazne pare ter s tem tvorita dvojnovijačno strukturo.
+
+
+Dvojna vijačnica DNK (tudi dvojni heliks DNK, dvojnovijačna DNK ali dvojnoverižna DNK) je v molekularni biologiji struktura, ki jo tvorita dve antiparalelno potekajoči verigi DNK, ki se združujeta po načelu komplementarnosti baz svojih nukleotidov; vsak polni obrat nastale dvojne vijačnice vsebuje okoli deset nukleotidnih parov.[1] Dvojna vijačnica DNK ima v svoji strukturi ožji mali žleb in širši veliki žleb.[2]
+Zgodovina
+Dvojnovijačni model DNK sta prva predstavila James D. Watson in Francis Crick leta 1953 v reviji Nature.[3] Pomembna osnova tega odkritja so bile slika DNK, poimenovana "Slika 51" (Photo 51), ki jo je leta 1952 posnel Rosalind Franklin s pomočjo metode rentgenske difrakcije,[4] ter kasnejši še jasnejši posnetki, ki so jih naredili Raymond Gosling,[5][6] Maurice Wilkins, Alexander Stokes in Herbert Wilson.[7] Pred tem so predpostavljali, da se DNK nahaja in vivo v obliki trojnovijačne strukture.[8]
+Odkritje dvojnovijačne strukture DNK, temelječe na parjenju nukleotidnih baz, ki omogoča hrambo in podvojevanje dednih informacij živih organizmov, na splošno velja kot eno najpomembnejših znanstvenih odkritij 20. stoletja. Leta 1962 so Crick, Wilkins in Watson za svoj doprinos k temu odkritju prejeli vsak po tretjino Nobelove nagrade za fiziologijo ali medicino.[9] (Franklin je umrl že leta 1958.)
+Strukturne značilnosti
+
+
+
+
+Veliki in mali žleb.
+
+
+Značilnosti dvojne vijačnice DNK so:[10]
+1. Dve polinukleotidni verigi, ki se ovijata okoli skupne osi, tvorita dvojno desno vijačnico.
+2. Vzdolž natančno urejene vijačnice potekata mali in veliki žleb, značilni topografski posebnosti dvojnovijačne DNK.
+3. Verigi potekata v nasprotnih smereh (pravimo, da sta antiparalelni). To pomeni, da v asprotnih smereh tečejo njune 3',5'-fosfodiestrske povezave.
+4. V vodnem okolju je polarno in nabito kovalentno ogrodje iz izmenjujočih se deoskiriboz in fosfatnih skupin na zunanji strani vijačnice, kjer lahko vstopajo v interakcijo z vodo. Hidrofodne purinske in pirimidinske baze se nahajajo v sredici vijačnice in se tako izognejo vodi.
+5. Dvojno vijačnico stabilizirata dve vrsti vezi oziroma interakcij:
+
+vodikove vezi med pari komplementarnih baz na nasprotnih verigah,
+van der Waalsove vezi in hidrofobne interakcije med naloženimi bazami; ravnine nukleotidnih baz so skoraj pravokotne na os vijačnice in so zložene ena nad drugo, podobno kot stopnice v krožnih stopniščih. Baze so si dovolj blizu, da lahko delujejo van der Waalsove in hidrofobne interakcije.
+
+Viri
+
+
+^ http://lsm1.amebis.si/lsmeds/novPogoj.aspx?pPogoj=vijačnica, Slovenski medicinski e-slovar, vpogled: 3. 11. 2012.
+^ Pabo C, Sauer R (1984). "Protein-DNA recognition". Annu Rev Biochem 53: 293–321. doi:10.1146/annurev.bi.53.070184.001453. PMID 6236744. 
+^ James D. Watson and Francis Crick (1953). "A structure for deoxyribose nucleic acid". Nature 171 (4356): 737–738. doi:10.1038/171737a0. PMID 13054692. http://www.nature.com/nature/dna50/watsoncrick.pdf. 
+^ Secret of Photo 51. NOVA. PBS.
+^ http://www.nature.com/nature/dna50/franklingosling.pdf
+^ The Structure of the DNA Molecule
+^ Wilkins MHF, Stokes AR, Wilson HR (1953). "Molecular Structure of Deoxypentose Nucleic Acids" (PDF). Nature 171 (4356): 738–740. doi:10.1038/171738a0. PMID 13054693. http://www.nature.com/nature/dna50/wilkins.pdf. 
+^ Pauling L, Corey RB (1953 Feb). "A proposed structure for the nucleic acids". Proc Natl Acad Sci U S A 39 (2): 84–97. doi:10.1073/pnas.39.2.84. PMID 16578429. PMC 1063734. http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=pmcentrez&artid=1063734. 
+^ Nobel Prize - List of All Nobel Laureates.
+^ Boyer R.: Temelji biokemije. Ljubljana: Študentska založba, 2005, str. 251–257.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Dvojna_vijačnica_DNK&oldid=3944175«				
+Kategorije: DNKMolekularna biologija1953 v znanosti 
+
+
+

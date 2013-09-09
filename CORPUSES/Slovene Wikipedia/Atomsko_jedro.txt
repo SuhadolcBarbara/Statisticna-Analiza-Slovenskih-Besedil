@@ -1,0 +1,67 @@
+
+
+Atómsko jêdro je osrednji del atoma in predstavlja večino (več kot 99,9 %) mase atoma. Premer jedra je okrog 10−15 m, kar je približno 10.000-krat manj od premera atoma. Jedro je sestavljeno iz nukleonov - pozitivno nabitih protonov in nenabitih nevtronov. Nukleoni so medsebojno povezani z močno jedrsko silo. Število protonov v jedru določa vrstno število Z in s tem kemijski značaj elementa, skupno število nukleonov pa določa masno število A. Atomi, katerih jedra imajo enako vrstno število in različno masno število, so izotopi danega elementa. Izotopi so lahko stabilni ali nestabilni. Nestabilni izotopi razpadajo z enim od radioaktivnih razpadov.
+
+
+Vsebina
+
+
+1 Modeli atomskega jedra
+
+1.1 Kapljični model
+1.2 Lupinski model
+
+
+2 Stabilnost jeder
+3 Zgodovina
+4 Literatura
+
+
+Modeli atomskega jedra
+Kapljični model
+Fenomenološki kapljični model opisuje jedro kot kapljico »tekočine« nukleonov. Vezavno energijo jedra podaja Weizsäckerjeva semiempirična masna enačba:
+
+
+
+Prvi člen je notranja energija jedra, ki je sorazmerna številu nukleonov. Člen, sorazmeren A2/3 opisuje površinsko energijo, ki izvira iz dejstva, da imajo nukleoni na površini manj sosedov in zato manj prispevajo k vezavni energiji. Člen, sorazmeren Z2, opisuje energijo zaradi elektrostatskega odboja protonov v jedru, člen, sorazmeren (A-2Z)2 pa mešalno energijo, ki fenomenološko opisuje dejstvo, da imajo lahka jedra približno enako število protonov in nevtronov. Zadnji člen je paritvena energija, ki opisuje, da so najmočneje vezana jedra s sodim številom protonov in sodim številom nevtronov, najmanj pa taka z lihim številom protonov in lihim številom nevtronov.
+Vrednosti snovnih parametrov v semiempirični masni formuli so (E. Segré, Nuclei and Particles, Benjamin, 1977):
+
+
+w0
+15,56 MeV
+
+
+w1
+17,2 MeV
+
+
+w2
+0,698 MeV
+
+
+w3
+23,3 MeV
+
+
+w4
+33,5 MeV
+
+
+Lupinski model
+Lupinski model opisuje atomsko jedro analogno z modelom energijskih ravni elektronskih »lupin« v atomu. Lupinski model upošteva pare proton-proton in nevtron-nevtron. Ravni v vezavni energiji jedra so zapolnjene, ko število protonov ali nevtronov doseže 2, 8, 20, 28, 50, 82 ali 126. Te vrednosti ustrezajo tako imenovanim »magičnim« vrednostim zelo stabilnih jeder. Lupinski model pravilno napove nekatere lastnosti jedra, kot je denimo magnetni moment.
+Stabilnost jeder
+ Ko je število protonov preveliko, je odbojna EM sila med protoni prevelika.
+Zgodovina
+Literatura
+
+Mitja Rosina, Jedrska fizika, Društvo matematikov, fizikov in astronomov SRS, Ljubljana 1981.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Atomsko_jedro&oldid=4054597«				
+Kategoriji: Jedro in osnovni delciAtomi 
+
+
+

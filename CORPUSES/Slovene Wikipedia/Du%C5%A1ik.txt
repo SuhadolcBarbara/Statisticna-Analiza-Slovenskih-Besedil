@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+ogljik – dušik – kisik
+
+
+ 
+N
+P  
+ 
+ 
+
+
+
+Celotna tabela
+
+
+
+
+
+
+Splošno
+
+
+Ime, simbol, vrstno število
+dušik, N, 7
+
+
+Kemijska vrsta
+nekovina
+
+
+Skupina, perioda, blok
+15 (VA), 2 , p
+
+
+Gostota, trdota
+1,2506 kg/m3(273K), NA
+
+
+Videz
+brezbarven plin
+
+
+
+Lastnosti atoma
+
+
+Relativna atomska masa
+14,0067 a. e. m.
+
+
+Atomski polmer (izračunan)
+65 (56) pm
+
+
+Kovalentni polmer
+75 pm
+
+
+van der Waalsov polmer
+155 pm
+
+
+Elektronska konfiguracija
+[He]2s22p3
+
+
+e- na energijski nivo
+2, 5
+
+
+Oksidacijska stanja (oksid)
+±3, ±2, ±1, 4, 5 (močno kisel)
+
+
+Kristalna struktura
+heksagonalna
+
+
+Fizikalne lastnosti
+
+
+Agregatno stanje
+plin
+
+
+Tališče
+63,14 K (-210,00 °C)
+
+
+Vrelišče
+77,35 K (-195,79 °C)
+
+
+Molski volumen
+13,54 ×10−6 m3/mol
+
+
+Izparilna toplota
+2,7928 kJ/mol
+
+
+Talilna toplota
+0,3604 kJ/mol
+
+
+Parni tlak
+ND Pa pri __ K
+
+
+Hitrost zvoka
+334 m/s pri 298,15 K
+
+
+Razne lastnosti
+
+
+Elektronegativnost
+3,04 (Paulingova lestvica)
+
+
+Specifična toplota
+1040 J/(kg · K)
+
+
+Električna prevodnost
+ND 106/(m·ohm)
+
+
+Toplotna prevodnost
+0,02598 W/(m·K)
+
+
+1. ionizacijski potencial
+1402,3 kJ/mol
+
+
+2. ionizacijski potencial
+2856 kJ/mol
+
+
+3. ionizacijski potencial
+4578,1 kJ/mol
+
+
+4. ionizacijski potencial
+7475,0 kJ/mol
+
+
+5. ionizacijski potencial
+9444,9 kJ/mol
+
+
+6. ionizacijski potencial
+53266,6 kJ/mol
+
+
+7. ionizacijski potencial
+64360 kJ/mol
+
+
+Najstabilnejši izotopi
+
+
+
+
+
+izo
+NA
+t1/2
+DM
+DE MeV
+DP
+
+
+13N
+{sint.}
+9,965 min
+e capture
+2,220
+13C
+
+
+14N
+99,634 %
+N je stabilen s 7 nevtroni
+
+
+15N
+0,366 %
+N je stabilen z 8 nevtroni
+
+
+
+
+
+Če ni označeno drugače, so
+uporabljene enote SI in standardni pogoji.
+
+
+Dušík (latinsko nitrogenium) je kemični element v periodnem sistemu s simbolom N in atomskim številom 7. Ta pogosta neaktivna dvoatomska plinasta nekovina, običajno brez barve, vonja in okusa, sestavlja 78 odstotkov Zemljinega ozračja in je sestavni del vseh živih tkiv. Dušik tvori številne pomembne spojine, kot so aminokisline, DNK, RNK, amonijak, dušikova kislina in cianidi.
+
+
+Vsebina
+
+
+1 Pomembne lastnosti
+2 Uporaba
+3 Zgodovina
+4 Biološka vloga
+5 Zunanje povezave
+
+
+Pomembne lastnosti
+Dušik je nekovina, z elektronegativnostjo 3,0. V svoji zunanji lupini ima pet elektronov, zato je v večini spojin trivalenten. Čisti dušik, N2, je pri sobni temperaturi nereaktiven brezbarven dvoatomski plin, ki sestavlja okoli 78 % Zemljinega ozračja. Kondenzira se pri 77 K, zmrzne pa pri 63 K. Tekoči dušik je pogost kriogen.
+Uporaba
+Napogostejša posamezna raba dušika je kot komponenta pri pridobivanju amonijaka s Haberjevim procesom. Amonijak se nato uporablja za izdelavo gnojil in dušikove kisline. Dušik se uporablja kot neaktivno ozračje v tankih z eksplozivnimi tekočinami, med izdelavo elektronskih delov kot so tranzistorji, diode, in integriranih vezij, in pri izdelavi nerjavečega jekla. Dušik se uporablja kot hladilo tako za potapljanje zamrzovanih prehranskih izdelkov pred prevozom hrane, kot za ohranjanje teles in reproduktivnih celic (sperme in jajčec) in za stabilno hranjenje bioloških vzorcev v biologiji.
+Soli dušikove kisline vključujejo nekatere pomembne sestavine, denimo kalijev nitrat (soliter) in amonijev nitrat. Prva spojina je sestavina smodnika, zadnja je pomembna v gnojilih. Dušikove organske spojine, kot sta nitroglicerin in trinitrotoluen, so pogosto eksplozivi.
+Dušikova kislina se uporablja kot oksidant v raketah na tekoče gorivo. Hidrazin in njegovi derivati se uporabljajo v raketnem gorivu.
+Dušik se v svojem tekočem stanju (pogosto imenovanem LN2) pogosto uporablja v kriogeniki. Tekoči dušik naredijo z destilacijo iz tekočega zraka. Pri atmosferskem tlaku se dušik utekočini pri -195,8 stopinjah Celzija. Dušik je tekoče zamrzovalno sredstvo, ki se pogosto uporablja pri demonstracijah pri poučevanju naravoslovja.
+Zgodovina
+Odkritje dušika (latinsko nitrum, grško Nitron, kar pomeni "naravna sodavica", "geni", "izdelava") formalno pripisujemo Danielu Rutherfordu, ki ga je leta 1772 imenoval škodljivi zrak ali vnetljivi zrak. Da obstaja del zraka, ki ne podpira gorenja, je bilo kemikom dobro znano že v poznem 18. stoletju. Skoraj hkrati so dušik preučevali Carl Wilhelm Scheele, Henry Cavendish, in Joseph Priestley, ki ga je imenoval zgoreli zrak ali nevnetljivi zrak. Dušik je bil dovolj neaktiven, da ga je Antoine Lavoisier imenoval azote, kar pomeni brez življenja.
+Spojine dušika so bile dobro znane v srednjem veku. Alkimisti so poznali dušikovo kislino pod imenom aqua fortis. Mešanica dušikove in klorovodikove kisline je bila znana kot aqua regia, cenjena zaradi svoje zmožnosti raztapljanja zlata.
+Biološka vloga
+Dušikove spojine, kot so amino- in nukleinske kisline, so ključni sestavni del vseh živih organizmov na Zemlji. Večina organizmov ne more absorbirati elementarnega dušika, ki je prisoten v ozračju, in lahko uporablja le reducirano (»fiksirano«) obliko. Nekaj reduciranega dušika pride do tal s padavinami, v obliki amonija in nitratov, pomembnejši vir za rastline pa so določene bakterije, ki so sposobne reducirati elementarni dušik z nitrogenaznimi encimi. Proces zahteva veliko energije in anoksične pogoje; mnogo vrst fiksacijskih bakterij živi v sožitju z rastlinami, ki jih hranijo v koreninskih nodulih in jih v zameno za reducirane dušikove spojine oskrbujejo s hranilnimi snovmi. Drug vir dušika za rastline so nitrati mineralnega izvora in tisti, ki se sprostijo v procesu dekompozicije organskih snovi. Živali dobijo dušikove spojine s hrano in jih v procesu prebave razgradijo do osnovnih gradbenih molekul.
+Kroženje dušika v ekosistemu se zaključi s procesom denitrifikacije, v kateri oksidirajoče bakterije pretvorijo reducirane dušikove spojine nazaj v amonijak, s čemer pridobivajo energijo.
+Zunanje povezave
+
+
+
+Poglejte si besedo dušik ali Dušik v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+
+p · p · u · zKemični elementi
+
+
+
+
+
+
+
+ajnštajnij · aktinij · aluminij · americij · antimon · argon · arzen · astat · baker · barij · berilij ·berkelij · bizmut · bor · borij · brom · cerij · cezij · cink · cirkonij · darmštatij · disprozij · dubnij · dušik · erbij · evropij · fermij · fluor · fosfor · francij · gadolinij · galij · germanij · hafnij · hasij · helij · holmij · indij · iridij · iterbij · itrij · jod · kadmij · kalcij · kalifornij · kalij ·
+kirij · kisik · klor · kobalt · kositer · kripton · krom · ksenon · lantan · lavrencij · litij · lutecij · magnezij · mangan · majtnerij · mendelevij · molibden · natrij · neodim · neon · neptunij · nikelj · niobij · nobelij · ogljik · osmij · paladij · platina · plutonij · polonij · prazeodim · prometij · protaktinij · raderfordij · radij · radon · renij · rodij · rubidij · rutenij · samarij · siborgij · selen · silicij · skandij · srebro · stroncij · svinec · talij · tantal · tehnecij · telur · terbij · titan · torij · tulij · uran · vanadij · vodik · volfram · zlato · železo · živo srebro · žveplo
+
+
+
+
+
+
+Periodni sistem elementov
+
+
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Dušik&oldid=4066748«				
+Kategorije: Kemični elementi1772 v znanostiDušik 
+
+
+

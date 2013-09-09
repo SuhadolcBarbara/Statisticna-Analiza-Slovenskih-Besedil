@@ -1,0 +1,47 @@
+
+
+Aksióm (starogrško ἀξίωμα: axíoma) označuje stališče, načelo, tezo, sodbo, ki jo sprejemamo brez dokazov in služi kot načelo ali premisa deduktivnega dokazovanja. Po tradicionalnem razumevanju, ki izhaja od Aristotla aksiomi ne potrebujejo dokazov, saj je njihova resničnost neposredno razvidna. Po Kantovem razumevanju so aksiomi neposredno odvisni od sintetičnih načel a priori. Aksiom je mogoče opredeliti še kot enačbo, formulo, ki je del aksiomatičnega sistema in torej ne izhaja iz kakšne druge enačbe v tem sistemu.
+V epistemologiji je aksiom samoumevna resnica, na kateri mora temeljiti preostalo znanje. Epistemologi si niso enotni ali sploh obstaja kakšen aksiom v tem smislu.
+Beseda aksiom prihaja iz glagola ἀξιόειν: axióein, kar pomeni primerno soditi in tudi zahtevati, kar po vrsti pride iz ἄξιος: axios - primeren. Drug izraz za aksiom je postulat (oziroma predpostavka), ki ga ne uporabljamo v taki meri, kot ga je Evklid, ki ga je uvedel. Če ga uporabljamo, mislimo v bistvu na aksiom.
+Aksiom v matematiki pa je očitna (temeljna) trditev ali načelo kakor izrek, ki je ne dokazujemo. Primera aksiomov:
+
+aksiom asociativnosti vsote (a + b) + c = a + (b + c),
+aksiom komutativnosti vsote a + b = b + a.
+
+Veliko aksiomom pravimo v bistvu izreki.
+
+
+Vsebina
+
+
+1 Zgodovinski razvoj
+
+1.1 Stari Grki
+
+
+2 Glej tudi
+3 Zunanje povezave
+
+
+Zgodovinski razvoj
+Stari Grki
+Logično - deduktivno metodo sklepanj, ki sledijo iz premis z uporabo veljavnih argumentov (silogizmov, pravil sklepanj), so razvili stari Grki in je postala temelj sodobne matematike.
+Glej tudi
+
+seznam aksiomov
+
+Zunanje povezave
+
+
+
+Poglejte si besedo aksiom ali Aksiom v Wikislovarju, prostem slovarju.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Aksiom&oldid=3847883«				
+Kategorije: MatematikaLogikaAksiomi 
+
+
+

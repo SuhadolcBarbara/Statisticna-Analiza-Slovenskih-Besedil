@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+Članek potrebuje dodatne medbesedilne sklice. Prosimo, pomagajte ga izboljšati z dodatnimi sklici na zanesljive vire. Vsa sporna vsebina, ki ni preverljiva, se sme kadar koli odstraniti. 
+
+
+
+
+
+
+Struktura DNK
+
+
+
+
+
+
+Veriga DNK se podvaja
+
+
+Deoksiribonukleinska kislina (DNK oziroma DNA)[1] je molekula, ki je nosilka genetske informacije v vseh živih organizmih. DNK skupaj z molekulo ribonukleinske kisline (RNK) spada med nukleinske (jedrne) kisline. Glavna vloga molekule DNK je shranjevanje bistvenih bioloških informacij.
+DNK je nerazvejen polimer, katerega osnovna enota je nukleotid. Nukleotid v DNK je sestavljen iz sladkorja (deoksiriboza), dušikove baze (adenin, citozin, gvanin in timin) in fosfatne skupine. Štirje različni nukleotidi tvorijo genetsko abecedo življenja na Zemlji. Zaporedje nukleotidov pa, podobno kot zaporedje črk v besedi, določa pomen genetske informacije. V vseh živih organizmih (z izjemo nekaterih virusov) ima DNK obliko dvojne vijačnice, pri čemer se dve molekuli DNK ovijeta druga okrog druge. Pri tem so dušikove baze znotraj vijačnice in se medsebojno parijo. Adenin se vedno pari s timinom in citozin vedno z gvaninom (Watson-Crickovo pravilo baznih parov).
+Pri evkariontih vsebuje DNK celično jedro, ki je posebna struktura znotraj celice, obdana z lastno membrano. Znotraj jedra je DNK v obliki kromatina, ki pri celični delitvi postane viden kot kromosomi. Nasprotno pri prokariontih DNK prosto plava v citoplazmi v regiji, ki se imenuje nukleoid, in je večinoma krožna molekula (nima prostih koncev).
+DNK lahko ob pomoči drugih sestavnih delov celice, ob dotoku hranilnih snovi ter energije, v obliki molekul ATP sintetizirajo različne beljakovine v različnih zaporedjih. DNK ima vse nadzorne mehanizme, ki jih sicer poznamo iz računalniških programskih jezikov in ki omogočajo, da DNK nadzoruje procese v celici in njenem okolju. Če so računalniški programi zapisani v obliki dvojiških zaporedij in je osnovna enota pri njih bajt (8 bitov), so genetski zapisi zapisani v obliki štiriških zaporedij in je osnovna enota pri le-teh kodon (trije pari nukleotidov).
+
+
+Vsebina
+
+
+1 Zgodovina
+2 Glej tudi
+3 Sklici
+4 Zunanje povezave
+
+
+Zgodovina
+
+
+
+
+Francis Crick
+
+
+Nukleinske kisline je prvi izoliral Friedrich Miescher leta 1869 in jih tako poimenoval zato, ker jih je našel v jedru levkocitov. Prisotnost nukleinskih kislin v ostalih celicah so dokazali v naslednjih nekaj letih, vendar je do odkritja njihove biološke vloge minilo še približno 75 let. V 1930. in 1940. letih je še vladalo trdno prepričanje, da so nosilci genetske informacije beljakovine, za katere so menili, da so edine dovolj zapletene biomolekule, da so sposobne opravljati to funkcijo. Nasprotno je DNK v tistem času veljala za precej dolgočasno in nepomembno molekulo, ki jo sestavlja monotono zaporedje štirih različnih nukleotidov, zaradi česar si ni bilo mogoče predstavljati, da bi lahko bila nosilka genetske informacije. Vendar se je v naslednjih desetletjih na veliko presenečenje večine izkazalo, da je resnica ravno nasprotna.
+Enega prvih eksperimentov, ki so utrli pot k razkritju prave narave DNK, je že leta 1928 izvedel Frederick Griffith, ki je odkril t.i. transformirajoči princip. V svojem eksperimentu je Griffith okužil miši z dvema tipoma bakterije Diplococcus pneumoniae (R in S), ki povzroča pljučnico. Pripravil je mešanico živih (R-; nesposobnih povzročiti bolezen) in mrtvih (S-; patogenih) bakterij D. pneumoniae in jih vbrizgal v miši, kar je proti pričakovanju povzročilo smrt večine miši. Še presenetljiveje pa je bilo, da je kri mrtvih miši vsebovala žive bakterije S. Mrtve bakterije S so torej nekako transformirale sicer nepatogene bakterije R v virulentno obliko S. Leta 1944 so Oswald Avery, Colin MacLeod in Maclyn McCarty po desetletnih raziskavah sklenili, da je za transformirajoči princip odgovorna molekula DNK, ki je torej tudi nosilka genetske informacije. To odkritje je bilo tedaj skoraj popolnoma prezrto in do uveljavitve takega razumevanja v znanstveni skupnosti je minilo še skoraj desetletje. Leta 1952 sta Alfred Hershey in Marta Chase izvedla eleganten eksperiment z bakteriofagi, ki je zelo prepričljivo dokazal, da je za transformirajoči princip zares odgovorna DNK. Končno pa sta osrednjo vlogo te molekule v biologiji leta 1953 potrdila James Watson in Francis Crick, ko sta razvozlala njeno strukturo. S tem se je začela sodobna molekularna biologija. Za svoje delo sta prejela Nobelovo nagrado.
+Glej tudi
+
+ribonukleinska kislina
+
+Sklici
+
+
+^ Šmalc, Andrej (2011). Slovensko tehniško izrazje. Jezikovni priročnik. Založba ZRC. Str. 219–220. ISBN 9789612543587. 
+
+
+Zunanje povezave
+
+ Predstavnostno gradivo o temi Deoksiribonukleinska kislina v Zbirki
+
+       
+  
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Deoksiribonukleinska_kislina&oldid=4004460«				
+Kategorije: Deoksiribonukleinska kislinaGenetikaVijačniceSkrita kategorija: Članki, ki potrebujejo dodatne sklice 
+
+
+

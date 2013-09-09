@@ -1,0 +1,83 @@
+
+
+
+Glej tudi beseda (ples).
+
+Beséda je v jezikoslovju najmanjša samostojna jezikovna enota, ki predstavlja ali sporoča pomen, sestavljen iz enega ali več morfemov. V fonologiji je beseda določena kot prozodična enota med morfemom in fonološko frazo. V izgovoru nima tipičnih značilnosti, lahko je ločena od sosednjih besed s premorom, večinoma pa sploh ne.
+Sestavljena je iz korena (podstave), ki mu je lahko dodana pripona ali obrazilo (končnica). Zloženke so sestavljene iz dveh ali več korenov besede. Z besedami lahko tvorimo razne fraze (besedne zveze), stavke in povedi.
+
+
+Vsebina
+
+
+1 Izvor besed
+
+1.1 Prevzete besede
+
+
+2 Besede v govorjenem jeziku
+
+2.1 Kako postaviti meje med besedami v govoru
+
+
+3 Klasifikacija
+4 Zunanje povezave
+
+
+Izvor besed
+Besede imajo različen izvor. Pri ugotavljanju izvora besed si lahko pomagamo z etimološkim slovarjem, v katerem je vsaka beseda pojasnjena, od kod izvira in kakšen je njen prvoten pomen. Večina besed v slovenščini je domačih, precej pa je prevzetih. Domače besede so treh vrst:
+
+nekatere izvirajo iz prednika današnje slovenščine, iz indoevropskega prajezika, praslovanščine ali zgodnje slovenščine (npr. miza)
+nekatere so nastale v novejšem času na podlagi starejših slovenskih besed in še vedno nastajajo
+nekatere pa izvirajo iz posnemanja naravnih zvokov oz. glasov
+
+Prevzete besede
+So besede, ki so prišle v matični jezik iz jezikov, s katerimi nismo povezani razvojno, temveč zemljepisno ali pa kulturno. Po Toporišiču glede na to, koliko so prevzete besede prilagojene slovenskemu knjižnemu jeziku ločimo:
+
+sposojenka (pica): to so prevzete besede, ki jih popolnoma prilagodimo slovenskemu knjižnemu jeziku, se pravi, da jih izgovarjamo, pišemo in pregibljemo po naše;
+tujka (renault): to so prevzete besede, ki jih deloma prilagodimo slovenskemu knjižnemu jeziku, se pravi, da jih izgovarjamo in pregibljemo po naše, ohranjamo pa tuji zapis;
+citatna beseda (first lady): to so prevzete besede, ki jih ne prilagodimo slovenskemu knjižnemu jeziku, se pravi, da ohranijo tujih izgovor, zapis in slovnične lastnosti.
+kalk: to je dobesedni prevodi tujih jezikovnih besed v slovenščino (mešalnik – mikser)
+popačenka prevzem tujih besed v neknjižnih jezikovnih zvrsteh (sleng, narečje, žargon). Primer: šrauf, cvikcange, šporget itd.
+
+V jeziku nekatere besede težko definiramo. Pomagamo si s slovarji. Ti kategorizirajo različne lekseme v leme in tako avtor slovarja poda svoje mnenje o tem, kaj »beseda« sploh je.
+Besede v govorjenem jeziku
+V govorjenem jeziku je razlikovanje med individualnimi besedami poudarjeno z ritmom in naglasom, kratke besede pa so največkrat izgovorjene brez vmesnega premora. Ker večina besed v svetovnih jezikih ni zapisana, postane znanstvena kategorizacija besed, besednih zvez, ritma in naglasa, s katerim besedo izgovorimo, zelo pomembna.
+Kako postaviti meje med besedami v govoru
+Poznamo pet načinov:
+
+potencialni premor med besedama: govorec počasi ponovi stavek. Med besede poskuša vstavljati premore. Ta metoda pa ni najbolj zanesljiva, saj bi govorec zlahka meje in premore med besedami postavil nepravilno.
+
+
+nedeljivost: govorec govori naglas in ponovi besedilo, kateremu dodamo nove besede, nove besede so vstavljene v stavek na mestu meje med besedami. Nekateri jeziki vsebujejo oblikoslovne prvine, ki se vstavljajo v besedo, navadno v koren. Nekateri jeziki imajo pripone in predpon, lahko so ločljive (ločljivi glagoli v nemškem jeziku).
+
+
+najmanjše proste oblike: ameriški lingvist Leonard Bloomfield je leta 1926 predlagal, da naj bi beseda bila najmanjša pomenska enota jezika, ki lahko stoji sama. To povezuje foneme (glasovne enote) v lekseme (pomenske enote). Sem ne sodijo besede, ki so same brez kakršnegakoli pomena (npr. predlogi).
+
+
+meje v fonetiki: nekateri jeziki imajo posebna fonetična pravila za izgovorjavo, zaradi česar lažje opazimo, kje naj bi bila meja besede. Vendar pa vsi jeziki nimajo takih priročnih pravil; izjeme pa se pojavljajo tudi pri jezikih, ki jih imajo.
+
+
+semantične (pomenoslovne) enote: s to metodo podobno kot pri najmanjših prostih oblikah stavek razčlenimo na njegove najmanjše pomenske enote. Vseeno jezik pogosto vsebuje besede z majhno semantično vrednostjo (te imajo pogosto bolj slovnično vlogo), ali pa semantične enote, ki so sestavljenke.
+
+
+pragmatika: idejo, da je leksikalna enota enaka besedi,naj bi prilagodili pragmatičnemu kriteriju. Beseda halo ne obstaja zunaj področja pozdrava, zaradi česa ji je težko določiti pomen zunaj tega. V praksi lingvisti uporabljajo mešanico vseh teh metod za določanje meja besed za katerikoli stavek. Kljub zelo previdni uporabi teh metod je točna definicija besede pogosto še vedno zelo težko opredeljiva.
+
+Obstajajo tudi splošne besede, ki imajo v resnici strokovno definicijo; npr. beseda kmalu, ki po navadi pomeni v roku enega tedna.
+Klasifikacija
+Slovnica razvršča lekseme nekega jezika v različne skupine besed. Osnovna dvostranska delitev besed, ki je mogoča za skoraj vsak naravni jezik, je delitev na glagole in samostalnike. Klasifikacija v več skupin je del tradicije Dionysiusa Thraxa (helenističnega gramatika), ki je razločeval osem kategorij: samostalnik, glagol, pridevnik, zaimek, predlog, prislov, veznik in medmet. Tudi indijski gramatik Panini je vpeljal podobno delitev na samostalnike in glagole, ta klasifikacija pa temelji na skupini končnic, pripon, ki jih beseda vsebuje.
+Zunanje povezave
+
+
+
+Poglejte si besedo beseda ali Beseda v Wikislovarju, prostem slovarju.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Beseda&oldid=4056641«				
+Kategorija: Jezikoslovje 
+
+
+

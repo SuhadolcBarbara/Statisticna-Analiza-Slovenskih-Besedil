@@ -1,0 +1,205 @@
+396
+
+Ventil 18 /2012/ 5 ¦1 UVOD V sodobnih produkcijskih sistemih se srečujemo z nepričakovanimi ustavi-tvami in izpadi kvalitete izdelkov. Do teh pojavov pogosto prihaja brez vidnega zunanjega vzroka, čeprav je proces že dlje časa normalno delo-val. Posledice se kažejo v izgubah v proizvodnji in zmanjšani učinkovito-sti, kar pomeni manjši dobiček. V želji po večanju konkurenčno-sti proizvajalci čedalje več sredstev vlagajo v vodenje kvalitete proizvo-dnje na podlagi modelov procesa. Na ta način je mogoče z boljšim ra-zumevanjem procesa bolje napove-dovati in s tem obvladovati njegovo obnašanje. Seveda pa so sodobni proizvodni sistemi preveč komple-ksni, da bi jih lahko natančno opisali z enačbami, ki neposredno opisujejo fizikalno ozadje proizvodnega siste-ma.  Po drugi strani pa so z razvojem informacijske tehnologije na razpo-lago vedno bolj obsežne podatkov-ne baze, ki odražajo pretekla stanja proizvodnega obrata. Da bi izkoristili znanje, skrito v tej veliki množici za-jetih podatkov, vnaprej predposta-vimo, da lahko zvezo med vhodi in izhodi opišemo s stohastičnim mo-delom iz nekega nabora v splošnem nelinearnih struktur.Članek se bo osredotočil na pro-blem iskanja uporabnega znanja iz preteklih proizvodnih podatkov ali meritev, pridobljenih iz testnih preizkušanj proizvodnje. Prikazan bo način, kako lahko izpostavimo ključne proizvodne spremenljivke, ki najmočneje vplivajo na kvaliteto izdelkov. Predstavljeno pa bo tudi, kako lahko matematične modele uporabimo za neposreden nadzor in upravljanje kvalitete izdelkov. ¦2 Iskanje vplivnih proizvodnih spremenljivkV prvem koraku analize bi želeli na podlagi proizvodnih podatkov izpo-staviti ključne proizvodne spremen-ljivke. S takšnim skrčenim naborom pomembnih spremenljivk bi močno olajšali delo operaterjem proizvo-dnje, saj bi lahko le-ti bolje razume-li proizvodni proces ter se posvetili optimalni nastavitvi ožjega kroga parametrov. S tem bi pospešili uva-janje novih izdelkov, lažje odpravili proizvodne motnje ter dolgoročno izboljšali kvaliteto izdelkov.Izbor najpomembnejših spremen-ljivk pa predstavlja tudi osnovo za razvoj ustreznih matematičnih mo-delov. Pri modeliranju se pomemb-nost redukcije vhodnih veličin mo-dela kaže predvsem v izboljšanju natančnosti modela, odstranitvi za predikcijo nepomembnih vhodov (medsebojno odvisnih ali šumnih vhodov), reševanju problema majh-nega števila učnih podatkov, pove-čani preglednosti modelne struktu-re in lažji fizikalni analizi modela.Pri matematičnem modeliranju pogosto uporabljamo metode, ki lahko zgolj na podlagi analize po-datkov raziščejo relacije med vho-dno-izhodnimi veličinami, s čimer lahko poiščemo najbolj informa-tivne vhodne spremenljivke za opis dinamike izhoda modela. Metode za izbiro vhodnih spremenljivk mo-Analiza proizvodnih podatkov za nad-zor in upravljanje kvalitete izdelkovMiha GLAVAN, Matej GAŠPERIN, Matej VIDMAR, Maks TUTA, Stojan KOKOŠAR, Dani JURIČIĆ, Andrej BRLOŽNIK
+
+Izvleček: Zajeti proizvodni podatki predstavljajo bogat vir informacij. A vendar se v proizvodnih obratih po-gosto ne izkoriščajo, saj se operaterji proizvodnje velikokrat ne zavedajo njihovega uporabnega potenciala. V članku je prikazano, kako je mogoče izkoristiti proizvodne podatke za iskanje proizvodnih spremenljivk, ki najmočneje vplivajo na kvaliteto izdelkov, in kako lahko proizvodne modele, identificirane na podlagi proizvo-dnih podatkov, izkoristimo za realizacijo naprednih tehnik nadzora in vodenja proizvodnje. Praktična uporaba predstavljenih tehnik je prikazana na primeru analize proizvodnih podatkov iz podjetja Kolektor KFH.Ključne besede: kvaliteta izdelkov, proizvodni podatki, vplivne proizvodne spremenljivke, matematični modeli
+
+Miha Glavan, univ. dipl. inž., dr. Matej Gašperin, univ. dipl. inž.,  oba Institut Jožef Ste-fan, Ljubljana; Matej Vidmar, univ. dipl. inž., Kolektor Group d.o.o.; Maks Tuta, univ. dipl. inž., Kolektor Sinabit, d. o. o., Stojan Kokošar , univ. dipl. inž., Kolektor Sinabit d.o.o.; prof. dr. Đani Juričić, univ. dipl. inž., Institut Jožef Stefan, Ljublja-na; mag. Andrej Brložnik, univ. dipl. inž., Kolektor KFH d.o.o.VODENJE INDUSTRIJSKIH PROCESOV
+
+
+
+
+397
+
+Ventil 18 /2012/ 5delov lahko v splošnem razdelimo na tri večje razrede [1, 2]: filtrirne (ang. filter methods), ovojne (ang. wrapper) in vgrajene metode (ang. embedded).Med filtrirne metode štejemo tiste, kjer je korak izbire vhodnih spre-menljivk ločen od gradnje končne-ga modela. Z njimi prefiltriramo po-tencialne vhodne spremenljivke, s čimer že pred modeliranjem izloči-mo za napovedovanje nepomemb-ne spremenljivke. Posledično so te metode neodvisne od uporabljene metodologije za modeliranje in ve-činoma temeljijo na statističnih te-stih in na uporabi poenostavljenih modelnih struktur. Ovojne metode pa neposredno izkoristijo izbra-no metodologijo modela za ovre-dnotenje prediktivnih sposobno-sti posameznega nabora vhodnih spremenljivk. Takšno izbiro vhodov lahko predstavimo kot problem optimizacije strukture modela, kjer skozi optimizacijo ovrednotimo in primerjamo vse ali zgolj del vseh potencialnih kombinacij vhodnih spremenljivk. Kot optimalni niz vhodnih spremenljivk izberemo ti-sto kombinacijo vhodov, s katero dobljeni model dosega najboljšo kvaliteto napovedi. Vsebovane me-tode za izbiro relevantnih spremen-ljivk pa so neposredno povezane z učenjem končnega modela. Že med učenjem modela so tako nepo-membne spremenljivke postopoma izločene iz modela (npr. regulariza-cija, obrezovanje nevronskih mrež itd.).Problem izbire vhodov se za dina-mične sisteme razširi na izbiro reda modela, se pravi, kolikšno število zakasnjenih vhodnih in izhodnih podatkov je potrebno upoštevati na vhodu modela in tudi kolikšna je primerna časovna zakasnitev si-gnalov. S tem se problem izbire najvplivnejših vhodnih spremenljivk ustrezno potencira, saj je potrebno poiskati, ne zgolj vplivne vhodne spremenljivke, temveč tudi primer-ne časovne zakasnitve le-teh. ¦3 Nadzor in upravljanje proizvodnje na podlagi modelaNa model procesa lahko gledamo kot na povezavo med veličinami, na katere lahko vplivamo (mani-pulativne spremenljivke – 
+
+), in končno kvaliteto izdelkov – 
+
+(glej sliko 1). Takšen model lahko po-drobneje razčlenimo na dva ločena podsklopa, kjer prvi sklop 
+
+ opi-suje relacijo med manipulativnimi spremenljivkami (
+
+) in proizvodni-mi spremenljivkami (
+
+). Proizvodne spremenljivke (
+
+) se tako nanašajo na  notranja stanja proizvodnega procesa, katerih vrednosti pridobi-mo iz izmerjenih signalov procesa. Podsklop 
+
+ pa opisuje relacijo med proizvodnimi spremenljivkami (
+
+) in končno oceno kvalitete izdel-ka (
+
+).Neposredno opisovanje fizikalnih zakonitosti med proizvodnimi veli-činami predstavlja izjemno zahtevno nalogo že za preproste proizvodne sisteme. Zato je smiselno, da upo-rabimo pristop matematičnega mo-deliranja, kjer iščemo model iz neke splošne družine modelnih struktur, ki omogočajo veliko prilagodljivost [3]. Različne strukture matematičnih modelov se med seboj razlikujejo po kompleksnosti vhodno-izhodnih preslikav, ki so jih sposobne opisa-ti. Zato je glede na kompleksnost obravnavanega problema potreb-no izbrati primerno metodologi-jo. Izbrano univerzalno modelno strukturo je potrebno tudi prilago-diti obravnavanemu problemu, kar pomeni, da je potrebno prilagoditi proste parametre modela tako, da je model sposoben čim bolj natančno opisati karakteristične odzive proi-zvodnega procesa. Takšni prilago-ditvi fleksibilne modelne strukture rečemo identifikacija modelov.S pomočjo matematičnih modelov, ki so bili identificirani s pomočjo preteklih proizvodnih podatkov, lahko bolj učinkovito pomagamo operaterju proizvodnje. Načini, kako lahko izkoristimo takšne mo-dele proizvodnih procesov, pa bodo predstavljeni v naslednjih podpo-glavjih.3.1 Detekcija odstopanj v procesuModel proizvodnega procesa lah-ko uporabimo za avtomatsko spre-mljanje stanja in detekcijo proizvo-dne napake. Shematska zasnova takšnega sistema je prikazana na sliki 2.Glede na trenutne vrednosti manipu-lativnih spremenljivk (
+
+) matematič-ni model vzporedno s proizvodnim procesom izračuna napovedi za no-minalne vrednosti proizvodnih spre-menljivk (
+
+) in kvaliteto izdelkov (
+
+). Na podlagi trenutne razlike med de-Slika 1. Shema matematičnega modela procesaSlika 2. Zasnova sistema za avtomatsko detekcijo odstopanj
+
+VODENJE INDUSTRIJSKIH PROCESOV
+
+
+
+
+398
+
+Ventil 18 /2012/ 5janskimi in napovedanimi vrednost-mi (
+
+, 
+
+) lahko sklepamo, da proces poteka brez napak. Če pa so te vrednosti nad vnaprej določeno mejo pa sistem opozori operaterja ali vzdrževalca o napaki. 3.2 Nastavljanje manipulativnih spremenljivkDrugi primer uporabe modelov predstavlja uvedba sistema za izra-čun vrednosti manipulativnih spre-menljivk. Takšen sistem s pomočjo inverznega modela proizvodnega procesa določi primerne nastavitve vhodnih (manipulativnih) spremen-ljivk procesa 
+
+, glede na želene vrednosti opazovane karakteristike kvalitete. Sistem je mogoče nad-graditi tudi v celovit sistem za av-tomatsko vodenje in spremljanje stanja proizvodnega procesa, kjer upoštevamo tudi korekcijo mode-la.  Shema takšnega nadgrajenega principa je prikazana na sliki 3.Glede na želeno karakteristiko kvalitete izdelkov z inverznim mo-delom izračunamo vrednosti ma-nipulativnih spremenljivk. Te vre-dnosti uporabimo pri procesu ter kot vhod v model procesa. Sprotno spremljanje vrednosti razlik med napovedano in izmerjeno vredno-stjo proizvodnih veličin daje infor-macijo o morebitnih odstopanjih procesa od predhodno identifici-ranega modela. Odstopanje upo-števamo pri izračunu vhodnih spre-menljivk tako, da kompenziramo morebitna lezenja v procesu. Enega izmed takšnih pristopov kompen-zacije lezenja v procesu predstavlja neposredna korekcija referenčnih vrednosti (
+
+, 
+
+), glede na odstopanje modela od izmerjenih vrednosti (
+
+, 
+
+).3.3 Uporaba modelov na ravni proizvodnjeV prejšnjem podpoglavju predsta-vljen princip vodenja končne kvali-tete izdelkov proizvodnega procesa pa je mogoče razširiti za uporabo na ravni celotne proizvodnje. Za takšne namene so Zorzut s sod. [4] predstavili koncept celostnega vodenja proizvodnje. Predstavljeni koncept vodenja ni omejen zgolj na opazovanje končne kvalitete produktov posameznega proizvo-dnega procesa, temveč stremi k ce-lostni optimizaciji proizvodnje, kjer upoštevamo raznolike aspekte pro-izvodne učinkovitosti.Ideja temelji na vpeljavi kazalni-kov učinkovitosti proizvodnje (ang. Production Performance Indicators - pPI), ki se izračunavajo iz izmer-jenih proizvodnih spremenljivk in imajo nalogo strnjenega (agregira-nega) prikaza ekonomsko relevan-tnih informacij o trenutnem stanju proizvodnje. Eden izmed takšnih kazalnikov bi lahko tudi ocenjeval kvaliteto končnih izdelkov, v splo-šnem pa želimo zaobjeti raznoliko ekonomsko relevantno stanje celo-tne proizvodnje (kvaliteta, produk-tivnost, stroški obratovanja). S po-vratno zančnim vodenjem takšnih proizvodnih kazalnikov težimo k re-alizaciji zahtev višjega poslovnega nivoja, pri čemer regulator predlaga potrebne korekcije nastavitev proi-zvodnje, da bi dosegli optimalnejše obratovalne pogoje in ustrezno re-alizirali poslovne cilje. Shematski prikaz realizacije celo-stnega vodenja na podlagi matema-tičnega modela (
+
+), ki je sposoben napovedovati dinamiko kazalnikov pPI, je prikazan na sliki 4. Regulator s pomočjo napovedi modela (
+
+), trenutnih vrednosti kazalnikov učin-kovitosti proizvodnje (
+
+) in zadanih ekonomskih ciljev (
+
+) poišče op-timalne nastavitve procesnih spre-Slika 3. Shema sistema za izračun vrednosti manipulativnih spremenljivk
+
+Slika 4. Koncept celostnega vodenja proizvodnje
+
+VODENJE INDUSTRIJSKIH PROCESOV
+
+
+
+
+399
+
+Ventil 18 /2012/ 5menljivk. Vodja proizvodnje s tem pridobi uporabno informacijo o potrebnih prilagoditvah referenčnih vrednosti vodenja na nižjem nivo-ju in prilagoditvi preostalih prostih manipulativnih spremenljivk (
+
+). Na podlagi takšnih priporočil operater proizvodnje lažje poišče optimalnejši režim obratovanja pro-izvodnje. ¦4 Testni primer kosovnega proizvodnega procesa v podjetju Kolektor KFHIskanje vplivnih proizvodnih spre-menljivk ter uporaba proizvodnih modelov bo prikazana na proce-su kalupnega brizganja jermenic v podjetju Kolektor KFH. Po konča-nem brizganju jermenic se v ohlaje-ni izdelek vtisneta dva ležaja, kakor je prikazano na sliki 5.Najprej želimo na podlagi analize izmerjenih podatkov proizvodne-ga procesa ugotoviti, katere pro-izvodne spremenljivke brizganja izdelkov (
+
+) najmočneje vplivajo na končno kvaliteto produkta. Kva-liteto izdelka v podjetju ocenjujejo s silo vtiskanja spodnjega ležaja jermenice (
+
+), katera mora ležati znotraj vnaprej predpisanega tole-rančnega območja. Ker pa opera-terji ne morejo direktno vplivati na spremenljivke brizganja, saj so le--te zgolj izmerjena notranja stanja procesa, nas bo zanimalo tudi, kako primerno nastaviti manipulativne spremenljivke (
+
+), da bomo dosegli želeno kvaliteto izdelkov (povezava med 
+
+ in 
+
+).Za dani proizvodni proces ni bilo na voljo reprezentativnih proizvodnih podatkov iz dejanskega obratova-nja, zato je bilo za namene iskanja vplivnih proizvodnih spremenljivk izvedeno testiranje. Izvedenih je bilo 20 različnih testov z različnimi nastavitvami manipulativnih spre-menljivk, kjer je bilo proizvedenih 384 izdelkov (pri vsakem brizganju sta bila izdelana dva izdelka).4.1 Izbira relevantnih proizvodnih spremenljivkIzmed vseh potencialnih spremen-ljivk brizganja (
+
+, …, 
+
+), želimo izpostaviti tiste, ki imajo resnično najmočnejši vpliv na končno oceno kvalitete izdelkov. Za izbiro najv-plivnejših proizvodnih spremen-ljivk smo preizkusili dva načina. Pri prvem smo upoštevali re-zultate različnih filtrirnih metod [5], pri drugem načinu pa smo preizkusili ovoj-no metodo, kjer optimiziramo model linear-ne strukture s postopnim do-dajanjem proi-zvodnih spremenljivk (ang. forward selection).V splošnem so filtrirne metode ra-čunsko manj zahtevne in so tako primerne za hitro oceno pomemb-nosti velikega števila potencialnih spremenljivk in za analizo obse-žnejših podatkovnih nizov. Ker je pri obravnavanem proizvodnem pro-cesu pričakovati močan medseboj-ni vpliv proizvodnih spremenljivk je potrebno upoštevati takšne meto-de, ki lahko pri oceni vplivnosti po-sameznih spremenljivk upoštevajo prispevek preostalih spremenljivk, izbranih že v prejšnjih korakih. Za iskanje najvplivnejših proizvodnih spremenljivk smo upoštevali rezul-tate več različnih filtrirnih metod (parcialna korelacijska analiza, par-cialna skupna informacija, Gamma Test in postopna gradnja mode-la, ki je linearen v parametrih). Za podrobnejšo predstavitev upora-bljenih metod glej [5]. Na podlagi njihovih ocen o pomembnosti vho-dov, želimo ugotoviti katere izmed proizvodnih spremenljivk je večina izmed metod spoznala za najvpliv-nejše. Na sliki 6 so prikazani zdru-ženi rezultati, kjer smo proizvodne spremenljivke uredili po padajoči Slika 5. Levo: jermenice po končani operaciji brizganja. Desno: prerez jermenice z vtisnjenim ležajem.Slika 6. Razvrščanje proizvodnih spremenljivk po pomembnosti, kjer smo upoštevali ocene različnih filtrirnih metod. S svetlimi okvirji so označene sre-dnje vrednosti ocen, s črno barvo pa je predstavljena porazdelitev ocen (črni okvir označuje prvi in tretji kvartil, krogec mediano, črte pa minimalno in maksimalno vrednost).
+
+VODENJE INDUSTRIJSKIH PROCESOV
+
+
+
+
+400
+
+Ventil 18 /2012/ 5oceni vplivnosti na kvaliteto pro-dukta, ki je temeljila na povprečni oceni pomembnosti različnih me-tod. Iz rezultatov izbire vidimo, da je bil zaznan prevladujoč vpliv spre-menljivke 
+
+, izstopal pa je tudi vpliv nekaterih preostalih (
+
+, 
+
+, 
+
+,).Preizkusimo tudi ovojno metodo postopnega dodajanja vhodnih spremenljivk v linearen model, kjer začnemo z enim vhodom ter nato postopoma dodajamo vhodne spremenljivke, ki v danem koraku najbolj minimizirajo napako napo-vedi modela. Napako modela oce-njujemo na podlagi 10-stopenjske križne validacije (ang. cross-vali-dation), kjer ocenjujemo srednjo kvadratno napako predikcije (MSE – Mean Squared Error), ki je defini-rana z 
+
+. V enačbi 
+
+ predstavlja število vzorcev, 
+
+ je izmerjena vrednost izhodne veličine (v našem primeru ocena kvalitete) za 
+
+-ti izdelek in 
+
+ je z modelom napovedana vre-dnost. Dodatno pa tudi preverjamo linearno korelacijo med vhodnimi spremenljivkami, kjer močno kore-lirane spremenljivke izločimo iz iz-bire. Med spremenljivkama 
+
+in je bilo zaznati močno linearno odvi-snost, zato je bil 
+
+izločen. Izbrane pa so bile naslednje spremenljivke: 
+
+, 
+
+, 
+
+, 
+
+, 
+
+.4.2 Vrednotenje izbranih proizvodnih spremenljivkIzbiro najpomembnejših vplivnih proizvodnih spremenljivk ovredno-timo z linearnim modelom in kri-žno validacijo. Podatke naključno razdelimo v 10 skupin, nato pa za vsako izmed skupin identificiramo model, ki ga testiramo na podlagi podatkov testirane skupine, model pa je bil identificiran na podatkih iz preostalih skupin. Takšno križno validacijo ponovimo z različnim na-ključnim razvrščanjem v skupine. Testiramo dobljene modele, kjer na vhodu modela postopoma poveču-jemo število upoštevanih proizvo-dnih spremenljivk ter opazujemo kvaliteto napovedovanja (ocena MSE). Iz slike 7 vidimo, da z dodajanjem proizvodnih spremenljivk, ki so bili spoznani za najbolj vplivne, napaka modela pada. To je še posebej izra-zito pri ovojni metodi, kjer smo ne-posredno iskali minimum pogreška modela. Iz primerjave obeh pristo-pov izbire relevantnih proizvodnih spremenljivk je razviden prevladu-joči vpliv proizvodnih spremenljivk 
+
+ ter 
+
+.4.3 Identifikacija modela proizvodnega procesaPri identifikaciji modelov je smisel-no najprej preizkusiti preprostejše modelne strukture in če-le te ne zadostujejo, je potrebno poseči po bolj kompleksnih metodologijah. Za identifikacijo proizvodnega mo-dela bomo tako uporabili preprosto linearno regresijo, kjer bo napoved spodnje sile vtiskanja ležaja temelji-la zgolj na dveh najvplivnejših pro-izvodnih spremenljivkah: 
+
+ in 
+
+. Da bi lahko preverili natančnost napovedi tudi za področja za katera Slika 7. Vrednotenje proizvodnih spremenljivk, ki so bile identificirane kot najvplivnejše. Na sliki je prikazana ocena pogreška napovedi linearnega modela (MSE), pri čemer postopoma povečujemo število upoštevanih pro-izvodnih spremenljivk na vhodu modela.Slika 8. Napoved sile vtiska ležajev na podlagi proizvodnih spremenljivk 
+
+ in 
+
+. Z rdečo barvo je označena napoved modela, z modro pa dejanska izmerjena vrednost.
+
+VODENJE INDUSTRIJSKIH PROCESOV
+
+
+
+
+401
+
+Ventil 18 /2012/ 5model ni bil neposredno prilagojen, za vsakega izmed proizvodnih te-stov identificiramo nov model. Vsak model je identificiran na preostalih podatkih (testih), ovrednoten pa je na testu, kateri je bil izpuščen iz uč-nih podatkov. Prvi model tako iden-tificiramo na podlagi podatkov iz testov 2 do 20, natančnost njegove napovedi pa testiramo na podatkih testa 1. Enako vrednotenje izvede-mo še za preostale teste. Združeni rezultati vrednotenja kvalitete na-povedi končne kvalitete izdelkov 
+
+ je prikazana na sliki 8. Vidimo, da lahko že takšen močno reduci-ran linearni model precej natančno napoveduje obnašanje sile vtiska ležajev tudi za ekstremna področja obratovanja, za katera ni bil nepo-sredno prilagojen (npr. testi označe-ni z T2, T6, T19, T20).Ker pa operater ne more neposre-dno prilagajati proizvodnih spre-menljivk, bi bilo potrebno poiskati tudi relacijo med manipulativnimi spremenljivkami brizganja in najv-plivnejšima proizvodnima spre-menljivkama 
+
+ in 
+
+. Uporabimo pet manipulativnih spremenljivk, ka-tere smo spreminjali tekom testiranja proizvodnje. Ponovno uporabimo linearno regresijo, kjer modele te-stiramo po posameznih testih, iden-tificiramo pa jih na vseh preostalih podatkih. Slika 9 prikazuje napoved proizvodnih spremenljivk na podlagi manipulativnih spremenljivk.Pri tem pa je potrebno poudariti, da imamo za opis relacije med manipu-lativnimi in proizvodnimi spremenljiv-kami izjemno malo raznolikih podat-kov (20 različnih vhodnih kombinacij), zato je tudi napoved relativno ne-natančna. Vsak izmed proizvodnih testov je sicer bil izveden z različno vhodno kombinacijo, vendar bi za na-tančnejšo analizo takšne relacije po-trebovali dosti več podatkov z razno-likimi kombinacijami manipulativnih spremenljivk. Primerne podatke bi lahko neposredno pridobili z uporabo podatkov normalnega proizvodnega obratovanja, ki bi bili pridobljeni v ne-kem daljšem obratovalnem obdobju.4.4 Uporaba modelaKo imamo razvit primeren proizvo-dni model, ga lahko uporabimo za detekcijo odstopanj v procesu ali pa za sprotno prilagajanje proizvo-dnega procesa glede na želeno vre-dnost ocene kvalitete izdelkov.4.4.1 Detekcija odstopanj v procesuModel proizvodnega procesa upo-rabimo na način, ki je bil predsta-vljen na sliki 2. Spremljanje razlike med napovedanimi in izmerjenimi veličinami nam dodatno omogoča tudi lokalizacijo napake. Če prag preseže vrednost 
+
+ je do napake prišlo na relaciji med manipulativ-nimi vhodi in spremenljivkami bri-zganja (npr. sprememba šarže ali kvalitete surovine, napake na orod-ju, itd.), ter če je prag presegla vre-dnost 
+
+, je vzrok napake potrebno iskati v operaciji vtiska ležajev. Pomembna lastnost sistema je tudi, da njegovo delovanje ni pogojeno z vpeljavo sledljivosti proizvodnje po kosih. Če namesto trenutne vredno-Slika 9. Napoved proizvodnih spremenljivk 
+
+, 
+
+ na podlagi manipulativ-nih spremenljivk 
+
+, 
+
+, 
+
+, 
+
+, 
+
+. Z rdečo barvo je označena napoved modela, z modro pa dejanska vrednost.Slika 10. Primerjava dejanske (rdeča) in napovedane (modra) porazdelitvene funkcije 
+
+ za silo vtiska ležajev za proces brez napake (levo) in s simulirano napako (desno)
+
+VODENJE INDUSTRIJSKIH PROCESOV
+
+
+
+
+402
+
+Ventil 18 /2012/ 5sti proizvodnih veličin spremljamo njihovo porazdelitev znotraj posa-mezne serije, lahko pogrešek mo-dela izračunamo tudi iz razlike med trenutno porazdelitveno funkcijo in napovedjo porazdelitvene funkcije z uporabo  Kullback-Leibler razdalje. Primer porazdelitvenih funkcij za silo vtiskanja ležajev za proces brez na-pake in z simulirano napako, je pri-kazan na sliki 10.4.4.2 Nastavljanje manipulativnih spremenljivkŽe tekom izvedbe testnih serij pa smo tudi preizkusili pristop nasta-vljanja manipulativnih spremenljivk. Na podlagi podatkov prvih dvanaj-stih testov proizvodnje je bil iden-tificiran linearni model. Model smo uporabili za izračun različnih nabo-rov vrednosti manipulativnih spre-menljivk (
+
+), pri katerih smo želeli, da bo sila vtiska spodnjega ležaja enaka 550 N. Na podlagi modelov izračunani nabori manipulativnih spremenljivk so bili nato preizkušeni na proizvodnem procesu na podat-kih testov 14 do 18. Slika 11 prika-zuje porazdelitev dejanske sile vtiska spodnjega ležaja pri teh testnih seri-jah. Vidimo, da je mogoče že s precej enostavnim modelom proizvodnega procesa napovedati potrebne nasta-vitve manipulativnih spremenljivk. ¦5 ZaključekTestni primer analize podatkov iz podjetja Kolektor KFH je demonstri-ral, kako lahko s preprosto analizo podatkov učinkovito izpostavimo ključne proizvodne spremenljivke ter nato realiziramo vodenje in nad-zor proizvodnega procesa.Iz primera vidimo, da proizvodni podatki predstavljajo pomemben vir informacij, ki omogočajo vpelja-vo dodatnih izboljšav v proizvodni proces. Posledično lahko stremi-mo k enostavnejšemu prilagajanju proizvodnje novim obratovalnim razmeram ter dolgoročno optimal-nejšemu obratovanju proizvodnega procesa. Viri[1] May, R., Dandy, G., in Maier, H.: Review of Input Variable Selecti-on Methods for Artificial Neural Networks, Artificial Neural Net-works – Methodological Advan-ces and Biomedical Applications, InTech, 2011.[2] Guyon, I. in Elisseeff, A.: An Intro-duction to Variable and Feature Selection, J. Mach. Learn. Res., 3, str. 1157-1182, 2003.[3] Ljung, L.: System Identification: Theory for the User, Prentice Hall PTR, Upper Saddle River, New Jersey, USA, 1999[4] Zorzut, S., Jovan, V., Gradišar, D., Mušič, G.: Closed-loop con-trol of a polymerisation plant using production performance indicators (PIs), International journal of computer integrated manufacturing, 2009.[5] Gradišar, D., Glavan, M.: Input variable selection algorithms for HPC, Proceedings of the In-ternational Conference on Indu-strial Technology, Atene, Grčija, str. 71-76, 2012.Slika 11. Porazdelitve sile vtiska spodnjega ležaja in želene vrednosti 
+
+Analysis of Production Data for Product Quality ControlAbstract: Data gathered in the production process represent a useful source of information. But in pro-duction plants these data are still rarely exploited as the production operators often do not recognise their practical value. This article demonstrates how to effectively employ production data in order to identify the production variables with the strongest influence on the quality of the final product. Moreover, it shows how data-based models of the production process can be used for advanced control techniques. The practical use of the data analysis is shown for a case study of the company Kolektor KFH.Keywords: product quality, production data, influential production variables, empirical models
+
+ZahvalaProjekt L2-2338 (B) je bil financiran s strani Javne agencije za raziskovalno dejavnost Republike Slovenije in podjetja Kolektor KFH.
+
+VODENJE INDUSTRIJSKIH PROCESOV
+
+
+
+

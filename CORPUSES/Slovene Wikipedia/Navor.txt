@@ -1,0 +1,49 @@
+
+
+Navòr ali starejši izraz vrtilni momènt (oznaka M) je v fiziki količina, ki nastopa pri kroženju točkastega telesa in vrtenju togega telesa. Enaka je produktu sile in razdalje premice sile od osi.
+Matematično je navor vektorska količina, ki jo izračunamo kot vektorski produkt med ročico r, to je s krajevnim vektorjem od izhodišča v osišču do prijemališča sile, in silo F:
+
+
+
+Velikost navora je:
+
+
+
+če je φ kot med ročico in silo.
+
+
+Vsebina
+
+
+1 Izrek o vrtilni količini
+2 Merjenje navora
+3 Navor v avtomobilizmu
+4 Glej tudi
+
+
+Izrek o vrtilni količini
+Izrek o vrtilni količini povezuje vrtilno količino s komponento navora v smeri nepremične osi. Podobno, kot pri premem gibanju velja, da je sila odvod gibalne količine po času, velja tudi pri vrtenju, da je navor odvod vrtilne količine po času:
+
+
+
+Enota za navor je Nm.
+Merjenje navora
+Navor merimo podobno kot silo, z deformacijo, npr. s tehtnico na polžasto vzmet ali s torzijsko tehtnico.
+Navor v avtomobilizmu
+Pri avtomobilih je med tehničnimi podatki o vozilu pogosto podan podatek o navoru. Za zgled vzemimo navor npr. 285 Nm pri 1950 vrtljajih na minuto. Kaj to praktično pomeni in zakaj so podani še vrtljaji?
+Navor 285 Nm pomeni, da bi en meter dolga ročica, pritrjena prečno na motorno gred, ustvarjala silo 285 N, kar približno ustreza teži mase 30 kg. V resnici so ročice na ojnici motorja približno dvajsetkrat manjše, sila pa dvajsetkrat večja. Takole na prste lahko ocenimo, da eksplozija mešanice bencinskih ali dizelskih hlapov potisne bat v valju z enako silo, kot bi bila nanj obešena 600-kilogramska utež.
+Za razliko od elektromotorjev, pri katerih je navor praktično neodvisen od frekvence, s katero se motor vrti - pri njih bi prej opisan »poskus« z merjenjem sile na osi motorja lahko tudi res izvedli - pri motorjih z notranjim izgorevanjem ni tako, ampak obstaja neko optimalno območje vrtljajev, pri katerih je navor največji. Pri nižjih vrtljajih so eksplozije v valjih preveč poredko, čas, v katerem se motor vrti le zaradi vztrajnosti, pa predolg, pri višjih pa postane problem dovolj hitro odvajanje izgorenih plinov in dovajanje sveže mešanice (pri še višjih bi seveda naleteli na meje mehanske trdnosti gibljivih kovinskih delov). Pri dizelskih motorjih - zgornji podatek je verjetno za enega teh - je optimalno območje pri nekoliko nižjih obratih kot pri bencinskih. Ker je produkt navora in kotne hitrosti moč motorja P = M ω, lahko iz podane krivulje navora izračunamo tudi krivuljo odvisnosti moči motorja od števila obratov.
+Glej tudi
+
+dvojica sil,
+Pronyjeva zavora,
+prosta precesija, precesija.
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Navor&oldid=3993672«				
+Kategorije: Osnovni fizikalni konceptiMotorjiFizikalne količineVrtenjeFizikalne sile 
+
+
+

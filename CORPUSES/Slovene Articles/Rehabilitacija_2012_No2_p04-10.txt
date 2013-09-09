@@ -1,0 +1,171 @@
+4
+
+KOŽNA TIHA PERIODA – DOLOČITEV NORMATIVNIH VREDNOSTICOUTANEOUS SILENT PERIOD – NORMATIVE DATA
+
+mag. Karmen Peterlin Potisk, dr. med., Ana Klemen, dipl. fiziot., Marta Humar Gorišek, dipl. fiziot.
+
+Univerzitetni rehabilitacijski inštitut Republike Slovenije – Soča, Ljubljana
+
+Peterlin Potisk, Klemen, Humar Gorišek / Rehabilitacija - letn. XI, št. 2 (2012)
+
+Prispelo /Received: 22. 8. 2012Sprejeto /Accepted: 3. 10. 2012E-naslov za dopisovanje /Email for correspondence (KPP):karmen.potisk@ir-rs.siIzvlečekIzhodišča: Kožna tiha perioda (KTP) je kratkotrajna prekinitev ele-ktromiografske hotene izometrične mišične kontrakcije, ki sledi neprijetni ali boleči električni stimulaciji kožnega živca. Za detekcijo KTP uporabljamo standardno elek-tromiografsko opremo. Podatki o vrednostih časovnih parametrov KTP se v literaturi zaradi različnih metod dela razlikujejo, zato je bil cilj raziskave določiti nor-mativne vrednosti za le-te na URI-Soča in jih primerjati s podatki iz literature.Metode:Pri 30 zdravih preiskovancih smo določili srednje vre-dnosti in standardne odklone za začetek, konec in tra-janje KTP med hoteno izometrično mišično kontrakcijo po električni stimulaciji (ES) kožnih živcev na desnem zgornjem in spodnjem udu. Kožno tiho periodo smo detektirali nad kratko abduktorno mišico palca roke (m. abductor pollicis brevis – APB) po ES kožnega živca na kazalcu in mezincu, nad skupno ekstenzorno mišico prstov (m. extensor digitorum communis – EDC) po ES povrhnjega radialnega živca ter nad sprednjo tibial-no mišico (m. tibialis anterior – TA) po ES suralnega živca.Rezultati:Srednja vrednost in standardni odklon (SV ± SD) začetne latence KTP nad mišico APB po ES kožnega živca na kazalcu sta bila 70,9 ± 9,3 ms, trajanje 55,1 ± 10,0 ms, konec 125,5 ± 11,1 ms; po ES kožnega živca na mezincu je bila začetna latenca KTP 71,8 ± 9,0 ms, trajanje 52,2 ± 8,9 ms, konec 123,7 ± 10,1 ms. Nad mišico EDC po ES povrhnjega radialnega živca je bila začetna latenca KTP 63,5 ± 6,3 ms, trajanje 44,4 ± 5,7 ms, konec 107,9 ± 8,5 ms, nad mišico TA po ES suralnega živca pa začetna latenca KTP 97,1 ± 8,7 ms, trajanje 68,1 ± 11,0 ms in konec 165,4 ± 12,0 ms.AbstractIntroduction:The cutaneous silent period (CSP) is a transient sup-pression of electromyographic voluntary isometric activity that follows painful electrical stimulation of cutaneous nerves. Standard electromyographic equip-ment is used for recording the CSP. The values of CSP in the literature vary due to different methods used by investigators. The aim of our study was to establish normal values of CSP and to compare these values to those in the literature.Methods:Mean values and standard deviations of temporal param-eters of CSP (onset latency, endpoint and duration of CSP) during voluntary isometric muscle contraction that follows painful electrical stimulation (ES) of cutaneous nerves of the right upper and lower limb were established in 30 healthy volunteers. CSP was recorded from abduc-tor pollicis brevis muscle (APB) after ES of cutaneous nerves on index and little finger; from extensor digitorum communis muscle (EDC) after ES of superficial radial nerve, and from tibialis anterior muscle (TA) after ES of sural nerve.Results:Mean value and standard deviation (± SD) of CSP onset latency detected over APB were 70.9 ± 9.3 ms, duration 55.1 ± 10.0 ms, endpoint 125.5 ± 11.1 ms after ES of cutaneous nerve on index finger, and 71.8 ± 9.0 ms, dura-tion 52.2 ± 8.9 ms, endpoint 123.7 ± 10.1 ms after ES of cutaneous nerve on little finger. CSP onset latency detected over EDC after ES of superficial radial nerve was 63.5 ± 6.3 ms, duration 44.4 ± 5.7 ms, endpoint 107.9 ± 8.5 ms; the CSP onset latency detected over TA after ES of sural nerve was 97.1 ± 8.7 ms, duration 68.1 ± 11.0 ms, endpoint 165.4 ± 12.0 ms.Conclusion:CSP is a simple electromyographic method that can be useful in demonstrating dysfunction of thin slow conduct-
+
+
+
+
+5
+
+Zaključek:Metoda določanja KTP je preprosta, uporabna pri preučevanju delovanja tankih živčnih vlaken in kožnih nociceptivnih odgovorov pri okvarah hrbtenjače. V raziskavi smo določili normativne vrednosti časovnih parametrov KTP pri zdravih preiskovancih, kar nam bo omogočalo natančnejše ocenjevanje delovanja tankih vlaken A-delta in hrbtenjačnih inhibitornih mehanizmov pri bolnikih.Ključne besede:kožna tiha perioda, vlakna A-delta, hotena mišična kontrakcija, jakost dražljajaing nerve fibres and cutaneous nociceptive mechanisms in spinal cord lesions. We established normal values of temporal parameters of CSP in healthy volunteers to enable a more accurate assessment of the small diameter A-delta nerve fibres and spinal inhibitory mechanisms in patients.Key words:cutaneous silent period, A-delta fibres, voluntary muscle contraction, stimulus intensityUVOD Z elektromiografskimi (EMG) metodami, ki jih rutinsko uporabljamo v klinični praksi, ocenjujemo predvsem delovanje debelih mieliniziranih živčnih vlaken. Za oceno delovanja tankih mieliniziranih in nemieliniziranih živčnih vlaken obstaja v klinični praksi nekaj metod, kot so: sim-patični kožni odziv (1, 2), kvantitativna senzorimetrija (3), kvantitativni sudomotorični aksonski refleks (4), kožna biopsija (5), nociceptivni fleksorski refleks (6), vendar je za nekatere od njih potrebna posebna oprema in sodelovanje preiskovanca in so za rutinsko klinično delo manj primerne. Pogosto je treba kombinirati tudi različne metode, da bi lahko ocenili delovanje tankih mieliniziranih in nemieliziranih živčnih vlaken.Kožna tiha perioda (KTP) je preprosta, neinvazivna metoda, ki jo lahko uporabljamo v klinični praksi za ocenjevanje delovanja tankih mieliniziranih in nemieliniziranih živčnih vlaken s pomočjo standardne elektromiografske opreme. Opredeljena je kot prehodna kratkotrajna prekinitev EMG aktivnosti med vzdrževano izometrično mišično kontrak-cijo, ki sledi električni stimulaciji kožnega (senzoričnega) živca (KTP) ali mešanega motoričnega in senzoričnega živca (mixed nerve silent period) z zadostno jakostjo, da jo preiskovanec zazna kot neprijetno ali bolečo. Fiziološki mehanizmi KTP še niso povsem pojasnjeni, vendar večina raziskovalcev meni, da je KTP spinalni inhibitorni refleks, vključen v spinalne obrambne mehanizme, ki nas varujejo pred potencialno nevarnimi dražljaji (7-9). Funkcionalno je organiziran na ravni inhibitornih hrbtenjačnih mehanizmov in ga primarno prevajajo tanka mielinizirana vlakna A-delta (10, 11).Električna stimulacija kožnega živca z veliko jakostjo izvabi KTP v številnih mišicah hkrati in je v klinični praksi zani-miva zaradi potencialne uporabnosti pri ugotavljanju pri-zadetosti tankih živčnih vlaken (nevropatija tankih živčnih vlaken, utesnitvene nevropatije, radikulopatije) in hrbtenjače (intramedularne okvare) ter vpliva višjih descendentnih mehanizmov, ki so vpleteni v motorično-senzorično inte-gracijo in so porušeni pri nekaterih boleznih možganov, npr. Parkinsonovi bolezni, distonijah in drugih boleznih.Podatki o vrednosti posameznih časovnih parametrov KTP se v literaturi razlikujejo, kar je verjetno posledica različnih metod, ki so jih avtorji uporabljali pri svojem delu (parametri in način električne stimulacije, način detekcije, protokol meritev) in uporabe različnih aparatur v posameznih labora-torijih (7, 9-13), zato jih nismo mogli prenesti v vsakodnevno klinično delo. Omenjeni avtorji so pri svojem delu večinoma uporabljali tokovne stimulatorje in so vrednosti električne stimulacije pri določanju senzoričnega praga ter nato jakosti draženja kožnih živcev pri izvabljanju KTP podane v mA, medtem ko na URI-Soča uporabljamo napetostni električni stimulator. Namen raziskave je bil določiti normativne vrednosti KTP, kar nam bo omogočalo nadaljnje delo v klinični praksi. METODEV raziskavo je bilo vključenih 30 zdravih preiskovancev (18 žensk in 12 moških), starih od 23 do 71 let (povprečno 40,8 let; SD 10,0 let ), visokih od 158 do 193 cm (povpreč-no 174 cm; SD 8,4 cm). Demografski podatki so podani v tabeli 1.Raziskavo je odobrila Komisija za medicinsko etiko URI-Soča. Vsi preiskovanci so bili z raziskavo seznanjeni in so podpisali obrazec o prostovoljnem pristanku za sodelova-nje.Preiskovanci so sedeli na udobnem preiskovalnem stolu. Desna roka je bila položena na oporo in pokrčena v komolcu za 90°, v blagi supinaciji podlakti in z iztegnjenimi prsti. Spodnja uda sta bila pokrčena v kolenu za 45°. Nato smo preiskovance prosili, da pri prvi in drugi meritvi odmaknejo Peterlin Potisk, Klemen, Humar Gorišek / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+
+6
+
+palec proti uporu preiskovalca, da pri tretji meritvi iztegnejo zapestje in prste in da pri četrti meritvi stopalo premaknejo v smeri dorzalne fleksije. Za meritve smo uporabljali rutinsko elektromiografsko opremo (Medelec Synergy, Viasys UK, Surrey, UK; frekvenčno območje od 3 Hz do 10 kHz, prelet žarka 500 msec).Usmerjeno površinsko elektromiografsko aktivnost smo odjemali s standardno bipolarno površinsko elektrodo (18261T; Medelec, Old Woking, UK), položeno na trebuh kratke abduktorne mišice palca roke (m. abductor pollicis brevis – APB) ali skupno ekstenzorno mišico prstov (m. extensor digitorum communis – EDC) na zgornjih udih oziroma sprednjo tibialno mišico (m. tibialis anterior – TA) na spodnjih udih med izometrično mišično kontrakcijo, ki jo je preiskovanec vzdrževal s pomočjo slušno-vidne povratne zanke prek zaslona elektromiografskega aparata (slika 1). Moči mišične kontrakcije nismo natančno določali, ker po 
+
+Slika 1: Položaj stimulacijske in detekcijske elektrode pri izva-bljanju KTP med hoteno izometrično mišično kontrakcijo. A - stimulacija kožnega živca na kazalcu, detekcija nad kratko abduktorno mišico palca roke (m. abductor pollicis brevis – APB); B - stimulacija povrhnjega radialnega živca, detekcija nad skupno ekstenzorno mišico prstov (m. extensor digitorum communis – EDC); C - stimulacija suralnega živca, detekcija nad sprednjo tibialno mišico (m. tibialis anterior – TA).Slika 2: Kožna tiha perioda, detektirana nad kratko abduk-torno mišico palca roke (m. abductor pollicis brevis – APB) med hoteno izometrično kontrakcijo po električni stimulaciji kožnega živca na kazalcu (A, B) in nad sprednjo tibialno mišico (m. tibialis anterior – TA) po električni stimulaciji suralnega živca (C). A – tri zaporedne meritve, B – superpo-zicija treh zaporednih meritev (prelet žarka 500 msec, obču-tljivost 500 µV, jakost dražljaja 211 V); C – superpozicija treh zaporednih meritev (prelet žarka 500 msec, občutljivost 500 µV, jakost dražljaja 300 V).
+
+Peterlin Potisk, Klemen, Humar Gorišek / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+
+7
+
+podatkih iz literature v območju med 10 in 80 % maksimalne moči le-ta bistveno ne vpliva na časovne parametre kožne tihe periode (KTP) (14, 15).Kožno tiho periodo smo izvabljali z električno stimulacijo (trajanje dražljaja 1 ms, časovna baza 500 ms, občutljivost 500 µV/razdelek) kožnih živcev na zgornjih in spodnjih udih med vzdrževano izometrično mišično kontrakcijo. Pred pričetkom meritve smo določili senzorični prag (SP) zaznave električnega dražljaja na kazalcu in nato stimulirali živce z jakostjo dražljaja od 15 do 20-krat nad senzoričnim pragom (14, 15). Za stimulacijo kožnih živcev na kazalcu in mezincu smo uporabljali prstanaste elektrode, ki so bile nameščene nad srednjo in proksimalno falango, razmaknjene za 3 cm. Za stimulacijo povrhnjega radialnega in suralnega živca smo uporabljali standardno bipolarno stimulacijsko elektrodo (16639T; Medelec, Old Woking, UK). Povrhnji radialni živec smo stimulirali v prvem medkostnem prostoru nad kito dol-ge ekstenzorne mišice palca, suralni živec pa za lateralnim maleolom. Vsako meritev smo ponovili trikrat in določili začetek, konec in trajanje KTP (slika 2.). Po priporočilih iz literature (9, 16) smo začetek KTP določili kot 80 odstotni upad amplitude usmerjene EMG aktivnosti, konec pa kot ponoven porast EMG aktivnosti nad 80 odstotkov.Za nadaljnjo analizo smo uporabili srednjo vrednost treh zaporednih meritev KTP. Za določitev normativov smo izračunali vrednosti časovnih parametrov KTP (začetek, konec in trajanje KTP) pri vseh preiskovancih ter za vsak parameter izračunali srednjo vrednost (SV) in standardni odklon (SD). Pregled porazdelitev s histogrami ni pokazal izrazite asimetričnosti pri nobenem od parametrov, zato je smiselno vrednosti SV ± 2 SD uporabiti kot zgornjo in spodnjo normalno vrednost (17). Ker pa zaradi omejene reprezentativnosti vzorca ne moremo zanesljivo sklepati o veljavnosti domneve o normalni porazdelitvi v populaciji, pri vseh parametrih navajamo tudi mediano in interkvartilni razmik.REZULTATIPri vseh preiskovancih, ki so bili vključeni v raziskavo, smo opravili meritve kožne tihe periode (KTP) po stimula-ciji kožnih živcev na kazalcu in mezincu ter po stimulaciji povrhnjega radialnega in suralnega živca. EMG aktivnost smo odjemali nad mišicami APB (stimulacija kazalca in mezinca), EDC (stimulacija povrhnjega radialnega živca) in TA (stimulacija suralnega živca). Vsi preiskovanci so zaklju-čili protokol meritev in pri vseh smo tudi določili KTP.Povprečna vrednost senzoričnega praga po stimulaciji kožne-ga živca na kazalcu je bila 17,8 mV (SD 4,6 mV, razpon: 9-30 mV).Časovni parametri KTP (začetek, konec, trajanje) posame-znih meritev so podani v tabeli 1. Izračunane opisne statistike posameznih parametrov KTP med hoteno izometrično kon-trakcijo mišic APB, EDC in TA so podane v tabeli 2. RAZPRAVAPodatki o vrednostih časovnih parametrov KTP se v litera-turi zaradi različnih metod dela razlikujejo, zato je bil cilj raziskave določiti normativne vrednosti na URI-Soča in jih primerjati s podatki iz literature.Že leta 1919 je Hoffmann opazil, da električna stimulacija živca povzroči prekinitev mišične kontrakcije med tonično kontrakcijo mišice. Kasneje je s sodelavci ugotovil, da lahko tudi po stimulaciji kožnega živca opazimo enak pojav (18). V sedemdesetih letih prejšnjega stoletja so domnevali, da je za izvabljanje prekinitve EMG aktivnosti med mišično kontrakcijo treba uporabiti nociceptivno kožno stimulacijo (19, 20) in kasneje ugotovili, da je za izvabljanje tihe kožne periode treba aktivirati senzorična vlakna tipa A-delta, ki prevajajo s hitrostjo 15-20 m/s (13).Neprijetna ali boleča stimulacija kožnih živcev pri zdravem človeku izvabi značilno kožno tiho periodo (KTP) v različnih mišicah med hoteno izometrično kontrakcijo. Z naraščanjem jakosti dražljaja se krajša začetna latenca KTP in daljša traja-nje vse do ravni, ko postaneta oba parametra ponovljiva (21), z minimalno variabilnostjo med posameznimi električnimi dražljaji. Zaradi tega smo se v naši raziskavi odločili upora-biti jakosti dražljajev med 15 do 20-krat nad SP, saj avtorji poročajo, da pri teh jakostih dražljaja zanesljivo izvabimo KTP s ponovljivimi začetnimi latencami in trajanjem (8, 9, 21). Pri nižjih jakostih dražljaja (do 10X SP) je namreč prekinitev EMG aktivnosti manjša, pogostejša je tudi pojav-nost ekscitatornih transkortikalnih refleksov (LLR – long loop reflexes), kar lahko oteži določanje predvsem začetne latence KTP (9, 10, 15).Na časovne parametre KTP vpliva mesto detekcije. Začetna latenca je krajša v proksimalnih mišicah, kar je posledica krajše refleksne poti (10, 11, 16, 22). V naši raziskavi je bila začetna latenca KTP nad skupno ekstenzorno mišico prstov (m. extensor digitorum communis – EDC) po električni stimulaciji povrhnjega radialnega živca krajša (SV: 63,5 ms) kot začetna latenca KTP nad kratko abduktorno mišico palca roke (m. abductor pollicis brevis – APB) po draženju kožnih živcev na kazalcu (SV: 70,9 ms) in mezincu (SV: 71,8 ms). Trajanje KTP je bilo prav tako krajše nad mišico EDC (SV: 44,4 ms) po draženju povrhnjega radialnega živca kot nad mišico APB po draženju kožnega živca na kazalcu (SV: 55,1  ms) in mezincu (SV: 52,2 ms). Po draženju suralnega živca je bila začetna latenca KTP, ki smo jo detektirali nad spre-dnjo tibialno mišico (m. tibialis anterior – TA), pričakovano daljša (SV: 97,1 ms), prav tako trajanje KTP (SV: 68,1 ms), kar potrjujejo tudi podatki iz literature (20, 22). Različni avtorji so tudi ugotovili, da sta začetna latenca in trajanje KTP statistično nepomembno različni na desnih in levih Peterlin Potisk, Klemen, Humar Gorišek / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+
+8
+
+Tabela 1: Demografski in antropometrični podatki ter srednje vrednosti časovnih parametrov treh ponovitev KTP (začetek, konec in trajanje) med hoteno izometrično kontrakcijo mišic APB, EDC in TA po električni stimulaciji kožnih živcev na kazalcu in mezincu ter po stimulaciji povrhnjega radialnega in suralnega živca.
+
+Preiskovanec
+
+Starost (leta)
+
+Spol
+
+Višina (cm)
+
+1. stim: 
+
+n. MED. kazal. odziv: 
+
+APB
+
+2. stim: 
+
+n. ULN. kazal. odziv: 
+
+APB
+
+3. stim: 
+
+n. RAD. odziv: 
+
+EDC
+
+4. stim: 
+
+n. SUR. odziv: 
+
+TA
+
+KTP začetek 
+
+(ms)
+
+KTP konec 
+
+(ms)
+
+KTP trajanje 
+
+(ms)
+
+KTP začetek 
+
+(ms)
+
+KTP konec 
+
+(ms)
+
+KTP trajanje 
+
+(ms)
+
+KTP začetek 
+
+(ms)
+
+KTP konec 
+
+(ms)
+
+KTP trajanje 
+
+(ms)
+
+KTP 
+
+začetek(ms)
+
+KTP 
+
+konec(ms)
+
+KTP trajanje 
+
+(ms)154Ž17073,8131,858,063,3109,346,054,8112,357,589,0173,284,2271M17284,7131,546,885,5126,040,563,098,235,2100,0169,069,0329M17874,5123,048,576,5134,558,060,5103,342,893,0151,758,7449Ž16764,0105,541,563,8102,038,254,599,545,087,0155,368,3535Ž18174,8128,753,885,3131,646,363,5104,541,0101,7174,072,3654Ž16560,8118,575,766,0122,056,058,7106,547,884,8174,089,2736M17979,0144,265,285,0133,848,865,2103,538,396,0169,273,2830Ž17377,8123,345,569,5126,056,559,896,536,7104,2178,574,3939M18476,3139,563,274,5120,846,372,8119,847,0104,3165,260,81032M16847,2109,562,360,7107,747,060,596,235,775,0142,767,71136Ž16769,5117,748,275,2126,050,863,8107,844,097,5148,751,31223Ž17273,7126,052,369,8124,354,566,7117,851,288,5149,260,71349Ž17579,0117,838,877,0117,840,870,8115,544,788,0165,875,81437M17271,5140,268,774,2136,762,359,3105,546,289,7186,596,81527Ž18166,7121,855,265,5129,363,864,2107,743,5103,5161,357,81630M17672,5148,075,558,3128,570,272,7120,247,5106,3187,780,31740Ž15847,0101,754,749,799,850,161,8107,245,394,0149,055,01842Ž17666,8113,346,576,7111,534,861,0100,839,898,7154,756,01944M18878,3136,358,072,8136,263,367,5117,049,5107,5185,278,02043M18374,8124,549,771,8128,756,853,8105,852,094,2164,870,72140M18678,5122,544,080,0124,844,875,3122,847,5105,5176,771,22234Ž16856,0127,771,770,3129,759,359,3106,246,8106,5167,361,02335Ž17077,5126,348,864,7112,848,266,8105,338,5108,0176,268,22435Ž16063,5124,060,561,0113,552,557,2100,843,790,0153,363,32546Ž17071,0116,545,576,7127,050,360,398,338,0101,8161,559,72632M19371,5135,864,371,5135,564,063,8106,742,895,7159,864,12753Ž15976,5112,335,881,3123,241,975,7113,938,395,8157,061,22850Ž17482,0136,254,285,2130,044,876,0130,554,5112,7171,058,32948M17661,5130,068,580,3130,350,056,3107,751,387,5159,071,53050Ž17876,3131,855,362,5130,267,760,799,338,7106,7175,566,8Okrajšave: KTP – kožna tiha perioda; APB – kratka abduktorna mišica palca roke (m. abductor pollicis brevis); EDC – skupna ekstenzorna mišica prstov (m. extensor digitorum communis), TA – sprednja tibialna mišica (m. tibialis anterior).Tabela 2: Izračunane opisne statistike časovnih parametrov TKP med hoteno izometrično kontrakcijo mišic APB, EDC in TA po električni stimulaciji kožnih živcev na kazalcu in mezincu ter po stimulaciji povrhnjega radialnega in suralnega živca.
+
+Mišična 
+
+detekcija
+
+Električna 
+
+stimulacija
+
+Začetek KTP (ms) 
+
+SV (SD); 
+
+ME (IQR)
+
+Konec KTP (ms) 
+
+SV (SD); 
+
+ME (IQR)
+
+Trajanje KTP 
+
+SV (SD); 
+
+ME (IQR)APBkazalec69,8 (9,0); 74 (66-78)121,2 (9,2); 125 (118-133)53,1 (10,0); 54 (47-63)APBmezinec70,2 (9,3); 72 (64-78)120,3 (10,0); 126 (117-130)50,1 (8,7); 50 (46-58)EDCn. radialis63,1 (6,2); 62 (59-67)107,2 (8,42); 106 (101-114)44,2 (5,8); 44 (39-48)TAn. suralis97,7 (8,4); 97 (90-105)163,6 (10,4); 166 (155-174)65,7 (10,0); 68 (60-73)Okrajšave: KTP – kožna tiha perioda; APB – kratka abduktorna mišica palca roke (m. abductor pollicis brevis); EDC – skupna ekstenzorna mišica prstov (m. extensor digitorum communis), TA – sprednja tibialna mišica (m. tibialis anterior); SV – srednja vrednost; SD – standardni odklon; ME – mediana; IQR – interkvartilni razmik.Peterlin Potisk, Klemen, Humar Gorišek / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+
+9
+
+udih in da na njiju ne vpliva ročnost (16, 23), zato smo pri naši raziskavi opravili meritve le na desnih udih. Zanimiv je tudi podatek, da po stimulaciji suralnega živca detektiramo KTP v mišicah TA in soleus, ki sta antagonistični mišici, skoraj sinhrono (20).Trajanje KTP je odvisno od moči mišične kontrakcije in se z naraščanjem mišične kontrakcije krajša, vendar razlika med 10 in 80 odstotno močjo maksimalne mišične kontrakcije ni statistično pomembna (14, 15, 21, 22). Da bi zmanjšali vpliv moči mišične kontrakcije na trajanje KTP, smo v naši raziskavi opravljali meritve le med submaksimalno izometrično mišično kontrakcijo. Krajšanje trajanja KTP z naraščanjem moči mišične kontrakcije je verjetno posledica proženja večjega števila motoričnih nevronov alfa med moč-no kontrakcijo ali povečane frekvence proženja posamezne motorične enote (10). Kot smo že omenili, se z naraščanjem jakosti dražljaja daljša trajanje KTP, kar je verjetno posledica vzdraženja večjega števila tankih nemieliniziranih vlaken A-delta. Pri bolnikih s hudo utesnitveno nevropatijo medi-anega živca v zapestnem prehodu so ugotovili pomembno krajše trajanje KTP, kar kaže na to, da zmanjšano število vlaken A-delta vpliva na trajanje KTP (24). Po drugi strani pa lahko pri bolnikih s hudo utesnitveno nevropatijo, pri kate-rih s klasično elektromiografsko preiskavo ne detektiramo nevrogramov in valov M, detektiramo pa KTP, ugotovimo ohranjenost živca. Tanka mielinizirana in nemielinizirana živčna vlakna so namreč, kot je znano, zelo odporna na utesnitev in ishemijo.Določanje KTP je klinično uporabno pri različnih motnjah in boleznih perifernega živčevja, hrbtenjače in tudi boleznih možganov. Z izvabljanjem KTP lahko ocenjujemo ohranje-nost senzorične korenine pri poškodbah brahialnega pleteža. V tem primeru mora mišico, na kateri detektiramo KTP, oživčevati druga korenina kot ji pripada senzorična, ki jo preiskujemo (25). Pri nevropatijah tankih vlaken, ki jih z rutinskimi meritvami prevodnih hitrosti živcev ne moremo ugotoviti, so nekateri avtorji ugotovili spremembe v izva-bljivosti KTP in podaljšanje začetne latence KTP (26, 27). Omenili smo že uporabnost metode pri hudih utesnitvenih nevropatijah. Pri bolnikih z meralgijo parestetiko so ugotovili podaljšano začetno latenco in skrajšano trajanje KTP nad mišico vastus medialis po draženju lateralnega femoralnega kožnega živca (23). Klinično uporabnost metode so preu-čevali tudi pri bolnikih z okvaro ali boleznijo osrednjega živčevja. Pri bolnikih z okvaro sive substance hrbtenjače in z motnjo občutenja za bolečino in temperaturo, npr. pri siringomieliji ali tumorjih, so ugotovili, da KTP ni bila izvabljiva ali pa so bili spremenjeni časovni parametri le-te na prizadeti strani, medtem ko so bili izvidi drugih nevro-fizioloških preiskav (SEP, MEP, valovi M in F) relativno normalni (12, 28). Pri bolnikih s Parkinsonovo boleznijo in segmentno distonijo so nekateri avtorji ugotovili podaljša-no trajanje KTP (29, 30), medtem ko se začetna latenca ni razlikovala od kontrolne skupine. Po terapiji z L-dopo so ugotovili skrajšanje trajanja KTP pri bolnikih s Parkinsonovo 
+
+boleznijo (30), ne pa pri bolnikih z multisistemsko atrofijo in progresivno supranuklearno paralizo.Opisano metodo trenutno še vedno uporabljajo predvsem v raziskovalne namene pri preučevanju inhibitornih meha-nizmov hrbtenjače ter vpletenosti le-teh v normalno gibanje človeka. Vendar opravljene raziskave pri bolnikih z okvaro perifernega in osrednjega živčevja kažejo na njeno potenci-alno uporabnost tudi v redni klinični praksi. S tem namenom smo tudi določili normativne vrednosti časovnih parame-trov KTP med izometrično kontrakcijo mišic po stimulaciji posameznih kožnih živcev na zgornjih in spodnjih udih. V prihodnje bi bilo smiselno sistematično preveriti morebiten vpliv spola, starosti in telesne višine na obravnavane para-metre in po potrebi izdelati stratificirane norme oziroma statistični napovedni model za normalne vrednosti.ZAKLJUČEKKožna tiha perioda (KTP), ki jo detektiramo nad različnimi mišicami med hoteno izometrično kontrakcijo po električni stimulaciji kožnih živcev z veliko jakostjo, je pri zdravem človeku skoraj vedno izvabljiva in ponovljiva. Omogoča nam ocenjevanje delovanja tankih mieliniziranih živčnih vlaken (A-delta) ter hrbtenjačnih inhibitornih mehanizmov. V raziskavi smo določili normativne vrednosti časovnih parametrov KTP pri zdravih preiskovancih, kar nam bo omogočalo natančnejše ocenjevanje delovanja tankih živčnih vlaken in hrbtenjače pri bolnikih. ZAHVALAVsem, ki so sodelovali in trpeli v imenu znanosti, se iskreno zahvaljujemo.
+
+Literatura:1. Vetrugno R, Liguori R, Cortelli P, Montagna P. Sym-pathetic skin response: basic mechanisms and clinical applications. Clin Auton Res 2003; 13(4): 256-70. 2. Lacomis D. Small-fiber neuropathy. Muscle Nerve 2002; 26(2): 173-88. 3. Shy ME, Frohman EM, So YT, Arezzo JC, Cornblath DR, Giuliani MJ, et al. Quantitative sensory testing: report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology. Neurology 2003; 60(6): 898-904. 4. Riedel A, Braune S, Kerum G, Schulte-Mönting J, Lücking CH. Quantitative sudomotor axon reflex test (QSART): a new approach for testing distal sites. Muscle Nerve 1999; 22(9): 1257-64. Peterlin Potisk, Klemen, Humar Gorišek / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+
+10
+
+  5. Griffin JW, McArthur JC, Polydefkis M. Assessment of cutaneous innervation by skin biopsies. Curr Opin Neurol  2001; 14(5): 655-9.   6. Willer JC, De Broucker T, Le Bars D. Encoding of no-ciceptive thermal stimuli by diffuse noxious inhibitory controls in humans. J Neurophysiol 1989; 62(5): 1028-38.   7. Inghilleri M, Cruccu G, Argenta M, Polidori L, Manfredi M. Silent period in upper limb muscles after noxious cutaneous stimulation in man. Electroencephalogr Clin Neurophysiol 1997; 105(2): 109-15.   8. Leis AA, Stokic DS, Fuhr P, Kofler M, Kronenberg MF, Wissel J, et al. Nociceptive fingertip stimulation inhibits synergistic motoneuron pools in the human upper limb. Neurology 2000; 55(9): 1305-9.   9. Kofler M. Functional organization of exteroceptive inhibition following nociceptive electrical fingertip stimulation in humans. Clin Neurophysiol 2003; 114(6): 973-80. 10. Uncini A, Kujirai T, Gluck B, Pullman S. Silent period induced by cutaneous stimulation. Electroencephalogr Clin Neurophysiol 1991; 81(5): 344-52. 11. Leis AA, Kofler M, Ross MA. The silent period in pure sensory neuronopathy. Muscle Nerve 1992; 15(12): 1345-8. 12. Stetkarova I, Kofler M, Leis AA. Cutaneous and mixed nerve silent periods in syringomyelia. Clin Neurophysiol 2001; 112(1): 78-85. 13. Shefner JM, Logigian EL. Relationship between stimu-lus strength and the cutaneous silent period. Muscle Nerve 1993; 16(3): 278-82. 14. Kofler M, Kumru H, Stetkarova I, Schindler C, Fuhr P. Muscle force up to 50% of maximum does not affect cutaneous silent periods in thenar muscles. Clin Neu-rophysiol 2007; 118(9): 2025-30. 15. Rodi Z, Springer C. Influence of muscle contraction and intensity of stimulation on the cutaneous silent period. Muscle Nerve 2011; 43(3): 324-8. 16. Kofler M, Poustka K. Interside comparison of cutane-ous silent periods in thenar muscles of healthy male and female subjects. Clin Neurophysiol 2004; 115(9): 2123-7. 17. Dorfman LJ, Robinson LR. AAEM minimonograph #47: normative data in electrodiagnostic medicine. ff. Muscle Nerve 1997; 20(1): 4-14. 18. Hoffmann P, Schenk E, Tonnies JF. Über den beugen-reflex des normalen Menschen. Pflügers Arch Physiol 1948; 250: 724-32.19. Kranz H, Adorjani C, Baumgartner G. The effect of nociceptive cutaneous stimuli on human motoneurons. Brain 1973; 96(3): 571-90. 20. Shahani BT, Young RR. Studies of the normal human silent period. In: Desmedt J. ed. New developments in electromyography and clinical neurophysiology. Basel: Karger; 1973, vol. 3: 589-602.21. Serrao M, Parisi L, Pierelli F, Rossi P. Cutaneous affer-ents mediating the cutaneous silent period in the upper limbs: evidences for a role of low-threshold sensory fibres. Clin Neurophysiol 2001; 112(11): 2007-14. 22. Floeter MK. Cutaneous silent periods. Muscle Nerve 2003; 28(4): 391-401. 23. Tataroglu C, Uludag B, Karapinar N, Bademkiran F, Ertekin C. Cutaneous silent periods of the vastus media-lis evoked by the stimulation of lateral femoral cutaneous nerve. Clin Neurophysiol 2005; 116(6): 1335-41. 24. Kofler M, Fröhlich K, Saltuari L. Preserved cutaneous silent periods in severe entrapment neuropathies. Muscle Nerve 2003; 28(6): 711-4. 25. Leis AA. Silent period studies and long latency reflexes. In: Levin K, Lunders HO, eds. Comprehensive clinical neurophysiology. Philadelphia: W.B. Sauders, 2000: 295-306.26. Corsi FM, Fausti S, Serrao M, Casali C, Parisi L, Piazza G. Electromyographic mixed nerve and cutaneous silent period in evaluating the A-delta fibres in a patient with hereditary sensory-autonomic neuropathy. Funct Neurol 2002; 17(1): 31-4. 27. Yaman M, Uludüz D, Yüksel S, Pay G, Kiziltan ME. The cutaneous silent period in diabetes mellitus. Neurosci Lett 2007; 419(3): 258-62. 28. Kaneko K, Kawai S, Fuchigami Y, Morita H, Ofuji A. Cutaneous silent period in syringomyelia. Muscle Nerve 1997; 20(7): 884-6. 29. Pullman SL, Ford B, Elibol B, Uncini A, Su PC, Fahn S. Cutaneous electromyographic silent period findings in brachial dystonia. Neurology 1996; 46(2): 503-8. 30. Serrao M, Parisi L, Valente G, Martini A, Fattapposta F, Pierelli F, et al. L-Dopa decreases cutaneous nociceptive inhibition of motor activity in Parkinson’s disease. Acta Neurol Scand  2002; 105(3): 196-201. Peterlin Potisk, Klemen, Humar Gorišek / Rehabilitacija - letn. XI, št. 2 (2012)
+
+
+
+

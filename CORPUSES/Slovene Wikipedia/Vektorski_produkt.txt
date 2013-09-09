@@ -1,0 +1,75 @@
+
+
+Véktorski prodúkt je binarni operator v trirazsežnem prostoru. Rezultat je trirazsežni vektor, ki je pravokoten na oba vektorja. Operacija ni komutativna; če zamenjamo vrstni red vektorjev, bo rezultat vektor z enako dolžino, vendar bo usmerjen v nasprotno smer. Dolžina vektorja je enaka ploščini paralelograma, katerega nevzporedni stranici sta vektorja. Vektorski produkt dveh linearno odvisnih vektorjev je enak ničelnemu vektorju. Če sta vektorja  in  v desnosučni ortonormalni bazi definirana kot
+
+in
+
+se njun vektorski produkt izračuna kot:
+
+Pravilo si lažje zapomnimo kot determinanto matrike, kjer v prvo vrstico zapišemo vse tri bazne vektorje, v drugo vrstico komponente prvega vektorja, v tretjo vrstico pa komponente drugega vektorja, in determinanto razvijemo po prvi vrstici:
+
+Grafična predstavitev
+
+Če v skupni ravnini obeh vektorjev kot med njima označimo s , je dolžina vektorskega produkta enaka:
+
+Smer lahko določimo tako, da prvi vektor v njuni skupni ravnini zavrtimo do drugega v tisti smeri, kjer je zasuk krajši, in smer določimo po pravilu desnosučnega vijaka.
+Lastnosti
+
+Vektorski produkt je antikomutativen:
+
+
+
+
+
+Vektorski produkt je distributiven za seštevanje:
+
+
+
+
+
+Pri množenju s skalarjem lahko tega izpostavimo; (homogenost za množenje z realnim številom):
+
+
+
+
+
+Vektorski produkt ni asociativen:
+
+
+
+
+
+zanj pa velja Jacobijeva enakost:
+
+
+Zunanje povezave
+
+http://www.e-studij.si/Vektorski_produkt
+
+
+
+
+
+
+p · p · u · zPoglavja v linearni algebri
+
+
+
+
+
+
+vektorji · vektorski prostor · linearni prostor · linearna transformacija · linearna neodvisnost · linearna kombinacija · baza · prostor stolpcev · prostor vrstic · dualni prostor · ortogonalnost · rang · poddeterminanta · lastni vektor · lastna vrednost · metoda najmanjših kvadratov · zunanji produkt · vektorski produkt · skalarni produkt · mešani produkt · transponirana matrika · razcep matrike
+
+
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Vektorski_produkt&oldid=3852771«				
+Kategorija: Linearna algebra 
+
+
+

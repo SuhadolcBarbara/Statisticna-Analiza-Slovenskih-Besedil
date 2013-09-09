@@ -1,0 +1,122 @@
+
+
+Níhanje (s tujko oscilacija) je periodično gibanje, ki ga lahko opredelimo z amplitudo ter frekvenco ali nihajnim časom. Navadno obravnavamo sinusno nihanje, pri katerem se odmik ali odklon sinusno spreminjata s časom.
+
+
+
+
+Pojmi pri nihanju
+
+
+Amplituda nihanja je največji odmik ali odklon, nihajni čas ali perioda je čas, ki ga nihalo potrebuje za gibanje med dvema zaporednima ustreznima odmikoma ali odklonoma (npr. med dvema zaporednima obiskoma ene od skrajnih leg), frekvenca pa je število nihajev na sekundo.
+
+
+Vsebina
+
+
+1 Matematično ozadje
+
+1.1 Nedušeno nihanje
+1.2 Dušeno nihanje
+1.3 Vsiljeno nedušeno nihanje
+1.4 Vsiljeno nihanje
+
+
+2 Zunanje povezave
+
+
+Matematično ozadje
+Sinusno nihanje lahko opišemo z diferencialno enačbo
+
+
+
+Pri tem je x odmik ali druga nihajoča količina, t čas, β konstanta dušenja, ω0 karakteristična krožna frekvenca, člen A0cosωt pa opisuje vsiljeno nihanje z amplitudo A0 in krožno frekvenco ω.
+Nedušeno nihanje
+
+
+
+
+Nedušeno nihanje sistema vzmet-utež
+
+
+Nedušeno nihanje lahko opišemo z enačbo
+
+
+
+Rešitev takšne enačbe je
+
+
+
+Pri tem je x0 amplituda, ω0 lastna krožna frekvenca in δ fazni premik nihanja. Celotnemu argumentu kosinusne funkcije pravimo faza valovanja.
+Za zgled lahko izpeljemo gibalno enačbo za vzmetno nihalo. Za vzmet velja Hookov zakon, po drugi strani pa 2. Newtonov zakon povezuje silo s pospeškom. Oba izraza za silo izenačimo:
+
+
+
+Vemo tudi, da je pospešek drugi odvod lege po času, zatorej lahko enačbo prepišemo v obliko
+
+
+
+Če oba člena prenesemo na isto stran, vidimo, da ima enačba obliko enačbe za nedušeno nihanje. Rešimo jo lahko z nastavkom
+
+
+
+Lastna krožna frekvenca takega nihala je enaka:
+
+
+
+Nedušeno nihanje je idealizacija, saj imamo pri realnih sistemih navadno opravka z uporom ali trenjem. Kot nedušeno nihanje lahko približno opišemo nihanje matematičnega nihala, nihajnega kroga ali kvantnomehanskega harmoničnega oscilatorja.
+Dušeno nihanje
+Pri dušenem nihanju se energija nihanja zaradi upora ali trenja s časom manjša. Če je izguba energije premo sorazmerna energiji nihanja, lahko takšno dušeno nihanje opišemo z enačbo
+
+
+
+Rešitev takšne enačbe je
+
+
+
+Pri tem je lastna krožna frekvenca dušenega nihala enaka
+
+
+
+Lastna krožna frekvenca dušenega nihala je torej manjša od lastne krožne frekvence nedušenega nihala. Dušenje je podkritično, če velja ω0 > β, in nadkritično, če velja ω0 < β. V slednjem primeru nihalo ne niha, ampak se neperiodično približuje ravnovesni legi. Dušeno nihanje lahko približno opišemo kot nedušeno, če je čas opazovanja majhen v primerjavi z 1/β
+Zgled za dušeno nihanje je nihalo na vijačno vzmet, ki niha v viskozni tekočini.
+Vsiljeno nedušeno nihanje
+Pri vsiljenem nihanju nihalu od zunaj vsiljujemo gibanje z dano frekvenco. Takšno nihanje lahko opišemo z enačbo
+
+
+
+Tašno nihanje lahko primerjamo z nihanjem sestavljenega nihala.
+Zgled za vsiljeno nedušeno nihanje je nihajni krog, ki mu od zunaj vsiljujemo izmenično napetost.
+Vsiljeno nihanje
+Pri realnem nihanju dušenega nihala, ki mu od zunaj vsiljujemo nihanje z neko frekvenco, opazimo, da lastno nihanje s časom izzveni, nihalo pa začne nihati z vsiljeno frekvenco. Za opis takšnega nihanje potrebujemo splošno obliko enačbe,
+
+
+
+
+
+
+
+Resonančna krivulja
+
+
+Amplituda nihanja takega nihala je največja, če je vsiljena frekvenca enaka lastni frekvenci. Tedaj pravimo, da je nihalo v resonanci. Resonančno krivuljo za različne vrednosti opišemo z enačbo
+
+
+
+Pri tem je ξ razmerje med vsiljeno in lastno frekvenco, ξ = ω/ω0.
+Zgled za vsiljeno nihanje je nihajni krog z uporom.
+Zunanje povezave
+
+
+
+Poglejte si besedo nihanje ali Nihanje v Wikislovarju, prostem slovarju.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Nihanje&oldid=3945101«				
+Kategorija: Nihanje in valovanje 
+
+
+

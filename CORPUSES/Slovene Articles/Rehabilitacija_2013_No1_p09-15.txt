@@ -1,0 +1,159 @@
+9
+
+Jamnik, Udovčić Pertot / Rehabilitacija - letn. XII, št. 1 (2013)
+
+Prispelo /Received: 17. 1. 2013Sprejeto /Accepted: 2. 3. 2013E-naslov za dopisovanje /E-mail for correspondence (HJ): helena.jamnik@ir-rs.siIzvlečekUVOD : Pri zdravih preiskovancih smo s pomočjo naprave Zebris CMS20 izmerili vrednosti aktivnega obsega gibljivosti vratne in ledvene hrbtenice v vseh standardnih ravninah ter preverili zanesljivost teh meritev in testiranja zazna-vanja položaja sklepov vratne hrbtenice po protokolu obračanja glave v nevtralni položaj.Metode: V raziskavo je bilo vključenih 28 zdravih preiskovancev. Dva preiskovalca sta na isti dan izvedla vsak po eno serijo meritev. Izračunali smo opisne statistike za aktivni obseg gibljivosti vratne in ledvene hrbtenice ter za odklon od srednjega položaja pri testiranju zaznavanja položaja skle-pov vratne hrbtenice. Izračunali smo srednjo vrednost koeficienta variacije za vse gibe, korelacijo med aktivnim obsegom gibljivosti, zaznavanjem položaja sklepov in starostjo ter intraklasni korelacijski koeficient (ICC) med meritvama obeh preiskovalcev.AbstractObjectives: Healthy volunteers’ active range of motion in cervical and lumbar segments of spine in all standard planes of motion was measured using the Zebris CMS20 device, and inter-examiner reliability of these measurements was assessed. We also evaluated the inter-examiner reliability of cervical joint position sense measurements using the test of head turning into neutral position.Methods: A total of 28 healthy participants were included. Two exam-iners performed the measurements of three-dimensional spinal motions and the test for cervical joint position sense. Descriptive statistics were calculated for active cervical and lumbar range of motion and relocation position error for cervical joint position sense. Mean coefficient of variation was calculated for all movements of cervical and lumbar range of motion. Correlations between all the measurements and age were estimated. Test-retest reliability was assessed using intra-class correlation coefficient (ICC).TRIDIMENZIONALNA ANALIZA GIBANJA HRBTENICE IN ZAZNAVANJE POLOŽAJA SKLEPOV VRATNE HRBTENICE PRI ZDRAVIH PREISKOVANCIH: NORMALNE VREDNOSTI IN PONOVLJIVOST MERITEVTHREE-DIMENSIONAL ANALYSIS OF SPINAL MOTION AND CERVICAL JOINT POSITION SENSE IN HEALTHY SUBJECTS: NORMAL VALUES AND INTER-EXAMINER RELIABILITY
+
+asist. Helena Jamnik, dr. med., Anja Udovčić Pertot, dr. med.
+
+Univerzitetni rehabilitacijski inštitut Republike Slovenije – Soča, Ljubljana
+
+
+
+
+10
+
+Rezultati: Za vratno hrbtenico smo izmerili takšne vrednosti aktiv-nega obsega gibljivosti, ki so primerljive z vrednostmi, ki so jih izmerili v tujih raziskavah. Ugotovili smo, da se s staranjem aktivni obseg gibljivosti hrbtenice zmanjšuje in potrdili zanesljivost ponovljivosti meritev pri dveh preiskovalcih, ki sta merila aktivni obseg gibljivosti vra-tne in ledvene hrbtenice. Nismo pa potrdili zanesljivosti merjenja zaznavanja položaja sklepov v vratni hrbtenici po protokolu obračanja glave v nevtralni položaj.Sklep: Z našo raziskavo smo opredelili normative in potrdili zanesljivost merjenja gibljivosti vratne in ledvene hrbtenice s pomočjo merilnega sistema za tridimenzionalno anali-zo gibanja hrbtenice. Zanesljivosti testiranja zaznavanja položaja sklepov v vratni hrbtenici po protokolu obračanja glave v nevtralni položaj pa nismo uspeli potrditi.Ključne besede:gibljivost hrbtenice, ponovljivost, zdravi preiskovanciResults:The results for active cervical range of motion were com-parable with the data published in the literature. Active cervical and lumbar ROM decreased with increasing age. Inter-examiner reliability of measurement of active cervical and lumbar range of motion was very high. Test-retest reli-ability of measurement of cervical joint position sense using the test of head turning in neutral position was poor.Conclusion:We defined normative values and confirmed inter-examiner reliability for measuring active cervical and lumbar range of motion using a system for three-dimensional analyses of spinal motion. The reliability of cervical joint position sense assessment using the protocol of head turning in neutral position was not proven.Key words: spine motion, reproducibility, healthy subjectsUVOD Opisovanje in merjenje gibljivosti hrbtenice, predvsem v vratnih in ledvenih segmentih, je pomemben sestavni del obravnave bolnikov z različnimi okvarami ali boleznimi hrb-tenice, kot so stanja po poškodbah, pri revmatičnih boleznih, prirojenih, razvojnih in pridobljenih deformacijah, nalezljivih boleznih in ne nazadnje pri kronični nespecifični bolečini, ki je najpogostejša oblika težav s hrbtenico, s katero se srečujemo v klinični praksi (1, 2). Telesni pregled bolnika, opazovanje in opisovanje gibanja/gibljivosti njegove hrbtenice so metode, ki so odvisne od subjektivne presoje izvajalca in zato tudi manj zanesljive (3). Instrumentalne metode, kot so merjenje gibljivosti vratne hrbtenice z goniometrom ali z napravami za neinvazivno tridimenzionalno merjenje gibljivosti hrbtenice s pomočjo elektromagnetnih ali ultrazvočnih oddajnikov, so natančnejše, vendar je merjenje z njimi v klinični praksi primer-ljivo s prej omenjenimi metodami (4). Računalniške naprave za tridimenzionalno merjenje nudijo dodatne možnosti pri raziskovalnem delu, niso pa še opredelili, kakšne so prednosti merjenja z njimi v klinični praksi v primerjavi z merjenjem gibljivosti vratne hrbtenice z inklinometri ali z goniometrom (4). Za klinično prakso potencialno pomembne informacije, ki bi jih lahko pridobili le z napravami za tridimenzionalno merjenje gibanja hrbtenice, so opazovanje in merjenje kombi-niranih gibov v več ravninah, opazovanje variabilnosti gibanja in kotnih hitrosti ter funkcij propriocepcije. V literaturi, ki nam je dostopna, o merjenju kombiniranih gibov v več ravninah ni veliko podatkov. V raziskavi pri zdravih preiskovancih so ugo-tovili, da je variabilnost izvajanja gibov rotacije v maksimalni antefleksiji in retrofleksiji v predelu vratne hrbtenice večja (5). Variabilnost gibanja v vratni hrbtenici, ki se lahko izraža s koeficientom variacije izmerjenih amplitud gibov, je za gibanje v standardnih ravninah (v sagitalni, frontalni in transverzalni) pri zdravih preiskovancih majhna, ne glede na izbrani protokol merjenja (6). Ugotovili so, da je variabilnost gibanja vratne hrbtenice večja pri osebah s kronično bolečino v vratu, tudi pri bolnikih po nihajni poškodbi vratne hrbtenice (7), gibanje ni usklajeno, spremenljiva pa je tudi kotna hitrost (8). Maksimalni obseg aktivne gibljivosti vratne hrbtenice v standardnih ravninah je z raziskavami potrjeno uporaben parameter za opisovanje okvare in motene funkcije gibanja vratne hrbtenice (8, 9). Enako pa ne velja za ledveni del hrbtenice, kjer še niso potrdili povezanosti med vrednostmi maksimalnega aktivnega obsega gibljivosti ledvene hrbtenice, izmerjenimi bodisi z napravami za tridimenzionalno merjenje gibanja hrbtenice ali z goniometrom oziroma inklinometrom, ter standardnimi funkcionalnimi testiranji (10-12). Pri bol-nikih z bolečinami v križu izstopajo predvsem spremenjena kinematika in biomehanika gibanja ter motnje propriocepcije, kar je mogoče ocenjevati s pomočjo naprav za tridimenzio-nalno analizo gibanja ledvene hrbtenice, vendar za večino uporabljenih protokolov za testiranje ni zadosti podatkov o zanesljivosti in veljavnosti (13).Zaznavanje položaja sklepov je funkcija propriocepcije, ki jo lahko preverjamo s pomočjo različnih protokolov (14-16). V zadnjem času več pozornosti posvečajo raziskovanju motenj propriocepcije v predelu vratu, kar je pomembno pri Jamnik, Udovčić Pertot / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+11
+
+razvijanju posebnih rehabilitacijskih programov, usmerjenih v nadomeščanje primanjkljajev proprioceptivne funkcije, ki pogosto nastanejo predvsem po poškodbah vratne hrbteni-ce (prometne nesreče, športne poškodbe) ali pri pacientih z dolgotrajnimi bolečinami v vratu (17, 18). Med drugim poročajo o težavah poškodovancev pri nameščanju glave (19), kar pomembno vpliva tudi na okulomotorično funkcijo ob sledenju predmeta z očmi (20). Raziskave torej potrjujejo pomen vpliva motenj propriocepcije v predelu vratu na funk-cije motorične koordinacije in ravnotežja (21). Ko preverjamo zaznavanje položaja sklepov v vratni hrbtenici, lahko merimo bodisi natančnost obračanja glave iz položaja npr. s 40 stopinjami rotacije v nevtralni – srednji položaj glave ali natančnost nameščanja glave v vnaprej določen položaj. V literaturi še vedno ni dovolj raziskav, ki bi potrjevale zane-sljivost protokolov merjenja zaznavanja položaja sklepov v vratni hrbtenici (19, 22, 23). Kristjansson in sodelavci so v svoji raziskavi, v kateri so uporabili tridimenzionalni merilni sistem z elektromagnetnimi senzorji (3-Space Fastrak), ugoto-vili, da je obračanje glave v nevtralni položaj lažja naloga kot obračanje glave v vnaprej določen položaj (npr. pod določenim kotom rotacije), zato je tudi natančnost izvedbe testa boljša (24). Natančnost obračanja glave v nevtralni položaj ali v vnaprej določen položaj se še poslabša, če preiskovanec med testiranjem spremeni položaj svojega trupa (24). Zanesljivosti merjenja funkcije propriocepcije v predelu vratu niso potrdili. Strimpakos s sodelavci v svoji raziskavi ni potrdil zanesljivosti in ponovljivosti merjenja zaznavanja položaja sklepov vratne hrbtenice z napravo Zebris CMS20 po protokolu nameščanja glave v vnaprej določene položaje s 30 stopinjami fleksije in rotacije ter lateralnih odklonov za 20 stopinj (25). V naši raziskavi smo pri zdravih preiskovancih s pomočjo naprave Zebris CMS20 izmerili obseg aktivne gibljivosti v vratni in ledveni hrbtenici v vseh standardnih ravninah. Zara-di tega, ker lahko izvajalec vpliva na rezultat meritve (posre-dovanje navodil preiskovancu, nameščanje oddajnikov), smo želeli preveriti še ponovljivost merjenja maksimalnega aktiv-nega obsega gibljivosti vratne in ledvene hrbtenice. Preveriti smo želeli tudi ponovljivost testiranja zaznavanja položaja sklepov vratne hrbtenice po protokolu obračanja glave v nevtralni položaj, na katero lahko vplivajo tako značilnosti preiskovanca (npr. zmožnost ponovitve enakega odklona od nevtralnega položaja) kot tudi izvajalec meritve.METODEV raziskavo je bilo vključenih 28 zdravih posameznikov (8 moških in 20 žensk), starih od 23 do 60 let. Vključitveni kriteriji za izbiro preiskovancev so bili: preiskovanci naj bi bili stari več kot 18 let in brez kakršnihkoli simptomov (bolečine, vključno z glavoboli, omotice, vrtoglavice) ali okvar v predelu vratu. Izključitveni kriteriji pa so bili: stanja po operativnih posegih v predelu vratu, stanja po poškodbah vratu, opredeljene rev-matične ali nevrološke bolezni in nezmožnost sodelovanja pri preiskavi. Če so osebe kdaj prej občutile bolečine v hrbtenici, to ni bil izključitveni kriterij za sodelovanje v raziskavi. Gibljivosti vratne in ledvene hrbtenice smo merili s pomočjo naprave Zebris CMS20, ki omogoča neomejeno in neinva-zivno tridimenzionalno analizo gibanja vratne in ledvene hrbtenice. Ultrazvočni oddajniki so nameščeni na posebnih nosilcih, ki jih pri meritvah v predelu preiskovančevega vra-tu namestimo na njegovo glavo (slika 1 levo) in zgornji del njegove prsne hrbtenice (slika 1 levo), če merimo v predelu ledvene hrbtenice, pa jih namestimo v prsno-ledveni prehod in nad križnico (slika 1 desno). Senzorji so nameščeni na stojalu, ki ga namestimo v ustrezen položaj za zaznavanje gibanja vseh, na pacientu nameščenih ultrazvočnih oddajni-kov v prostoru (slika 1 levo). Slika 1: Preiskovanka z nameščenimi ultrazvočnimi oddajniki – na glavi in prsnem košu, stojalo s senzorji v ozadju (levo); za merjenje gibljivosti ledvene hrbtenice (desno).Medtem ko pri preiskovancu merimo gibljivost vratne hrbte-nice, le-ta sedi, pri merjenju gibljivosti preiskovančeve ledvene hrbtenice pa preiskovanec stoji. Preiskovanca in stojalo s senzorji smo ob vsaki meritvi postavili v standardiziran položaj. Umerjanje srednjega – nevtralnega položaja smo določali z usmerjanjem preiskovančevega pogleda na izbrano točko. Preiskovancu smo pred meritvijo povedali, kako naj izvaja posamezne gibe (smer gibanja, hitrost gibanja – sred-nja) in kolikokrat naj jih ponovi. Meritve sta izvedla dva preiskovalca drug za drugim v enakem vrstnem redu, vsak po eno serijo meritev in v istem dnevu. Meritve tridimenzi-onalnega gibanja vratne hrbtenice so zajemale tri ponovitve gibov v smeri fleksije in ekstenzije, rotacij v levo in desno ter lateralnih odklonov v levo in desno. Testiranje zaznavanja položaja sklepov vratne hrbtenice smo izvajali po protokolu obračanja glave v nevtralni položaj. Preiskovančevo glavo smo namestili v položaj s približno 40 stopinjami rotacije v levo, od koder je preiskovanec z zaprtimi očmi obrnil glavo v nevtralni – srednji položaj. Izbrali smo srednjo vrednost treh ponovitev odklonov od nevtralnega položaja pri obračanju glave iz izbranega položaja rotacije v levo v nevtralni položaj. Meritve tridimenzionalnega gibanja ledvene hrbtenice so zajemale tri ponovitve gibov v smeri fleksije in ekstenzije, 
+
+Jamnik, Udovčić Pertot / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+12
+
+rotacij v levo in desno ter lateralnih odklonov v levo in desno. Pri izvajanju rotacij in odklonov so imeli preiskovanci roke prekrižane na prsih.Izračunali smo opisne statistike za aktivni obseg gibljivosti vratne in ledvene hrbtenice v smereh fleksije, ekstenzije, rotacije in lateralnih odklonov v levo in desno ter za odklon od srednjega položaja za zaznavanje položaja sklepov vratne hrbtenice (srednja vrednost in standardni odklon) ter srednjo vrednost koeficienta variacije za vse gibe. Preverili smo tudi korelacijo med aktivnim obsegom gibljivosti, zaznavanjem položaja sklepov in starostjo. Izračunali smo vrednost intra-klasnega korelacijskega koeficienta (ICC (2,1) – dvosmerni slučajni model za posamezno meritev, oblika za absolutno skladnost) med serijama meritev obeh preiskovalcev za gibe v vseh smereh in izmerjenih odklonov od nevtralnega polo-žaja pri merjenju zaznavanja položaja sklepov. Predpostavili smo, da vrednosti ICC nad 0,7 pomenijo ustrezno stopnjo ponovljivosti meritev.REZULTATIMeritve aktivnega obsega gibljivosti v vratni hrbteniciKoeficient variacije je za vse opravljene meritve majhen. Obseg aktivne gibljivost v smeri ekstenzije in lateralnih odklo-nov s starostjo preiskovancev upada, povezanost med rotacijo in starostjo pa ni tako natančno opredeljena. Vrednosti ICC so za vse meritve nad 0,8, kar kaže na to, da je merjenje z vidika ponovljivosti zelo zanesljivo (tabela 1). Meritve aktivnega obsega gibljivosti v ledveni hrbteniciKoeficient variacije je za vse opravljene meritve majhen. Obseg aktivne gibljivost v smeri fleksije in lateralnih odklonov s starostjo preiskovancev upada, tudi pri gibljivosti ledvene Tabela 1: Rezultati meritev aktivnega obsega gibljivosti v predelu vratne hrbtenice. Aktivni obseg gibljivosti (v stopinjah): navedena je srednja vrednost s standardnim odklonom ter najnižja in najvišja izmerjena vrednost; koeficient variacije: navedena je srednja vrednost s standardnim odklonom; korelacija je ocenjena s Pearsonovim korelacijskim koeficientom; ICC: intraklasni korelacijski koeficient, dvosmerni slučajni model za posamezno meritev, oblika za absolutno skladnost.
+
+Smer gibanja
+
+Aktivni obseg gibljivosti
+
+Koeficient variacije
+
+Korelacija s starostjo 
+
+preiskovancev
+
+ICC
+
+Fleksija66,1° (9,89°)  53°-90°1,7 (1,6)0,01 (p=0,947)0,83
+
+Ekstenzija63,7° (15,1°)  24°-90°1,7 (3,3)-0,58 (p=0,002)0,93
+
+Rotacija desno71,8° (9,6°)  57°-94°1,6 (1,1)-0,28 (p=0,162)0,94
+
+Rotacija levo76,1° (9,1°)  57°-95°1,1 (0,9)-0,54 (p=0,004)0,91
+
+Lateralni odklon desno41,0° (8,7°)  23°-59°3,0 (1,9)-0,52 (p=0,006)0,94
+
+Lateralni odklon levo42,9° (7,8°)  29°-60°2,8 (3,4)-0,54 (p=0,005)0,89hrbtenice povezanost med rotacijo in starostjo ni natančno opredeljena. Vrednosti ICC so za vse meritve razen za rota-cijo v levo nad 0,8, kar tudi pri merjenju gibljivosti ledvene hrbtenice kaže na to, da je merjenje z vidika ponovljivosti zelo zanesljivo (tabela 2). Tabela 2: Rezultati meritev aktivnega obsega gibljivosti v predelu ledvene hrbtenice. Aktivni obseg gibljivosti (v stopinjah): navedena je srednja vrednost s standardnim odklonom ter najnižja in najvišja izmerjena vrednost; koeficient variacije: navedena je srednja vrednost s standardnim odklonom; korelacija je ocenjena s Pearsonovim korelacijskim koeficientom; ICC: intraklasni korelacijski koeficient, dvosmerni slučajni model za posamezno meritev, oblika za absolutno skladnost.
+
+Smer gibanja
+
+Aktivni obseg gibljivosti
+
+Koeficient variacije
+
+Korelacija s starostjo 
+
+preiskovancev
+
+ICC
+
+Fleksija87,2° (15,4°)  61°-120°1,6 (1,1)-0,45 (p=0,005)0,96
+
+Ekstenzija22,3° (10,1°)  6°-51°7,3 (5,8)-0,15 (p=0,458)0,88
+
+Rotacija desno20,1° (6,6°)  8°-34°5,1 (4,2)-0,25 (p=0,214)0,81
+
+Rotacija levo27,2° (7,3°)  15°-42°4,0 (3,7)-0,40 (p=0,044)0,70
+
+Lateralni odklon desno29,8° (8,3°)  17°-49°3,0 (1,8)-0,50 (p=0,010)0,89
+
+Lateralni odklon levo28,5° (8,1°)  13°-51°1,9 (1,8)-0,45 (p=0,020)0,87Jamnik, Udovčić Pertot / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+13
+
+Merjenje zaznavanja položaja sklepov vratne hrbteniceIzračunani korelaciji s starostjo preiskovancev za meritvi obeh preiskovalcev kažeta na možnost vpliva starosti na funkcijo propriocepcije, kot je zaznavanje položaja sklepov. Vrednost ICC je nizka (0,54), kar kaže na to, da testiranje s tem testom z vidika ponovljivosti ni zanesljivo (tabela 3).Tabela 3: Zaznavanje položaja sklepov vratne hrbtenice. Odklon od srednjega položaja: navedena je srednja vrednost s standar-dnim odklonom ter najmanjša in največja izmerjena vrednost v stopinjah. Korelacija je ocenjena s Pearsonovim korelacijskim koeficientom.
+
+Zaznavanje 
+
+položaja sklepov 
+
+vratne hrbtenice
+
+Odklon od 
+
+srednjega 
+
+položaja
+
+Korelacija s 
+
+starostjo preis-
+
+kovancev
+
+ICC
+
+Prvi preiskovalec6,1° (4,5°) 0°-19°-0,53 (p=0,026)0,54
+
+Drugi preisko-
+
+valec5,2° (4,5°) 0°-20°-0,39 (p=0,023)RAZPRAVLJANJEZ našo raziskavo smo potrdili, da je ponovljivost meritev aktivnega obsega gibljivosti tako v vratnem kot tudi ledvenem predelu hrbtenice med dvema preiskovalcema zanesljiva. Mer-jenje z merilnim sistemom za tridimenzionalno analizo gibanja hrbtenice torej ni odvisno od izvajalca meritve. Izmerjene normativne vrednosti lahko vsaj za merjenje v vratu primer-jamo z rezultati raziskave, ki so jo v tujini naredili z merilnim sistemom Zebris (Zebris CMS70P) (tabela 4). Ugotovili smo, da so primerljivi vsi rezultati, razen tistih za gibljivost v smeri fleksije, ki je po naših podatkih nekoliko večja (7). V literaturi, ki nam je dostopna, doslej ni primerljivih podatkov iz tujih raziskav o izmerjenih vrednostih aktivnega obsega gibljivosti ledvenega dela hrbtenice pri zdravih preiskovancih, ki bi jih izmerili s pomočjo katerega od merilnih sistemov za tridimenzionalno analizo gibanja ledvene hrbtenice. Podatke o normativnih vrednostih za aktivni obseg gibljivosti ledvene hrbtenice bomo lahko v bodoče uporabili za primerjavo s podatki, izmerjenimi pri populaciji pacientov s kronično bole-čino v ledveni hrbtenici. V doslej narejenih tujih raziskavah namreč še ni bila povsem izključena možnost, da je mogoče z merilnimi sistemi za tridimenzionalno analizo gibanja led-vene hrbtenice razločevati med zdravimi ljudmi in bolniki s kronično bolečino v hrbtenici.Tabela 4: Primerjava naših meritev obsega aktivne gibljivosti vratne hrbtenice s podatki iz raziskave Prushansky s sodelavci (7). Aktivni obseg gibljivosti: navedena je srednja vrednost s standardnim odklonom v stopinjah. Koeficient variacije: navedena je srednja vrednost s standardnim odklonom.
+
+Naše meritve
+
+Prushansky s sodelavci 2006 (7)
+
+Smer gibanja
+
+Aktivni obseg gibljivosti
+
+Koeficient variacije
+
+Aktivni obseg gibljivosti
+
+Koeficient variacije
+
+Fleksija66,1° (9,89°)1,7 (1,6)58,7° (12,7°)4,4 (4,6)
+
+Ekstenzija63,7° (15,1°)1,7 (3,3)64,1° (15,5°)3,3 (2,8)
+
+Rotacija desno71,8° (9,6°)1,6 (1,1)71,1° (9,3°)2,8 (2,3)
+
+Rotacija levo76,1° (9,1°)1,1 (0,9)73,9° (10,7°)2,2 (1,4)
+
+Lateralni odklon desno41° (8,7°)3 (1,9)43,0° (7,6°)3,8 (2,5)
+
+Lateralni odklon levo42,9° (7,8°)2,8 (3,4)41,9° (8,0°)3,6 (2,5)V svoji raziskavi je Castro s sodelavci že opozoril, da človeko-va starost verjetno vpliva na obseg aktivne gibljivosti njegove vratne hrbtenice (5). Podobno ugotavljamo tudi v naši razis-kavi, da se namreč aktivni obseg gibljivosti vratne in ledvene hrbtenice vsaj v nekaterih smereh (v vratu v smeri ekstenzije in lateralnih odklonov, v ledveni hrbtenici pa v smeri fleksije in lateralnih odklonov) pri ljudeh z leti zmanjšuje. Primerjave med moškimi in ženskami nismo izvedli, ker je bilo v našo raziskavo vključeno nekoliko več žensk kot moških. Castro in sodelavci v svoji raziskavi, v katero so vključili več kot 150 zdravih preiskovancev, v starostnih skupinah do 70 let, niso opazili razlike med spoloma. Ugotovili pa so, da je po sedemdesetem letu starosti pri ženskah gibljivost v vratu boljša kot pri moških (5). V naši raziskavi niso sodelovali udeleženci, starejši od 60 let. Z našo raziskavo nismo povsem potrdili zanesljivosti merjenja zaznavanja položaja sklepov v vratni hrbtenici po protokolu obračanja glave v nevtralni položaj. Podobno so ugotavljali v tujih raziskavah, v katerih so uporabili enega od merilnih sistemov za tridimenzionalno analizo gibanja (24, 25). Louden in sodelavci (19), ki so sicer uporabili podoben protokol kot Kristjansson s sodelavci (24) in ki so gibljivost vratne hrbtenice merili z goniometrom, so poročali o zelo visokih vrednostih ICC (0,98 in 0,97) za zanesljivost merjenja zaznavanja položaja sklepov v vratni hrbtenici. Raziskavo so naredili z majhnim vzorcem (11 udeležencev).Povprečen odklon od nevtralnega položaja je bil v naši razi-skavi med 5° in 6°, kar je več od izmerjenih vrednosti v raz-iskavah Kristjanssona (24) (2,46°; SD 1,32) in Strimpakosa Jamnik, Udovčić Pertot / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+14
+
+s sodelavci (25) (do 4,3°; SD 2,6). Iz literature ni mogoče povsem jasno ugotoviti, kako razločevati med fiziološko variabilnostjo proprioceptivnih funkcij in dejanskimi pro-prioceptivnimi primanjkljaji. Le ena, metodološko sporna raziskava, je doslej navajala mejno vrednost 4,5°, ki lahko z več kot 80 % gotovostjo razlikuje med zdravimi ljudmi in osebami z bolečino v vratu (26). Iz ugotovitev naše raziskave lahko sklepamo, da človekova starost verjetno vpliva na funkcijo propriocepcije v predelu vratu, kar bi bilo potrebno potrditi z nadaljnjimi raziskava-mi.Pomanjkljivost naše raziskave je predvsem majhno število udeležencev in manjše število sodelujočih moških. Kljub temu so izmerjene vrednosti gibljivosti vratne hrbtenice primerljive s tistimi, ki so jih izmerili v raziskavi, narejeni v tujini, v kateri je sodelovalo 75 odraslih oseb (16 moških in 59 žensk).ZAKLJUČEKNaša raziskava je potrdila zanesljivost merjenja aktivnega obse-ga gibljivosti v vratni in ledveni hrbtenici z merilnim sistemom za tridimenzionalno analizo gibanja hrbtenice. Meritve s tem sistemom niso odvisne od izvajalca meritve. Aktivni obseg gibljivosti v vratnem in ledvenem predelu hrbtenice se s sta-ranjem zmanjšuje, kar je potrebno upoštevati pri interpretaciji rezultatov. Z našo raziskavo nismo uspeli potrditi zanesljivosti merjenja zaznavanja položaja sklepov v vratni hrbtenici po protokolu obračanja glave v nevtralni položaj.
+
+Literatura: Ehrlich GE. Low back pain. Bull World Health Organ 1. 2003; 81(9): 671-6. Bogduk N. Neck pain. Aust Fam Physician 1984; 13(1): 2. 26-30. Youdas JW, Carey JR, Garrett TR. Reliability of measure-3. ments of cervical spine range of motion--comparison of three methods. Phys Ther 1991; 71(2): 98-104. Malmström EM, Karlberg M, Melander A, Magnusson 4. M. Zebris versus Myrin: a comparative study between a three-dimensional ultrasound movement analysis and an inclinometer/compass method: intradevice reliability, concurrent validity, intertester comparison, intratester reliability, and intraindividual variability. Spine (Phila Pa 1976) 2003; 28(21): E433-40. Castro WH, Sautmann A, Schilgen M, Sautmann M. Nonin-5. vasive three-dimensional analysis of cervical spine motion in normal subjects in relation to age and sex. An experimental examination. Spina (Phila Pa 1976) 2000; 25(4): 443-9. Dvir Z, Werner V, Peretz C. The effect of measurement 6. protocol on active cervical motion in healthy subjects. Physiother Res Int 2002; 7(3): 136-45. Prushansky T, Pevzner E, Gordon C, Dvir Z. Perform-7. ance of cervical motion in chronic whiplash patients and healthy subjects: the case of atypical patients. Spine (Phila Pa 1976) 2006; 31(1): 37-43. Vogt L, Segieth C, Banzer W, Himmelreich H. Movement 8. behaviour in patients with chronic neck pain. Physiother Res Int 2007; 12(4): 206-12. Hagen KB, Harms-Ringdahl K, Enger NO, Hedenstad 9. R, Morten H. Relationship between subjective neck disorders and cervical spine mobility and motion-related pain in male machine operators. Spine (Phila Pa 1976) 1997; 22(13): 1501-7. Parks KA, Crichton KS, Goldford RJ, McGill SM.A 10. comparison of lumbar range of motion and functional ability scores in patients with low back pain: assessment for range of motion validity. Spine (Phila Pa 1976) 2003; 28(4): 380-4. Nattrass CL, Nitschke JE, Disler PB, Chou MJ, Ooi KT. 11. Lumbar spine range of motion as a measure of physical and functional impairment: an investigation of validity. Clin Rehabil 1999; 13(3): 211-8. Sullivan MS, Shoaf LD, Riddle DL. The relationship 12. of lumbar flexion to disability in patients with low back pain. Phys Ther 2000; 80(3): 240-50. Lehman GJ. Biomechanical assessments of lumbar 13. spinal function. How low back pain sufferers differ from normals. Implications for outcome measures research. Part I: kinematic assessments of lumbar function. J Ma-nipulative Physiol Ther 2004; 27(1): 57-62. Gill KP, Callaghan MJ. The measurement of lumbar 14. proprioception in individuals with and without low back pain. Spine (Phila Pa 1976) 1998; 23(3): 371-7. Parkhurst TM, Burnett CN. Injury and proprioception in 15. the lower back. J Orthop Sports Phys Ther 1994; 19(5): 282-95. Lephart SM, Pincivero DM, Giraldo JL, Fu FH. The role 16. of proprioception in the management and rehabilitation of athletic injuries. Am J Sports Med 1997; 25(1): 130-7. Kristjansson E, Dall’Alba P, Jull G. A study of five cer-17. vicocephalic relocation tests in three different subject groups. Clin Rehabil 2003; 17(7): 768-74.Jamnik, Udovčić Pertot / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+15
+
+ Heikkilä H, Johansson M, Wenngren BI. Effects of acu-18. puncture, cervical manipulation and NSAID therapy on dizziness and impaired head repositioning of suspected cervical origin: a pilot study. Man Ther 2000; 5(3): 151-7. Loudon JK, Ruhl M, Field E. Ability to reproduce head 19. position after whiplash injury. Spine (Phila Pa 1976) 1997; 22(8): 865-8. Heikkilä HV, Wenngren BI. Cervicocephalic kinesthetic 20. sensibility, active range of cervical motion, and oculomo-tor function in patients with whiplash injury. Arch Phys Med Rehabil 1998; 79(9): 1089-94. Cohen LA. Role of eye and neck proprioceptive mecha-21. nisms in body orientation and motor coordination. J Neurophysiol 1961; 24: 1-11. Heikkilä H, Aström PG. Cervicocephalic kinesthetic sen-22. sibility in patients with whiplash injury. Scand J Rehabil Med 1996; 28(3): 133-8. Revel M, Andre-Deshays C, Minguet M. Cervicocephalic 23. kinesthetic sensibility in patients with cervical pain. Arch Phys Med Rehabil 1991; 72(5): 288-91. Kristjansson E, Dall’Alba P, Jull G. Cervicocephalic ki-24. naesthesia: reliability of a new test approach. Physiother Res Int 2001; 6(4): 224-35. Strimpakos N, Sakellari V, Gioftsos G, Kapreli E, 25. Oldham J. Cervical joint position sense: an intra- and inter-examiner reliability study. Gait Posture 2006; 23(1): 22-31. Revel M, Minguet M, Gregoy P, Vaillant J, Manuel JL. 26. Changes in cervicocephalic kinesthesia after a proprio-ceptive rehabilitation program in patients with neck pain: a randomized controlled study. Arch Phys Med Rehabil 1994; 75(8): 895-9.Jamnik, Udovčić Pertot / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+

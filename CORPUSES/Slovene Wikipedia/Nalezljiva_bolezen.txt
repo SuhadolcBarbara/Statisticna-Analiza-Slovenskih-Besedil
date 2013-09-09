@@ -1,0 +1,48 @@
+
+
+Nalezljíva (tudi infekcíjska) bolézen je bolezen, ki se neposredno prenaša z okužene na zdravo osebo. Med nalezljive bolezni spada množica različnih bolezni z zelo različnimi simptomi, velikokrat specifičnimi glede na povzročitelja. Lahko se pojavijo kmalu po okužbi, na primer po nekaj dneh (npr. prehlad), ali pa se razvijajo počasi, lahko tudi več let (npr. aids). Med njimi so bolezni, ki so lokalizirane in zajamejo le določen predel organizma, ali pa so generalizirane in je prizadet celoten organizem. Nekatere potekajo pri imunsko neoslabljenih posameznikih skorajda neopazno, spet druge lahko imajo smrtonosne posledice. Za potek bolezni je bistvenega pomena sposobnost imunskega sistema, da premaga povzročitelja. Za mnoge nalezljive bolezni obstajajo učinkovita zdravila, ki delujejo specifično na povzročitelja (npr. antibiotiki proti bakterijskim povzročiteljem, protiglivična zdravila proti glivičnim povzročiteljem, protivirusna zdravila proti virusom). Proti nekaterim povzročiteljem obstajajo cepiva, ki ščitijo cepljeno osebo pred okužbo (npr. tetanus, davica ...). Vendar pa nekaterih nalezljivih bolezni tudi dandanes ne znamo popolnoma pozdraviti (npr. aids).
+Področje medicine, ki proučuje nalezljive bolezni, se imenuje infektologija.
+
+
+Vsebina
+
+
+1 Povzročitelji
+2 Prenašanje
+3 Epidemiologija
+4 Reference
+
+
+Povzročitelji
+
+
+
+
+Streptococcus pneumoniae, eden glavnih povzročiteljev pljučnice.
+
+
+Pri nalezljivih boleznih so povzročitelji načeloma zajedavski mikroorganizmi; bolnik je gostitelj tega mikroorganizma. Najbolj razširjeni mikroorganizmi kot povzročitelji nalezljivih bolezni so bakterije. Med bakterijske nalezljive bolezni sodijo na primer pljučnica, kolera, jetika ...
+Virusni povzročitelji povzročajo otroške bolezni (davica, norice ...), prehlad, gripo, hepatitis B, aids in druge bolezni.
+Nekatere nalezljive bolezni, na primer malarijo, toksoplazmozo ali spalno bolezen, povzročajo praživali.
+Med povzročitelji nalezljivih bolezni so tudi glivice - te povzročajo na primer aspergilozo in kandidozo.
+Obstajajo pa tudi nalezljive bolezni, ki jih povzročajo višji organizmi, na primer črvi, ali pa le deli organizmov - tako imenovani prioni, ki povzročajo bolezen norih krav.
+Prenašanje
+Nalezljive bolezni se prenašajo po več različnih mehanizmih. Nalezljive bolezni, ki povzročajo bolezni dihal in meningitis, se navadno prenašajo kapljično, s kužnimi delci, ki jih bolnik oziroma klicenosec širi v okolico s kašljanjem, kihanjem, govorjenjem ... Nalezljive bolezni, ki povzročajo obolenja prebavil, se prenašajo z zaužitjem onesnažene hrane ali vode. Spolno prenosljive bolezni se širijo s telesnimi tekočinami, običajno med spolnimi odnosi. Z nekaterimi povzročitelji se lahko okužimo prek okuženih predmetov, kot so na primer kovanci. Obstajajo tudi povzročitelji nalezljivih bolezni, ki vstopajo v organizem neposredno skozi kožo.[1]
+V cikel prenašanja nekaterih nalezljivih bolezni so vključeni tako imenovani vektorji - prenašalci povzročitelja. Vektorji so lahko mehanični ali biološki. Mehanični vektor prenaša povzročitelje na površini telesa in ga pasivno prenaša; primer je hišna muha, na katero se na njene zunanje površine na primer na gnoju primejo bakterije in jih nato muha prenese na primer na človeško hrano.
+Biološki vektorji vsebujejo prenašalce v svojem organizmu ter jih prenašajo na potencialne gostitelje na aktiven način, običajno s pikom ali ugrizom. Primer biološkea vektorja je komar mrzličar, ki prenaša plazmodije, povzročitelje malarije. Biološki vektorji so pogosto členonožci.
+Epidemiologija
+Najpogostejše so nalezljive bolezni, ki jih povzročajo virusi in bakterije. Najredkejše so prionske bolezni. Nekatere od nalezljivih bolezni se pojavljajo le na določenih regijah – le-te imenujemo endemije, na primer tropske bolezni, ki se pojavljajo le v vročih podnebnih pasovih. Za takšne regijsko pojavljajoče se bolezni so često odločilni vetorji – prenašalci, ki na teh območjih živijo. Nekatere nalezljive bolezni, kot je na primer gripa, se pojavljajo sezonsko; v razmiku več let ali desetletij se pojavijo obdobja znatno višje obolevnosti – tako imenovane epidemije. Epidemija, ki zajema veliko območje ali se razširi celo v svetovnem merilu, se imenuje pandemija.
+Reference
+
+
+^ Kenneth J. Ryan and C. George Ray, Sherris Medical Microbiology Fourth Edition McGraw Hill 2004.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Nalezljiva_bolezen&oldid=3898375«				
+Kategorija: Nalezljive bolezni 
+
+
+

@@ -1,0 +1,340 @@
+
+
+Kristalna struktura je pravilna razporeditev atomov ali molekul v kristalni tekočini ali trdni snovi. Sestavljena je iz osnovnega vzorca urejenih atomov ali molekul - osnovne celice, ki se periodično ponavlja v trodimenzionalni kristalni mreži in ima simetrijske lastnosti.
+Osnovne celice so razporejene v vozliščih kristalne mreže. Vozlišča si lahko predstavljamo kot popolnoma enake majhne škatlice, s katerimi je zapolnjen prostor v kristalni mreži. Dolžine robov osnovne celice in kot med robovi so parametri kristalne mreže. Simetrijske lastnosti kristala so odvisne od njegovega kristalnega sistema.
+Kristalna struktura in simetrija igrata pomembno vlogo pri določanju kristalovih fizikalnih lastnostih, na primer razkolnosti, zgradbi električnih pasov in optičnih lastnosti, na primer lomnega količnika.
+
+
+
+
+Vsebina
+
+
+1 Osnovna celica
+
+1.1 Millerjevi indeksi
+1.2 Ploskve in smeri
+
+1.2.1 Kubične strukture
+
+
+
+
+2 Razvrščanje
+
+2.1 Prostorske mreže
+2.2 Razporeditev atomov
+
+2.2.1 Gosti zlogi
+
+
+2.3 Bravaisove mreže
+2.4 Točkovne skupine
+2.5 Prostorske skupine
+
+
+3 Meje zrn
+4 Defekti in nečistoče
+5 Napovedovanje strukture
+6 Polimorfizem
+7 Fizikalne lastnosti
+8 Sklici
+9 Viri
+10 Glej tudi
+11 Zunanje povezave
+
+
+
+
+Osnovna celica
+Osnovna celica je najmanjša ponavljajoča se enota kristalne strukture (mreže).[1] Osnovne celice, zložene v prostoru, prikazujejo razporeditev atomov v celem kristalu. Osnovna celica je določena s parametri kristalne mreže, se pravi z dožino robov in koti med njimi, položaji atomov znotraj celice pa so opisani z njihovimi koordinatami (xi,yi,zi), merjenimi iz izhodišča kristalne mreže.
+
+
+
+
+
+
+
+
+Enostavna kocka
+(P = primitivna)
+
+
+
+
+
+
+
+
+
+Telesno centrirana kocka
+(I = izometrična)
+
+
+
+
+
+
+
+
+
+Ploskovno centrirana kocka (F)
+
+
+
+
+
+Millerjevi indeksi
+
+
+Glavni članek: Millerjevi indeksi.
+
+
+
+
+
+
+Prikaz določanja indeksov ploskve iz presečišč z osmi: leva ploskev ima indekse (111), desna pa (221)
+
+
+
+
+
+
+Kompaktne kristalografske ploskve
+
+
+Vektorje in kristalne ploskve v kristalni mreži se lahko zapiše s troštevilčnimi Millerjevimi indeksi, ki so izračunani z recipročenjem vrednosti odsekov na koordinatnih oseh (Weissovih parametrov) in odpravo ulomkov, če je to potrebno. Millerjevi indeksi ne vsebujejo ulomkov niti skupnega delitelja.[1] Pišejo s v obliki (ℓ m n), na primer (1 1 3).
+Ploskve in smeri
+Kristalografske smeri so navidezne premice, ki povezujejo vozlišča kristala (atome, ione ali molekule), kristalografske ploskve pa navidezne ravnine, ki povezujejo vozlišča. Gostota kristalnih ploskev vpliva na naslednje lastnosti kristala:
+
+Optične lastnosti, na primer lomni količnik, ki je neposredno povezan z gostoto ali periodičnim spreminjenjem gostote.
+Adsorptivnost in reaktivnost: adsorbcija snovi in kemijske reakcije potekajo na ali blizu površinskih atomov in molekul, zato sta oba pojava odvisna od gostote vozlišč.
+Površinska napetost: kondenzacija snovi pomeni, da so atomi, ioni ali molekule bolj stabilni, če so obdani z drugimi podobnimi delci. Površinska napetost fazne meje je zato odvisna od gostote na površini.
+Mikrostrukturne napake: pore in kristaliti težijo k ravnim mejam zrn, zato imajo večjo gostoto ploskev.
+Razkolnost: kristali se običajno koljejo po ploskvah, ki so vzporedne bolj gostim ploskvami.
+Plastična deformacija: drsenje poteka predvsem po ploskvah, ki so vzporedne z gostejšimi ploskvami.
+
+Kubične strukture
+
+
+Glavni članek: Kubični kristalni sistem.
+
+
+V posebnih primerih enostavnih kubičnih kristalov so mrežni vektorji ortogonalni (pravokotni) in enako dolgi in se običajno označujejo z a. Nekaj podobnega velja za recipročno mrežo. V teh enostavnih primerih Millerjevi indeksi (ℓmn) in [ℓmn] označujejo norname oziroma smeri v pravokotnem oordinarnem sistemu. Za kubične kristale z mrežno konstanto a je razdalja do sosednjih (ℓmn) mrežnih ploskev enaka
+
+Zaradi simetrije kubičnih kristalov je možno spreminjati zaporedje in predznake ℓ, m in n, vse tako dobljene smeri in ploskve pa so ekvivalentne:
+
+Koordinate v trikotnih oklepajih, na primer <100>, označujejo družino smeri, ki so ekvivalentne zaradi simetrijskih operacij, na primer [100], [010], [001]. Katerakoli vrednost je lahko tudi negativa.
+Koordinate v zavitih oklepajih, na primer {100}, označujejo družine normal na ploskve, ki so ekvivalentene zaradi simetrijskih operacij.
+
+Za ploskovno centrirano kocko in telesno centrirano kocko primitivni mrežni vektorji niso pravokotni. V teh primerih so Millerjevi indeksi po dogovoru definirani z mrežnimi vektorji kubične supercelice in se zato vklapljajo v pravokotni koordinatni sistem.
+Razvrščanje
+Ena od lastnosti, ki definira kristal, je njegova prirojena simetrija, kar pomeni, da ostane kristal pri določenih operacijah nespremenjen. Ena od takšnih operacij je zasuk za 180º okrog določene osi. Če je atomska konfiguracija po takšnem zasuku enaka njegovi izvirni konfiguraciji, ima kristal "dvojno rotacijsko simetrijo" okrog te osi. Kristal ima lahko poleg rotacijske simetrije tudi zrcalno simetrijo, translacijsko simetrijo in simetrijo, ki je kombinacija translacijske in rotacijsko/zrcalne simetrije. Popolna razvrstitev kristala je možna šele takrat, ko so poznane vse njegove prirojene simetrije.[2]
+Prostorske mreže
+Prostorske mreže so skupine kristalnih struktur, ki so razvrščene glede na koordinatni sistem, ki se uporablja za opis njihove mreže. Vsaka prostorska mreža je opisana s tremi osmi in značilno geometrijsko obliko. Obstoja sedem prostorskih mrež, ki skupaj s podmrežami tvorijo štirinajst Bravaisovih mrež. Prostorske mreže so podobne, vendar ne popolnoma enake sedmim kristalnim sistemom, razporejenih v šest skupin.
+Najenostavnejša in najbolj simetrična je kubična ali izometrična prostorska mreža, ki ima simetrijo kocke, se pravi da ima štiri trojne rotacijske osi, med katerimi je kot 109.5° (kot tetraedra). Rotacijske osi ležijo na telesnih diagonalah kocke. Drugih šest prostorskih mrež so heksagonalna, tetragonalna, romboedrična, ortorombska, monoklinska in triklinska prostorska mreža.
+
+
+
+Prostorska mreža(od najmanj do najbolj simetrične)
+Bravaisove mreže
+
+
+Triklinska
+
+
+
+Monoklinska
+primitivna
+osnovno
+centrirana
+
+
+
+
+
+
+Ortorombska
+primitivna
+osnovno
+centrirana
+telesno
+centrirana
+ploskovno
+centrirana
+
+
+
+
+
+
+
+
+Romboedrična
+
+
+
+Tetragonalna
+enostavna
+telesno
+centrirana
+
+
+
+
+
+
+Heksagonalna
+
+
+
+Kubična
+primitivna
+telesno
+centrirana
+ploskovno
+centrirana
+
+
+
+
+
+
+
+
+Razporeditev atomov
+Splošen vpogled v geometrijo kristalov in ideje za njihovo vizualizacijo se dobijo z upoštevanjem medsebojne razporeditve atomov, kordinacijskega števila, se pravi števila najbližjih sosedov, razdalje med atomi, vrste vezi itd.
+
+
+
+
+Heksagonalni gosti zlog (levo) in ploskovno centrirana kocka (desno)
+
+
+Gosti zlogi
+Omenjena načela postanejo bolj razumljiva z zlaganjem kroglic enake velikosti v eni ravnini in zlaganjem teh ravnin v trodimenzionalno strukturo. Primer: če ravnina A leži pod ravnino B, se lahko na ravnino B položi dodatno ravnino na dva načina. Prvi način je, da je tretja ravnina točno nad ravnino A. V tem primeru nastane niz ravnin
+
+...ABABABAB....
+
+imenovan heksagonalni gosti zlog (Xh). Če so vse tri ravnine zamaknjene tako, da je točno nad ravnino A šele četra ravnina C, nastane niz ravnin
+
+...ABCABCABC...
+
+imenovan kubični gosti zlog (Xc).
+Osnovna celica kubičnega gostega zloga je osnovna celica ploskovno centrirane kocke. Takšna struktura ni takoj opazna, ker so plasti gostih zlogov vzporedne z ravninami {111} osnovne celice ploskovno centrirane kocke. Sloji gostih zlogov imajo lahko štiri različne orientacije.
+Teoretično zasedenost prostora se izračuna iz celotnega volumna kroglic in volumna celice:
+
+To pomeni, da je največja možna zasedenost prostora osnovne celice iz enako velikih kroglic približno 74 %. Večina kovinskih kristalov elementov ima heksagonalni gosti zlog, kubični gosti zlog ali telesno centrirano kocko. Heksagonalni gosti zlog in ploskovno centrirana kocka imata koordinacijsko število 12 in teoretično zasedenost prostora 0,74.
+Bravaisove mreže
+
+
+Glavni članek: Bravaisova mreža.
+
+
+Ko se v kristalne sisteme vključijo še vsa možna centriranja mrež, nastane štirinajst Bravaisovih (prostorskih) mrež, ki prikazujejo geometrijsko razporeditev mrežnih točk (vozlišč). Bravaisove mreže se med seboj razlikujejo po svoji translacijski simetriji. Vse kristalinične snovi, ne pa tudi kvazikristali, se ujemajo z eno od teh razporeditev.
+Kristalna struktura je sestavljena enakih skupin atomov, ki so razporejeni okrog vsakega in okrog vseh vozlišč. Ta skupina atomov se nato neomejeno ponavlja v vseh treh smereh skladno z eno od štirinajstih Bravaisovih mrež. Značilne rotacijske in zrcalne simetrije skupine atomov ali osnovne celice so opisane z njihovimi kristalografskimi točkovnimi skupinami.
+Točkovne skupine
+Kristalografska točkovna skupina ali kristalni razred je skupina, ki vsebuje takšne simetrijske operacije, da ostane po operaciji na istem mestu vsaj ena točka, videz kristala pa ostane nespremenjen. Takšne simetrijske operacije so:
+
+zrcaljenje, ki prezrcali zgradbo preko zrcalne ravnine,
+rotacija, ki zasuče strukturo za določen del kroga okoli rotacijske osi,
+inverzija, ki spremeni predznak koordinat vsake točke glede na središče simetrije ali inverzijsko točko on
+nepravilna rotacija, ki je sestavljena iz rotacije okoli osi, kateri sledi inverzija.
+
+Rotacijske osi, pravilne in nepravilne, zrcalne ravnine in centri simetrije imajo skupno ime simetrijski elementi. Obstoja 32 možnih kristalnih razredov, razvrščenih v sedem kristalnih sistemov.
+Prostorske skupine
+Prostorska skupina kristalne strukture je sestavljena iz translacijskih simetrijskih operacij, ki sledijo operacijam točkovnih skupin. Operacije vključujejo:
+
+čiste translacije, ki premaknejo točko vzdolž vektorja,
+vijačne osi, ki zasučejo točko okrog osi in jo istočasno premaknejo vzdolž drsne ravnine simetrije,
+drsne ravnine, ki premaknejo točko vzporedno z drsno ravnino in jo istočasno prezrcalijo skozi drsno ravnino.
+
+Obstoja 230 različnih prostorskih skupin.
+Meje zrn
+Meje zrn ali meje kristalitov so stične ploskve identičnih, vendar različno orientiranih kristalov. Področja meja zrn vsebujejo atome, ki so izrinjeni iz svojih pravih položajev v kristalni mreži, dislokacije in nečistoče, ki so migrirale na energijsko siromašnejšo fazno mejo.
+Z geometrijskega stališča je meja zrna vmesna ploskev v posameznem kristalu, ki je prerezan na dva dela, od katerih je eden zasukan. Za opis takšnega stanja je potrebnih pet spremenljivk: prvi dve spremenljivki izhajata iz enotskega vektorja, ki specificira osi rotacije, tretja opisuje kot zasuka zrna, zadnji dve pa pecificirata ravnino meje zrna oziroma enotski vektor, ki je normalen na to ravnino.
+Meje zrn ovirajo gibanje dislokacij skozi snov, zato je zmanjšanje velikosti zrn eden od pogostih načinov za izboljšanje mehanskih lastnosti snovi. Ker so kristalne meje napake v kristalni strukturi, težijo k zmanjšanju električne in toplotne prevodnosti snovi. Velika medploskovna energija in relativno šibke vezi na večini meja zrn imajo za posledico, da je meja zrn bolj dovzetna za korozijo in odlaganje novih faz iz trdne snovi. Meje zrn so odgovorne tudi za mnoge mehanizme polzenja.
+Meje zrn so običajno široke samo nekaj nanometrov. V večini snovi so zrna dovolj velika, da meje zrn predstavljajo samo majhen del celotnaga volumna, nekatere snovi pa imajo tudi zelo drobna zrna. V nanokristaliničnih trdnih snoveh zavzamejo meje zrn velik del volumna snovi, kar močno vpliva na njihove lastnosti, na primer na difuzijo in plastičnost. Ko se delež meja zrn približa 100 %, snov izgubi svoje kristalinične lastnosti in postane amorfna trdna snov.
+Defekti in nečistoče
+Realni kristali imajo defekte oziroma nepravilnosti, zato odstopajo od opisanih idealnih struktur. Defekti v kristalni strukturi so "šibke točke" kristala, ki lahko odločilno spremenijo mnoge mehanske, električne in termične lastnosti realnih snovi.[3]
+Točkovni defekti so umanjkanje anionov ali kationov iz njihovih mest v kristalni strukturi (Schottkyjev defekt), premestitev aniona ali kationa z njegovega mesta v strukturi v intersticijsko praznino (Frenkelov defekt) in defekti zaradi primesi (nečistoč), se pravi umestitev tujega atoma ali iona na mesto katerega od atomov, ki gradijo kristal, ali v intersticijske praznine. V tem primeru se seveda spremeni tudi kemična sestava kristala. Nečistoče tudi pod mejo detekcije bistveno vplivajo na fizikalne lastnosti kristalov, na primer na barvo,[1] specifično toploto, električno prevodnost in magnetne lastnosti.[4][5]
+Napovedovanje strukture
+
+
+
+
+Kristalna struktura natrijevega klorida (kuhinjska sol)
+
+
+Napovedovanje stabilnih kristalnih struktur, ki je temeljilo na poznavanju samo kemijske sestave snovi, je bilo dolgo časa kamen spotike na poti do popolnoma računalniškega modeliranja snovi. Sodobni učinkoviti algoritmi in zelo zmogljivi računalniki omogočajo napovedovanje srednje zapletenih struktur.
+Kristalne strukture enostavnih ionskih spojin, na primer natrijevega klorida, so poznane že dolgo časa in so narejene na osnovi petih pravil, ki jih je leta 1929 postavil Linus Pauling, "oče kemijske vezi".[6] Puling je preučeval tudi lastnosti medatomskih sil v kovinah in ugotovil, da je v kemijske vezi vključena približno polovica od petih d-orbital prehodnih kovin, preostale nevezne d-orbitale pa določajo magnetne lastnosti. Na tej osnovi je lahko ugotavljal vzajemno zvezo med številom d-orbital, udeleženih v tvorbi vezi, in dolžino kemijske vezi, pa tudi mnoge druge fizikalne lastnosti snovi. Kasneje je uvedel tudi pojem kovinske orbitale, posebne orbitale, ki je dopuščala neovirano resonanco valenčnih vezi med različnimi elektronskimi strukturami.[7]
+V teoriji resonančne valenčne vezi se faktorji, ki določajo izbiro ene od alternativnih kristalnih stuktur kovinskih ali medkovinski spojin, sučejo okrog resonančne energije vezi med medatomskimi položaji. Jasno je, da lahko nekatere oblike resonance prispevajo večji delež, se pravi, da so mehansko bolj stabilne kot druge, in da je enostavno razmerjo med številom vezi in in številom položajev izjemno. Rezultat tega načela je, da je posebna stabilnost povezana z najbolj enostavnimi razmerji ali "veznimi števili": ½, ⅓, ⅔,¼, ¾ itd. Izbira strukture in vrednosti aksialnega razmerja, ki določa relativne dolžine vezi, je torej rezultat težnje atoma, da uporabi svojo valenco v tvorbi stabilnih vezi z enostavnimi ulomljenimi veznimi števili.[8][9]
+Britanski metalurg Hume-Rothery je po predpostavki, da obstoja med koncentracijo elektronov in kristalno strukturo v beta-faznih zlitinah neposredna zveza, analiziral trende tališč, stisljivosti in dolžine vezi kot funkcijo skupine periodnega sistema in poskušal ugotoviti sistem valenc prehodnih elementov v kovinskem stanju. Njegove raziskave so pokazale, da jakost vezi z naraščajočo skupino raste.[10] Korelacija med elektronskimi in kristalnimi strukturami je zgoščena v enem samem parametru – masi d-elektronov na hibridizirani kovinski orbitali. Izračunane mase d-elektronov za ploskovno centrirano kocko, heksagonalni gosti zlog in telesno centrirano kocko so 0,5, 0,7 oziroma 0,9. Povezava med d-elektroni in kristalno strukturo je tako postala očitna.[11]
+Polimorfizem
+
+
+
+
+Kamena strela je ena od termodinamsko stabilnih kristalnih oblik silicijevega dioksida (SiO2). Druge najpomembnejše oblike so α-kremenjak, β-kremenjak, tridimit, kristobalit, cezit in stishovit.
+
+
+
+
+
+
+Granit z vključki ortoklaza, plagioklaza, kremenjaka, biotita in/ali amfibola
+
+
+Polimorfizem je lastnost trdne snovi, da ima več kot eno kristalno strukturo. Kristalne faze so skladno z Gibbsovimi zakoni o faznem ravnotežju odvisne od intenzivnih spremenljivk kot so tlak, temperatura in volumen. Polimorfizem najdemo v mnogih kristaliničnih snoveh, tudi v polimerih, mineralih in kovinah in je soroden z alotropijo, ki se pojavlja v trdnih elementih. Popolna morfologija snovi je poleg polimorfizma opisana tudi z drugimi spremenljivkami, na primer s kristalnim habitom (oblika in velikost), amorfnimi frakcijami in kristalografskimi defekti. Polimorfi imajo različne stabilnosti in se lahko pri neki temperaturi spontano pretvorijo iz metastabilne (termodinamsko nestabilne) oblike v stabilno obliko. Imajo tudi različna tališča, topnosti in rentgenografske vzorce.
+Lep primer polimorfizma so silikati, katerih osnova je silicijev dioksid (SiO2). Silicijev atom ima v veliki večini silikatov tetraedrično koordinacijo s štirimi atomi kisika. Vse kristalne strukture, razen ene, so med seboj povezane v različnih razporeditvah preko kisikovih atomov na vrhovih tetraedrov. Enote so lahko posamične, vezane v parih, velikih končnih klastrih, obročih, enojnih in dvojnih verigak, plasteh in prostorskih zamreženih strukturah. Silikati se razvrščajo ravno po teh značilnostih v otočne silikate, v katerih so tetraedri izolirani od ostalih tetraedrov (olivin X2SiO4, granati X2+3Y3+2(SiO4)3), skupinske silikate z dvema tetraedroma (hemimorfit Zn4(Si2O7)(OH)2·H2O, epidot Ca2(Fe3+,Al)Al2O(SiO4)(Si2O7)OH), obročaste silikate (benitoit BaTi(Si3O9) - tričlenski obroč, aksinit Ca3Al2(BO)3(Si4O12)OH - štiričlenski obroč, turmalin NaMg3Al6(BO3)3(Si6O18)(OH)4 - šestčlenski obroč), nitaste silikate z enojimi nitmi (pirokseni X2+SiO3 ali W+Y3+(SiO3)2), nitaste silikate z dvojnimi nitmi (amfibola tremolit Ca2Mg2Si8O22(OH)2 in feroaktinolit Ca2Fe5Si8O22(OH)2), plastnate silikate (lojevec Mg3(Si4O10)(OH)2, pirofilit Al2(Si4O10)(OH)2 in muskovit KAl2(AlSi3O10)(OH)2) in tridimenzionalne paličaste silikate (glinenci albit Na(AlSi3O8) - 25 % tetraedrov zaseda Al3+, anortit Ca(Al2Si2O8) - 50 % tetraedrov zaseda Al3+ in ortoklaz K(AlSi3O8)).[1]
+Drug primer je elementarni kositer (Sn), ki je pri sobni temperaturi koven, pri nizki temperaturi pa krhek. Pri normalni temperaturi in tlaku naletimo na njegova glavna alotropa α- in β-kositer, bolj znana kot sivi in beli kositer. Pri temperaturah nad 161°C in tlakih preko nekaj Gpa obstojata tudi alotropa γ- in σ-.[12] Pri sobni temperaturi je obstojen kovinski kositer v stabilni kristalinični obliki, ki pri temperaturah pod 13,2°C preide v sivo obliko z diamantno kubično strukturo, podobno diamantu, siliciju in germaniju. Sivi kositer nima kovinskih lastnosti. Je temnosiv prah, ki je uporaben samo izjemomo kot polprevodnik.[13] Teperatura prehoda iz α- v β-obliko je uradno 13,2°C, vendar jo nečistoče, na primer aluminij in cink, znižajo na temperaturo pod 0°C, z dodajanjem antimona ali bizmuta pa do prehoda sploh ne pride.[14]
+Fizikalne lastnosti
+Dvajset od 32 kristalnih razredov ima piezoelektrične lastnosti, se pravi da pri mehanski obremenitvi generirajo električno polje oziroma električni potencial.[15] Vsi piezoelektrični razredi so brez središča simetrije. Dielektrična polarizacija pod vplivom električnega polja se pojavi v vseh snoveh, v tako imenovanih polarnih snoveh pa pride do takšne naravne ločitve naboja tudi v odsotnosti električnega polja. Polarnost ali nepolarnost snovi je odvisna izključno od njegove kristalne strukture. Polarnih je deset od 32 točkovnih skupin. Vsi polarni kristali so piroelektrični, kar pomeni, da pri segravanju in ohlajanju generirajo kratkotrajen električni potencial. Omenjeni razredi se zato imenujeju tudi piroelektrični razredi.
+Nekatere kristalne strukture, predvsem perovskitne, imajo feroelektrične lastnosti. Pojav je analogen feromagnetizmu v tem, da v odsotnosti električnega polja med nastajanjem feroelektrični kristal ni polaren. Kasneje se kristal v dovolj velikem električnem polju permanentno polarizira. Polarizacija se z dovolj velikim nasprotnim nabojem kasneje lahko obrne, tako kot se lahko obrne polarnost feromagneta. Pri tem je treba poudariti, da se snovi sicer imenujejo feroeklektrične, vendar je pojav posledica njihove kristalne strukture in ne prisotnosti železa in njemu podobnih kovin.
+Sklici
+
+
+^ 1,0 1,1 1,2 1,3 Dobnikar, Meta. Kristalografija
+^ Ashcroft, N.; Mermin, D. (1976) Solid State Physics, Brooks/Cole (Thomson Learning, Inc.), Chapter 7, ISBN 0030493463
+^ Nikola Kallay (2000) Interfacial Dynamics, CRC Press, ISBN 0824700066
+^ Hogan, C. M. (1969). "Density of States of an Insulating Ferromagnetic Alloy". Physical Review 188: 870. doi:10.1103/PhysRev.188.870. 
+^ Zhang, X. Y. (1985). "Spin-wave-related period doublings and chaos under transverse pumping". Physical Review a 32 (4): 2530. doi:10.1103/PhysRevA.32.2530. PMID 9896377. 
+^ L. Pauling (1929). "The principles determining the structure of complex ionic crystals". [J. Am. Chem. Soc. 51 (4): 1010–1026. doi:10.1021/ja01379a006. 
+^ Pauling, Linus (1938). "The Nature of the Interatomic Forces in Metals". Physical Review 54: 899. doi:10.1103/PhysRev.54.899. 
+^ Pauling, Linus (1947). Journal of the American Chemical Society 69: 542. doi:10.1021/ja01195a024. 
+^ Pauling, L. (1949). "A Resonating-Valence-Bond Theory of Metals and Intermetallic Compounds". Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences (1934-1990) 196: 343. doi:10.1098/rspa.1949.0032. 
+^ Hume-rothery, W. (1951). "The Valencies of the Transition Elements in the Metallic State". Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences (1934-1990) 208: 431. doi:10.1098/rspa.1951.0172. 
+^ Altmann, S. L. (1957). "On the Relation between Bond Hybrids and the Metallic Structures". Proceedings of the Royal Society of London. Series A, Mathematical and Physical Sciences (1934-1990) 240: 145. doi:10.1098/rspa.1957.0073. 
+^ Molodets, A. M.; Nabatov, S. S. (2000). "Thermodynamic Potentials, Diagram of State, and Phase Transitions of Tin on Shock Compression". High Temperature 38 (5): 715–721. doi:10.1007/BF02755923. 
+^ Holleman, Arnold F.; Wiberg, Egon; Wiberg, Nils; (1985). "Tin" (v German). Lehrbuch der Anorganischen Chemie (91–100 izd.). Walter de Gruyter. Str. 793–800. ISBN 3110075113. 
+^ Schwartz, Mel (2002). "Tin and Alloys, Properties". Encyclopedia of Materials, Parts and Finishes (2nd izd.). CRC Press. ISBN 1566766613. 
+^ Holler, F. James; Skoog, Douglas A; Crouch, Stanley R (2007). "Chapter 1". Principles of Instrumental Analysis (6th izd.). Cengage Learning. Str. 9. ISBN 9780495012016. 
+
+
+Viri
+
+Bloss F.D.: Crystallography and Crystal Chemistry, Mineralogical Society of America, Washington, 2000.
+Giacovazzo C., Monaco H. L., Viterbo D., Scordari F., Gilli G., Zanotti G., Catti M.: Fundamentals of Crystallography, International Union of Crystallography, Oxford, 1992.
+Grafenauer S.: Kristalografija, FNT, Univerza v Ljubljani, 1974.
+Hammond C.: The basics of Crystallography and Diffraction, International Union of Crystallography, Oxford, 2001.
+Klein C., Hurlblut C.S.: Manual of Mineralogy, John Wiley & Sons, New York, 1993.
+Phillips F. C.: An Introduction to Crystallography, Longman, Singapore 1986.
+Rousseau J.J.: Basic Crystallography, John Wiley & Sons, New York, 1999.
+
+Glej tudi
+
+kristalografija
+
+Zunanje povezave
+
+Minerali na Gimnaziji Vič (posebej Zgradba kristalov s slikami različnih singonij)
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Kristalna_struktura&oldid=3993500«				
+Kategorije: Kemijske lastnostiFizika kondenzirane snoviKristalografijaVeda o materialihMineralogija 
+
+
+

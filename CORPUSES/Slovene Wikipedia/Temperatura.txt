@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+Članek ne navaja nobenega medbesedilnega sklica ali vira. Prosimo, pomagajte ga izboljšati z dodatnimi zanesljivimi viri. Vsa sporna vsebina, ki ni preverljiva, se sme kadar koli odstraniti. 
+
+
+
+
+
+
+Sl. 1 Temperatura plina je merilo povprečne kinetične energije njegovih atomov oziroma molekul pri gibanju in trkih. Na tej animaciji so ponazorjeni helijevi atomi pri tlaku 136 atmosfer. Ti atomi se pri sobni temperaturi gibljejo z določeno povprečno hitrostjo (na animaciji so dvabilijonkrat upočasnjeni).
+
+
+Temperatúra je ena osnovnih termodinamičnih spremenljivk, ki določa stanje teles. Merimo jo s termometrom.
+
+
+Vsebina
+
+
+1 Vpeljava pojma temperature
+2 Merjenje temperature
+3 Zaznavanje temperature
+4 Temperaturne lestvice
+5 Zunanje povezave
+
+
+Vpeljava pojma temperature
+Termodinamika zahteva vpeljavo pojma temperature, ki meri, kako toplo ali hladno je nekaj. Temperaturo lahko vpeljemo kot količino, ki je sorazmerna prostornini plina pri stalnem tlaku, npr. v plinskem termometru.
+Temperatura je fizikalna veličina, ki se izraža s toplotnim stanjem nekega telesa in je ena od osnovnih veličin v termodinamiki. Temperatura ne more prehajati iz telesa na telo, ampak prehaja toplota, pri tem pa se temperaturi teles izenačujeta.
+Vpeljemo jo lahko tudi kot količino, s katero je sorazmerna prenesena toplota pri Carnotovem toplotnem stroju - to je tako imenovana termodinamična definicija.
+Temperature pravzaprav ne bi bilo treba vpeljevati posebej - s poznavanjem mikroskopske zgradbe jo lahko izpeljemo iz mikroskopskih mehanskih lastnosti plina. Ker pa so ljudje temperaturo definirali, še preden so jih poznali, je ostala definicija, kot jo poznamo.
+Merjenje temperature
+
+
+
+
+Voda zmrzne pri 0 °C
+
+
+Pojem temperature iz vsakdanjega življenja dobro poznamo in zdi se nam, da imamo občutek zanjo. Do neke mere si pri določanju, kaj je topleje in kaj hladneje, res lahko pomagamo s svojimi čutili. Včasih pa nas ta zavedejo - ko stojimo na ploščicah v kopalnici, nas zebe v noge, če se prestopimo na preprogo, pa ne. V resnici so ploščice in preproga v toplotnem ravnovesju in imajo isto temperaturo, ploščice pa se nam zdijo hladnejše zato, ker hitreje odvajajo toploto iz naših nog. Za objektivno določanje temperature zato uporabljamo termometre. Ti za merjenje temperature uporabljajo temperaturno odvisnost neke lastnosti snovi (npr. prostornine, električne prevodnosti ipd.)
+Vrste termometrov:
+
+plinski termometer
+živosrebrni termometer
+kovinski termometer
+uporovni termometer
+
+Zaznavanje temperature
+Omenili smo že, da lahko vročino in mraz zaznavamo. Zaznavanje vročine in mraza je povezano s čutnicami v koži. Raziskave so pokazale, da so za občutek vročega odgovorne druge čutnice kot za občutek hladnega.
+Zaznavanje temperature je povezano z zaznavanjem bolečine. Pri 34 °C, kolikor je srednja kožna temperatura, ne občutimo ne mraza ne vročine. Segrevanje ali ohlajevanje privede prek občutkov naraščajoče vročine oziroma mraza v obeh skrajnih primerih – meji sta pri okrog 15 °C in 45 °C – do občutka bolečine. Občutek vročega ali hladnega je razen od temperature same odvisen tudi od tega, kako hitro spreminjamo temperaturo, ter kako velik del telesa je izpostavljen temperaturni spremembi. Slednje je povezano z gostoto čutnic po telesu. Njihova površinska gostota je največja na ustnicah (15-20 čutnic za mraz na kvadratni centimeter), precej velika na obrazu, prsih in trebuhu, zelo majhna pa denimo po dlani (1-5 čutnic za mraz na kvadratni centimeter). Nasploh imamo čutnic za mraz 5-10 krat več kot čutnic za vročino. Zaznavanje vročine in mraza prenašajo tako »počasni« živčni končiči tipa C brez mielinske ovojnice, kot tudi »hitri« živčni končiči tipa Aδ s tanko mielinsko ovojnico.
+Od leta 1997 dalje je zaznavanje vročine in mraza pojasnjeno tudi na molekularni ravni. Tega leta so določili zaporedje DNK za prekomembranski receptor VR1, ki prične pri temperaturah nad 43 °C prepuščati kalcijeve ione. V naslednjih letih so določili zaporedji še za podobna receptorja VRL-1, ki se odziva na temperature nad 50 °C, ter VRL-3, ki se odziva na temperature nad 33 °C. Marca 2002 pa so izolirali še protein CMP1 oziroma TRPM8, ki se obnaša kot receptor za mrzlo. Zanimivo je, da se receptor za mraz obenem odziva tudi na mentol, receptor za vročino pa na kapsaicin, kar pojasni »hladen« oziroma »vroč« občutek, ki ga dajejo poprova meta in feferoni.
+Temperaturne lestvice
+
+Fahrenheitova temperaturna lestvica
+Rankinova temperaturna lestvica
+Réaumurjeva temperaturna lestvica
+Celzijeva temperaturna lestvica
+absolutna ali Kelvinova temperaturna lestvica
+
+Zunanje povezave
+
+
+
+Poglejte si besedo temperatura ali Temperatura v Wikislovarju, prostem slovarju.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Temperatura&oldid=3848105«				
+Kategorije: Osnovni fizikalni konceptiToplotaFizikalne količineTermodinamikaTemperaturaSkrita kategorija: Z viri nezadostno podprti članki 
+
+
+

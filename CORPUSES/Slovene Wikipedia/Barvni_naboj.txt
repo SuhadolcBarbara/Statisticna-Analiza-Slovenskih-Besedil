@@ -1,0 +1,75 @@
+
+
+Barvni naboj je v kvantni kromodinamiki (oznaka QCD) značilnost kvarkov in gluonov (zanje je značilna močna interakcija). Barvni naboj ima podoben smisel kot električnemu naboj pri drugih delcih. Barva kvarkov in gluonov v resnici nima nobene zveze s pojmom našega dojemanja barve. Izraz barva je bil vzet samo zato, ker se nanaša na tri oblike pojavljanja, ki jih imamo za analogne trem primarnim barvam (rdeča, zelena in modra). Če barvni naboj primerjamo z električnim nabojem, vidimo, da ima električni naboj samo eno obliko pojavljanja, ki lahko zavzame pozitivno in negativno obliko. V kvantni elektrodinamiki (oznaka QED) torej poznamo samo en naboj, v kvantni kromodinamiki pa tri naboje, ki jih imenujemo barvni. Interakcija, katere nosilci so gluoni (imajo spin 1), se včasih imenuje tudi barvna interakcija. Podobno kot v kvantni elektrodinamiki pozitivnemu električnemu naboju ustreza negativni električni naboj, imamo v kvantni kromodinamiki ustrezne nasprotne naboje (rdečemu ustreza antirdeči naboj, zelenemu ustreza antizeleni naboj in modremu antimoder naboj). Kvarki tako nosijo razen neceloštevilčnega električnega naboja (1/3, 2/3 – pozitiven ali negativen v odvisnosti od vrste kvarka) še barvni ali antibarvni naboj. Nevtralno (brezbarvno) skupino kvarkov glede na barvni naboj dobimo samo, če skupina vsebuje enako število modrih, rdečih in zelenih kvarkov. Najbolj znani skupini brezbarvnih kvarkov sta proton in nevtron. Vsi hadroni so brezbarvni, brezbarvni so tudi leptoni. V hadronih kvarki nenehno oddajajo in sprejemajo gluone, pri tem pa se vedno ohranja barvni naboj. Gluoni imajo eno barvo in eno antibarvo. V mezonih (sestavlja jih kvark in antikvark) je vedno enaka verjetnost, da najdemo kvark z dano barvo in odgovarjajočo antibarvo, kar tudi pomeni brezbarvno stanje. Barvni naboj je povezan z grupo SU(3)
+Na naslednjih dveh slikah je prikazan zgled sklopitve za barvno nabite delce.
+
+
+
+
+
+
+
+Barve kvarkov (rdeča, zelena in modra) se kombinirajo in dajo brezbarvno stanje
+
+
+
+
+
+
+
+
+
+Antibarve kvarkov (antirdeča, antizelena in antimodra) se kombinirajo in prav tako dajo brezbarvno stanje
+
+
+
+
+Gluoni vsebujejo dva barvna naboja (zgled: rdeči in antizeleni). Kvantna kromodinamika predvideva osem vrst oziroma osem barv gluonov.
+Na naslednjih slikah je prikazan način spremembe barve kvarka (nastala nova skupina je ostala brezbarvna).
+
+
+
+
+
+
+
+Hadron s tremi kvarki pred spremembo barve.
+
+
+
+
+
+
+
+
+
+Rdeči kvark odda gluon (rdeči-antizeleni), pri tem pa spremeni barvo.
+
+
+
+
+
+
+
+
+
+Zeleni kvark absorbira gluon in spremeni barvo v rdečo.
+
+
+
+
+Zgodovina
+Kmalu po nastanku zamisli o kvarkih leta 1964 je ameriški fizik Oscar Wallace Greenberg vpeljal zamisel o barvnem naboju, da bi lahko pojasnil kako lahko kvarki ostanejo v hadronih v istih kvantnih stanjih, ne da bi kršili Paulijevo izključitveno načelo. Teorijo kvantne kromodinamike razvijajo od 1970-ih in predstavlja pomemben del standardnega modela fizike osnovnih delcev.
+Zunanje povezave
+
+Barvni naboj na Encyclopedia of Science (v angleščini)
+Barvni naboj na WordiQ (v angleščini)
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Barvni_naboj&oldid=4055703«				
+Kategorije: Kvantna kromodinamikaKvarkiFizika osnovnih delcev 
+
+
+

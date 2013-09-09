@@ -1,0 +1,250 @@
+
+
+
+
+Trinitrotoluen
+TNT
+2,4,6-trinitrotoluen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IUPAC-ime
+2-metil-1,3,5-trinitrobenzen
+
+
+Druga imena
+Trinitrotoluen, TNT,
+2,4,6-trinitrotoluen
+
+
+Identifikatorji
+
+
+Kratice
+TNT
+
+
+Številka CAS
+118-96-7
+
+
+PubChem
+8376
+
+
+EINECS število
+204-289-6
+
+
+RTECS število
+XU0175000
+
+
+SMILES
+
+
+ 
+
+
+CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-] =]
+
+
+
+
+
+
+InChI
+
+
+ 
+
+
+1S/C7H5N3O6/c1-4-6(9(13)14)2-5(8(11)12)3-7(4)10(15)16/h2-3H,1H3
+
+
+
+
+
+
+Lastnosti
+
+
+Molekulska formula
+C7H5N3O6
+
+
+Molekulska masa
+227.13 g/mol
+
+
+Videz
+Svetlo rumen. Izgublja "iglice" pred taljenjem-litjem. Po vlitju v kalup, dobimo trden kos.
+
+
+Gostota
+1.654 g/cm3
+
+
+Tališče
+
+80.1 °C
+
+
+
+Vrelišče
+
+240 °C (eksplozivno razpade)
+
+
+
+Topnost (voda)
+0.13 g/L (20 °C)
+
+
+Topnost (eter, aceton, benzen)
+dobro topen
+
+
+log P
+1.60
+
+
+Parni tlak
+5.7 Pa (81 °C)
+14 Pa (100°C)
+
+
+Podatki o eksplozivu
+
+
+Občutljivost na tresljaje
+močna
+
+
+Očutljivost na trenje
+močna do 353 N
+
+
+Hitrost eksplozije
+6935 m/s
+
+
+RE faktor
+1.00
+
+
+Nevarnosti
+
+
+Varnostni list
+ICSC 0967
+
+
+EU klasifikacija
+
+Eksplozivno (E)
+Strupeno (T)
+Okolju škodljivo (N)
+
+
+EU Index
+609-008-00-4
+
+
+NFPA 704
+
+
+
+4
+2
+4
+ 
+
+
+
+
+R-stavki
+R2, R23/24/25, R33, R51/53
+
+
+S-stavki
+(S1/2), (S35), (S45), (S61)
+
+
+Sorodne snovi
+
+
+Sorodne snovi
+pikrinska kislina
+heksanitrobenzen
+
+
+Če ni navedeno drugače, podatki veljajo za
+material v standardnem stanju (pri 25 °C, 100 kPa)
+
+
+Trinitrotoluen (tudi trotil, TNT) je predstavnik rušilnih eksplozivov.
+
+
+Vsebina
+
+
+1 Lastnosti
+2 Sestavine
+3 Uporaba
+4 zgodovina
+5 proizvodnja
+6 toksičnost
+
+
+Lastnosti
+Najslavnejši in najpogosteje uporabljen eksploziv je verjetno TNT, kar je kratica za trinitrotoluen ali natančneje trinitrometilbenzen. TNT je bledo rumene ali temno rumene barve. Voda ga ne raztaplja, prav tako pa tudi ne izgublja eksplozivnih lastnosti, dobro pa je topen v benzenu. TNT je zelo odporen - ne poči, niti če ga vržemo v ogenj. Je zelo strupen, v zgodovini je bilo že veliko primerov zastrupitve z njim. Temperatura vžiga je med 400 in 450 °C. Moč drugih eksplozivov se meri v odstotkih moči TNT.
+
+Tališče = 80,75 °C
+Energija eksplozije = 4,23 kJ/g
+Volumen plinov = 710 cm3/g
+Detonacijska hitros t= 6,94 km/s
+Relativna moč = 100 %TNT
+Temperatura eksplozije = 458 °C
+
+Sestavine
+TNT se sintetizira z direktno nitracijo toluena z močno dušikovo (V) kislino z vsaj 90 % koncentracijo.
+Uporaba
+TNT je bil osnovni eksploziv med drugo svetovno vojno za rušenje stavb in za polnitev min, ročnih bomb in artilerijskih granat. Zelo uporabna mešanica je tudi heksolit, ki je zmes TNT-ja in RDX-a v razmerju 1:1.
+
+
+
+
+
+
+
+
+Portal Vojaštvo
+
+
+
+zgodovina
+Prvi ki ga je sintetiziral nemški kemik Joseph Wilbrand 1863. leta. V prvih letih so ga uporabljali kot rumeno barvilo, zaradi nizke občutlivosti na mehanske obremenitve. 1902 je bil sprejet kot koristen eksploziv.
+proizvodnja
+Dobimo ga z nitriranjem v treh fazah. Toluena,ali methyibnzene se nitrira zmes koncentriarne žveplove in dušikove kisline v nitrtolenu, ki je ločen in ponovno nitrira v dinitrotoluenu. V zadjem primeru dinitrotoluenu nitrira dušikovo kislino v oleumu. Po sintezi se stabilizira v raztopino natrijevega sulfita, ki zmanšuje nestabilne izomere spojine in ostanke reaktantov. Pridobljena odpadna otopina je rdeče barve in je značilen onesneževalec. Pri nitriranju je pomembna kontrola dušikovih oksidov reakcijski zmesi, saj lahko to povzroči eksoterme reakcije v kateri oksidirajo v mentalnih skupinah na toluenskem obroču te eksplozije.
+toksičnost
+TNT je strupen,v stiku s kožo lahko povzroči draženje ,in obarvanje kože v svetlo rumeno-oranžno.Ljudje ki so izpostavljeni večjem stiku z TNT ,lahko dobijo anemijo,poslabšano delovanje jeter,povečano vranico,in druge krvne spremembe ,in motnje imunskega sistema.obstajajo tudi dokazi da je TNT strupen ,negativno vpliva na plodnost moških,in obstaja možnost da je kancerogen. TNT je strupen,v stiku s kožo lahko povzroči draženje ,in obarvanje kože v svetlo rumeno-oranžno.Ljudje ki so izpostavljeni večjem stiku z TNT ,lahko dobijo anemijo,poslabšano delovanje jeter,povečano vranico,in druge krvne spremembe ,in motnje imunskega sistema.obstajajo tudi dokazi da je TNT strupen ,negativno vpliva na plodnost moških,in obstaja možnost da je kancerogen.
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Trinitrotoluen&oldid=4019749«				
+Kategorije: EksploziviImunotoksiniNitrobenzeni 
+
+
+

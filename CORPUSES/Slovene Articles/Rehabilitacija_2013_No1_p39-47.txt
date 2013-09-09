@@ -1,0 +1,201 @@
+39
+
+Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+Prispelo /Received: 10.2.2013Sprejeto /Accepted: 20.3.2013E-naslov za dopisovanje /E-mail for correspondence (TE): tatjana.erjavec@ir-rs.siIzvleček Izhodišča: Z meritvami smo želeli ugotoviti, ali je za osebe po nadkolenski amputaciji hoja s pripomočkom za hojo Femuret bolj naporna kot hoja z nadkolensko protezo s kolenom na zaklep. Metode:V študijo smo vključili deset bolnikov po transfemoralni amputaciji zaradi bolezni žilja s sočasnimi boleznimi dru-gih organov. Pri šestminutnem testu hoje smo pri bolnikih merili porabo kisika (VO2) z direktno metodo merjenja in z aparatom za elektrokardiografijo registrirali srčno frekvenco in morebitne spremembe pri elektrokardio-gramu. Izmerili smo povišanje krvnega tlaka med hojo, prehojeno razdaljo v šestih minutah in izračunali hitrost hoje. Bolniki so subjektivno ocenjevali napor pri hoji z Borgovo lestvico zaznanega napora. Učinkovitost hoje smo ocenjevali z metaboličnim in fiziološkim indeksom porabe kisika.Rezultati: Razlike v porabi kisika, maksimalnem povečanju srčnega utripa in zvišanju krvnega tlaka med hojo s pripomočkom in hojo s protezo niso bile statistično značilne. Ugotovili AbstractBackground: The aim of the study was to establish if walking with the early walking device Femuret is more straining than walking with a transfemoral prosthesis with locked knee for patients with transfemoral amputation.Methods: Ten patients with transfemoral amputation because of vas-cular disease and comorbidity were included in the study. The oxygen consumption (VO2) with the direct method, heart frequency and ECG changes were measured during the 6-minute walking test. We also measured blood pressure before and after the test and the walked distance. The veloc-ity of walking was calculated. The patients estimated their effort with Borg’s scale. Walking efficiency with metabolic and physiological consumption index were estimated.Results: There were no statically significant differences in oxygen consumption, maximal heart frequency and blood pres-sure between walking with the Femuret and with a trans-femoral prosthesis. Statistically significant differences were observed in walking distance and walking velocity (p < 0,001). Oxygen consumption was on average 50 % of the maximal predicted with respect to age, and maximal heart frequency about 70 % of the maximal predicted. Walking with a transfemoral prosthesis was more effective in terms PRIMERJAVA HOJE S PRIPOMOČKOM ZA HOJO (FEMURET) IN HOJO Z NADKOLENSKO PROTEZO PRI BOLNIKIH PO AMPUTACIJI ZARADI BOLEZNI ŽILJACOMPARISON OF WALKING WITH EARLY WALKING DEVICE (FEMURET) AND TRANSFEMORAL PROSTHESIS IN PATIENTS AFTER AMPUTATION BECAUSE OF VASCULAR DISEASE
+
+Tatjana Erjavec, dr. med., dr. Metka Prešern-Štrukelj, dr. med., Branka Vipavec, dipl. m. s.,  
+
+Marjanca Sonc, dipl. fiziot.
+
+Univerzitetni rehabilitacijski inštitut Republike Slovenije – Soča, Ljubljana
+
+
+
+
+40
+
+UVOD Periferna arterijska bolezen (PAB) najpogosteje okvari arterije spodnjih udov. Zaradi zožitve ali zapore arterije, za katero je najpogostejši vzrok ateroskleroza, prekrvitev tkiva ni zadostna. Asimptomatsko PAB ima od 15 do 20 % ljudi, starejših od 70 let. Približno 5 % bolnikov ima intermitentno klavdikacijo. Le pri 1 % takih bolnikov bolezen napreduje v kronično kritično ishemijo. Pri teh bolnikih zaradi sočasnih okvar koronarnega in možganskega žilja umre po enem letu ena četrtina bolnikov. Pri približno 30 % bolnikov je zaradi gangrene z neobvladljivo okužbo ali zaradi neobvladljive ishemične bolečine treba amputirati spodnji ud (1-3).Pri vsakem posamezniku, ki zboli za eno od oblik aterosklero-tične bolezni, je povečano tveganje za aterosklerotične zaplete na drugih organskih sistemih. Pri 15,8 % ljudi, ki so starejši od 75 let, se hkrati pojavljajo PAB in miokardni infarkt, pri 5 do 8 % le-teh pa pride do možganske kapi (4). Zato so bolniki s PAB z vidika tveganja za nenadne srčne dogodke med telesno vadbo uvrščeni v skupino z zelo velikim tvega-njem (5, 6). Dodatno tveganje predstavlja zmanjšana telesna zmogljivost bolnika, ki je posledica zmanjšane aktivnosti pred amputacijo in po njej. Aktivnost pred amputacijo omejuje ishemična bolečina in rane na okvarjenem spodnjem udu, ki so pri sladkornih bolnikih pogosto vir okužbe in sepse. Zato da bi spodnji ud ohranili, je potrebno pri bolnikih opraviti operativne ali znotrajžilne posege, po katerih bolj ali manj mirujejo. Bolečine, okužbe in stres pri bolnikih z dejavniki tveganja za PAB poslabšajo tudi kronična obolenja. Negativ-ni dejavnik po amputaciji je tudi to, da se morajo bolniki z izgubo sprijazniti, zato so lahko pasivni ali depresivni.
+
+pa smo statistično značilne razlike pri prehojeni razdalji in zato tudi pri hitrosti hoje (p < 0,001). Poraba kisika je bila pri obeh načinih hoje v povprečju 50 % predvidene maksimalne glede na starost, maksimalno doseženi srčni utrip pa okoli 70 % maksimalno predvidenega. Hoja s protezo je bila glede na metabolični in fiziološki indeks porabe učinkovitejša kot hoja s pripomočkom Femuret (p < 0,001). Zaključki: Hoja s pripomočkom Femuret in hoja z nadkolensko protezo sta ob individualno izbrani hitrosti hoje ener-getsko enako zahtevni. Glede na intenzivnost napora predstavljata zmerno telesno aktivnost. Hoja s protezo je zaradi večje hitrosti hoje bolj učinkovita kot hoja s pripomočkom Femuret.Ključne besede: transfemoralna amputacija, hoja, pripomočki za zgodnjo hojoof the metabolic and physiological consumption index than walking with the Femuret (p < 0.001).Conclusion: At an individually chosen speed, energy consumption is equal when walking with a transfemoral prosthesis or with the Femuret. Both constitute moderate physical acitivity. Because of higher speed, walking with a transfemoral pros-thesis is more effective then walking with the Femuret.Key words: transfemoral amputation, ambulation, early walking devicesPri bolnikih v akutnem obdobju po amputaciji so srčno-žilni zapleti pogosti (7). Pri retrospektivnem pregledu 995 bolnikov so ugotovili, da jih je kar 10,2 % v prvih mesecih po amputaciji imelo zaplete pri delovanju srca in žilja. Naj-pogostejši zapleti so bili motnje ritma, srčno popuščanje in akutna koronarna ishemija (8).Amputaciji praviloma sledi rehabilitacija, katere cilj je čim večja samostojnost bolnikov po amputaciji pri opravljanju dnevnih opravil in po možnosti namestitev ustrezne proteze za manjkajoči spodnji ud (2, 3). Rehabilitacija je še posebej zahtevna pri starejših bolnikih po transfemoralni amputaciji zaradi bolezni žilja, tako za bolnike kot tudi za terapevte.Bolnike po amputaciji spodnjih udov sprejmemo na rehabi-litacijo takrat, ko je kožni pokrov na krnu pretežno zaceljen. Čas od kirurškega posega do sprejema v rehabilitacijsko obravnavo je zato različen in je odvisen od celjenja krna. Celjenje je upočasnjeno pri osebah s sladkorno boleznijo, pri okužbi ali slabi prehranjenosti.Rehabilitacija bolnikov po amputaciji se začne že na kirur-škem oddelku. Bolnik prične s kompresijskim povijanjem krna, zato da bi se krn izoblikoval. Ob sprejemu bolnika v rehabilitacijsko obravnavo naj bi bil krn čez dan kompresijsko povit. Poleg oblikovanja krna bolnik izvaja vaje za krepitev mišic krna, preostalega spodnjega uda in zgornjih udov. Pri nadkolenski amputaciji bolniki krepijo predvsem adduktorne in ekstenzorne mišice kolka, da bi preprečili flektorne kon-trakture v kolku. Bolnik se uči opravljati osnovna življenjska opravila, pri gibanju pa je običajno še odvisen od invalidskega vozička (9).Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+41
+
+Možnosti rehabilitacije po odpustu iz akutne bolnišnice so omejene. Aktivnost bolnikov je odvisna od njihove telesne zmogljivosti, lokalnega stanja krna, bolečin, samoiniciativ-nosti, sodelovanja svojcev, obiskov patronažne službe ali v idealnih okoliščinah obiskov fizioterapevtov. Več možnosti za zgodnjo rehabilitacijo naj bi imeli bolniki, ki so premeščeni na negovalne oddelke bolnišnic in v domove za starejše, ali tisti, ki imajo v svojih bivalnih okoljih možnost za ambulantno fizikalno terapijo.Da bi bolnikom po amputaciji omogočili zgodnjo bipedalno hojo, so po letu 1971 v ZDA razvili pnevmatsko šolsko pro-tezo, ki združuje prednosti neposredne protetične oskrbe in zmanjša tveganje za težave pri celjenju krna (10). Pinzur in sodelavci so poročali o uporabi le-te pri hoji s polno obreme-nitvijo pri 38 bolnikih s podkolensko amputacijo v zgodnjem pooperativnem obdobju. Kljub okvaram perifernega žilja ni bilo težav pri celjenja krna (11). Pnevmatske šolske proteze so primerne za zgodnjo vadbo hoje pri osebah po transtibi-alni amputaciji ali z dolgim nadkolenskim ali čezkolenskim krnom. Za osebe z nadkolensko amputacijo uporabljamo pripomoček Femuret (izdelovalec LIC Orthopaedi Švedska), ki je sestavljen iz nastavljivega nadkolenskega ležišča, stopala in cevi z nastavljivo višino, enoosnim kolenom, ki omogoča hojo z gibljivim ali negibljivim kolenom. Za suspenzijo je na ležišče nameščena ramenska nosilka (slika 1).Sethia s sodelavci je v svoji študiji ugotovil, da manj kot 30 % starejših žilnih bolnikov dve leti po nadkolenski amputaciji še uporablja protezo za hojo (12). Zato jih je pred odločitvijo o namestitvi nadkolenske proteze potrebno natančno testirati. Vadba hoje s pripomočkom Femuret nam da pomembne informacije o tem, ali bo bolnik sposoben hoditi z indivi-dualno izdelano protezo, za namestitev le-te pa se odloči rehabilitacijski tim na osnovi izvedenih testiranj (13).Od odvzema mere do namestitve proteze traja približno od 10 do 14 dni. Po namestitvi individualno izdelane proteze je vadba hoje usmerjena v učenje samostojnega nameščanja in slačenja proteze, hoje po ravnem in neravnem terenu ter po stopnicah.  Slika 1: Pripomoček Femuret.Znano je, kakšna je poraba energije pri hoji s protezo in odgovor srčno-žilnega sistema posameznika pri hoji. Glede na porabo kisika in odstotek povečanja srčnega utripa glede na starost je hoja z nadkolensko protezo opredeljena kot zmerna telesna aktivnost (5). Med šestminutno hojo s protezo smo v preteklosti že ugotovili, da se pri bolnikih zelo zviša krvni tlak, pri 20 % bolnikov pride do motenj ritma, pri 5 % le-teh pa do znakov koronarne ishemije (14, 15).Z obremenitvenim testiranjem lahko opredelimo stopnjo potrebne telesne zmogljivosti bolnikov za pričetek varne hoje. S primerjavo energetske zahtevnosti hoje s protezo in telesne zmogljivosti bolnikov, opredeljene z obremenitvenim testira-njem, smo ugotovili, da se izmerjena poraba kisika pri hoji s protezo in pri obremenitvenem testiranju s pomočjo ročnega kolesa najmanj razlikujeta pri obremenitvi 30 W (16). Doslej še niso raziskali, kakšna telesna zmogljivost in stopnja napora je potrebna za hojo s pripomočkom Femuret. Osebe po amputaciji z vadbo hoje s tovrstnim pripomočkom začnejo v najbolj zgodnjem obdobju, ko je njihova telesna zmogljivost še majhna, nenadni srčni dogodki pa najbolj pogosti (5). Zato smo želeli ugotoviti, kakšna je stopnja napora pri hoji s pripomočkom Femuret in kakšen je odziv srčno-žilnega sistema oseb po amputaciji pri hoji z njim. Pričakovali smo, da je hoja s pripomočkom Femuret energetsko zahtevnejša kot hoja z nadkolensko protezo zaradi vpliva dodatnih dejavnikov – nestabilnost, slabše ravnotežje, strah pred hojo, slabša telesna zmogljivost in nesproščenost hoje. Zato smo predvidevali tudi, da bo pri osebah po amputaciji pogosto prišlo do zapletov pri delovanju srca.METODEVključili smo deset bolnikov po nadkolenski amputaciji zaradi bolezni žilja, ki smo jih leta 2011 prvič sprejeli na rehabilitacijsko obravnavo v Univerzitetni rehabilitacijski inštitut Republike Slovenije – Soča (URI Soča). Vse bolnike smo ob sprejemu pregledali v internistični ambulanti. Na osnovi pregleda in obremenitvenega testiranja smo ocenili, da so bolniki z vidika srčne zmogljivosti sposobni hoditi z nadkolensko protezo. Na timskem sestanku smo se odločili, da bomo bolnikom namestili nadkolenske proteze in jim odvzeli mero zanjo. V času do preizkusa proteze so hodili s pripomočkom Femuret. Testiranje smo opravili takoj, ko so fizioterapevti ocenili, da so bolniki z njim zmožni šest minut hoditi. Ob koncu vadbe hoje s protezo smo šestminutni test hoje ponovili. Šestminutni test hoje smo v obeh primerih izvedli na hodniku šole hoje za bolnike po amputaciji. Bolniki so hodili z indivi-dualno izbrano hitrostjo v spremstvu fizioterapevta in med testom niso počivali. Poleg pripomočka Femuret ali proteze so pri obeh meritvah uporabljali enak pripomoček za hojo (hoduljo ali bergle).
+
+Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+42
+
+Pred začetkom meritve smo bolnikom namestili pripravo za telemetrično, direktno merjenje porabe kisika in EKG krivulje (Oxicon mobile – Jaeger). Merjenje je potekalo kontinuirano, vrednosti so se beležile vsakih deset sekund. Preiskovanci so najprej pet minut sede počivali, nato pa smo jim izmerili krvni tlak s pomočjo standardnega merilca krvnega tlaka in srčni utrip z EKG krivuljo. Meritev krvnega tlaka smo ponovili takoj po končanem testu.Pri rezultatih smo upoštevali povprečno vrednost VO2 in srčnega utripa, izmerjenega z EKG krivuljo, v zadnji minuti hoje ter v zadnji minuti mirovanja. Izmerili smo skupno dolžino prehojene razdalje, ki so jo preiskovanci prehodili v šestih minutah, in izračunali hitrost hoje.Učinkovitost hoje smo opredelili z dvema parametroma, meta-boličnim indeksom (MIP) in fiziološkim indeksom porabe (FIP). Metabolični indeks porabe (MIP) je opredeljen z izmer-jeno VO2 glede na hitrost hoje (VO2/hitrost hoje). Fiziološki indeks porabe (FIP) je opredeljen z razliko srčne frekvence ob koncu hoje in v mirovanju glede na izmerjeno hitrost hoje: (srčni utripob koncu hoje – srčni utripv mirovanju) / hitrost hoje.Zahtevnost hoje z obema pripomočkoma smo primerjali v absolutnem smislu s primerjavo povečanja srčne frekvence, povišanja krvnega tlaka, morebitnih EKG sprememb, učin-kovitost hoje pa z izračunanimi indeksi. Bolniki so stopnjo napora pri hoji ocenjevali po 10-stopenjski Borgovi lestvici zaznanega napora.Izračunali smo povprečne vrednosti in standardne odklone za posamezne parametre. Za primerjavo parametrov, ki smo jih merili pri hoji preiskovancev s pripomočkom Femuret in nadkolensko protezo, smo uporabljali parni test t. Statistično značilnost smo opredelili s p < 0,01.REZULTATIV študijo smo vključili sedem moških in tri ženske po nad-kolenski amputaciji zaradi bolezni žilja. Povprečna starost oseb je bila 69,7 let (SO 9,5 let). Najpogostejši dejavnik tveganja za srčno-žilne bolezni je bil visok krvni tlak, trije bolniki so imeli sladkorno bolezen, štirje so še vedno kadili, pri treh bolnikih so ugotovili, da imajo motnje v presnovi maščob. Trije bolniki so imeli motnje srčnega ritma, trije so preboleli srčni infarkt, dva sta se zdravila zaradi kronične obstruktivne pljučne bolezni. Dodatne diagnoze so bile še toksična okvara jeter, epilepsija, končna ledvična odpoved in valvularna aortna stenoza (tabela 1).Vsi bolniki so ob sprejemu opravili obremenitveno testiranje s pomočjo ročnega kolesa. Stopnja dosežene obremenitve je bila med 30 in 60 W (SO 10 W). Izračunana vrednost VO2max je bila v povprečju 14 ml/kg/min (SO 2,2 ml/kg/min). Bolniki so ob sprejemu na motoričnem delu lestvice FIM dosegli ocene med 46 in 72.Tabela 1: Podatki o osebah, vključenih v študijo.
+
+Zap. št.
+
+Starost
+
+Stopnja
+
+obremenitve
+
+VO2
+
+(ml/kg/min)
+
+FIM ob
+
+sprejemu
+
+Dodatne diagnoze15950 W15,060jetrna ciroza, KAF, kajenje26360 W17,070AH, IBS, hiperlipidemija38340 W15,353AH, IBS, KAF, DM, hiperlipidemija47440 W12,756AH, epilepsija57250 W12,557AH, ledvična odpoved67940 W11,559KAF, aortna stenoza77330 W10,646AH, KOPB, kajenje87840 W17,066DM, AH, hiperlipidemija95530 W13,166DM, srčni spodbujevalnik106130 W14,772KOPB, IBS, kajenjeOd amputacije do sprejema v URI-Soča je poteklo povprečno 73,7 dni. Bolniki so individualno izdelano protezo v pov-prečju prejeli po 18,6 dnevih od sprejema na rehabilitacijo. Vadba hoje s protezo je ob povprečni hospitalizaciji 43,9 dni trajala 25,3 dni. Šestminutni test hoje s pripomočkom Femuret smo pri bolnikih izvedli v povprečju 8,4 dni po sprejemu, šestminutni test hoje s protezo pa pred odpustom le-teh iz rehabilitacijske ustanove, to je v povprečju 41,3 dni po sprejemu (tabela 2).Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+43
+
+Tabela 2: Pomembnejši časovni parametri pri sodelujočih bolnikih.
+
+Število dni
+
+Zap. št.
+
+do
+
+sprejema
+
+primarne
+
+rehabilitacije
+
+do prejema
+
+proteze
+
+vadbe
+
+hoje s
+
+protezo
+
+do 6 MTH s
+
+pripomočkom 
+
+Femuret
+
+do 6 MTH s 
+
+protezo11143514217332413713246353192421923941462561739125056451222994766941202110397425133189518403092152994044192554010735220321248
+
+Povprečje73,743,918,625,38,441,3
+
+(SO)(47,4)(8,5)(6,4)(6,3)(2,6)(7,5)6 MTH – šestminutni test hojeTabela 3. Primerjava dolžine prehojene razdalje, hitrosti hoje in VO2 pri 6-minutnem testu hoje s pripomočkom Femuret in nadkolensko protezo na zaklep v kolenu.
+
+Šestminutni test hoje
+
+prehojena razdalja (m)
+
+VO
+
+2
+
+ (ml/kg/min)
+
+hitrost hoje (m/min)
+
+Zap. št.
+
+Femuret
+
+proteza
+
+Femuret
+
+proteza
+
+Femuret
+
+proteza15210510,412,68,717,5210014912,611,416,724,8332458,610,65,37,545712010,910,19,520527687,38,74,511,3625437,26,74,27,2740807,28,96,713,387412011,512,412,320932568,511,55,39,310557211,612,39,212
+
+Povprečje49,485,89,610,58,2414,3
+
+(SO)(23,7)(36,0)(2,1)(1,9)(3,9)(6,0)Bolniki so v šestih minutah hoje s pripomočkom Femuret prehodili v povprečju 49,4 m, s protezo pa v enakem času 85,5 m. Razlika v prehojeni razdalji je bila statistično značilna (p < 0,001). Povprečna vrednost VO2 v zadnji minuti hoje je bila pri hoji s pripomočkom Femuret 9,6 ml/kg/min, pri hoji s protezo pa 10,5 ml/kg/min (p = 0,030). Hitrost hoje s pripomočkom Femuret je bila v povprečju 8,24 m/min, s protezo pa 14,3 m/min. Hitrost hoje je bila statistično zna-čilno večja pri hoji s protezo (p < 0,001) (tabela 3).Povprečna izmerjena vrednost VO2 v zadnji minuti hoje s pripomočkom Femuret je bila 50,2 % predvidenega maksimal-nega glede na starost, pri hoji s protezo pa 50,3 % predvidene vrednosti. Zvišanje sistoličnega krvnega tlaka je bilo pri hoji s pripomočkom Femuret 31,5 mmHg (SO 31,0 mmHg), pri hoji s protezo pa 28,5 mmHg (SO 22,0 mmHg). Razlika ni bila statistično značilna (p = 0,370).Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+44
+
+Tabela 4: Učinkovitost hoje, opredeljena z metaboličnim inde-ksom porabe (MIP), pri šestminutni hoji s pripomočkom Femuret ali hoji z nadkolensko protezo. Razlika je izražena v odstotkih in večkratniku razlike. 
+
+Zap. št.
+
+MIP  
+
+Femuret
+
+MIP  
+
+proteza
+
+razlika v %
+
+večkratnik 
+
+razlike11,61,20331,321,00,62561,531,10,67591,641,70,93821,851,60,771072,161,10,501282,271,61,40141,180,80,46631,691,20,72661,6101,21,00201,2
+
+Povprečje1,30,8362,81,6
+
+(SO)0,30,3036,10,6Povprečni metabolični indeks porabe je bil pri hoji s pripo-močkom Femuret 1,3 ml/kg/m, pri hoji s protezo pa 0,83 ml/kg/m (p < 0,001). Izraženo v odstotkih je bila hoja s protezo za 62 % (ali 1,6-krat) bolj učinkovita kot hoja s pripomočkom Femuret.Tabela 5: Učinkovitost hoje, izražena z fiziološkim indeksom porabe (FIP), pri šestminutni hoji s pripomočkom Femuret ali hoji z nadkolensko protezo. Razlika je izražena v odstotkih in večkratniku razlike.
+
+Zap. št.
+
+FIP  
+
+Femuret
+
+FIP  
+
+proteza
+
+razlika v %
+
+večkratnik 
+
+razlike11,510,751002,020,810,252203,230,450,37221,241,400,83681,753,500,882904,060,950,55721,773,404,50320,780,340,56640,691,400,631202,2100,670,331032,0
+
+Povprečje1,300,571242,2
+
+(SO)0,900,24870,9Fiziološki indeks porabe je bil pri dveh bolnikih z atrijsko fibrilacijo pri hoji s pripomočkom Femuret nižji kot pri hoji s protezo. Ob izključitvi teh dveh bolnikov je bil izračunan fiziološki indeks porabe (FIP) pri hoji s pripomočkom Femu-ret 1,3 utr/m, pri hoji s protezo pa 0,57 utr/min (p < 0,001). Izraženo v odstotkih je bila hoja s protezo za 124 % (ali 2,2-krat) bolj učinkovita kot hoja s pripomočkom Femuret.Povprečna dosežena srčna frekvenca v zadnji minuti hoje s pripomočkom Femuret je bila 70,9 % predvidene glede na starost, pri hoji s protezo pa 70 % predvidene maksimalne glede na starost. Tudi tu razlika ni bila statistično značilna (p = 0,420). Med hojo bolniki niso imeli kliničnih težav, pri štirih bolnikih je prišlo do dodatnih motenj ritma v obliki VES. Drugih sprememb pri EKG ni bilo. Bolniki v naši sku-pini so napor pri obeh načinih hoje ocenjevali med 5 in 7 po 10-stopenjski Borgovi lestvici zaznanega napora.RAZPRAVAPri desetih bolnikih, ki smo jih prvič sprejeli na URI-Soča po nadkolenski amputaciji zaradi bolezni žilja, smo primerjali hojo s pomočjo zgodnjega pripomočka za hojo Femuret in hojo s protezo ob zaključku rehabilitacije. Pri vseh ženskah je bila amputacija posledica sladkorne bolezni s poznimi posledicami tudi na drugih tarčnih organih. Pri moških sta bila glavna dejavnika tveganja visok krvni tlak in kajenje. To so tudi v literaturi najpomembnejši dejavniki tveganja za nastanek PAB (3). Šest bolnikov je imelo še druge težave pri delovanju srca, pri enem bolniku je bila v ospredju toksična okvara jeter, pri enem pa končna ledvična odpoved zaradi visokega krvnega tlaka. Pri testiranju telesne zmogljivosti s pomočjo ročnega kolesa so bolniki dosegli v povprečju 40 W. Povprečna maksimalna poraba kisika (VO2max) je bila 14 ml/kg/min. Pri vseh je bila VO2 nad vrednostjo, ki je opredeljena kot potrebna za hojo z nadkolensko protezo na zaklep (7, 8, 10). Podatki potrjujejo, da so bili bolniki dobro telesno zmogljivi, na kar kažejo tudi ocene po motoričnem delu lestvice FIM.Bolnike smo na rehabilitacijsko obravnavo sprejeli 73,7 dni po amputaciji. Povprečni čas do sprejema v našo ustanovo je bil bistveno daljši pri dveh bolnikih, pri enemu zaradi zelo počasnega celjenja krna, pri drugem pa zaradi IBS in zapletov pri tej bolezni.Vsi člani tima so vse bolnike testirali po ustaljenih postopkih, ki so določeni v sprejeti klinični poti za obravnavo bolnikov po amputaciji. Pri šestih bolnikih smo se za namestitev pro-teze odločili teden dni po sprejemu (prvi timski sestanek po sprejemu), pri štirih pa zaradi neoblikovanega krna v drugem tednu po sprejemu (drugi timski sestanek). Šestminutni test hoje s pripomočkom za hojo Femuret smo izvedli pri bolni-kih, ki so bili sposobni hoditi takoj ob sprejemu ali po krajši vadbi hoje. Da so bili izbrani bolniki telesno bolj zmogljivi, potrjujejo tudi rezultati obremenitvenega testiranja in ocena po lestvici FIM. Ker je bila razdalja, ki so jo bili bolniki zmožni prehoditi s pripomočkom Femuret, zelo različna (od 25 do 100 m), smo se odločili za časovno omejitev hoje. Glavni razlog proti omejitvi razdalje hoje je bil, da bolniki, ki so že hodili na dolge razdalje, v času, ki bi ga potrebovali za vnaprej Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+45
+
+določeno razdaljo, ki je bila zanje kratka, ne bi dosegli dinamičnega ravnovesja merjenih parametrov (17, 18). V študijah o energetski zahtevnosti hoje s protezo, v katerih je bil omejitveni dejavnik razdalja hoje, so sodelovali bolniki, ki so protezo uporabljali že več let, zato je bila možna razdalja hoje 100 m (19).Ko smo ob zaključku rehabilitacije primerjali parametre šestminutne hoje s pripomočkom Femuret in hojo z nadko-lensko protezo na zaklep v kolenu, nismo ugotovili statistično pomembnih razlik pri VO2, povečanju srčnega utripa in poviša-nju krvnega tlaka. Dolžina prehojene razdalje s pripomočkom Femuret se ni bistveno razlikovala glede na starost bolnikov, čas od amputacije do sprejema in na stopnjo telesne zmogljivosti bolnikov ob sprejemu. Izjema je bil bolnik, ki je pri obremenit-venem testiranju na ročnem kolesu dosegel 60 W. Napredek pri dolžini prehojene razdalje je bil sorazmeren s stopnjo dosežene obremenitve ob sprejemu. V povprečju so daljšo razdaljo s protezo prehodili tisti bolniki, ki so ob sprejemu dosegli višjo stopnjo obremenitve na ročnem kolesu. Pri obeh načinih hoje je bila izmerjena vrednost VO2 pri hoji približno 50 % predvidene glede na starost, maksimalni srčni utrip pa približno 70 % predvidenega glede na starost, kar pomeni zmerno težko telesno aktivnost (5, 14, 19). Dva bolnika sta hojo s pripomočkom ocenila kot bolj naporno, za enega je bila bolj naporna hoja s protezo, ostali so oba načina hoje ocenili enako. Ocena zaznanega napora je bila v skladu z objektivnimi meritvami porabe kisika in povečanjem srčnega utripa.Vrednost sistoličnega krvnega tlaka je bila ob koncu hoje za približno 30 mmHg višja kot na začetku. Vrednost, večjo od 200 mmHg, smo izmerili samo pri enem bolniku. Pri bolnikih med hojo nismo opazili pomembnejših dodatnih motenj ritma ali koronarne ishemije.Uveljavljena standardna metoda za oceno učinkovitosti hoje je direktno izmerjena poraba kisika na dolžino prehojene razdalje. Referenčne vrednosti metaboličnega indeksa pri zdravih ljudeh so med 0,15 in 0,18 ml/kg/m (21). Tako pri hoji s pripomočkom Femuret kot tudi pri hoji z nadkolensko protezo so bile vrednosti bistveno višje. Primerjalno so bile statistično značilno višje pri hoji s pripomočkom Femuret. Ker razlika pri porabi kisika statistično ni bila značilna, je višji metabolični indeks porabe pri hoji s pripomočkom posledica počasnejše hoje (21, 22). Pri individualni izbiri hitrosti hoje bolniki izberejo tisto hitrost, ki je zanje udobna in ne povzroča prevelikega utrujanja. V času rehabilitacije se je telesna zmogljivost bolnikov povečala, tako da so z enakim naporom, ki je potreben za hojo z nadkolensko protezo, lažje premagovali in prehodili daljšo razdaljo zaradi večje hitrosti hoje. Hoja s protezo je bila glede na metabolični indeks za približno 63 % ali 1,6-krat bolj učinkovita. Meritev fiziološkega inde-ksa porabe (FIP) pri hoji je enostavna in dostopna metoda za ocenjevanje učinkovitosti hoje (23). Izkazalo se je, da je uporabna pri bolnikih po možganski kapi, bolnikih z okvaro hrbtenjače in otrocih s težavami pri gibanju (23, 24). Študij o hoji bolnikov po amputaciji ali hoji s protezo je zelo malo. V teh študijah so večinoma sodelovali bolniki po poškodbeni amputaciji ali amputaciji zaradi rakaste bolezni v poznem obdobju po namestitvi proteze. Meritve so izvajali pri vnaprej določeni razdalji hoje. Vrednosti FIP so bile za 77 % višje kot pri zdravih prostovoljcih (22). V naši skupini preiskovancev so bile vrednosti bistveno višje tako pri hoji s pripomočkom Femuret kot pri hoji s protezo. Če upoštevamo, da so bili v našo študijo vključeni bolniki v obdobju vadbe hoje in prve namestitve proteze in da je bilo pri vseh bolnikih vzrok za amputacijo žilno obolenje, se vrednosti zdijo realne.Pri dveh bolnikih je bil FIP, kljub večji hitrosti hoje s protezo, pri hoji s pripomočkom Femuret nižji. Oba bolnika sta imela kronično atrijsko fibrilacijo. Pri atrijski fibrilaciji je srčni utrip zelo variabilen, tako da je težko določiti realne vrednosti. Srčni utrip je spremenljiv tudi pri bolnikih z drugimi obolenji srca, zaradi katerih le-ti jemljejo kronotropna zdravila. Zato je za spremljanje učinkovitosti hoje pri bolnikih z amputacijo zaradi žilnih bolezni fiziološki indeks porabe (FIP) manj upo-raben. Temu pripisujemo tudi dejstvo, da se je učinkovitost hoje, opredeljena z metaboličnim indeksom ali fiziološkim indeksom porabe, statistično pomembno razlikovala. Pri hoji s pripomočkom Femuret ali s protezo pri bolnikih nismo opazili pomembnejših motenj ritma ali koronarne ishemije. Samo pri enem bolniku se je pomembno povišal krvni tlak, in sicer pri obeh načinih hoje. Podobne podatke smo dobili pri naših predhodnih študijah hoje z nadkolensko protezo (14).V študijo smo vključili bolnike po transfemoralni amputaciji zaradi bolezni žilja, ki so bili že ob sprejemu ali v kratkem obdobju po njem sposobni opraviti 6-minutni test hoje s pri-pomočkom Femuret. Ker se velika večina sprejetih bolnikov ob sprejemu šele začenja postavljati v pokončen položaj in hoditi s pripomočki v bradlji, skupina naših preiskovancev ni bila reprezentativna. Pri izbiri bolnikov smo morali upoštevali tudi naše izkušnje, da je direktno merjenje porabe kisika, pri katerem bolniki dihajo skozi masko, na začetku vadbe hoje za bolnike zelo moteče, velikokrat celo ni izvedljivo (14). Pred-videvamo, da bi pri bolnikih s slabšo telesno zmogljivostjo lahko izvedli 6-minutni test hoje s pripomočkom Femuret šele tik pred tem, ko so prejeli individualno izdelane proteze. Hitrost hoje in njena učinkovitost bi bila še manjša, medtem ko bi bila energetska zahtevnost še vedno na ravni zmerne telesne aktivnosti. Predvidevanja bomo poskušali potrditi v nadaljevanju študije. ZAKLJUČEKZ izvedenimi meritvami nismo potrdili hipoteze, da je hoja z zgodnjim pripomočkom za hojo Femuret ob individualno Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+46
+
+izbrani hitrosti hoje energetsko zahtevnejša kot hoja z nad-kolensko protezo. Glede na porabo kisika, povečanje srčne frekvence, povišanje krvnega tlaka in spremembe pri EKG se hoja z nadkolensko protezo in hoja s pripomočkom Femuret nista razlikovali. Učinkovitost hoje je glede na merjene indekse bistveno slabša pri hoji s pripomočkom Femuret. Vzrok je manjša hitrost hoje, ki jo bolniki prilagodijo trenutni telesni zmogljivosti. Z vadbo hoje in z drugimi telesnim aktivnostmi med reha-bilitacijsko obravnavo postane zmogljivost bolnikov boljša, zato je tudi hoja s protezo lahko učinkovitejša.Fiziološki indeks porabe se zaradi sočasnih bolezni srca pri bolnikih z amputacijo zaradi bolezni žilja ni izkazal kot dober kazalnik za opredelitev učinkovitosti hoje. V prihodnje bi bilo meritve potrebno opraviti pri večjem številu bolnikov, predvsem pri tistih z manjšo telesno zmogljivostjo.
+
+Literatura:Norgren I, Hiatt WR, Dormandy JA, Nehler MR, Harris 1. KA, Fowkes FG; TASC II Working Group. Inter-Society Consensus for the Management of Peripheral Arterial Disease (TASC II). J Vasc Surg 2007; 45(Suppl 1): S5-67.Hirsch A, Haskal ZV, Hertzer NR, Bakal CW, Creager 2. MA, Halperin JL, at al. ACC/AHA 2005 Practice Gui-delines for the management of patients with peripheral arterial disease (lower extremity, renal, mesenteric, and abdominal aortic). Circulation 2006; 113(11): e463-e654.European Stroke Organisation, Tendera M, Aboyans V, 3. Bartelink ML, Baumgartner I, Clément D, et al. ESC Guidelines on the diagnosis and treatment of periphe-ral artery diseases: Document covering atherosclerotic disease of extracranial carotid and vertebral, mesenteric, renal, upper and lower extremity arteries: the Task Force on the Diagnosis and Treatment of Peripheral Artery Diseases of the European Society of Cardiology (ESC). Eur Heart J 2011; 32(22): 2851- 906.Viles-Gonzalez JF, Fuster V, Badimon JJ. Atherothro-4. bosis: a widespread disease with unpredictable and life-threatening consequences. Eur Heart J 2004; 25(14): 1997-207.Thompson WR, Gordon NF, Pescatello LS. ACSM's gui-5. delines for exercise testing and presciption. Philadelphia: Wolters Kluver; Lippincott; Williams & Wilkins, 2009.Faxon DP, Creager MA, Smith SC Jr, Pasternak RC, 6. Olin JW, Bettmann MA, et al. Atherosclerotic Vascular Diseaese Conference: Executive Summary: Athero-sclerotic Vascular Diseaese Conference proceeding for healtcare professionals from special writing group of the American Heart Association. Circulation 2004; 109(21): 2595-604.Aulivola B, Hile CN, Hamdan AD, Sheahan MG, Veraldi 7. JR, Skillman JJ, et al. Major lower extremity amputation: outcome of a modern series. Arch Surg 2004; 139(4): 395-9; discussion 399.Nehler MR, Coll JR, Hiatt WR, Regensteiner JG, Sch-8. nickel GT, Klenke WA, at al. Functional outcome in a contemporary series of major lower extremity amputa-tions. J Vasc Surg 2003; 38(1): 7-14. J Vasc Surg 2003; 38 - 47. Amputee and prosthetic rehabilitation. Standards and 9. guidelines in amputee and prosthetic rehabilitation. Briti-sh Society of Rehabilitation Medicine (BSRM) working party report, October 2003: 61-7.Little JM. A pneumatic weight-bearing temporary prosthesis 10. for below-knee amputees. Lancet 1971; 1(7693): 271-3.Pinzur MS, Littooy F, Osterman H, Schwartz D. A safe, 11. pre-fabricated, immediate postoperative, prosthetic limb system for rehabilitation of below-knee amputations. Orthopedics 1989; 12(10): 1343-5.Sethia KK, Berry AR, Morrison JD, Collin J, Murie JA, 12. Morris PJ. Changing pattern of lower limb amputation for vascular disease. Br J Surg 1986; 73(9): 701-3.Parry M, Morrison JD. Use of the Femurett adjustable 13. prosthesis in the assessment and walking training of new above-knee amputees. Prosthet Orthot Int 1989; 13(1): 36-8.Erjavec T, Prešern-Štrukelj M, Burger H, Vipavec B, Zalar 14. M. Telesna zmogljivost in hoja z nadkolensko protezo pri starejših bolnikih = Physical capacity and gait with above-knee prosthesis in elderly patients. Rehabilitacija 2009; 8(2): 3-9. Erjavec T, Prešern-Štrukelj M, Burger H. The diagnostic 15. importance of exercise testing in developing appropriate rehabilitation programmes for patients following trans-femoral amputation. Eur J Phys Rehabil Med 2008; 44(2): 133-9.Vidmar G, Burger H, Erjavec T.16.  Možnosti primerjave skladnosti meritev med skupinami: obremenitveno testi-ranje kot presejalni test za zmožnost hoje po nadkolenski amputaciji = Options for comparing measurement agre-ement between groups: exercise testing as screening for ability to walk after transfemoral amputation. Infor Med Slov 2010; 15(2): 10-20.Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+
+47
+
+Sansam K, Neumann V, O'Connor R, Bhakta B. Predic-17. ting walking ability following lower limb amputation: a systematic review of the literature. J Rehabil Med 2009; 41(8): 593-603. van Velzen JM, van Bennekom CA, Polomski W, Slo-18. otman JR, van der Woude LH, Houdijk H. Physical capacity and walking ability after lower limb amputa-tion: a systematic review. Clin Rehabil 2006; 20(11): 999-1016.Chin T, Sawamura S, Shiba R. Effect of physical fitness 19. on prosthetic ambulation in eldery amputees. Am J Phys Med Rehabil 2006; 85(12): 992-6.Mackenzie B. Borg Scale; 2003. Dostopno na: http://20. www.brianmac.co.uk/borgscale.htmWaters RL, Mulroy S. The energy expenditure of normal 21. and pathologic gait. Gait Posture 1999; 9(3): 207-31.Teixeira da Cunha-Filho I, Henson H, Qureshy H, Willi-22. ams AL, Holmes SA, Protas EJ. Differential responses to measures of gait performance among healthy and neurologically impaired individuals. Arch Phys Med Rehabil 2003; 84(12): 1774-9.Graham RC, Smith NM, White CM. The reliability 23. and validity of the physiological cost index in healthy subjects while walking on 2 different tracks. Arch Phys Med Rehabil 2005; 86(10): 2041-6.Danielsson A, Willén C, Sunnerhagen KS. Measurement 24. of energy cost by the physiological cost index in walking after stroke. Arch Phys Med Rehabil 2007; 88(10): 1298-303.Hagberg K, Häggström E, Br25. anemark R. Physiological cost index (PCI) and walking performance in individu-als with transfemoral prostheses compared to healthy controls. Disabil Rehabil 2007; 29(8): 643-9.Erjavec, Prešern-Štrukelj, Vipavec, Sonc / Rehabilitacija - letn. XII, št. 1 (2013)
+
+
+
+

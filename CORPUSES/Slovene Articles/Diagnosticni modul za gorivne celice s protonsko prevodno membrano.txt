@@ -1,0 +1,297 @@
+200
+
+Ventil 19 /2013/ 3
+
+Diagnostieni modul za gorivne celice s protonsko prevodno membranoAndrej DEBENJAK, Bojan MUSIZZA, Matej GAŠPERIN, Janko PETROVČIČ
+
+Izvleček: Zanesljivost delovanja gorivnih celic s protonsko prevodno membrano (PEM) je tesno povezana z napakami, ki se med delovanjem pojavljajo znotraj celic. V tem članku je predstavljen diagnostični modul FCVM 2404, ki omogoča izvajanje diagnostičnih meritev za odkrivanje napak v gorivnih celicah PEM znotraj večjega sklada serijsko vezanih celic. Pri snovanju modula so bile uporabljene cenovno učinkovite rešitve merjenja napetosti vseh gorivnih celic sklada. Poleg osnovnega merjenja napetosti celic je modul zasnovan tako, da omogoča izvedbo merilnih postopkov elektrokemijske impedančne spektroskopije(EIS), na podlagi katere je mogoče med delovanjem diagnosticirati napake, povezane z neustrezno vlažnostjo. Poleg diagno-stičnega modula je v članku predstavljen tudi postopek obdelave signalov in izračuna impedance, ki sta bila uporabljena pri diagnosticiranju napak na realnem sistemu ob uporabi modula in metode EIS. Pridobljeni diagnostični rezultati potrjujejo, da modul FCVM 2404 omogoča opravljanje dovolj natančnih meritev, ki jih zahteva metoda EIS. Poleg tega pa tudi potrjujejo, da je diagnosticiranje prekomernega izsuševanja membran PEM in poplavljanja gorivnih celic izvedljivo, pri čemer meritve kažejo na to, da je izsuševanje nekoliko težje zaznati. Modul skupaj z diagnostičnim postopkom predstavlja pomemben gradnik pri snovanju zanesljivih gorivnih celic PEM prihodnosti.Ključne besede: gorivne celice PEM, diagnostika napak, diagnostični modul, elektrokemijska impedančna spektroskopija
+
+Andrej Debenjak, univ. dipl. inž., dr. Bojan Musizza, univ. dipl. inž., dr. Matej Gašperin, univ. dipl. inž.; vsi Institut "Jo-žef Stefan"; dr Janko Petrovčič, univ. dipl. inž., Institut "Jožef Stefan" in Center odličnosti nizkoogljične tehnologijeDIAGNOSTIKA NAPAK ¦1 UVOD Gorivne celice so elektrokemične naprave, ki kemično vezano energijo goriva neposredno (brez kakršnih-koli gibajočih se delov) pretvarjajo v električno energijo z visokim izko-ristkom, ki običajno dosega vredno-sti od 45 do 60 %. Ker gorivne celice pri svojem delovanju ne proizvajajo nikakršnih okolju škodljivih snovi, predstavljajo pomembno »zeleno« alternativo današnjim načinom za-gotavljanja energije v aplikacijah, kot so prevozna sredstva, delovni stroji, generatorji električne energi-je na odročnih krajih in zasilna ter brezprekinitvena napajanja. Poleg teh standardnih primerov uporabe pa se pojavljajo tudi nove rešitve. Ena takšnih je na primer sistem po-možnega napajanja na osnovi go-rivnih celic, ki zagotavlja električno energijo in toploto, ki jo potrebuje posadka kamiona v času, ko je par-kirana na počivališču [1].Med različnimi vrstami gorivnih celic predstavljajo gorivne celice s protonsko prevodno membrano (gorivne celice PEM) najprimernej-šo alternativo današnjim motorjem z notranjim zgorevanjem. Predno-sti gorivnih celic PEM v primerjavi z ostalimi tipi so nizke temperature obratovanja, tihost delovanja, kratki zagonski in ustavitveni časi ter viso-ke specifične gostote moči. Bistven del gorivne celice PEM je membrana PEM, ki mora imeti dve pomembni lastnosti: protonsko pre-vodnost za vodikove ione (protone) in električno izolativnost. Za takšno delovanje mora biti membrana ustrezno navlažena [2]. Elektroke-mične reakcije, ki potekajo na ano-di (oksidacija vodika) in katodi (re-dukcija kisika) gorivne celice PEM, opisujeta enačbi (1) in (2). Enačba (3) pa opisuje celostno redoks elek-trokemijsko reakcijo, ki nakazuje, da pri poteku reakcije poleg vode na-stajata tudi električna in toplotna energija.
+
+-++›e2H2H2
+
+ (1)
+
+OHe2H2O
+
+21
+
+22›++-+ (2)
+
+ 
+
+toplelEE?+?+›+OHO
+
+21
+
+H222
+
+ (3)Kljub številnim dobrim lastnostim in prednostim gorivnih celic PEM se le--te v aplikacijah vsakodnevne upo-rabe še vedno ne uporabljajo tako množično, kot bi pričakovali. Tehno-logija gorivnih celic PEM se namreč 
+
+
+
+
+201
+
+Ventil 19 /2013/ 3
+
+DIAGNOSTIKA NAPAKpoleg visoke proizvodne cene še ve-dno sooča s težavami, povezanimi z zagotavljanjem zanesljivosti delova-nja in vzdržljivosti [3]. Priložnosti za okvare sistemov je nekaj tudi med okvarami, ki se lahko zgodijo znotraj posameznih celic med delovanjem. Pričakujemo lahko okvare, kot so:•	pomanjkanje reagenta (osiroma-šenost plinov pri končnih celi-cah),•	lokalno uničenje membrane PEM (pregretje, poškodbe zaradi zmr-zovanja, puščanje membran),•	električni kratki stik,•	lokalno preveliko povečanje temperature (vroče točke zaradi koncentracije električnega toka),•	izsušitev membrane PEM zaradi preveč intenzivnega odvajanja nastale vode (preveliko dovaja-nje katodnega zraka) in•	poplavljanje plinsko difuzne pla-sti in plinskih kanalčkov za do-vod reagentov zaradi neučinko-vitega odvajanja vode.Da bi lahko povečali zanesljivost delovanja gorivnih celic PEM in s tem njihovo zanimivost za uporabo v aplikacijah vsakodnevne uporabe, je torej ključnega pomena, da dia-gnostični sistem vse naštete napa-ke in okvare med delovanjem čim prej avtomatsko identificira, odpravi težave v regulaciji in po-skrbi za nadaljnje nemo-teno delovanje gorivnih celic, spremembo načina vodenja ali alarmiranje uporabnika.Z ozirom na fleksibilnost, ki jo omogočajo sodob-na elektronska vezja, je najprimernejša pot od-krivanja naštetih napak preko obdelave in ana-lize tokovnih in napeto-stnih signalov gorivne celice. Večina problemov pri obratovanju se odra-ža v bolj ali manj znižani napetosti celice, zato je odkrivanje in diagnosti-ciranje vrste napake le na podlagi merjenja nape-tosti posameznih celic v večini primerov neučin-kovito – odkrivamo lahko le resnejše okvare, kot sta raztrgana membrana ali električni kratki stik. Tako diagnostiko lahko uporabimo le za zaznavanje kritičnih okvar in varnostno zaustavitev sistema. Ne moremo pa je uporabljati za od-krivanje napak, ki sicer ne vodijo v takojšnje uničenje gorivnih ce-lic, vseeno pa negativno vplivajo na kvaliteto delovanja. Takšna dva problema sta izsuševanje membran PEM in poplavljanje celic.Membrana PEM mora biti primerno navlažena, da omogoča protonsko prevodnost. Za optimalno delova-nje bi bilo zato potrebno spremljati vlažnost membran in z regulacijskim sistemom poskrbeti, da je ta vedno znotraj optimalnih vrednosti. Ker pa neposredno merjenje vlažno-sti membrane ni izvedljivo, se za ocenjevanje stanja v celicah (ali je membrana preveč izsušena ali pa je prišlo do poplavljanja) uporablja zahtevnejša diagnostika, ki temelji na obdelavi signalov toka in nape-tosti celic.Izvajanje diagnostike na gorivnih celicah PEM zahteva ustrezne meril-ne sklope, ki morajo biti v komerci-alnih aplikacijah robustni in cenov-no dosegljivi. V tem prispevku je predstavljen diagnostični modul za gorivne celice PEM FCVM 2404, ki omogoča izvajanje meritev, potreb-nih za izvedbo diagnostičnih metod na osnovi elektrokemijske impe-dančne spektroskopije (EIS). Poleg osnovnega opisa modula prispevek predstavlja tudi primer izvedenih meritev na realnem sistemu z goriv-nimi celicami PEM. ¦2 Diagnostični modulV nasprotju s potrebami laboratorij-skih eksperimentov, kjer je običajno potrebno meriti le karakteristike sa-mostojne (posamezne) celice, je pri komercialno orientiranih aplikacijah z gorivnimi celicami PEM potrebna takšna merilna oprema, ki omogoča meritve napetosti vseh posameznih celic znotraj večjega sklada gorivnih celic. Sklad pa je tipično sestavljen iz nekaj deset gorivnih celic. Na trgu razpoložljiva namenska (laboratorij-ska) oprema za merjenje napetosti celic znotraj večjih skladov že omo-goča takšne meritve, kljub temu pa uporabljene konstrukcijske rešitve in merilni koncepti zaradi previso-ke cene niso primerni za uporabo v komercialnih aplikacijah [4]. Poleg tega so zahteve v zvezi z zaneslji-vostjo, velikostjo, težo in predvsem ceno v primeru komercialnih apli-kacij veliko strožje. Da bi izpolnili te Slika 1. Električno vezje diagnostičnega modula FCVM 2404, priključeno na sklad 80 gorivnih celic PEM
+
+
+
+
+202
+
+Ventil 19 /2013/ 3
+
+DIAGNOSTIKA NAPAKzahteve, proizvajalci merilne opre-me oziroma modulov za komercial-ne aplikacije uporabljajo konstruk-cijske rešitve, pri katerih se ne meri napetosti posameznih celic, pač pa le skupne napetosti dveh ali več so-sednjih celic, pa še to le z dokaj niz-ko razločljivostjo [5]. Takšen pristop je sicer cenovno zelo učinkovit v pri-meru, ko je potrebno zaznati večje napake oziroma okvare, popolnoma pa odpove, ko je potrebno pridobiti izčrpnejšo informacijo o trenutnem stanju sklada in vsake izmed njego-vih gorivnih celic. Pri razvoju diagnostičnega modula FCVM 2404 za gorivne celice PEM smo želeli odpraviti vse prej našte-te pomanjkljivosti trenutno na trgu dostopne merilne opreme. Razviti diagnostični modul, ki je prikazan na sliki 1, omogoča merjenje nape-tosti do 90 gorivnih celic in skupno napetost ter tok sklada. Poleg tega zmore tudi sočasno odčitavati iz-menični del napetosti izbranih treh celic, na podlagi katerih je mogoče izračunati impedanco celic v obmo-čju do 300 Hz. V 30 korakih je tako mogoče izmeriti impedanco vseh gorivnih celic sklada. Na sliki 1 je vidno tiskano vezje diagnostičnega modula, ki je postavljeno nad skla-dom 80 gorivnih celic. Njegovi elek-trični priključni sponki sta vidni levo (pozitivna) in desno (negativna) od modula. Povezave od modula do posameznih gorivnih celic so izve-dene s pomočjo treh ploskih tračnih kablov in množico vzmetnih kontak-tov, ki so v neposrednem stiku z go-rivnimi celicami. Na sliki 1 so vidni le robovi celic sklada, kjer so izvedeni kontakti (spodnji rob slike).Najzahtevnejši izziv pri merjenju napetosti posameznih celic znotraj večjega sklada je povezan z visokim sofaznim potencialom, ki nastane zaradi serijske vezave gorivnih ce-lic v sklad. Na trgu dostopni skladi z gorivnimi celicami PEM so tipično sestavljeni iz 50 do 100 serijsko ve-zanih celic, kar pomeni, da znaša ce-lotna napetost s tokom neobreme-njenega sklada med 60 in 120 V. Tako visoka sofazna napetost pa omejuje uporabo integriranih vezij z multi-plekserji, katerih najvišja dovoljena delovna napetost ne sme prekora-čiti 44 V. Da se izognemo tej ome-jitvi integriranih multiplekserjev, je vhodna stopnja diagnostičnega modula zasnovana na osnovi stol-pne (totem-pole) vezave treh pa-rov multiplekserjev. Vsak par izmed njih je nato povezan s posebnim diferencialnim ojačevalnikom (ope-racijski ojačevalnik s širokim obmo-čjem sofazne napetosti). Pari multi-plekserjev so s stališča napetostnih razmer postavljeni drug nad drugim tako, da vsak par pokrije eno tretji-no celotne napetosti sklada. Tako vsak posamezni multiplekser po-kriva le 36 V napetosti. Konstruk-cijska rešitev s pari multiplekserjev je uporabljena z namenom, da se razpolovi potrebno število multiple-kserjev, diferencialnih ojačevalnikov in AD-pretvornikov ter tako zniža cena izvedbe. Elementi, ki dejansko »opravijo« s sofazno napetostjo, so posebni diferencialni ojačevalniki, ki izločijo sofazno komponento ter diferencialne signale pretvorijo v enopolne (single-ended), primerne za AD-pretvorbo.Diagnostični modul lahko obratuje v enem izmed dveh različnih na-činov. Prvi način – nadzorni način – omogoča sekvenčno spremljanje vseh napetosti celic znotraj sklada. Drugi način – diagnostični način – pa omogoča natančno merjenje sprememb v napetosti posamezne celice sklada, in sicer v frekvenčnem razponu do 300 Hz.2.1 Nadzorni način delovanjaV nadzornem načinu je mogoče spremljati absolutne vrednosti na-petosti vseh posameznih celic zno-traj sklada, sestavljenega iz do 90 celic. V tem načinu je razločljivost merjenja napetosti 0,8 mV, pri čemer se meritve osvežujejo na 400 ms. Poleg meritev napetosti posame-znih celic diagnostični modul omo-goča tudi meritev napetosti in toka celotnega sklada z razločljivostma 24 mV in 10 mA, pri čemer za mer-jenje toka uporabljamo tokovni pre-tvornik s Hallovim senzorjem.Nadzorni način delovanja je prime-ren za osnovno spremljanje nape-tosti gorivnih celic, s pomočjo ka-terega lahko sklepamo na trenutno stanje sistema in odkrivamo večje okvare, ki lahko nastanejo med de-lovanjem (npr. nezadostna količina reagentov, uničena membrana, krat-ki stik,…). Za ta namen je mogoče zajete meritve prenesti na zunanjo napravo (npr. namizni računalnik, nadzorniški terminal ali regulator) preko CAN ali RS 485 vodila. Dia-gnostični modul lahko samostojno komunicira s standardnim indu-strijskim nadzornim terminalom in uporabniku omogoča, da poljubno Slika 2. Prikaz napetostnega profila večjega sklada gorivnih celic PEM na HMI-terminalu
+
+
+
+
+203
+
+Ventil 19 /2013/ 3
+
+DIAGNOSTIKA NAPAKdostopa do podatkov o napetostih posameznih celic. Primer takšnega delovanja je prikazan na sliki 2, kjer lahko na HMI-terminalu opazujemo trenutni napetostni profil celotnega sklada. S slike je razvidno, da celice znotraj sklada nimajo enakih nape-tosti, ampak se med seboj razliku-jejo. Do variacij med drugim prihaja zaradi konstrukcijskih toleranc, nee-nakomernega temperaturnega pro-fila sklada, osiromašenosti goriva v posameznih delih sklada in zaradi okvar ali napak. Spremljanje takšne-ga napetostnega profila sklada nam omogoča odkrivanje in diagnostici-ranje večjih napak gorivnih celic.2.2 Diagnostični način delovanjaV drugem diagnostičnem načinu di-agnostični modul omogoča izvajanje meritev, ki so potrebne za zahtevnej-še diagnostične metode. Te omogo-čajo odkrivanje napak in okvar, ki jih samo s spremljanjem napetosti ni mogoče odkriti. Diagnostični modul je namensko prilagojen za izvajanje meritev, ki jih zahteva metoda EIS. Diagnostika EIS temelji na meritvah hitrih sprememb napetosti in toka gorivne celice. Za ta namen sta po-trebni visoka razločljivost in frekven-ca vzorčenja napetosti in toka [6, 7]. Visoka razločljivost je potrebna, ker amplituda superponirane vzbujalne komponente, ki je ključna za izvedbo metode EIS, znaša le nekaj mV. Prav tako je tudi relativno visoka frekvenca vzorčenja potrebna za nekompromi-sno vzorčenje superponiranih izme-ničnih komponent, katerih frekvenčni spekter sega preko nekaj 100 Hz.V diagnostičnem načinu diagnostič-ni modul doseže visoko razločlji-vost tako, da zajete vhodne signale dodatno analogno obdela še pred pretvorbo z AD-pretvornikom. Tako se od celotne napetosti celice naj-prej analogno odšteje enosmerna komponenta, preostali del pa ojači s faktorjem 10. Tako pripravljen signal nato AD-pretvornik pretvori v digital-no obliko z 12-bitno razločljivostjo.V diagnostičnem načinu delovanja se meritve napetosti posamezne ce-lice znotraj sklada izvajajo s frekven-co vzorčenja 5 kHz. Zajem napetosti poteka sočasno na treh izbranih ce-licah, obenem pa modul meri še na-petost in tok celotnega sklada. Raz-ločljivost meritev napetosti celic v primeru diagnostičnega načina zna-ša 80 µV, razločljivosti meritev nape-tosti in toka celotnega sklada pa sta enaki kot pri nadzornem načinu.Zaradi velike količine podatkov v diagnostičnem načinu je podatke na zunanjo napravo moč prenašati le s pomočjo povezave CAN, ki se hkrati uporablja tudi za upravljanje diagnostičnega modula. Modul od nadzornega sistema sprejema uka-ze o tem, v katerem načinu naj delu-je ter na katerih celicah znotraj skla-da naj izvaja meritve. V prihodnosti bo diagnostični modul FCVM 2404 poleg merilnih zmogljivosti ponu-jal tudi možnost lokalne obdelave podatkov in izvajanja diagnostičnih algoritmov, saj vsebuje zmogljiv mi-krokrmilnik z jedrom ARM M3. ¦3 Diagnostične meritveDiagnostični modul FCVM 2404 je v diagnostičnem smislu zasnovan predvsem za izvajanje diagnostike s pomočjo metode elektrokemijske impedančne spektroskopije. 3.1 Opis metode EIS in obdelave signalovOsnovna hipoteza metode EIS je, da na podlagi meritev impedan-ce gorivne celice lahko sklepamo na to, kaj se znotraj celice dogaja: metoda naj bi omogočala oceno, ali celica normalno obratuje, je nje-na membrana preveč izsušena ali je celica poplavljena [6, 8]. Da lahko izmerimo impedanco celice, mora-mo celico ustrezno vzbujati ter pri tem posneti signal vzbujanja in njen odziv. Celice je potrebno v primeru diagnostike EIS vzbujati s primer-nim testnim tokovnim signalom, celica pa se na to vzbujanje odzove z ustreznim napetostnim odzivom. Zaradi preprostejše nadaljnje ob-delave smo kot vzbujalne signale uporabljali sinusne signale, ki smo jih superponirali na odjemni eno-smerni tok celice.Ob predpostavki, da je sistem go-rivne celice v okolici delovne točke linearen, se le-ta na sinusno vzbuja-nje odzove s sinusnim napetostnim odzivom. Sinusni vzbujevalni tokov-ni in odzivni napetostni signal lahko v časovnem prostoru zapišemo s pomočjo kompleksorjev:
+
+tjeII00?=
+
+  (4)
+
+)(00??+=tjeUU
+
+  (5)kjer je ?0 krožna frekvenca vzbu-jevalnega signala (?0 = 2?f0), I0 in U0 sta amplitudi signalov in ? fazni zamik napetostnega odziva. Vre-dnost impedance Z gorivne celice pri vzbujeni krožni frekvenci ?0 izra-čunamo kot razmerje po Ohmovem zakonu:
+
+?+===jtjtjeZeIeUIUZ00)(000???
+
+  (6)kjer je Z0 amplituda impedance in ? fazni kot impedance gorivne celice pri izbrani krožni frekvenci ?0. Realni napajalni sistem z gorivnimi celicami je med delovanjem pod-vržen še vplivom lastnih električnih podsistemov in električne obreme-nitve, kar v meritve vnaša nezažele-ne frekvenčne komponente ter šum. Zaradi tega impedance ni mogoče izračunati neposredno z uporabo enačb (4) do (6), ampak je posame-zne signale potrebno najprej ustre-zno predhodno obdelati, nato pa s pomočjo Fouriereve transformacije signale preslikati v frekvenčni pro-stor. V frekvenčnem prostoru je nato možno na preprost način izračunati vrednost kompleksne impedance gorivne celice. Glavni orodji pri tej si-gnalni obdelavi sta filtriranje in hitra Fouriereva transformacija (FFT). Po-stopek, ki smo ga uporabili za obde-lavo signalov in izračun impedance, je sestavljen iz naslednjih korakov:	yodstranitev linearnih trendov iz časovnih potekov signalov,	ynizkopasovno filtriranje,	yoknjenje s Hammingovim oknom,	yizračun FFT-transformacij toka in napetosti ter
+
+
+
+
+204
+
+Ventil 19 /2013/ 3
+
+DIAGNOSTIKA NAPAK	yizračun impedance z medseboj-nim kompleksnim deljenjem čle-nov transformacij pri vzbujalni frekvenci.Na sliki 3 je prikazan koncept zajema signalov in izračuna impedance, ki smo ga izvedli z diagnostičnim mo-dulom FCVM 2404. Na levem delu slike je prikazan niz gorivnih celic, ki so povezane v sklad. Meritve nape-tostnih odzivov opravljamo sočasno v skupinah po tri, kot je to opisano v drugem poglavju. Napetostnim od-zivom celic diagnostični modul naj-prej ojači le izmenično komponento (na sliki 3 so ojačevalniki, označeni z AC AMP), nato pa jih zajame s po-močjo AD-pretvornika. V končnem koraku na podlagi zajetih signalov napetosti in toka izračunamo trenu-tno vrednost impedance.3.2 Predstavitev rezultatovDiagnostični rezultati, ki jih pred-stavljamo v tem prispevku, so bili pridobljeni na večjem skladu, se-stavljenem iz 80 gorivnih celic PEM (skupna električna moč sklada do 8 kW). Sklad smo povezali na elek-tronsko breme, ki nam je omogočilo natančno nastavljanje odjemnega toka in superponiranje vzbujalnega signala. Diagnostični modul smo povezali na namizni računalnik, s pomo-čjo katerega smo upravljali modul in na katerega smo prenašali podatke meritev za nadaljnjo obdelavo. Modul FCVM 2404 trenutno še nima vgrajenih al-goritmov obdelave signalov za analizo EIS in na njej teme-lječo diagnostiko. Med poskusom smo opravljali meritve na treh izbranih celicah znotraj sklada. Na podlagi predhodnih eksperimentov smo sklad vzbujali s si-nusnimi signali fre-kvenc 10, 30, 100 in 300 Hz [9]. Vrednost enosmerne komponente odjemne-ga toka je bila 40 A, pri čemer je bila amplituda superponirane sinu-sne komponente 1 A. Primer zajetih signalov je predstavljen na sliki 4, s katere je razvidno tudi, da je na-petostni odziv celice v območju le nekaj mV. Z namenom, da izmeri-mo impedanco celic pri normalnih obratovalnih pogojih in pri nenor-malnih pogojih povečane izsušeno-sti oziroma poplavljenosti, smo med poskusom kontrolirano spreminjali vlažnost vhodnega katodnega zra-ka. Izsuševanje smo dosegli tako, da smo celicam dovajali le popolnoma suh zrak. V nasprotnem primeru pa smo poplavljanje celic izzvali tako, da smo v sklad dovajali zelo vlažen zrak, ki smo ga pripravljali v loče-nem generatorju vodne pare. Rezultati izračuna impedanc in nji-hove odvisnosti od vlažnosti so predstavljeni na sliki 5. V vrsticah so predstavljeni rezultati posamezne celice, v stolpcih pa impedance vseh treh celic pri isti frekvenci vzbujanja. Posamezne barve in oblike točk po-nazarjajo parametre, pri katerih je bila opravljena meritev: črni krogci ponazarjajo meritve pri normalno obratujočem skladu, rdeče zvezdi-ce pri izsuševanju in modri križci pri poplavljanju.Dobljeni rezultati potrjujejo dve pomembni hipotezi. Najprej lah-ko ugotovimo, da je diagnostični modul zmožen izvajati meritve, ki jih zahteva metoda EIS, in s tem iz-polnjuje zastavljene zahteve. S sli-ke 5 pa je vidno, da je na podlagi vrednosti impedance mogoče dia-gnosticirati oziroma oceniti stopnjo poplavljanja ali izsuševanja celic. S slike je razvidno, da je pri frekvenci Slika 3. Konceptualna shema zajema signalov z dia-gnostičnim modulom in izračuna vrednosti impedanceSlika 4. Meritve toka celotnega sklada in sprememb v napetosti treh gorivnih celic znotraj sklada
+
++-
+
+u2i
+
+u1i
+
+u3i
+
+u2u1u3i
+
+Z1Z2Z3
+
+ACAMPACAMPACAMP
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+39
+
+40
+
+41
+
+tok [A]čas [ms]
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+-1
+
+-0.5
+
+0
+
+0.5
+
+1
+
+napetos [mV]čas [ms]
+
+celica #10
+
+celica #40
+
+celica #70
+
+
+
+
+205
+
+Ventil 19 /2013/ 3
+
+DIAGNOSTIKA NAPAKSlika 5. Impedance treh celic pri frekvencah vzbujalnega signala 10, 30, 100 in 300 Hz v primeru normalno obratu-jočega sklada (črni krogci), v primeru izsuševanja (rdeče zvezdice) in v primeru poplavljanja (modri križci)10 Hz za diagnostiko pomemben le realni del impedance – zmanjšana vrednost realnega dela nakazuje na poplavljanje in povečana na izsuše-vanje. Po drugi strani pa so pri osta-lih treh testnih frekvencah informa-tivne tako spremembe vrednosti realnega kot tudi imaginarnega dela impedance. Tako zmanjševanje vre-dnosti realnega in hkratno poveče-vanje imaginarnega dela impedance nakazuje na poplavljanje, ravno na-sprotno dogajanje pa na izsuševa-nje. Potrebno pa je omeniti, da je di-agnosticiranje izsuševanja veliko zahtevnejše od diagnosticiranja po-plavljanja, saj ima očitno izsuševa-nje precej manjši vpliv na impedan-co od poplavljanja. To je razvidno iz prekrivanja rezultatov v primerih normalno delujočih celic in izsuše-nih celic. Žal pa je diagnosticiranje izsuševanja s stališča zaščite celic pred mehanskimi okvarami veliko pomembnejše, saj v nasprotju od poplavljanja izsuševanje lahko vodi tudi v okvaro membrane PEM. ¦4 ZaključekZa izboljšanje zanesljivosti delova-nja gorivnih celic PEM, ki je ena iz-med pomembnih in potrebnih zah-tev pri uvajanju tehnologije PEM v komercialne aplikacije, so rešitve na področju sprotnega diagnosticira-nja in odpravljanja napak zelo do-brodošle. Diagnostični modul FCVM 2404 je zasnovan tako, da omogo-ča več načinov diagnostičnih meri-tev. Pri načrtovanju modula je bila polege funkcionalnih zahtev zelo pomembna tudi njegova cenovna učinkovitost.Diagnostični modul trenutno omo-goča izvajanje meritev toka in nape-tosti vseh celic ter prenos rezultatov meritev na osebni računalnik. Nje-gov mikrokrmilnik pa bo v priho-dnosti omogočal tudi lokalno spre-mljanje impedanc celic in izvajanja diagnostičnih algoritmov. Te funk-cionalnosti bodo implementirane v programski kodi modula.Na podlagi laboratorijskih meri-tev smo pokazali, da diagnostični modul omogoča opravljanje me-ritev, ki jih zahteva metoda EIS. Pri eksperimentiranju smo se posvetili diagnosticiranju izsuševanja in po-plavljanja, ki sta s stališča zagota-vljanja zanesljivosti delovanja skla-da gorivnih celic zelo pomembna parametra. Ugotovili smo, da je s pomočjo diagnostičnega modula FCVM 2404 in metode EIS mogo-če diagnosticirati tako poplavljanje kot tudi izsuševanje. Diagnostika izsuševanja je nekoliko zahtevnejša in manj natančnejša od diagnostike poplavljanja.Pri nadaljnjem delu želimo razviti odločitveni algoritem, ki bo poskr-bel za ustrezno odločitev v mejnih primerih. Le-tega bo potrebno sku-paj z obdelavo signalov in izraču-nom impedance implementirati v programsko opremo diagnostične-ga modula. Pri razvoju algoritmov bomo poskušali zasnovati tudi ta-kšne algoritme, ki bi lahko merili im-pedanco celic le na podlagi »narav-nih« vzbujalnih signalov, ki nastajajo pri delovnih obremenitvah sklada. Viri[1]  Fuel Cell Based On-board Power Generation, http://www.fch-ju.eu/project/fuel-cell-ba-sed-board-power-generation.[2]  Barbir, F.: PEM Fuel Cells: Theo-ry and Practice, Elsevier, 2005.[3]  Wu, J., Yuan, X. Z., Martin, J .J., Wang, H., Zhang, J., Shen, J.: A review of PEM fuel cell durabi-lity: Degradation mechanisms and mitigation strategies, Jo-urnal of Power Sources, 184(1), str. 104–119, 2008.[4]  Wasterlain, S., Candusso, D., Harel, F., Hissel, D., François, X., Development of new test in-struments and protocols for the diagnostic of fuel cell stacks, Journal of Power Sources, 196(12), str. 5325–5333, 2011.[5]  Vale, M. , Epp, B., Masse, B., Joos, N. I.: Fuel Cell Voltage Monitoring System and Asso-ciated Electrical Connectors, US Patent, no. US2005/0215124, 2005.
+
+-0.9
+
+-0.8
+
+-0.7
+
+-0.9
+
+-0.8
+
+-0.7
+
+1.5
+
+1.6
+
+1.7
+
+-0.9
+
+-0.8
+
+-0.7
+
+-0.76
+
+-0.72
+
+-0.68
+
+-0.76
+
+-0.72
+
+-0.68
+
+0.75
+
+0.85
+
+0.95
+
+-0.76
+
+-0.72
+
+-0.68
+
+-0.4
+
+-0.35
+
+-0.3
+
+-0.4
+
+-0.35
+
+-0.3
+
+0.45
+
+0.5
+
+0.55
+
+-0.4
+
+-0.35
+
+-0.3
+
+-0.4
+
+-0.35
+
+-0.3
+
+-0.25
+
+-0.4
+
+-0.35
+
+-0.3
+
+-0.25
+
+0.28
+
+0.32
+
+0.36
+
+-0.4
+
+-0.35
+
+-0.3
+
+-0.25
+
+normalno
+
+izsušeno
+
+poplavljeno
+
+10 Hz30 Hz100 Hz300 Hzcelica #10celica #40celica #70Im() [m?]ZIm() [m?]ZIm() [m?]ZRe() []Zm?Re() [Zm?]Re() [Zm?]Re() [Zm?]
+
+
+
+
+206
+
+Ventil 19 /2013/ 3
+
+DIAGNOSTIKA NAPAK[6]  Yuan, X., Wang, H., Sun, J., Zhang, J., AC impedance tech-nique in PEM fuel cell diagnosis – A review, International Jour-nal of Hydrogen Energy, 32(17), str. 4365–4380, 2007.[7]  Yuan, X. Z., Song, C., Wang, H., Zhang, J.: Electrochemical Impe-dance Spectroscopy in PEM Fuel Cells, Fundamentals and Appli-cations, Springer, London, 2010.[8]  Le Canut, J. M., Abouatallah, R. M., Harrington, D. A.: Detection of Membrane Drying, Fuel Cell Flooding, and Anode Catalyst Po-isoning on PEMFC Stacks by EIS, Journal of The Electrochemical So-ciety, 153(5), str. A857–A864, 2006. [9]  Debenjak, A., Gašperin, M., Pre-gelj, B., Atanasijević-Kunc, M., Petrovčič, J., Jovan, V.: Detection of flooding and drying inside a PEM fuel cell stack, Strojniški vestnik – Journal of Mechanical Engineering, 59(1), str. 56–64, 2013.
+
+PEM fuel cell diagnostic moduleAbstract: The reliability of operation of fuel cells with proton exchange membrane (PEM) is closely related to faults that can occur inside the cell during operation. This paper describes a FCVM 2404 diagnostics mo-dule which makes possible the diagnostics measurements required for fault detection in the PEM fuel cells inside a larger stack of cells connected in series. The diagnostic module was designed around cost-effective solutions for measurement of voltage of all the fuel cells of the stack. Besides basic voltage measurement the module also provides the means for performing measurements that are used for diagnostics based on electrochemical impedance spectroscopy (EIS), which is an effective tool for diagnostics of water manage-ment faults. In addition, the paper outlines the proposed procedure of signal processing and computation of the impedance, which has been used for fault diagnostics on real PEM fuel cell system where the data was acquired with the diagnostics module. The results confirm that the FCVM 2404 diagnostics module provides enough accurate measurements required by the EIS method. Furthermore, the results also confirm the feasibility to diagnose the membrane drying and fuel cell flooding faults with the developed module and proposed procedure. However, an indication that the diagnostics of drying is more demanding in comparison to the diagnostics of flooding was observed. The diagnostics module along with diagnostics procedure presents an important element of more reliable PEM fuel cells of the future.Key words: PEM fuel cells, fault diagnostics, diagnostic module, electrochemical impedance spectroscopy
+
+LPKH-oglas_A5_210x148mm_mar13_press.pdf   1   18.3.2013   9:33:46
+
+
+
+

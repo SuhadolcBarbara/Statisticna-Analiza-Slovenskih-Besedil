@@ -1,0 +1,184 @@
+458
+
+Ventil 18 /2012/ 6 ¦1 UVOD Magnetno hlajenje temelji na izkori-ščanju magnetokaloričnega učinka, ki se kaže kot segrevanje magnetne-ga materiala, ko ta pride pod vpliv magnetnega polja, oziroma njegovo ohlajanje, ko se magnetno polje od-strani. Magnetokalorični učinek je v bolj ali manj izraziti obliki lastnost vseh magnetnih materialov. Najbolj je izrazit pri temperaturi fazne spre-membe materiala med feromagne-tnim in paramagnetnim področjem (Curiejeva temperatura). V zadnjem času se je v literaturi na področju magnetnega hlajenja uveljavil iz-raz magnetokalorični material, ki se uporablja za magnetne materiale z izrazitim magnetokaloričnim učin-kom. Magnetokalorični učinek je v splo-šnem analogen kompresiji in eks-panziji hladiva v dandanes široko uporabljani parno-kompresorski tehnologiji hlajenja. Cilj razvoja teh-nologije magnetnega hlajenja je, da bi ta tehnologija predstavljala alternativo parno-kompresorskemu hladilniku, ki je energetsko precej potraten, okolju neprijazen zaradi uporabe ozonu bolj ali manj ško-dljivih hladiv ter za mnoge aplikacije akustično neprimeren. Vse te slabo-sti bi lahko izboljšali oziroma izničili z uporabo magnetnega hlajenja.Nekaj desetletij po odkritju magne-tokaloričnega učinka, ki ga je leta 1881 v železu odkril nemški fizik Warburg [1], so raziskovalci ta uči-nek prepoznali kot možno aplikacijo za potrebe hlajenja. V dvajsetih in tridesetih letih prejšnjega stoletja sta Debye [2] in Giauque [3] nakaza-la možnost izkoriščanja magnetoka-loričnega učinka za hlajenje pri zelo nizkih temperaturah (tudi v bližini 0 K). V kasnejših letih je bilo opra-vljenih veliko raziskav na področju magnetnega hlajenja oziroma izko-riščanja magnetokaloričnega učin-ka, ki pa so se praviloma nanašale na nizke temperature (kriotehnika). Za začetek razvoja magnetnega hla-jenja pri temperaturi okolice velja izdelava prvega prototipa magne-tnega hladilnika za hlajenje pri tem-peraturi okolice, ki ga je leta 1976 predstavil Brown [4]. Pri tem je kot magnetokalorični material oziroma hladivo uporabil gadolinij, kot vir magnetnega polja pa superprevo-dni magnet. Za povečanje tempera-turnega razpona Brownov hladilnik vsebuje še regenerativni proces ozi-roma regeneracijo toplote. Magne-tokalorični učinek materialov s fazno spremembo v bližini temperature okolice je namreč relativno majhen, zato ga ni možno direktno aplicirati v hladilni sistem. Leta 1982 sta Barclay in Steyert [5] predstavila uporabo aktivnega magnetnega regenerator-INOVATIVNE HLADILNE TEHNOLOGIJEPregled razvoja magnetnega hlaje-nja na fakulteti za strojništvo (UL)Jaka TUŠEK, Samo ZUPAN, Alen ŠARLAH, Aleksander NOVAK, Urban TOMC, Andrej KITANOVSKI, Ivan PREBIL, Alojz POREDOŠ
+
+Dr. Jaka Tušek, univ. dipl. inž., dr. Samo Zupan, univ. dipl. inž., dr. Alen Šarlah, univ. dipl. inž., Ale-ksander Novak, dipl. inž., Urban Tomc, univ. dipl. inž., doc. dr. An-drej Kitanovski, univ. dipl. inž., prof. dr. Ivan Prebil, univ. dipl. inž., prof. dr. Alojz Poredoš, univ. dipl. inž.; vsi Univerza v Ljublja-ni, Fakulteta za strojništvo
+
+Izvleček: Prispevek opisuje pregled razvoja tehnologije magnetnega hlajenja na Fakulteti za strojništvo (UL) v zadnjih šestih letih (2006–2012). Kot UVOD  v obravnavano tematiko so najprej predstavljene osnove magne-tnega hlajenja in pregled stanja na obravnavanem področju. Drugi del prispevka opisuje razvoj rotirajočega prototipa magnetnega hladilnika, razvitega na Fakulteti za strojništvo. Opisani so osnovni principi delovanja, analiza strukture za ustvarjanje magnetnega polja ter nekatere konstrukcijske težave, ki otežujejo učinkovito delovanje. V tretjem delu prispevka je opisana razvita in izdelana eksperimentalna proga za testiranje aktivnih magnetnih regeneratorjev (AMR) kot osnovnega elementa magnetnega hladilnika. Ugotovljen je bil izjemen vpliv geometrije AMR-ja na delovanje magnetnega hladilnika. Nadalje je opisana inovativna metoda za izde-lavo AMR-ja, ki temelji na tehnologiji laserskega varjenja. V zaključnem delu je predstavljeno nadaljnje delo na tem področju, ki med drugim zajema alternativno rešitev za hitrejši prenos toplote v AMR-ju z uporabo toplotnih diod.Ključne besede: magnetno hlajenje, magnetokalorični učinek, aktivni magnetni regenerator, magnetno polje
+
+
+
+
+459
+
+Ventil 18 /2012/ 6INOVATIVNE HLADILNE TEHNOLOGIJEja (AMR), ki deluje kot regenerator toplote, pri čemer je magnetokalo-rični material hkrati v funkciji rege-nerativnega materiala. AMR je torej v magnetnem hladilniku tako v vlo-gi regeneratorja kot v vlogi hladiva. Princip AMR-ja se je v kasnejših letih izkazal za najučinkovitejši način izko-riščanja magnetokaloričnega učinka pri temperaturi okolice. Da bi tehnologija magnetnega hlajenje lahko postala alternativa klasični kompresorski tehnologiji hlajenja, dokazuje 41 izdelanih la-boratorijskih prototipnih magnetnih hladilnikov [6]. Prototipi dosegajo hladilne moči do 800 W in tempera-turne razpone do 30 K, odvisno od gostote magnetnega polja ter ko-ličine in oblike uporabljenega ma-gnetokaloričnega materiala oziroma AMR-ja. Večina novejših prototipov, izdelanih v zadnjih 10 letih, temelji na principu AMR-ja in za ustvarjanje magnetnega polja uporablja per-manentne magnete, ki so z energet-skega stališča veliko ustreznejši kot elektromagnetne naprave. 1.1 Princip delovanja magnetnega hladilnika Za lažje razumevanje delovanja magnetnega hladilnika na principu AMR-ja je na sliki 1 prikazana she-ma njegovega delovanja. AMR je porozna struktura iz magnetoka-loričnega materiala in predstavlja »srce« magnetne hladilne naprave. Poleg AMR-ja magnetni hladilnik vsebuje še vir magnetnega polja, ki ga lahko ustvarjajo permanentni magneti ali elektromagneti oziroma superprevodni magneti, dva zuna-nja prenosnika toplote ter tekočino za prenos toplote, ki prenaša toplo-to iz magnetokaloričnega materiala v AMR-ju preko zunanjih prenosni-kov toplote na okolico. V splošnem poteka krožni proces z AMR-jem v naslednjih štirih fazah:a) Magnetenje, pri čemer se ma-gnetokalorični material zaradi magnetokaloričnega učinka v AMR-ju segreje; dosežemo ga s premikom AMR-ja v magnetno polje ozirom z vključitvijo ma-gnetnega polja. b) Tok tekočine iz hladnega preno-snika toplote (HPT) v topel pre-nosnik toplote (TPT) ob konstan-tnem (visokem) magnetnem polju preko (oz. skozi) segrete-ga AMR-ja. Tekočina za prenos toplote se pri tem segreje (ma-gnetokalorični material v AMR--ju pa ohladi) in vstopa v TPT s temperaturo, ki je nekoliko višja od temperature okolice, pri če-mer se toplota odda v okolico. c) Razmagnetenje, pri čemer se magnetokalorični material za-radi magnetokaloričnega učinka v AMR-ju ohladi; AMR prema-knemo izven magnetnega polja oziroma magnetno polje izklju-čimo.d) Tok tekočine iz TPT v HPT (proti-točno glede na fazo B) ob kon-stantnem (nizkem) magnetnem polju preko ohlajenega AMR-ja. Tekočina za prenos toplote se pri tem ohladi (magnetokalorič-ni material v AMR-ju pa segreje) in vstopa v HPT s temperaturo, ki je nekoliko nižja od tempe-rature hlajenega prostora, ter s tem iz njega absorbira toploto. 1.2 Magnetokalorični materialiV preteklih letih se je kot referenčni oziroma prototipni magnetokalorič-ni material uveljavil gadolinij (Gd), na osnovi katerega je bila opravljena tudi večina eksperimentalnih in teo-retičnih analiz. Bistven napredek pri razvoju magnetokaloričnih materia-lov s fazno spremembo pri tempera-turi okolice je bil narejen leta 1997, ko sta Pecharsky in Gschneidner [7] predstavila odkritje tako imenova-nega velikega magnetokaloričnega učinka (angl. giant magnetocaloric effect) v zlitini Gd5Si2Ge2. Velik ma-gnetokalorični učinek je posledica fazne spremembe prvega reda v materialu in je lahko tudi do 50 % večji od magnetokaloričnega učinka materialov s fazno spremembo dru-gega reda (npr. gadolinij). Razisko-vanje magnetokaloričnih materialov s fazno spremembo prvega reda se je s tem zelo razširilo na številne in-štitute in univerze po svetu. Tako je bilo v zadnjih desetih letih odkritih več materialov z velikim magneto-kaloričnim učinkom. Med njimi sta za potrebe magnetnega hlajenja pri temperaturi okolice trenutno naj-bolj zanimivi zlitini na osnovi La-Fe--Si (npr. La-Fe-Co-Si, La-Fe-Si-H in La-Fe-Mn-Si) in Mn-Fe (npr. Mn-Fe--P-Si in Mn-Fe-As), trenutno pa še ni mogoče potrditi, kateri od mate-rialov se bo uveljavil kot najprimer-nejši. Veliko je namreč odvisno tudi od končne tržne cene in mehanskih ter fizikalnih lastnosti, ki omejujejo tehnološke možnosti predelave teh materialov.Slika 1. Shematski prikaz delovanja magnetnega hladilnika na osnovi AMR-ja
+
+
+
+
+460
+
+Ventil 18 /2012/ 6INOVATIVNE HLADILNE TEHNOLOGIJE ¦2 Prototip rotirajočega magnetnega hladilnika V želji po razvoju proto-tipa magnetnega hladil-nika, ki bi lahko bil kon-kurenčen kompresorskim hladilnim napravam, smo v Laboratoriju za hlajenje in daljinsko energetiko (LAHDE) v sodelovanju s Centrom za modeliranje elementov in konstrukcij (CEMEK) izdelali prototip rotirajočega magnetne-ga hladilnika [8, 9]. Ta je bil v času funkcionalnega zagona eden izmed prvih 8 rotirajočih prototipov na svetu. 2.1 Zasnova in princip delovanja prototipaRazviti magnetni hladilnik temelji na rotirajočem gibanju AMR-jev (34 AMR-jev, nameščenih v rotirajočem bobnu) v magnetnem polju, ki ga ustvarja struktura iz permanentnih magnetov Nd-Fe-B. Kot je prika-zano na sliki 2, štirje permanentni magneti s fokusnimi elementi zunaj in znotraj rotirajočega bobna s po-močjo povezovalnih elementov iz mehkega feromagnetnega materia-la v štirih zračnih režah zagotavljajo močno in homogeno magnetno po-lje. Med štirimi takšnimi področji so na obsegu bobna še štiri nekoliko širša območja razmagnetenja z zelo šibkim magnetnim poljem. Struktu-ra za ustvarjanje magnetnega polja, simulirana oziroma preračunana v programu FEMM, je prikazana na sliki 2 (levo), medtem ko je na sliki 2 (desno) prikazana primerjava med izračunano gostoto magnetnega polja ter njenimi izmerjenimi vre-dnostmi z uporabo triosne Hallove sonde [10]. Slika in shema celotnega sistema magnetnega hladilnika sta prika-zani na sliki 3 in 4. Osnovni princip delovanja magnetnega hladilnika je sledeč: Tekočina (npr. voda) se pre-taka iz toplega rezervoarja 1 (poz. 6) preko ohlajenih AMR-jev, ki se v danem trenutku nahajajo v obmo-čjih razmagnetenja, v hladni rezer-voar 2 (poz. 7). Od tu se tekočina preko hladnega prenosnika toplote (kjer tekočina absorbira toploto iz okolice) pretaka v hladni rezervoar 1 (poz. 8) ter nadalje preko segretih AMR-jev, ki se v danem trenutku na-hajajo v območju magnetenja, v to-pli rezervoar 2 (poz. 5). Od tu dalje se tok tekočine nadaljuje preko eks-panzijske posode (poz. 13) in obtoč-ne črpalke (poz. 14) v topli prenosnik toplote (kjer tekočina odda toploto v okolico). Nato se tekočina preko filtra (poz. 16) vrne v topli rezervoar 1, s či-mer se tokokrog zaključi. Smer toka tekočine preko AMR-jev uravnavamo z rotirajočim razdelilnikom (poz. 4), ki z relativnim gibanjem dveh plošč usmerja tekočino protitočno v pravil-ne prekate oziroma v pravilno posta-vljene AMR-je glede na njihov trenu-tni položaj v magnetni strukturi. Pogon bobna z AMR-ji je izveden z zobniškim prenosom. Pastorek je montiran neposredno na izstopno gred asinhronskega EM, zobati venec pa je izdelan na obodu čelne plošče bobna (PA6 z mineralnim oljem). Za zagotavljanje protitočnega de-lovanja AMR-jev oziroma za krmi-ljenje toka tekočine je na vsaki strani bobna potreben razdelilnik te-kočine oziroma ventil (slika 4). Pri oblikovanju razdelilnikov je bil eden od ciljev čim manjša širi-na celotnega sistema oz. čim krajši kanali za teko-čino. Razdelilnik je zato izdelan v obliki aksialne-ga drsnega ležaja, kjer je pritisna sila kontrolirana s kompletom tlačnih vzmeti. Kot drsni par sta bila najprej uporabljena Slika 2. Analiza porazdelitve magnetne poljske gostote v strukturi iz štirih permanentnih magnetov (smer magnetenja je označena s puščicami) v rotirajočem magnetnem hladilniku
+
+00,10,20,30,40,50,60,70,80,910100200300magnetna poljska gostota  [T] kot rotacije [°] 
+
+meritev
+
+program FEMM
+
+Slika 3. Slika (levo) in shema (desno) magnetnega hladilnika
+
+112234456789101112131415161717TOPLIPRENOSNIKTOPLOTEHLADNIPRENOSNIKTOPLOTEmagnetAMRAMRHLADNIREZERVOARIITOPLIREZERVOARIIUHAJANJE TEKOČINE (LEKAŽA)TOPLIREZERVOARIHLADNIREZERVOARI
+
+OBVOD TEKOČINEmagnet
+
+ 
+
+ 
+
+
+
+
+461
+
+Ventil 18 /2012/ 6INOVATIVNE HLADILNE TEHNOLOGIJESlika 4. Pretočna shema s toplim (levo) in hladnim (desno) razdelilnikom tekočine ter rotirajočim bobnom z AMR-ji (sredina) 
+
+ 
+
+nerjavno jeklo in plošča iz polia-mida, kar pa se, zaradi prevelikega uhajanja tekolične (lekaža), ni izka-zalo kot dobra rešitev. Kasneje smo poliamid zamenjali z oblogo PTFE, nalepljeno in obdelano na osnovni plošči iz Al-zlitine. Tesnjenje med vrtečimi se in mirujočimi deli smo izvedli s standardnimi radialnimi grednimi tesnili, tesnjenje v sestavi bobna (čelni plošči-boben z AMR--ji) pa z lasersko izrezanimi plošča-timi tesnili, ki sta stisnjeni z vijačno zvezo.2.2 Obratovalne in konstrukcijske težave ter nadaljnji razvojPo opravljeni montaži in nekaj ko-rekcijah je izvedba delovala v okvi-ru pričakovanj, pokazalo pa se je tudi nekaj pomanjkljivosti. Vsako generiranje toplote zaradi trenja v razdelilniku tekočine ter tesnilih povzroča težave, kar smo delno tudi pričakovali. Pri tem je precej težav izviralo tudi iz tehnologije obdelave. Oblikovna in dimenzijska stabilnost in točnost delov, izdelanih iz polia-mida, sta močno odvisni od tempe-rature in absorpcije vlage. Največja možna dosežena točnost pri odre-zavanju je zato zaradi generiranja toplote močno omejena že pri izde-lavi. Med samim delovanjem pa se predvsem zaradi prisotnosti tekoči-ne (vlaga) in lokalnega generiranja toplote (trenje) stanje še poslabšuje. Ključni deli bi zato morali biti izde-lani iz časovno in temperaturno sta-bilnih ter toplotno slabo prevodnih materialov (keramika). Uporaba standardnih grednih tesnil je sicer za izdelavo prototipa cenov-no ugodna, vendar funkcionalno ne najbolj primerna. Zunanje tesnilo je zaradi velikosti preveč robustno in povzroča prevelik vrtilni upor kljub prilagajanju toleranc. Podobno ve-lja tudi za razdelilnik tekočine (velik premer in površina). To je bilo sicer pri določanju moči pogona predvi-deno, vendar se žal zaradi trenja v tesnilih in v drsnih razdelilnikih ge-nerira precej toplote, ki kvari učinek hladilnika. Pri zmanjševanju trenja (manjše pritisne sile) pa se pojavlja večji delež uhajanja tekočine (leka-ža), ki se sicer vrača nazaj v sistem, vendar prav tako poslabšuje učinek. Izkazalo se je, da je z izbranimi ma-teriali in tehnologijami obdelave težko doseči ustrezno oblikovno točnost (ploskost) dotičnih površin drsnega razdelilnika, pri kateri bi ta lahko deloval z ustrezno majhno pritisno silo in minimalno lekažo.S prvimi opravljenimi meritvami smo dokazali princip delovanja in pri tem ustvarili določen tempera-turni razpon med toplo in hladno stranjo magnetnega hladilnika. Boljši rezultati pa so bili zaradi zgo-raj omenjenih težav do tega trenut-ka onemogočeni. Nekatere slabosti in prednosti razvitega prototipa so bile upoštevane pri zasnovi drugega rotirajočega prototipa (slika 5), ki je trenutno še v fazi razvoja in je plod sodelovanja laboratorijev LAHDE in CEMEK ter slovenske industrije. ¦3 Eksperimentalna naprava za testiranje aktivnih magnetnih regeneratorjevKljučni in osrednji element celotne-ga sistema magnetnega hladilnika predstavlja AMR, zato je njegovo optimiranje pri razvoju magnetne-ga hladilnika bistvenega pomena. V želji po podrobnejši analizi delo-vanja AMR-ja sta bila v laboratoriju Slika 5. Fotografija (levo) in model (desno) rotirajočega prototipa magne-tnega hladilnika druge generacije
+
+ 
+
+
+
+
+462
+
+Ventil 18 /2012/ 6INOVATIVNE HLADILNE TEHNOLOGIJELAHDE razvita dva numerična mode-la za simuliranje in optimiranje AMR-ja [11, 12, 13]. Poleg tega je bila v želji po optimiranju geome-trije in obratovalnih pogojev AMR-ja v sodelovanju s Cen-trom za modeliranje elementov in kon-strukcij (CEMEK) ter slovensko industrijo razvita eksperimen-talna naprava za testiranje AMR-jev, ki je prikazana na sliki 7 [14]. 3.1 Zasnova in princip delovanja eksperimentalne napraveEksperimentalna naprava je se-stavljena iz premične strukture za ustvarjanje magnetnega polja iz permanentnih magnetov Nd-Fe-B (slika 6), iz statičnega AMR-ja in iz sistema za protitočno prečrpavanje tekočine. AMR je nameščen v osre-dnji del naprave, poleg njega pa se v osrednjem delu nahaja še preno-snik toplote, ki na topli strani AMR--ja zagotavlja temperaturo okolice (oziroma želeno konstantno tempe-raturo), ter električni grelnik, ki pre-ko regulirane električne moči deluje kot simulator hladilne moči. Delovanje eksperimentalne napra-ve temelji na recipročnem gibanju magnetne strukture, ki s tem zago-tavlja magnetenje in razmagnete-nje magnetokaloričnega materiala v AMR-ju. Gibanje magnetne struk-ture omogoča pnevmatski cilinder. Protitočni pretok tekočine skozi AMR preko dveh batov v predelanih pnev-matskih valjih zagotavlja električni aktuator z nastavljivo hitrostjo in dol-žino hoda. Eksperimentalna proga izvaja štiri osnovne faze krožnega procesa AMR-ja: magnetenje – tok tekočine – razmagnetenje – tok te-kočine (protitočno). Naprava uspešno deluje že od sredine leta 2010, na njej se praktično vsak dan izvajajo različ-ne meritve in je do danes opravila že skoraj 10 milijonov krožnih procesov. V primerjavi z rotirajočim magne-tnim hladilnikom je delovanje pred-stavljene eksperimentalne naprave počasnejše (manjša obratovalna frekvenca oziroma manjše števi-lo opravljenih krožnih procesov v enoti časa) in – zaradi recipročnega gibanja magnetne strukture – manj učinkovito. Velika prednost takšne naprave pa je v manjših izgubah, ki so povezane z zagotavljanjem pro-titočnega delovanja AMR-ja, saj pri tem ne potrebujemo več razdelilni-ka toka tekočine, ter v enostavni in hitri menjavi obratovalnih pogojev, kar je za izvajanje večjega števila meritev bistvenega pomena.3.2 Opis eksperimentalne analize AMR-jevNa predstavljeni eksperimentalni napravi je bila opravljena obsežna analiza šestih različnih oblik AMR--ja z gadolinijem kot magnetokalo-ričnim materialom (slika 8). Analizo AMR-jev smo zasnovali na štirih osnovnih oblikah gadolinija, in si-cer: ravne ploščice, kroglice, prah in valjčki. V splošnem lahko analizira-ne geometrije AMR-jev razdelimo v dve skupini, to so urejene struk-ture oziroma ravne ploščice (A, B in C) ter nasute strukture (D, E in F). V sklopu urejenih struktur smo ana-lizirali tri različne AMR-je iz ravnih ploščic. Dva z razporeditvijo ploščic vzporedno z magnetnim poljem in enega, ki ima ploščice postavljene pravokotno nanj. Ploščice so v vseh treh primerih debele 0,25 mm, pri tem pa ima AMR (A) razmik med ploščicami 0,1 mm, AMR (B) in (C) pa 0,25 mm. Valjčki imajo dolžino 4 mm in premer 2,5 mm, medtem ko imajo prah in kroglice največjo dimenzijo oziroma premer med 0,35 in 0,5 mm. Predmet analize je bil vpliv obratovalne frekvence in masnega pretoka tekočine na dose-žen temperaturni razpon in hladilno moč posamezne-ga AMR-ja.    Najboljše hladil-ne karakteristi-ke (temperaturni razpon in hladilna moč) so bile iz-merjene z AMR--jem (A), ki ima Slika 6. Fotografija strukture iz štirih permanentnih magnetov (smer magnetenja je označena s puščicami), uporabljene v eksperimentalni napravi (levo), in rezultati meritve magnetne poljske gostote s triosno Hallovo sondo (desno)
+
+00,20,40,60,811,2050100150200250300magnetna poljska gostota [T] razdalja [mm] 
+
+50mm
+
+Slika 7. Slika (levo) in shema (desno) eksperimentalne naprave za testiranje AMR-jev
+
+električni aktuatorpnevmatskicilinderzvodilomAMR
+
+termoelement
+
+SN
+
+A,Vampermeter/voltmeter
+
+komprimiranzraktermostat.kopel
+
+A,V
+
+variablinitransform.
+
+     
+
+200mm
+
+ 
+
+
+
+
+463
+
+Ventil 18 /2012/ 6INOVATIVNE HLADILNE TEHNOLOGIJESlika 8. Fotografije analiziranih AMR-jev iz gadolinijanajboljše lastnosti prenosa toplote (velika površina za prenos toplote in majhen hidravlični premer). Sledita AMR (B) in (C). Med nasutimi struk-turami se je za najboljšega izkazal AMR (F), ki je v splošnem primerljiv z AMR-jem (B). Precej slabše hladil-ne karakteristike so bile izmerjene s prahom in valjčki, saj imajo za razli-ko od kroglic več kot eno prostor-sko stopnjo. To pomeni, da se lahko takšni delčki znotraj AMR-ja poljub-no orientirajo, kar poslabša homo-genost porazdelitve materiala ter enakomernost pretoka tekočine in posledično učinkovitost regenera-cije toplote. Slika 9 prikazuje vzpo-stavitev temperaturnega razpona med toplo in hladno stranjo AMR--ja (A), pri čemer smo dosegli 20 K temperaturnega razpona. To je gle-de na dostopno literaturo v svetov-nem merilu največji do sedaj izmer-jen temperaturni razpon AMR-ja iz ploščic, pri čemer magnetno polje ustvarjajo permanentnimi magneti.     3.3 Inovativna metoda postopka izdelave AMR-jaV želji po izdelavi AMR-ja s čim bolj-šimi lastnostmi prenosa toplote (čim tanjše magnetokalorične ploščice in čim manjši razmik med njimi) smo urejene AMR-je, predstavljene na sliki 8, izdelali s postopkom laser-skega varjenja [15]. Shema AMR-ja, izdelanega po tem postopku, je prikazana na sliki 10. Postopek izdelave je sledeč. Na ploščico iz magnetokaloričnega materiala se na njen rob lasersko privari distančnik iz poljubnega, z magnetokaloričnim materialom va-rivega materiala. Distančnik naj bo čim tanjši, saj zmanjšuje površino za prenos toplote med magnetoka-loričnim materialom in tekočino, ki se pretaka preko AMR-ja. Debelina distančnika, ki definira razmik med ploščicami magnetokaloričnega materiala, pa naj bo s stališča preno-sa toplote čim manjša. V naslednjem koraku na distančnik, privarjen na ploščico magnetokaloričnega ma-teriala, privarimo naslednjo ploščico magnetokaloričnega materiala, na katero ponovno privarimo distanč-nik. Ta postopek ponavljamo, dokler ne dosežemo želene višine AMR-ja. Takšen način izdelave AMR-ja se je glede na meritve, opravljene v ek-sperimentalni napravi, izkazal za najprimernejšega, saj lahko s tem zagotovimo poljubno majhno de-belino distančnika ter popolnoma enake razmike med ploščicami, kar je za delovanje AMR-ja in posledič-no magnetnega hladilnika izjemne-ga pomena. ¦4 Aktivni magnetni regenerator z uporabo toplotnih diodV zadnjem letu v laboratoriju LAHDE potekajo intenzivne raziskave alter-nativne rešitve AMR-ja z uporabo 
+
+ 
+
+ 
+
+ 
+
+(A.)
+
+ 
+
+vzporedne ploščice
+
+ 
+
+ 
+
+ 
+
+(B.) vzporedne ploščice 
+
+ 
+
+(C.) pravokotne ploščice
+
+ 
+
+ 
+
+(D.) valjčki
+
+ 
+
+ 
+
+(E.) prah
+
+ 
+
+ 
+
+(F.) kroglice
+
+ 
+
+ 
+
+ 
+
+ 
+
+Slika 9. Prikaz ustvarjenega temperaturnega razpona med toplo in hladno stranjo AMR-ja za primer AMR-ja (A)
+
+
+
+
+464
+
+Ventil 18 /2012/ 6INOVATIVNE HLADILNE TEHNOLOGIJEtoplotnih diod. Glavna slabost do sedaj poznanega AMR-ja je pred-vsem nizka frekvenca obratovanja (število termodinamičnih ciklov na enoto časa), ki je med drugim po-sledica slabih preoblikovalnih la-stnosti večine magnetokaloričnih materialov ter relativno nizke to-plotne prestopnosti med magneto-kaloričnim materialom in delovno tekočino. Ena od alternativ oziro-ma rešitev omenjenega problema je uporaba toplotnih diod kot dela AMR-ja. Kot nakazujejo začetni teo-retični rezultati, bi lahko s tem dra-stično zvišali hitrost prenosa toplote iz magnetokaloričnega materiala oz. vanj ter s tem frekvenco obratovanja celotne naprave in posledično hla-dilno moč. Poleg tega je prednost takšnega koncepta tudi v enostav-nosti izvedbe, saj ne potrebujemo več protitočnega pretoka tekočine preko AMR-ja ter s tem povezanih razdelilnikov toka tekočine. Funkcijo protitočnega delovanja namreč pre-vzameta toplotni diodi, zato se te-kočina v prenosnikih toplote lahko pretaka kontinuirano [16, 17].Toplotna dioda je fizikalni pojav, mehanizem ali naprava, s katero je moč manipulirati smer in intenziteto toplotnega toka. Toplotne diode iz-hajajo iz različnih fizikalnih področij, kot na primer fizika trdne snovi, ma-gneto-hidrodinamika in elektro-hid-rodinamika. Tipičen primer toplotne diode je na primer Peltierov element.Slika 11 prikazuje shemo AMR-ja z uporabo toplotnih diod. Način de-lovanja je v splošnem podoben de-lovanju klasičnega AMR-ja. Po fazi magnetenja magnetokaloričnega materiala se vklopi toplotna dioda 1 (pri tem deluje toplotna dioda 2 kot toplotni izolator) in prične pospe-šeno črpati toploto iz magnetoka-loričnega materiala na toplo delov-no tekočino. Po fazi razmagnetenja magnetokaloričnega materiala se vklopi toplotna dioda 2 (pri tem to-plotna dioda 1 deluje kot toplotni izolator) in prične pospešeno črpati toploto iz hladne delovne tekočine v magnetokalorični material.  ¦5 ZaključekOpravljene raziskave in razvoj na področju tehnologije magnetnega hlajenja v zadnjih letih so Fakul-teto za strojništvo (UL) postavile v sam svetovni vrh tega področja. Vsekakor pa bo za preboj te teh-nologije na trg potrebnih še veliko nadaljnjih raziskav, in sicer tako na področju razvoja rotirajočih ma-gnetnih hladilnikov oziroma ustre-znega razdelilnika toka tekočine, ki bi deloval ob čim manjših izgubah, kot razvoja učinkovitejšega AMR-ja, ki bi bil zmožen obratovati pri čim višjih obratovalnih frekvencah. Tre-nutno je v želji po komercializaciji magnetnega hlajenja ena glavnih omejitev cena permanentnih ma-gnetov in magnetokaloričnih mate-rialov. Ti v večini temeljijo na redkih zemljah (angl. rare earths), katerih cena v zadnjih letih močno raste. Iz tega vidika je torej še toliko bolj pomembno, da sta tako AMR kot celotna magnetna hladilna naprava čim bolj optimirana. To pomeni, da iz določene mase permanentnega magneta in magnetokaloričnega materiala AMR oziroma magnetni hladilnik ustvari čim večji tempera-turni razpon in hladilno moč ob čim večji učinkovitosti oziroma hladil-nem številu (COP).  Literatura[1] E. Warburg. Magnetic investiga-tions (In German). Annalen der Physik und Chemie, 13: 141–164, 1881.[2] P. Debye. Einige bemerkungen zur 
+
+distančnik
+
+zvar
+
+ploščica magnetokaloričnega materiala
+
+ 
+
+Slika 10. Shema lasersko zavarjenega AMR-jaSlika 11. Koncept aktivnega magnetnega regeneratorja z uporabo toplotnih diod
+
+TopliprenosniktoploteHladniprenosniktoploteToplotnadioda1Magnetokalorični materialPermanentnimagnet
+
+Tok tekočineTok tekočine
+
+Smermagnetnegatoka
+
+Toplotnadioda2
+
+ 
+
+
+
+
+465
+
+Ventil 18 /2012/ 6INOVATIVNE HLADILNE TEHNOLOGIJEmagnetisierung bei tiefer tem-peratur. Annalen der Physik und Chemie, 81: 1154–1160, 1926.[3] W. Giauque. A thermodynamic treatment of certain magnetic ef-fect. A proposed method of pro-ducing temperatures conside-rably below 1 degrees absolute. Journal of the American Chemical Society, 49: 1864–1870, 1927.[4] G. Brown. Magnetic heat pumping near room temperature. Journal of Alloys and Compounds, 47: 3673–3680, 1976.[5]  J. A. Barclay in W. A. Steyert. Active magnetic regenerator. U.S. Patent No. 4.332.135, 1982.[6]  B. Yu, M. Liu, P. W. Egolf, in A. Kita-novski. A review of magnetic re-frigerator and heat pump proto-types built before the year 2010. International Journal of Refrige-ration, 33: 1029–1060, 2010.[7] V. K. Pecharsky in K. A. Gschneidner Jr. Giant magnetocaloric effect in Gd5(Si2Ge2). Physical Review Let-ters, 78: 4494–4497, 1997.[8] J. Tušek, S. Zupan, A., I. Prebil in A. Poredoš. Magnetic cooling – De-velopment of Magnetic Refrige-rator. Strojniški vestnik – Journal of Mechanical Engineering, 55, 2009.[9] J. Tušek, S. Zupan, A. Šarlah, I. Pre-bil in A. Poredoš. Development of a rotary magnetic refrigerator. In-ternational Journal of Refrigerati-on, 33: 294–300, 2010.[10] J. Tušek, A. Šarlah, A. Poredoš in D. Fefer. Optimization of the ma-gnetic field in a magnetic refri-gerator. Informacije MIDEM, 39: 105–110, 2009.[11] A. Šarlah in A. Poredoš. Dimen-sionless numerical model for simulation of active magnetic regenerator refrigerator. Interna-tional Journal of Refrigeration, 33: 1061–1067, 2010.[12] A. Šarlah, J. Tušek in A. Poredoš. Comparison of Thermo-Hydraulic Properties of Heat Regenerators Applicable to Active Magnetic Refrigerators. Strojniški vestnik – Journal of Mechanical Enginee-ring, 58: 16–22, 2009.[13] J. Tušek, A. Kitanovski, I. Prebil in A. Poredoš. Dynamic operation of an active magnetic regenerator (AMR): Optimization of a packed--bed AMR. International Journal of Refrigeration, 34: 1507–1517, 2011.[14] J. Tušek, S. Zupan, A. Kitanovski, I. Prebil in A. Poredoš. A coprehesi-ve experimental analysis of gado-linium active magnetic regenera-tors. Poslano v znanstveno revijo Applied Thermal Engineering.[15] J. Tušek, K. Pompe, A. Kitanovski, J. Tušek in A. Poredoš. Postopek izdelave aktivnega magnetnega regeneratorja. Patentna prijava P-201200342. [16] A. Kitanovski in P. W. Egolf. Inno-vative ideas for future research on magnetocaloric technologies, International Journal of Refrige-ration 33: 449–464, 2010.[17] U. Tomc, J. Tusek, A. Kitanovski in A. Poredos. Termoelectric-ma-gnetocaloric energy conversion, Fifth IIF-IIR International Confe-rence on Magnetic Refrigeration at Room Temperature, Thermag V, Grenoble, France, 2012.
+
+A Review of the Development of Magnetic Refrigeration at the Faculty of Mecha-nical Engineering (UL)Abstract: The paper describes an overview of the development of the magnetic refrigeration technology at the Faculty of Mechanical Engineering (UL) in the last six years (2006-2012). The short review and the basics of the magnetic refrigeration technology are described in the introduction of the paper. The second part of the paper presents the development of the prototype of the rotary magnetic refrigerator developed at the Faculty of Mechanical Engineering. The basic operational principle and the analysis of the magnet as-sembly of the prototype are shown, and furthermore, some constructional problems which enable efficient operation are described as well. In the third part of the paper the developed and built experimental device for the analysis of the active magnetic regenerator (AMR), as the key element of the magnetic refrigerator, is presented. It has been shown that the geometry of the AMR has a crucial impact on the operation of the magnetic refrigerator. The innovative technology for the construction of the AMR based on the laser welding is presented and described as well. The final part of the paper presents the future work in the field of magnetic refrigeration, which includes the alternative solution for a faster heat transfer in the AMR by using thermal diodes.   Keywords: magnetic refrigeration, magnetocaloric effect, active magnetic regenerator, magnetic field 
+
+ZahvalaAvtorji prispevka se zahvaljujemo Agenciji za raziskovalno dejavnost Republike Slovenije (ARRS) za financira-nje aplikativnega raziskovalnega projekta RAZVOJ MAGNETNEGA HLADILNIKA (L2-2146 (B)).Zahvala za sodelovanje pri razvoju gre tudi podjetju SMM proizvodni sistemi, d. o. o., podjetju Horjak - Pre-cise, d. o. o., Domžale, in podjetju TKC, d. o. o. iz Ljubljane.
+
+
+
+

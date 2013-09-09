@@ -1,0 +1,114 @@
+
+
+Za druge pomene glej Pascal (razločitev).
+
+
+
+
+Blaise Pascal
+
+
+
+
+
+
+Blaise Pascal
+iz knjige »Praktična fizika« (»Practical Physics«) iz leta 1914
+
+
+Blaise Pascal [blêz paskál], francoski matematik, filozof in fizik, * 19. junij 1623, Clermont-Ferrand, Puy-de-Dôme, Auvergne, Francija, † 19. avgust 1662, Pariz, Francija.
+
+
+Vsebina
+
+
+1 Življenje
+2 Delo v matematiki
+3 Delo v fiziki
+4 Priznanja
+5 Navedki
+6 Glej tudi
+7 Zunanje povezave
+
+
+Življenje
+Blaise Pascal velja za enega največjih neuresničenih talentov v zgodovini matematike. S svojo izjemno matematično nadarjenostjo in s prav neverjetno intuicijo v geometriji bi ob nekoliko drugačnih življenjskih okoliščinah v znanosti zapustil najbrž daleč globlje sledi. Žal mu je dokaj ustvarjalne energije pobral njegov nenehen boj s krhkim zdravjem, razen tega pa se je v zrelih ustvarjalnih letih večinoma ukvarjal bolj z religioznimi vprašanji kot z znanostjo. Ostal je eden najkontroverznejših genijev v vsej zgodovini zahodne misli.
+Že kot dete se je moral Pascal boriti z boleznimi, menda so se dolgo bali celo za njegovo življenje. V šolo kasneje prav zaradi svojega krhkega zdravja ni hodil, pač pa je imel domačega učitelja. Njegov oče se je namreč bal, da bi se njegov zagnanec zaradi učenja v šoli preveč izčrpal. Domačemu učitelju je celo naročil, naj da dečku predvsem dobro humanistično izobrazbo s poudarkom na latinskem in grškem jeziku, izogiba pa se naj zahtevne matematike. Kljub temu se je Pascal odločil žrtvovati ves svoj prosti čas za študij geometrije. V vsega nekaj tednih je samostojno in na povsem samosvoj odkril več izrekov evklidske geometrije. Oče po vsem tem seveda ni mogel več skrivati navdušenja nad sinovim talentom. Podaril mu je Evklidove Elemente in mu priskrbel najboljše pogoje za matematično izobrazbo.
+Leta 1640 je Pascal kot komaj šestnajstletni mladenič napisal izvrstno razpravo iz projektivne geometrije z naslovom Razprava o stožnicah (Essai pour les coniques), dolgo vsega eno stran. Na njej se je predstavil z enim od svojih sploh največjih odkritij v matematiki - z znamenitim izrekom o šestkotniku, včrtanemu stožnici, kasneje znanim tudi pod priljubljenim imenom mistični heksagram. Ko je razprava prišla v roke Renéju Descartesu, se mu je zdela naravnost briljantna in menda dolgo ni mogel verjeti, da jo je resnično napisal tak mladenič. Podobno je bil kasneje leta 1676 ob njenem prebiranju začuden tudi nemški matematik Gottfried Wilhelm Leibniz. Žal razprava ni bila nikdar objavljena in danes velja za izgubljeno.
+Pri osemnajstih je Pascal izumil in sestavil računski stroj Pascaline, prvi takšne vrste v zgodovini, ki je zmogel seštevati in odštevati. Z njim je pomagal očetu pri njegovi obsežni reorganizaciji davčnega sistema v mestu Rouen, kjer je dobil mesto glavnega davkarja.
+Nesrečni dogodek v novembru leta 1654, ko se je Pascal s konjsko vprego prevrnil in komaj ostal živ, pa je močno spremenil nadaljnji potek njegovega življenja. V njem je namreč zaznal skrivnostno opozorilo, da so njegove matematične dejavnosti vse prej kot po Božji volji. Odločil se je, da se poslej posveti izključno premišljevanju o veri in Bogu. Kmalu zatem se je pridružil skupini zavzetih kristjanov, ki se je zbirala okrog samostana Port Royal, in ji ostal zvest do smrti. Lotil se je pisanja zagovora krščanstva, a je njegovo delo ostalo nedokončano. Prijatelji so po smrti zbrali gradivo na lističih in ga izdali pod naslovom Misli.
+Delo v matematiki
+V matematiki se je ukvarjal s stožčevimi preseki, teorijo števil, kjer je znan njegov Pascalov aritmetični trikotnik binomskih koeficientov ali Pascalova matrika, ki ga je sestavil leta 1653 v delu Razprava o aritmetičnem trikotniku (Traité du triangle arithmétique).
+Pascal je znan z verjetnostnim računom, s krivuljami kjer je znana ravninska krivulja 4. reda, imenovana Pascalov polž ali polževka, ki je konhoida kroga in kot poseben primer srčnica (kardioida), ki je epicikloida. Pascalov polž je določen s kartezičnimi koordinatami (x, y) z:
+
+
+
+s koeficientom:
+
+
+
+v parametrični obliki:
+
+
+
+
+
+
+in v polarnih koordinatah (r, φ):
+
+
+
+Če je  ali  imenujemo krivuljo srčnico ali kardioido, ki je epicikloida, kjer sta premer premičnega in nepremičnega kroga enaka. V geometriji sta znana Papos-Pascalov (glej Papos) in splošni Pascalov izrek, ki ga je Pascal dokazal okoli leta 1639: po dve in dve nasprotni stranici stožnici včrtanega šesterokotnika se sekajo v točkah, ki leže na isti premici. Oba izreka sta dualna Brianchonovemu izreku.
+Delo v fiziki
+V fiziki se je ukvarjal s tlakom v tekočini, kjer je znan izraz za hidrostatični tlak kot Pascalov zakon. Po njem se imenuje enota za tlak, pascal. Leta 1642 je izdelal prvi mehanski računski stroj. Stroj je znal seštevati in odštevati 6-mestna števila.
+V filozofiji se je ukvarjal z odnosom vere in razuma. Delo: Misli.
+Priznanja
+
+Poimenovanja
+
+Po Pascalu se imenuje programski jezik pascal.
+Navedki
+
+ »V naravi duha je, da verjame, in v naravi volje, da ljubi.« —B. Pascal [1]
+
+Glej tudi
+
+seznam francoskih filozofov
+seznam francoskih fizikov
+seznam francoskih matematikov
+
+Zunanje povezave
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: Blaise Pascal
+
+
+
+
+
+Wikinavedek vsebuje navedke o temi: Blaise Pascal
+
+
+
+Pascalove Pensées (pdf, francoščina).
+
+
+
+
+
+
+ Ta biografski članek o znanstveniku je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Blaise_Pascal&oldid=4057215«				
+Kategorije: Škrbine o znanstvenikihRojeni leta 1623Umrli leta 1662Francoski filozofiFilozofi med renesanso in razsvetljenstvomFrancoski fizikiFrancoski matematikiČlani Mersennovega krogaLjudje, po katerih so poimenovali asteroidLjudje, po katerih so poimenovali krater na LuniBlaise PascalFrancoski rimokatoličani 
+
+
+

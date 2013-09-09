@@ -1,0 +1,91 @@
+
+
+
+
+
+
+Prava konoida.
+
+
+
+
+
+
+Animacija prikaza nastanka prave konoide.
+
+
+Prava konoida je premonosna ploskev, ki jo ustvari družina ravnih črt, ki vse pravokotno sekajo fiksno ravno črto. To črto imenujemo os prave konoide.
+V prostorskem kartezičnem koordinatnem sistemu, kjer vzamemo z-os kot os prave konoide, lahko pravo konoido prikažemo s parametričnimi enačbami
+
+
+
+kjer je
+
+ neka funkcija, ki pomeni višino gibajoče se ravne črte.
+
+
+
+Vsebina
+
+
+1 Zgledi
+2 Zgledi
+3 Glej tudi
+4 Zunanje povezave
+
+
+Zgledi
+Tipični primer prave konoide je v parametrični obliki
+
+
+
+Na sliki (animacija desno) je prikazano kako dve komplanarni daljici ustvarita pravo konoido. Prava konoida je premonosna ploskev, ki jo ustvari družina ravnih črt, ki vse pravokotno sekajo fiksno ravno črto. To črto imenujemo os prave konoide.
+V prostorskem kartezičnem koordinatnem sistemu, kjer vzamemo z-os kot os prave konoide, lahko pravo konoido prikažemo s parametričnimi enačbami
+
+
+
+kjer je
+
+ neka funkcija, ki pomeni višino gibajoče se ravne črte.
+
+Zgledi
+Tipični primer prave konoide je v parametrični obliki
+
+
+
+Na sliki (animacija desno) je prikazano kako dve komplanarni daljici ustvarita pravo konoido.
+Ostali zgledi in njihove parametrične oblike enačb pa so:
+
+helikoid 
+Whitneyjev dežnik 
+Wallisov stožčasti rob 
+Plückerjeva konoida 
+hiperbolični paraboloid  (z x in y-osjo kot osema prave konoide)
+
+Glej tudi
+
+konoida
+helikoid
+premonosna ploskev
+
+Zunanje povezave
+
+Prava konoida na MathWorld (v angleščini)
+
+
+
+
+
+
+ Ta matematični članek je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Prava_konoida&oldid=3941355«				
+Kategorije: PloskveGeometrijske oblikeMatematične škrbine 
+
+
+

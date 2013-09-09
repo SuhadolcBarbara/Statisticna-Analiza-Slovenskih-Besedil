@@ -1,0 +1,185 @@
+Amazon danes brezplačno ponuja 7 aplikacij v skupni vrednosti preko 50$
+
+07.14.2013 | Objavljeno v Mobiteli, vse | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Amazon, Amazon Appstore, Android, Google Android
+
+Amazon danes 14.7.2013 ponuja 7 brezplačnih »productivity apps« v skupni vrednosti preko 50$. Od pred kratkim lahko tudi uporabniki v Sloveniji uporabimo te brezplačne promocije za Android naprave.
+amazon-app-free-14-7-13
+Aplikacije, ki so na voljo brezplačno so:
+Documents to Go Full (14.95$)
+WiFi File Explorer Pro (0.99$)
+Splashtop Remote Desktop (4.99$)
+PrinterShare Mobile Print (12.95$
+Task N Todos Pro (5.998$)
+Splashtop Remote Desktop HD (8.99$)
+Spacedraw Key (4.99$)
+Lumu- slovenski Kickstarter projekt za Light Meter 21. stoletja, ki je presegel 1.000% podporo
+
+07.12.2013 | Objavljeno v vse, Zanimivo | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Android, Google Android, iPhone, Kickstarter, Lumu, Lumu Labs
+
+Lumu je nov odličen Kickstarter projekt, ki ga je Lumu Labs zagnal 17. junija 2013. Končuje pa se danes, tako da če ga želite ujeti, to storite hitro. Lumu je kot so se sami pohvalili Light Meter za 21. stoletje.
+lumu
+Light Meter je del vsakdana predvsem fotografov, kar pomeni, da ga morajo nositi s seboj. Pri Lumu Lights pa so razmišljali v smer, da nove naprave ni potrebno nositi s seboj, če imamo mobilni telefon tudi vedno s seboj. Tako so pripravili majhen Light Meter, ki se ga priključi v vtič za slušalke v telefonu, za prikazovanje podatkov, pa se uporabi aplikacijo.
+Začeli so zgolj iPhone podporo, a se je kmalu ugotovilo kje tiči razlog za to, daAndroid ni bil podprt že od začetka. Gre za to, da je Androidov malo morje in da praviloma ne zadostujejo kriterijem za delovanje Lumuja (problem je v energiji). Med Androidi so tako podprti zgolj trije, Samsung Galaxy S4, Galaxy Note 2 in HTC One.
+Kako vse skupaj izgleda si lahko spodaj ogledate v njihovem predstavitvenem videu. Več informacija pa najdete tukaj.
+
+Prvi Simobilov elevator pitch trem privozil lepe nagrade -Montažna gradnja Tadej Zimic, Tiko pro in Probiotiki
+
+07.11.2013 | Objavljeno v vse, Zanimivo | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Elevator pitch, Kristalna palača, Montažna gradnja Tadej Zimic, Probiotiki, Simobil, Tiko pro
+
+Družba Simobil se je kot prva v Sloveniji odločila pripraviti t.i. elevator pitch. Da je bila ta minuta in pol, ki jih je imelo 10 finalistov na voljo še nekoliko bolj razburljiva so predstavitev pred žirijo resnično postavili v dvigalo. Uporabili so dvigalno na največjo stolpnico v Sloveniji, in to je Kristalna palača v BTC-ju.
+simobil-elevator-pitch
+Prvi šok finalistov je hitro minil, se pa je zgodilo, da je bilo minute in pol včasih prehitro konec. Da plastični prikaz produkta pred žirijo vedno vžge sta dokazala tudi dva finalista, ki sta se nato uvrstila med prve tri. Tričlansko žirijo so drugače sestavljali Eva Aljančič, direktorica marketinga in prodaje v Simobilu, Rok Gorjup, vodja prodaje poslovnim uporabnikom v Simobilu, in Miran Razoršek, vodja segmenta poslovnih uporabnikov v Simobilu.
+simobil-elevator-pitch-1
+In prvi trije?
+Prvo mesto si je priborila družba Montažna gradnja Tadej Zimic s.p., drugo Tiko pro d.o.o in tretje Probiotiki d.o.o.
+simobil-elevator-pitch-zirija-zmagovalka
+Žirija z zmagovalko v dvigalu, kjer se trema finalistov še ni popolnoma razkadila.
+Kaj pa nagrade?
+Simobil je v osnovi najprej želel podeliti tri nagrade. Prvo v vrednosti 10.000€, drugo v vrednosti 5.000€ in tretjo v vrednosti 3.000€. A se je vse skupaj na koncu nekoliko spremenilo. Prva tri mesta so ostala, a ker je bila žirija tako zelo navdušena nad vsemi predstavitvami so tudi ostalim sedmim podelili nagrade in sicer v vrednosti 1.000€. Vsi bodo nagrade lahko uporabili za nakup Simobilovih podjetniških produktov (software, ne hardware).
+Še na kratko nekaj o prvih treh.
+1. Prvouvrščena družba Montažna gradnja Tadej Zimic s.p. iz Komende se ukvarja z izdelavo naravne toplotne izolacije. Ta je narejena iz celuloze, bolj natančno iz časopisnega papirja z dodatkom snovi proti gorljivosti in zaščiti pred živalmi.
+2. Drugouvrščena družba Tiko pro d.o.o. iz Maribora se ukvarja s pomočjo različnim podjetjem pri prijavi na evropske razpise.
+3. Tretjeuvrščena družba Probiotiki d.o.o. iz Ljubljane pa se ukvarja z idelvo probiotičnih pijač.
+simobil-elevator-pitch-1
+simobil-elevator-pitch-2
+simobil-elevator-pitch-3
+
+
+Google navigacija sedaj na voljo tudi v Sloveniji – brezplačna Google Maps GPS navigacija za Android naprave
+
+07.11.2013 | Objavljeno v Mobiteli, vse | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Android, Google, Google Android, Google Maps, Google Maps Navigation, Navigacija, Republika Slovenija, Slovenija
+
+Google Maps GPS navigacija (Google Maps Navigation) je od včeraj na voljo tudi v Sloveniji. Dolgo smo čakali, da bo Google omogočil brezplačno GPS navigacijo tudi v Sloveniji. Z zadnjo posodobitvijo se je sicer na seznam poleg Slvoenije uvrstilo še 17 držav, in sicer: Kamerun, Costa Rica, Dominikanska republika, Ekvador, Etiopija, Gvatemala, Indonezija, Malezija, Nigerija, Oman, Peru, Filipini, Ruanda, Tajvan, Tajska, Uganda, Urugvaj, Venezuela in delno tudi Alžirija ter Bahrain.
+google-maps-navigacija
+Posodobitev v kateri smo se znašli ni ravno »Evropska«, a se povezavi, da je Google začel v Sloveniji snemati Street View v torek in da imamo od srede naprej navigacijo nekako ne moremo izogniti. Tako je Android sedaj tudi na področju zemljevidov stopil ob bok Nokijini navigaciji za Windows Phone telefone.
+Vir slike Bojan Bunić
+Naročilo evropske zdravstvene kartice –naročilo kartice preko spleta in SMS-a / ZZZS – zdravstvena kartica za tujino
+
+07.08.2013 | Objavljeno v Uporabno, vse | Avtor: uporabna stran | Ni komentarjev »
+Tagi: EU (Evropska unija), Evropska kartica, Hrvaška, Konvencijsko potrdilo, Zavarovanje, ZZZS (Zavod za zdravstveno zavarovanje Slovenije)
+
+Naročilo evropske zdravstvene kartice, ki pokriva osnovne zdravstvene storitve v Evropski uniji je sila preprosto. Glede na razširjenost računalnikov in mobilnih telefonov sta tako najbolj enostavna načina preko spletne strani ZZZS-ja in preko SMS-a.
+evropska-zdravstvena-kartica
+Evropska kartica zdravstvenega zavarovanja je na voljo za države EU (Avstrija, Belgija, Bolgarija, Ciper, Češka, Danska, Estonija, Finska, Francija, Grčija, Irska, Italija, Latvija, Litva, Luksemburg, Madžarska, Malta, Nemčija, Nizozemska, Poljska, Portugalska, Romunija, Slovaška, (Slovenija), Španija, Švedska ter Velika Britanija in Severna Irska), EGP, Švici, Hrvaškem, Makedoniji, Srbiji, Črni gori in Avstraliji.
+Za Bosno in Hercegovino pa je potrebno naročiti Konvencijsko potrdilo.
+Pri Evropski kartici zdravstvenega zavarovanja sta pomembna še dva podatka. Prvi je ta, da je potrebno kartico naročiti 4 delovne dni pred odhodom ter da je maksimalna veljavnost kartice 1 leto oz. v določenih primerih več (npr. upokojenci). Novo je možno naročiti 30 dni pred iztekom stare. Zato je potrebno na naročilo Evropske kartice potrebno misliti nekoliko prej in ne zadnji trenutek.
+kartica-evropskega-zavarovanja-zzzs
+Naročanje Evropske kartice preko spletne strani ZZZS
+Potrebujete kartico ZZZS s katere je potrebno prebrati številko zavarovane osebe (nahaja se nad imenom in priimkom na kartici). Nato pa je potrebno obiskati spletno stran za naročanje Evropske kartice. O uspešnem prejemu vloge za izdajo Evropske kartice prejmete potrdilo na vpisani elektronski naslov.
+Izberete lahko med »Listino naročam zase – prejel jo bom na svoj naslov
+« in »Listine naročam za skupino oseb – prejel jih bom na opredeljen naslov v Sloveniji«. Kar pomeni, da lahko naročite kartico za enega ali celo družino.
+Naročanje Evropske kartice preko SMS-a
+Tukaj je naročilo možno zgolj za eno osebo. Torej en SMS = 1 naročilo kartice. Postopek naročila gre takole:
+*na telefonsko številko 031 771 009 je potrebno poslati SMS z vsebino EUKZZ ter ZZZS številka (npr. SMS za osebo z ZZZS številko 032822733 je torej:EUKZZ032822733). Po poslanem SMS-u sistem pošlje povratno potrdilo o uspešni oddaji naročila.
+*za konvencijsko potrdilo, ki velja v BiH pa na npr. SMS za osebo z ZZZS številko 032822733 je torej:BIH032822733
+Vir slike: zzzs.si
+Družba Anni je postala Preferred Partner družbe Dell
+
+07.08.2013 | Objavljeno v Računalništvo, vse | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Anni, Dell
+
+Družba Anni d.o.o. je pridobila status Dell Preferred Partner, kar je najnaprednejši nivo partnerstva. Računalniško podjetje Anni, ki se ukvarja s prodajo računalniške opreme sedaj zagotavlja strokovno znanje ter opravljanje storitev, ki pomagajo reševati kompleksne IT zahteve in ustvariti višjo učinkovitost za stranke. Kupcu pa Dellovo priporočilo omogoča zanesljivost za dobavo ter kakovostno implementacijo Dell opreme in rešitev.
+Dell_Logo
+Anni-ju se je tako večletno partnerstvo znotraj progama Dell Registred Partner očitno obrestovalo.
+Samsung Galaxy S4 mini s 4.3 inčnim zaslonom, LTE podporo, dvojedrnim procesorjem in 8MP fotoaparatom
+
+07.08.2013 | Objavljeno v Mobiteli, vse | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Long Term Evolution (LTE)-4G, Samsung, Samsung Galaxy S4 Mini
+
+Samsung Galaxy S4 mini je to, ker bi moral biti že S3 mini. Torej pomanjšana različica njihovega najboljšega telefona. S4 mini je sicer v nekoliko boljšem razmerju do S4 kot je bil S3 mini do S3, a to je tako.
+Samaung-Galaxy-S4-Mini
+Galaxy S4 mini z merami 124.6 x 61.3 x 8.9 mm in težo 107g ima 4.3 inčni Super Amoled zaslon. Različica GT-I9195, ki podpira tudi LTE Cat3 100/50Mbps ima 2GB RAM-a, dvojedrni 1.7GHz Krait Snapdragon 400 procesor z Adreno 305 GPU. Na voljo je 8GB spomina od katerega je 5GB na voljo uporabniku, a ga je moč razširiti z microSD kartico (do 64GB). Samsung je na S4 mini namestil operacijski sistem Android 4.2.2 Jelly Bean. Tukaj so še Wi-Fi a/b/g/n, NFC, Bluetooth 4.0, IR port, FM radio z RDS, A-GPS + GLONASS…
+Fotoaparat je 8MP s samodejnim ostrenjem, LED bliskavico, HDR-jem… in snemanjem v FullHD 1080p s 30 slikami na sekundo. Sekundarna kamera je 1.9MP.
+Baterija je Li-Ion 1900mAh. Samsung bo mobilnik, ki bo na voljo v dveh barvah White Frost in Black Mist, predstavil 20. junija 2013 v Londonu.
+Naročnik operaterja Mobitel + 10€ = »neomejen« prenos podatkov na Hrvaškem pri operaterju Hrvatski telekom (T-Mobile HR)
+
+07.08.2013 | Objavljeno v Mobiteli, vse | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Gostovanje, Hrvaška, Mobilno gostovanje, Mobitel, T-Hrvatski Telekom, Telekom Slovenije
+
+Mobitel je svojim naročnikom, ki gostujejo na Hrvaškem omogočil, da za 10€ mesečno prenesejo neomejeno količino podatkov. Ponudba je bila že omenjena tukaj (Mobitelovi uporabniki na Hrvaškem za 10€ do neomejenega podatkovnega prenosa med gostovanjem pri operaterju Hrvatski telekom), a je manjkala ena podrobnost in sicer kaj točno je »neomejeno«. Sedaj, ko je ponudba tudi uradno predstavljena je tudi ta podatek znan. Torej neomejeno pomeni 20GB resnične neomejenosti, po tem pa se hitrost zniža na na 384 kb/s v smeri do uporabnika in 64 kb/s v smeri od uporabnika. Količina podatkov je res neomejena ni pa neomejena hitrost prenosa.
+mobitel-logo
+Kako vklopim storitev HT Internet za neomejeni internet na Hrvaškem za 10€?
+Še preden pridemo do vklopa je potrebno poudariti, da ponudba velja zgolj pri operaterju Hrvatski telekom (HR-CRONET ali T-Mobile HR). Tako si je smiselno omrežje izbrati ročno in onemogočiti samodejno iskanje omrežja. S tem se uporabnik zavaruje, da bo vedno ostal na omrežju T-Mobile HR. To sicer tudi pomeni, da če ima kater drug operater pokrivanje in ga izbrani nima signala ne bo.
+Nazaj na vklop storitve. Ta je možen preko SMS-a in sicer s pošiljanjem ključne besede »HT internet« na 1918. Storitev se samodejno podaljša v naslednje obračunsko obdobje, a najdlje do 30.9.2013, ko ponudba HT Internet preneha obstajati. Seveda pa si je storitev možno tudi ročno izklopiti in sicer s poslanim SMS-om s ključno besedo »HT internet NE« na 1918.
+Ali ima tudi T-Mobile HR LTE (4G)?
+Ja, ima. Kraji, kjer je LTE s hitrostjo do 75 Mbps na voljo so Zagreb, Osjek, Split, Rjeka, Drenovci, Sisak, Josipdol, Otočac, Ozalij, Koprivnica in Vrbovec. Zanimivo je, da ni pokrit Dubrovnik. Tako bi vsaj lahko rekli, da lahko LTE uporabljajo tudi turisti na morju. Na počitnicah torej LTE-ja ravno ne boste mogli uporabljati. Imajo pa zato v večini turistična mesta pokrita vsaj s HSDPA do 7.2 Mbps. Karta pokritosti s T-Mobile HR signalom.
+Poteza Telekoma Slovenije (Mobitela) je v času, ko je uporaba pametnega telefona ali tablice postal naš vsakdan, prenos podatkov pa nuja, nekaj kar povprečen uporabnik potrebuje tudi na morju. Biti off-line na morju torej ni več in. Če nam pri tem tudi mobilni operater priskoči na pomoč z ugodno ponudbo, je vse skupaj toliko bolje. Teh 20 GB prenosa podatkov pa je, če ne prenašamo torrent filmov in serij čisto dovolj za počitnice.
+Let Her Go by Passenger – videospot in besedilo pesmi
+
+07.08.2013 | Objavljeno v Glasba, vse | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Let Her Go by Passenger, Passenger, Videospot
+
+Let Her Go by Passenger je pesem iz albuma All the Little Lights. Pesem je izšla julija 2012 in je dosegla prvo mesto glasbenih lestvic v velikem številu držav. Besedilo pesmi Let Her Go je na voljo po prelomu.
+let-her-go-by-passenger
+
+Nadaljuj z banjem članka “Let Her Go by Passenger – videospot in besedilo pesmi” »
+Kako lahko AT&T ukrepa ob naravnih nesrečah? Postavi lahko mobilno ali fiksno prenosno omrežje –video
+
+07.08.2013 | Objavljeno v Internet, vse | Avtor: uporabna stran | Ni komentarjev »
+Tagi: AT&T, Fiksno omrežje, Mobilno omrežje, Naravna nesreča
+
+Naravne nesreče se v ZDA zadnje čase kar vrstijo in vrstijo. Portal Pocketnow je obiskal dogodek na katerem je AT&T-jev Network Disaster Recovery Team pokazal svoje igračke. Torej kako lahko AT&T ukrepa v primeru naravnih nesreč si oglejte spodaj v videu.
+att-naravne-nesrece
+
+Mobitelovi uporabniki na Hrvaškem za 10€ do neomejenega podatkovnega prenosa med gostovanjem pri operaterju Hrvatski telekom
+
+07.06.2013 | Objavljeno v Mobiteli, vse | Avtor: uporabna stran | 1 komentar »
+Tagi: Gostovanje, Hrvaška, Mobilno gostovanje, Mobitel, T-Hrvatski Telekom, Telekom Slovenije
+
+Mobitel je svojim uporabnikom ponudil možnost, da za 10€ mesečno na Hrvaškem pridejo do neomejenega podatkovnega prenosa. Podrobnosti ponudbe bodo pri Mobitelu predstavili v začetku prihodnjega tedna, a ker je ponudba že aktivna, je ta zanimiva tudi za tiste bolj zgodnje dopustnike.
+mobitel-logo
+Odlična Mobitelova ponudba gre torej po znanih podatkih takole. Za 10€ mesečno lahko uporabnik pri operaterju Hrvatski telekom (HR-CRONET ali T-Mobile HR) neomejeno prenaša podatke. Podatek »neomejeno« je potrjen, ni pa še znano ali bo po določenem prenosu znižana hitrost prenosa.
+Kako si vklopim storitev?
+Na telefonsko številko 1918 je potrebno poslati ključno besedo »HT Internet«. Opcija bo vključena vse do 30.9.2013 oz. do ročnega izklopa. Tega pa uporabnik zahteva s poslanim SMS-om HT Internet NE na 1918.
+p.s. Da boste vedno priklopljeni na omrežje T-Mobile HR, si je najbolje le tega izbrati ročno in onemogočiti samodejno preklapljanje med operaterji. S tem si boste zagotovili, da ne bo prišlo do neželenih dodatnih stroškov.
+Ker večina Slovencev še vedno dopustuje na Hrvaškem je neomejen podatkovni prenos za 10€ na mesec resnično odlična poteza.
+Samsung Galaxy S4 sedaj z LTE tudi pri Simobilu, a je potrebna nadgradnja
+
+07.03.2013 | Objavljeno v Mobiteli, vse | Avtor: uporabna stran | 1 komentar »
+Tagi: Long Term Evolution (LTE)-4G, Samsung Galaxy S4, Simobil, Simobil LTE
+
+Samsung Galaxy S4 je končno dobil polno “poslovno” sposobnost tudi pri Simobilu. Uporabniki lahko namreč od danes naprej preko FOTA oz. programa KIES nadgradijo svoj telefon in s tem omogočijo delovanje tudi v Simobilovem LTE omrežju. Zakaj SGS4 ni podpiral Simobilovega LTE-ja že od začetka še vedno ni znano. S tem je bila namreč oknjena uporabniška izkušnja.
+Samsung-Galaxy-S4-1
+Kakorkoli že, po nekajminutni nadgradnji, lahko uporabniki na področju kjer Simobil omogoča LTE, le tega tudi uporabljate. :)
+Cena mobilnega gostovanja v Evropski uniji, tudi na Hrvaškem od 1.7.2013 zopet nižja
+
+07.02.2013 | Objavljeno v Mobiteli, vse | Avtor: uporabna stran | 1 komentar »
+Tagi: EU (Evropska unija), Gostovanje, Mobilni operaterji, Mobilno gostovanje, Mobitel, Roaming, Simobil, Telekom Slovenije
+
+Cena mobilnega gostovanja v Evropski uniji je od 1.7.2013 zopet nižja, saj je reguliranje teh cen že nekaj let v rokah EU. Najbolj očitna je razlika pri prenosu podatkov. Pri njih je cena brez davka iz 0.7€ padla na 0.45€.
+eu-klici-gostovanje-roaming
+Znižanje cen mobilnega gostovanja (mobile roaming) se v Sloveniji sklada z dvigom DDV-ja na 22%. Na ravni EU pa z vstopom Hrvaške v Evropsko unijo. Če prvo stvar jemljemo kot slabo je druga zagotovo dobra, vsaj kar se tiče stroškov.
+Cena mobilnega gostovanja, ki velja od 1.7.2013 do 30.6.2014 z vključenim 22% DDV-jem je takšna:
+*Odhodni klic – 0,2928 € / min (30s/1s)
+*Dohodni klic – 0,0854 € / min (1s/1s)
+*SMS – 0.0+76 € na SMS
+*Prenos podatkov – 0.5490 € / MB (1KB)
+Zahteva Uredbe je tudi, samodejno vključen limit za prenos podatkov v višini 50€ brez DDV in obvestilo ob doseženih 80% limita. To velja tako za gostovanje v EU kot izven nje.
+Se pa za prihodnje leto pripravlja nekaj izjemnega in sicer ukinitev roaminga v EU (torej EU = Doma). Več pa tukaj (Evropska unija brez stroškov mobilnega gostovanja (roaming) do poletja 2014 pri Evropskih mobilnih operaterjih).
+Evropska unija brez stroškov mobilnega gostovanja (roaming) do poletja 2014 pri Evropskih mobilnih operaterjih
+
+07.02.2013 | Objavljeno v Mobiteli, vse | Avtor: uporabna stran | 2x komentirano »
+Tagi: EU (Evropska unija), Gostovanje, Mobilni operaterji, Mobilno gostovanje, Mobitel, O2, Roaming, Simobil, Telekom Slovenije, Vodafone
+
+Evropska unija naj bi bila od poleta 2014 enoten mobilni prostor. Torej mobilno gostovanje oz. roaming med 28 državami članicami ne bo več obstajal. To preprosto povedano pomeni, da razlike med klicem nekoga v Sloveniji ali pa nekoga na Hrvaškem ali pa Veliki Britaniji ne bo več smelo biti, saj bo to enoten prostor.
+europe-union-roaming-eu2014
+Trenutno je planirano, da bomo imeli enotni evropski mobilni trg do 1.7.2014. V EU imamo okoli 100 mobilnih operaterjev medtem, ko so v ZDA zgolj štirje. Torej edina rešitev, da manjši operaterji preživijo je konsolidacija. To v osnovi pomeni, da bodo zagotovo obstali in se razširili Vodafone, T-Mobile (Deutsche Telekom), O2 (Telefónica), 3 (Hutchison Whampoa). Vsi ostali pa se bodo, ali povezali, ali pa poskušali obstati.
+Predvidevanja, ki se tičejo izgube zaslužka operaterjev, se gibljejo tam nekje okoli 2%, a naj bi se to kasneje spremenilo. Zaradi cene, ki bo enaka kot doma, bodo uporabniki precej več uporabljali mobilne storitve.
+Uporabniki storitev mobilnih operaterjev v Evropski uniji se tega zagotovo veselijo. Pri naših operaterjih (predvsem Mobitel in Simobil) pa se bo to poznalo precej močneje, saj je večina roaming dohodka iz Hrvaške, ki do pred kratkim ni bila članica EU. Letos se je cena gostovanja precej znižala, če pa se bo uresničila napoved za prihodnje leto bo to precej hud udarec za vse naše mobilne operaterje.
+Nivea Stress Protect antiperspirant dezodorant za zaščito proti potenju tudi v stresnih situacijah
+
+07.02.2013 | Objavljeno v vse, Zanimivo | Avtor: uporabna stran | Ni komentarjev »
+Tagi: Beiersdorf, Dezodorant, Nivea, Nivea Stress Protect
+
+Nivea Stress Protect antiperspirant dezodorant kot že njegovo ime pove je posebej namenjen potenju zaradi stresa. Potenje zaradi stresa je drugačno od tistega zaradi vročine ali fizičnega napora, saj se pojavi hitreje in ima močnejši vonj, ki ga je težje nadzorovati.
+NIVEA Deo Stress Protect Visual 1
+Formula dezodoranta Nivea Stress Protect vsebuje dve sestavini aktivne učinkovine Stress Protect in cinkov kompleks. To zagotavlja, da je koža pod pazduhami dodatno zaščitena pred mokroto in neprijetnim vonjem. Avokadovo olje pa dodatno neguje kožo.
+NIVEA Deo Stress Protect Women Spray_48h
+Linijo Nivea Stress Protect sestavljata podliniji za ženske in moške. Vsi izdelki imajo priporočeno maloprodajno ceno 3.48€. Ženske imajo na voljo sprej in roll-on, moški pa še stik.
+
+
+Več na: http://www.blog.uporabnastran.si/#ixzz2Z3KlCqLI

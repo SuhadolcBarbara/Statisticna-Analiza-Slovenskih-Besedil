@@ -1,0 +1,178 @@
+	290Ventil 18 /2012/ 4
+
+? 1 UVOD Kamena volna je splošni izraz za različne tipe anorganskih izolacij-skih materialov. Delijo se na različne tipe surovin, kot so kamena, stekle-na in keramična volna. Pri kameni volni se kot surovina najpogosteje uporabljajo bazalt, diabaz, dolomit, granit… Vlakna tvorijo homogeno anizotropno strukturo, ki ima odlič-ne zvočno- in toplotno-izolacijske lastnosti.Med najpogostejše proizvodne pro-cese kamene volne se uvršča posto-pek razvlaknjenja mineralne taline na hitro vrtečih diskih centrifuge [1]. Mineralna talina pri temperaturi cca 1450 °C  izstopa iz kupolne peči skozi sifon v dovodne kanale nad prvim kolesom centrifuge. Iz rotirajočega filma taline se preko kapljevitih liga-mentov na površini filma oblikujejo vlakna, ki jih zračni tok odpiha trans-portira v usedalno komoro, kjer se oblikuje homogena primarna plast kamene volne.Osnovne mehanizme nastajanja liga-mentov iz rotirajočega filma taline je podal že Eisenklam [2]. Na nastanek in gibanje vlaken odločujoče vplivajo vztrajnostne in viskozne sile ter sile površinske napetosti. Solidifikacija vlaken pa je značilno odvisna tudi od termodinamskih karakteristik taline in karakteristik zračnega toka odpiha, v katerem vlakna nastajajo [3]. Za praktično aplikacijo napovedi debeline vlaken so bili razviti stati-stični multiregresijski modeli [4], ki so bili usmerjeni predvsem v obli-kovanje fenomenoloških modelov vplivov procesnih parametrov, kot so: geometrijski, kinematični para-metri koles centrifuge, aerodinam-ske lastnosti odpiha, masni pretok taline ter snovne lastnosti taline, kot so gostota, viskoznost in površinska napetost. Izvedene so bile tudi raz-iskave toka taline v obliki prosto pa-dajočega curka s ciljem vrednotenja časovnih fluktuacij masnega toka taline [5], ki navajajo na dejstvo, da je masni tok taline nestacionaren in da so značilne frekvence fluktuacij toka taline v padajočem curku taline mnogo manjše od vrtilne frekvence rotorja centrifuge.V prispevku je raziskan vpliv vrtil-ne frekvence kolesa centrifuge na dinamične lastnosti toka taline in vlaken v opazovanem polju ekspe-rimenta. Razumevanje tokovnih razmer v filmu taline na rotirajočem disku centrifuge temelji na primer-javi tipičnih razdalj med zarodnimi mesti ligamentov, ki so določene z računalniško podprto vizualizacijo in primerjavo s poznanimi fenome-nološkimi modeli razvlaknjenja [6]. ? 2 Proces razvlaknjenja kamene volneZaradi omejenih eksperimentalnih možnosti so poznani modeli na-stajanja vlaken in njihove rasti za-snovani predvsem na teoretičnih predpostavkah in v manjši meri na eksperimentalno dobljenih podat-kih. Poenostavljen teoretični model je v svojem delu podal Eisenklam [2], pri čemer začetno fazo razvlaknjenja pojasnjuje kot posledico nestabilno-sti, ki se pojavijo na površini taline mineralne volne na vrtečih se kole-sih centrifuge. Pri tem curek taline nateka navpično na vrteče se kolo centrifuge, kjer se zaradi viskoznih sil v točki dotika curka taline z roti-rajočim kolesom talina pospeši. Tok taline preide v rotacijsko gibanje v tankem filmu na rotirajočem kolesu. Na obodu kolesa se oblikuje plast Razvlaknjenje taline kamene volne na disku centrifugeBrane ŠIROK, Benjamin BIZJAN, Robert AGNIČ, Tom BAJCAR
+
+PROIZVODNJA KAMENE VOLNE
+
+Prof. dr. Brane Širok, univ. dipl. inž., Univerza v Ljubljani, Fakul-teta za strojništvoBenjamin Bizjan, univ. dipl. inž., Robert Agnič, univ. dipl. inž., KNAUF INSULATION, d. o. o., Škofja Lokadr. Tom Bajcar, univ. dipl. inž., Univerza v Ljubljani, Fakulteta za strojništvo
+
+Izvleček: Prispevek popisuje tvorjenje mineralnih vlaken na kolesih centrifuge v realnem proizvodnem procesu kamene volne. Predstavljeni rezultati navajajo na prisotnost nestabilnosti taline, ki se oblikuje kot kompleksno kvaziperiodično osciliranje struktur na površini filma. Poleg oscilacije taline, ki sovpada z vrtilno frekvenco kolesa in višjimi harmoniki, so zaznane tudi aperiodične strukture taline kot posledica Taylorjeve nestabilnosti, ki je lastna gibanju kapljevine in je ena od osnovnih mehanizmov tvorjenja ligamentov taline, iz katerih se oblikujejo vlakna kamene volne. Dobljeni rezultati navajajo na značilen vpliv dinamike filma taline na nastajanje vlaken in posredno na kvaliteto končnega proizvoda.Ključne besede: kamena volna, centrifuga, razvlaknjenje taline, Taylorjeva nestabilnost, nihanja struktur
+
+
+
+
+291Ventil 18 /2012/ 4
+
+oziroma film taline, na površini tega pa prihaja do več vrst nestabilnih to-kovnih struktur. Kot posledica zdrsa na mejni površini med talino in zra-kom se pojavi Kelvin-Helmholtzeva nestabilnost, ki skupaj z ostalimi pojavi (npr. nestacionarnim tokom taline, mehanskimi vibracijami kole-sa centrifuge, pulzirajočim zračnim tokom odpiha, …) povzroči motnje na površini filma taline. Glavni vir ne-stabilnosti pa je Rayleigh-Taylorjeva nestabilnost, ki povzroča formiranje ligamentov iz filma taline, v nadalje-vanju poimenovan kot razvoj vlakna-ste strukture. Nastajanje ligamentov povzroča centrifugalna sila na mejni plasti med fluidoma različnih gostot. Pojav nestabilnosti določa pogoj, ?2 > 0, kjer je:
+
+)tanh(222khkkR··??????-=????
+
+        (1)R polmer kolesa centrifuge? kotna hitrost kolesa k valovno številoh debelina filma taline v radialni smeri? gostota kapljevine (taline)? površinska napetost med talino in zrakomMejna vrednost valovnega števila, kjer postajajo vztrajnostne sile domi-nantne in se nestabilnosti ne zadu-šijo v silah površinske napetosti, je podana z izrazom:
+
+212????????=Rkm???
+
+                               (2)Enačbi (1) in (2) sta izpeljani za ne-viskozen tok kapljevine. Uporabimo pa jo lahko z določenim odstopa-njem tudi za realne, viskozne fluide [2] (Westerlund), kjer površinska napetost in viskoznost taline delno oslabita Taylorjeve nestabilnosti. Pri tem obstaja najmanjša valovna dol-žina motnje ?min, ki jo določa mejna vrednost valovnega števila km:
+
+mk??2min=
+
+                                     (3)?min je v odvisnosti od debeline fil-ma taline h na kolesu podana z izra-zoma:
+
+?????R12min=
+
+  za  
+
+??min?h
+
+     (4)oziroma
+
+?????R8min=
+
+za
+
+??min2.0?h
+
+  (5)Taylorjeve nestabilnosti so predstav-ljane kot najmanjše možne motnje – »zarodna mesta« za oblikovanje liga-mentov taline na rotirajočem filmu. Te motnje se superponirajo na mo-tnje večjih razsežnosti, ki so posle-dica nestacionarnosti toka taline in mehanskih vibracij kolesa centrifuge. Vsota navedenega tvori kompleksno dinamiko taline na površini rotirajo-čega filma. Iz predstav ljenih relacij lahko zaključimo, da se število za-rodnih mest s povečano površinsko napetostjo in viskoznostjo manjša in pri tem razdalja med ligamenti na-rašča. Nasprotno pa se število za-rodnih mest povečuje s povečano vrtilno frekvenco.Za opazovano talino, izbrani premer kolesa centrifuge in nominalno vrtil-no frekvenco kolesa je pričakovano področje valovnih dolžin motenj v mejah ?min = {2 do 20 mm}.Enačbe 1–5 predstavljajo teoretične relacije med naborom parametrov na centrifugi in velikostjo nestabil-nosti. Obstajajo pa tudi polempirične enačbe, npr. Hinze in Milborn [6] sta iz eksperimentalno dobljenih podat-kov izpeljala relacijo za razmik med ligamenti s (enačba 6), ki upošteva tudi učinek viskoznosti:
+
+3
+
+/
+
+1
+
+6
+
+/
+
+5
+
+12
+
+/
+
+7
+
+4
+
+/
+
+1
+
+12
+
+/
+
+5
+
+9
+
+.
+
+10
+
+µ
+
+?
+
+?
+
+?
+
+-
+
+-
+
+-
+
+=
+
+R
+
+s
+
+    (6)Relacija je bila preizkušena le na ro-tirajočih valjih z značilno manjšim premerom kolesa centrifuge, kar navaja na pričakovano odstopanje med rezultati na opazovanem pri-meru in izračunanimi vrednostmi po enačbi 6. Enačba bo uporabljena predvsem za primerjavo z rezultati eksperimenta. Da bi ocenili predstavljeni model v realnem proizvodnem procesu, je v nadaljevanju predstavljen ekspe-riment, ki temelji na računalniško podprti vizualizaciji kinematike fil-ma taline na rotirajočem disku. Cilj prispevka je raziskati značilne dina-mične pojave, ki se odražajo v fluk-tuacijah strukture filma taline.? 3 EksperimentVizualizacija tokovnih razmer v toku taline na 1. kolesu štirikolesne cen-trifuge je bila izvedena z uporabo visokofrekvenčne digitalne kamere in prirejene programske opreme, ki omogoča analizo topoloških struk-tur taline na površini gibajočega se filma. Pri konstantnih integralnih parametrih procesa, ki zajemajo ke-mično sestavo, temperaturo in masni pretok taline ter masni tok odpiha, je bila izvedena študija vpliva vrtilne frekvence kolesa 1, ki se je spremi-njala v mejah od 5000 do 6500 min–1, na tokovne razmere na površini filma taline in na kinematiko vlaken v pod-ročju njihovega nastajanja.Vizualizacija je bila izvedena s ka-mero Fastec Imaging HiSpec4 2G mono (CMOS senzor 1696 × 1710 slikovnih točk, z ločljivostjo 0,3 mm/piksel, frek venco zajemanja slike f = 12000 s-1 in ekspozicijskim časom 2 µs). Kamera je bila postavljena pod kotom 45 °C glede na os vrte-nja kolesa centrifuge na oddaljenosti 4,5 m od kolesa centrifuge. V štirih izbranih obratovalnih točkah, ki so bile določene z vrtilno frekvenco kolesa centrifuge, so bile posnete serije 1024 časovno zaporednih slik za posamez no meritev. Na sliki 1 je predstavljena struktura toka taline, ki vsebuje tako razmere v področju natoka taline na kolo (A) kot tudi tokovne razmere v filmu taline (B) in v področju nastajanja vlaken ter njihovega trans porta z zračnim to-kom odpiha (C).V prispevku se omejimo samo na analizo toka taline na površini filma taline (področje B na sliki 1) in na analizo kinematike vlaken v pod-ročju C.Za določitev količinskih lastnosti tokovnih vzorcev na opazovanem procesu vpeljemo celoštevilčno spremenljivko A(k,t):
+
+PROIZVODNJA KAMENE VOLNE
+
+
+
+
+292Ventil 18 /2012/ 4
+
+()(){}255,......,3,2,1,0,;,11),(11=··=??==jiEjiEmltkAlimj
+
+()(){}255,......,3,2,1,0,;,11),(11=··=??==jiEjiEmltkAlimj
+
+   (7) S skalarno celoštevilčno spremen-ljivko A(k,t) je podana prostorsko povprečena intenzivnost sivine v opazovanem oknu k v času t. Opi-sani model povezuje intenzivnost svetlobe v opazovanem oknu. Ča-sovni interval je definiran s frekvenco zajema slik na kameri in s številom zaporednih slik poljubno izbranega časovnega intervala. Intenzivnost svetlobe E(i,j) zaznavamo v 256 ni-vojih sivine, od popolnoma črne z vrednostjo 0 pa vse do popolno-ma bele z vrednostjo 255. Časovne vrst e lokalno krajevno povpreče-nega nivoja sivine so bile dobljene za vsa izbrana okna. Zanimajo nas fluktuacije tokovnih struktur na po-vršini filma taline, ki odražajo tako hitrost ne fluktuacije kot tudi frekven-co pojavljanja iskanih nestabilnosti. Fluktuacije so bile raziskane tako v časovnem kot krajevnem prostoru in jih zaznamo kot spreminjanje svetlo-sti slike v opazovanem območju, pri čemer se predpostavi, da je optična intenziteta (v našem primeru svetlost slik, izražena v sivinah) sorazmerna s koncentracijo – deležem taline.Podatke o svetlosti sivinskih slik smo zajeli s pomočjo programa Dynascan, ki za vsako izmed zaporednih slik v sek venci zapiše matriko povprečnih sivin, in sicer za obliko, velikost in položaj matrike, kot jo definira upo-V oknu 1 (film taline) in oknu 2 (ob-močje nastajanja vlaken) na sliki 2 je bila merjena optična intenziteta (sivine) v odvisnosti od časa. V oknu (1b) pa so bile posnete časovno-kra-jevne vrste, sestavljene iz zaporednih vrednosti sivin po enačbi (7) od okna 1 do okna 15 za vsako opazovano sli-ko. Tako dobljena krajevno-časovna vrsta je predstavljala osnovo za oce-no tipičnih razdalj med nastajajočimi ligamenti na filmu taline.Dinamika filma taline in nastajajočih vlaken v oknih 1 in 2 na sliki 2 je po-dana na slikah 3 do 6 v obliki močno-stnih spektrov strukturnih fluktuacij (optične intenzitete) za obravnavane delovne točke iz tabele 1.V vseh delovnih točkah se pojavijo izrazite fluktuacije optične intenzi-tete v strukturi filma taline, ki pripa-dajo osnovnim vrtilnim frekvencam kolesa centrifuge. Odražajo se kot vrhovi v močnostnem spektru v bli-žini osnovnih frekvenc f0 ter višjih harmonskih frekvenc. V delovni točki 2 so te fluktuacije najizrazitejše. V ostalih točkah pa so najizrazitejše pri frekvenci okrog 1000 Hz, kar je naj-verjetneje posledica hidrodinamskih pojavov na filmu taline (npr. lastnih nihanj), ki jih povzročijo nestacio-narnost toka taline, odpih vlaken in mehansko vzbujanje filma kot posle-dica mehanskih vibracij na uležajenju vretena kolesa centrifuge. V točki 4, kjer je vrtilna frekvenca najnižja, se te fluktuacije pojavijo pri nekoliko nižji frekvenci (600–700 Hz) in so bistveno močnejše kot v ostalih točkah. Zara-di počasnejšega vrtenja pri enakem masnem toku taline se ta namreč ko-piči v debelejšo plast, katere debeli-na pa je po obodu kolesa zelo nee-nakomerna, od tod velike fluktuacije v svetlosti opazovanega območja.Dinamiki filma taline sledijo tudi fluktuacije v področju nastajanja in trans porta vlaken. Pojav je pričako-van in navaja na ugotovitev, da je produkcija vlaken neenakomerna in da je variiranje koncentracije vlaken (masa vlaken na enoto volumna) 
+
+PROIZVODNJA KAMENE VOLNE
+
+Slika 1. Značilna področja nastajanja vlaken kamene vol-ne na kolesu centrifuge
+
+rabnik. Pri analizi fluktuacij optične intenzitete je bila uporabljena spek-tralna analiza, s katero so predsta-vljene tipične fluk-tuacijske lastnosti filma taline in vla-knaste strukture v področju njihove-ga nastajanja. Pri analizi razmikov med ligamenti – zarodnimi mesti na površini filma taline – pa je bil razvit algoritem za statistično vred-notenje zna čil nih razdalj med tipič-nimi strukturnimi vzorci na površini filma taline.? 4 Analiza rezultatovAnaliza značilnih dinamskih lastnosti filma taline, vključno z izračunanimi povprečnimi razmiki med nestabil-nostmi na filmu taline in značilnimi frekvencami fluktuacij v območju fil-ma in vlaken, je podana za štiri različ-ne delovne točke, ki jih podaja tabela 1 (razlikujejo se v vrtilni frekvenci ko-les, ostali parametri so enaki):Dinamika filma taline in vlaknaste strukture je bila opazovana v področ-ju, kjer je tok taline usmerjen pretež-no vertikalno (slika 2), zato lahko pri-vzamemo, da je ravnina opazovanja paralelna z dejansko tangencialno ravnino na rotirajočem disku centri-fuge.Na sliki 2 je lepo vidna struktura filma taline, ki ga pospešuje rotirajoči disk centrifuge. Značilna je ponavljajoča se struktura svetlejših področij, ki so posledica lokalnih odebelitev filma taline, ki prehajajo v področja tvor-be ligamentov. Na mejah filma taline (v levem in desnem področju filma taline) pa so vidni ligamenti, ki pre-hajajo v vlaknasto strukturo v skladu s teorijo, predstavljeno v poglavju 2.Tabela 1. Obratovalne točke
+
+Meritev i(–)1234Vrtilna frekvenca f0 (s–1 )120,2111,699,1686,9
+
+
+
+
+293Ventil 18 /2012/ 4
+
+PROIZVODNJA KAMENE VOLNE
+
+Slika 2. Opazovana območja na kolesu centrifuge (za pri-mer delovne točke 2).Levo: Območje opazovanja časovnih fluktuacij optične intenzitete na seg mentu filma taline (1) in v področju že oblikovanih vlaknastih struktur, ki se gibljejo v zračnem toku odpiha nad kolesom centrifuge (2).Desno: Območje opazovanja profilov optične intenzitete na filmu taline na zaporednih slikah (1b), 15 celic velikosti 2 x 2 piksla.
+
+Slika 3. Spekter strukturnih fluktuacij: vrtilna frekvenca kolesa f0 = 120 Hz 
+
+Slika 4. Spekter strukturnih fluktuacij: vrtilna frekvenca kolesa 
+
+=0f
+
+112 Hz
+
+kvaziperiodično, kar v proizvodnem procesu vpliva na kvaliteto omoče-nosti vlaken z vezivom v zračnem toku odpiha. V vseh delovnih točkah z izjemo četrte se vrhova v spektru za območje vlaken in filma v bližini vrtil-ne frekvence kolesa dobro ujemata, ravno tako pri 2. in 3. harmonični frekvenci in nekoliko slabše v fre-kvenčnem območju okrog 1000 Hz. Sklepamo lahko, da se kvaziperiodič-na generacija vlaken kamene volne pojavlja v celotnem obravnavanem področju.Z zniževanjem vrtilne frekvence ko-lesa centrifuge se pojavi zamik – zmanjšanje osnovne frekvence fluk-tuacij filma taline in vlaken glede na vrtilno frekvenco kolesa. Poleg tega se na nastajajočih vlaknih pojavijo strukturne fluktuacije v nižjem in višjem frekvenčnem območju od osnovne vrtilne frekvence kolesa. Amplitude oscilacij v območju vla-ken pa se z izjemo merilne točke 3 v področjih osnovne frekvence značilno zmanjšujejo. V točki 4 je intenzivnost fluktuacij vlaknaste strukture minimalna, kar navaja na manjšo produkcijo vlaken na kolesu centrifuge v opazovanem režimu. Taylorjeve nestabilnosti, opisane v poglavju 2, so superponirane na to-pološki strukturi filma taline in prav tako na opazovanem signalu A(k,t). V frekvenčnem prostoru jih »pričakuje-mo« v višjem frekvenčnem področju (nekaj 10 kHz), kar presega frekvenč-no področje, ki ga lahko opazujemo na časovnih vrstah A(k,t) v oknih 1 in 2 na sliki 2.Najvišja še določljiva frekvenca, ki je določena s frekvenco zajemanja časovno zapore-dnih slik, je 6 kHz. Z namenom ugo-toviti prisotnost fluktuacij pri višjih frekvencah oziro-ma na manjših dolžinskih ska-lah se omejimo na vrednotenje strukture površine filma, ki temelji na krajevno-časovni analizi optične in-tenzitete (sivin). V ta namen so do-ločene porazdeli-tve sivin za serijo 15-tih oken, ki so razvrščena v verti-kalni smeri, kot je predstavljeno na sliki (1b na sl. 2). Velikost posame-zne celice znaša 2 x 2 piksla, pri čemer je velikost enega piksla 0,56 mm. V vsaki od celic i = 1 do 15 je bila za izbrano sliko izmerjena in v datoteko zapisana sivina A(i), sivi-ne vseh celic pa tvorijo profil sivin. Postopek je bil ponovljen na seriji 1024 zaporednih slik, tako da se je oblikovala časovna vrsta, kjer si v časovnem zaporedju sledijo profili sivin s posameznih slik. Zaradi po višini neenakomerne osvet litve slike smo od vrednosti vsake celice odšteli povprečno sivino vseh slik v seriji na isti celici, s čimer smo dobili normira-ne profile fluktuacij sivin. Fluktuaci-je na najmanjših skalah (manjših od pričakovane velikosti ?min, npr. med sosednjima točkama na profilu) so bile interpolirane s polinomsko re-gresijo. Posnetim profilom smo pri-legali polinome 4. stopnje in slednje uporabili v nadaljnjih izračunih. Slika 7 prikazuje profile fluktuacij sivin za 
+
+
+
+
+294Ventil 18 /2012/ 4
+
+PROIZVODNJA KAMENE VOLNE
+
+Slika 5. Spekter strukturnih fluktuacij: vrtilna frekvenca kolesa f0 = 99 Hz 
+
+Slika 6. Spekter strukturnih fluktuacij: vrtilna frekvenca kolesa f0 = 87 Hz
+
+dve različni sliki v seriji za merilno točko 2.Valovno dolžino oziroma razmik med dvema motnjama oz. nestabilnostma na profilu smo določili kot dvakratno vrednost razdalje med točko mini-malne (dmin) in maksimalne (dmax) vrednosti fluktuacij sivin na posame-znem (z regresijo zglajenem) profilu:
+
+minmax2dds-=
+
+                      (8)Ker se je razmik s med posamezni-mi slikami razlikoval oziroma je bil opazen določen raztros podatkov, smo izdelali diagrame porazdelitve gostote verjetnosti za velikost raz-mika (slika 8).Najpogosteje se pojavlja razmik v velikosti 14–16 mm, odvisno od merilne točke. Višja, kot je vrtilna frekvenca, manjši je razmik med mo-tnjami na filmu, kar se sklada s teori-jo o Taylorjevi nestabilnosti, predsta-vljeno v poglavju 2. Manjša vrhova se pojavita tudi pri polovični in dva-kratni vrednosti tega razmika, in to za vse meritve pri enakih vrednostih velikosti razmika s, kar navaja na po-jav prve višje harmonske frekvence, ki ga lahko povežemo z bifurkacijo motnje, ki ima za posledico njeno delitev v dve manjši motnji. Pojav subharmonske – polovične frekven-ce, ki ima za posledico ponavljanje vzorca na večji valovni dolžini, pa se lahko poveže z mehanskimi motnja-mi, ki so predstavljene v diagramih na slikah od 3 do 6. Za primerjavo po enačbi 6 ocenimo minimalni razmik med zarodnimi mesti ligamentov, ki so posledica Taylorjevih nestabil-nosti. Za tipične lastnosti taline (pri 1450 °C) – gostoto 2600 kg/m3, vi-skoznost 70 Pas, površinsko napetost 400 mN/m – in premer kolesa 280 mm so po en. 6 izračunani razmiki s, podani v ta beli 2 in primerjani z ek-sperimentalno dobljenimi rezultati.Iz tabele 2 je razvidno, da je eksperi-mentalno dobljen razmik s sorazme-ren vrednostim, izračunanim po en. 6 in je od slednjega približno 4-krat večji oziroma je frekvenca pojavljanja 4-krat manjša. Razlika med ocenjeno in izmerjeno vrednostjo razmika je do neke mere posledica neidealne strukture površine kolesa, ker ta ni gladka, ampak so po obodu kolesa zareze, zato je debelina filma ne-enakomerna (tega vpliva enačba 6 ne upošteva). Poleg tega je tempe-ratura taline v opazovanem območju na obodu kolesa zaradi ohlajanja fil-ma že precej nižja od tiste na iztoku iz peči, za katero veljajo vrednosti, uporabljene v en. 6. Predvsem vis-koznost s padanjem temperature zelo hitro narašča, zaradi česar bi bil razmik po en. 6 ob poznavanju in upoštevanju dejanskih lastnosti taline na opazovanem mestu precej večji. Ne glede na navedeno lahko zaključimo, da so dobljeni rezultati in zaključki pomembni za razumevanje procesa nastajanja vlaken kamene volne. Ocenjeni so vplivi na tvorbo in število zarodnih mest in podana je metodologija diagnostike nastaja-nja vlaknaste strukture v proizvodnji kamene volne.Slika 7. Profila sivin za 1. in 100. zaporedno sliko pri meritvi 2, posneta v Dynascanu (slika-, polna črta) in polinomska regresija (-reg, črtkana črta)
+
+
+
+
+295Ventil 18 /2012/ 4
+
+PROIZVODNJA KAMENE VOLNE
+
+? 5 ZaključkiPodani so osnovni mehanizmi tvor-jenja vlaken kamene volne iz rotira-jočega filma taline na kolesu centri-fuge. Uporabljena eksperimentalna metoda temelji na analizi časovno zaporednih slik – topoloških struktur taline na površini filma. Predstavlje-ni rezultati navajajo na prisotnost nestabilnosti taline, ki se oblikuje kot kompleksno kvaziperiodično osciliranje struktur taline na povr-šini filma. Poleg oscilacije taline, ki sovpada z vrtilno frekvenco kolesa in višjimi harmoniki, so zaznane tudi Slika 8. Porazdelitev gostote verjet nosti za velikost razmika med mot njami
+
+Tabela 2. Primerjava eksperimentalno in po en. 6 dobljenega razmika s med motnjami
+
+Meritev1234steoretična (en. 6.), mm3,303,513,874,32sizmerjena (sl. 8), mm13,814,515,016,2sizmerjena/steoretična 4,2 4,1 3,9 3,8aperiodične strukture taline kot po-sledica Taylorjeve nestabilnosti, ki je lastna gibanju kapljevine in je ena od osnovnih mehanizmov tvorjenja ligamentov taline, iz katerih se obli-kujejo vlakna kamene volne. Dob-ljeni rezultati navajajo na znači len vpliv dinamike filma taline na nasta-janje vlaken in posredno na kvaliteto procesa nastajanja vlaken kamene volne.? 6 literatura[1] Širok, B., Blagojević, B., Bullen, P., Mineral Wool, Production and 
+
+Mineral-wool melt fiberisation on the disc of a spinnerAbstract: In this article the formation of mineral-wool fibers is studied on a real industrial production process. The results presented indicate the presence of a melt instability that is formed as a complex quasi-periodic oscillation of the structures on the surface of the film. In addition to the melt oscillation, which coincides with the rotating frequency of the spinner wheel and its higher harmonics, aperiodic melt structures also appear. These structures result from the Taylor instability, which is inherent to liquid movement and is one of the basic mechanisms for the formation of melt ligaments that solidify into mineral-wool fibers. The results indicate the characteristic influence of melt film dynamics on the fiber formation and, indirectly, on the quality of the end product.Key words: Mineral wool, Spinner, Fiberisation process of molten rock, Taylor instability, Structural oscillationsProperties, Cambridge, Wood-head Publishing in Materials, 2008.[2] Eisenklam, P., On ligament for-mation from spinning discs and cups, Chemical Engineering Sci-ence, 1964, Vol. 19, str. 693–694, Pergamon Press Ltd., Oxford.[3] Blagojević, B., Širok, B., Štremfelj, B. Simulation of the effect of melt composition on mineral wool fibre thickness. Ceramics – Silkáty, 2004, Vol. 48, No. 3, str. 128–134.[4] Širok, B., Blagojević, B., Bullen, P.  R. The influence of the spinn ing disc film temperature on the fibre diameter distribution in mineral wool produced by a doubledis c spinning machine. Glass Techno l., 2005, Vol. 46, No. 5, str. 334–340.[5] Širok, B., Bajcar, T., Orbanič, A., Eberlinc, M. Melt mass flow mea surement in mineral wool pro duction. Glass Technol., Oct. 2011, Vol. 52, No. 5, str. 161–168.[6] Hinze, J. O., Milborn, H. Atomi-zation of Liquids by Means of a Rotating Cup. Journal of Applied Mechanics, June 1950, Vol. 17, No. 2, str. 145–153.
+
+
+
+

@@ -1,0 +1,108 @@
+
+
+
+
+
+
+Zgornji sloji ozračja, ki vodijo v odprti vesoljski prostor. Plini ozračja sipajo modro svetlobo bolj kot druge valovne dolžine, kar daje Zemlji modri halo pri opazovanju iz vesolja
+
+
+
+
+
+
+Zgradba ozračja (NOAA)
+
+
+Ozráčje ali Zêmljina atmosfêra je plinska plast, ki obkroža planet Zemljo. Plast ohranja Zemljina gravitacija. Tej zmesi plinov rečemo zrak, katerega sestava se z naraščanjem nadmorske višine spreminja.
+Suho ozračje sestavljajo (normalizirane vrednosti prostorninskih deležev po Nasinih podatkih):
+
+dušik (78,082687 %),
+kisik (20,945648 %),
+argon (0,933984 %),
+ogljikov dioksid (spremenljivo, vendar približno 0,034999 %),
+neon (0,001818 %),
+helij (0,000524 %),
+metan (0,000170 %),
+kripton (0,000114 %),
+vodik (0,000055 %) in
+vodna para (spremenljivo, odvisno od trenutne količine vlage v zraku).
+
+Ozračje varuje življenje na Zemlji z absorpcijo Sončevega ultravijoličnega sevanja in z izenačevanjem prevelikih temperaturnih razlik med dnevom in nočjo.
+Ker ozračje nima ostre meje in se z višino redči, ga tudi ne moremo natančno ločiti od zunanjega vesoljskega prostora. 75 % ozračja leži znotraj 11 km planetne površine. V ZDA vsakemu človeku, ki potuje nad višino 50 milj (80 km) dodelijo status astronavta, drugače pa je ta meja nad 100 km. Višina 120 km označuje mejo, kjer pri vračanju vesoljskih plovil vplivi ozračja postanejo opazni. Višina 100 km (ali 62 milj) velikokrat označuje mejo med ozračjem in Vesoljem (glej Kármánova ločnica).
+
+
+Vsebina
+
+
+1 Temperatura in plasti ozračja
+2 Tlak
+3 Gostota in masa
+4 Različna območja ozračja
+5 »Razvoj« Zemljinega ozračja
+6 Segrevanje ozračja
+7 Zunanje povezave
+
+
+Temperatura in plasti ozračja
+Temperatura ozračja se z nadmorsko višino spreminja. Matematično razmerje med temperaturo in višino je v različnih plasteh ozračja različno (glej tudi barometrska enačba):
+
+troposfera - 0 - 7/17 km, temperatura z višino pojema.
+stratosfera - 7/17 – 50 km, temperatura z višino narašča.
+mezosfera - 50 - 80/85 km, temperatura z višino pojema.
+termosfera - 80/85 – 400 km, temperatura z višino narašča.
+ionosfera - 400 – 2000 km.
+
+Nad 2000 km ozračja praktično ni več.
+Meje med plastmi se imenujejo tropopavza, stratopavza in mezopavza.
+Srednja temperatura ozračja na površju Zemlje je 14 °C.
+Tlak
+Zračni tlak je neposredna posledica teže zraka. To pomeni, da je zračni tlak v različnih krajih in časih različen, saj se količina (in teža) zraka na Zemljo krajevno in časovno spreminja. Zračni tlak na višini približno 5 km pade za ~50 % (oziroma okrog 50 % celotne mase je razporejeno znotraj prvih 5 km). Povprečni zračni tlak na morski gladini je okoli 101,3 kP (okoli 14,7 funtov na kvadratni palec (PSI)).
+Gostota in masa
+Gostota zraka na morski gladini je okoli 1,2 kg na kubični meter. Ta gostota pojema na večjih višinah enako kot narašča tlak. Celotna masa ozračja je okoli 5,1 · 1018 kg, kar je zelo majhen del celotne mase Zemlje.
+Različna območja ozračja
+Območja ozračja lahko imenujemo tudi na druge načine:
+
+ionosfera - območje, ki vsebuje ione: približno mezosfera in termosfera do 550 km.
+eksosfera - nad ionosfero, kjer se ozračje razredči v vesoljski prostor.
+ozonska plast - ali ozonosfera, približno 10 – 50 km, kjer se nahaja stratosferski ozon. Tudi znotraj te plasti je delež ozona prostorninsko zelo majhen.
+magnetosfera - območje kjer se stikata zemeljsko magnetno polje in Sončev veter. Razteza se desetine tisočev kilometrov z dolgim repom proč od Sonca.
+Van Allenovi sevalni pasovi - območja kjer število delcev iz Sonca naraste.
+
+»Razvoj« Zemljinega ozračja
+Zgodovino Zemljinega ozračja pred eno milijardo leti poznamo slabo. Dogodke, ki so sledili, poznamo z večjo natančnostjo. To ostaja zelo aktivno raziskovalno področje.
+Sodobni pogled vključuje tudi »tretjo atmosfero«, ki razločuje trenutno kemijsko zmes od drugih dokaj različnih zmesi. Prvotno atmosfero sta sestavljala večinoma helij in vodik. Toplota staljene skorje in toplota s Sonca sta prvotno atmosfero razpršili.
+Pred okoli 3,5 milijarde leti se je površina dovolj ohladila in tvorila skorjo, ki je bila še vedno prepredena z ognjeniki, ki so oddajali hlape (paro), ogljikov dioksid in amonijak. To je vodilo do »druge atmosfere«, ki sta jo v glavnem sestavljala ogljikov dioksid in vodna para, z nekaj dušika in dejansko brez kisika. Ta druga atmosfera je imela ~100 krat več plina kot trenutno ozračje. V splošnem verjamejo, da je učinek tople grede, ki ga povzroča visok nivo ogljikovega dioksida, zavaroval Zemljo pred zmrzovanjem.
+V naslednjih nekaj milijard letih se je vodna para utekočinila in tvorila dež in oceane, ki so raztopili ogljikov dioksid. Približno 50 % ogljikovega dioksida se je absorbiralo v oceane. Razvile so se rastline, ki so s fotosintezo začele pretvarjati ogljikov dioksid v kisik. Čez čas so fosilna goriva, usedline (še posebej apnenec) in živalske lupine prevzele presežek ogljika. Pri tem se je sprostil kisik, reagiral z amonijakom in tvoril dušik. Poleg tega so tudi bakterije pretvarjale amonijak v dušik.
+Ker se je pojavilo vse več rastlin, je količina kisika zelo narasla, količina ogljikovega dioksida pa se je zmanjšala. Sprva se je kisik vezal z različnimi kemijskimi elementi kot je železo, kasneje pa se je nakopičil v atmosferi — kar je povzročilo izginotje vrst in nadaljnji razvoj. S pojavom ozonske plasti (zmes kisikovih atomov) so bila živa bitja bolje zaščitena pred ultravijoličnim sevanjem. Ta kisikova-dušikova atmosfera je tako »tretja atmosfera«.
+Segrevanje ozračja
+
+
+Glavni članki: globalno segrevanje, zgodovinski zapisi temperature, IPCC in vpliv človeka na segrevanje ozračja.
+
+
+Segrevanje ozračja je globalni problem, ki se ge vsi dobro zavedamo. Zaradi vedno večje količine ogljikovega dioksida se ozračje po vsem svetu močno segreva. Segrevajo se morja, topijo se ledeniki, širijo se puščave, ... Posledice:
+
+dvig morske gladine(veliko mest bo poplavljenih),
+krčenje gozdov,
+izumrtje ogromno živalskih in rastlinskih vrst,
+velike vremenske spremembe in ekstremno vreme,
+več 100.000.000 beguncev, ki bodo izgubili svoje domove.
+
+V zadnjem času se tudi med znanstveniki pojavlja vse več skeptikov, ki na globalno segrevanje gledajo z druge plati. Trdijo, da ni dokazano, da na segrevanje ozračja vpliva človek s svojimi dejavnostmi.[navedi vir]
+Zunanje povezave
+
+
+
+Poglejte si besedo ozračje ali Ozračje v Wikislovarju, prostem slovarju.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Ozračje&oldid=4074897«				
+Kategorije: MeteorologijaZemljaPliniSkrita kategorija: Članki s trditvami brez navedenega vira 
+
+
+

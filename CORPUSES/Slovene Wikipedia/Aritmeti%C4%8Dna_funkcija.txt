@@ -1,0 +1,50 @@
+
+
+Aritmétična fúnkcija f(n) je v teoriji števil funkcija, določena za vsa pozitivna cela števila in zavzema vrednosti v množici kompleksnih števil. Z drugimi besedami, aritmetična funkcija je zaporedje kompleksnih števil.
+Najbolj pomembne aritmetične funkcije so aditivne in multiplikativne.
+Pomembna operacija na aritmetičnih funkcijah je Dirichletova konvolucija.
+Aritmetične funkcije je moč raziskovati z Bellovimi vrstami.
+Zgledi
+Članka o aditivnih in multiplikativnih funkcijah vsebujeta nekaj primerov aritmetičnih funkcij. Tu je podanih nekaj primerov funkcij, ki niso ne aditivne ne multiplikativne:
+
+c4(n) - število načinov razporeditve n kot vsota štirih kvadratov nenegativnih celih števil, kjer razlikujemo med različnimi razvrstitvami seštevancev. Na primer:
+
+
+
+
+1 = 12+02+02+02 = 02+12+02+02 = 02+02+12+02 = 02+02+02+12,
+
+
+
+
+zato c4(1)=4.
+
+
+P(n), particijska funkcija - število razporeditev n kot vsota pozitivnih celih števil, kjer razvrstitev seštevancev ni pomembna. Na primer: P(2 · 5) = P(10) = 42 in P(2)P(5) = 2 · 7 = 14 ≠ 42.
+
+
+π (n), število praštevil - število praštevil manjše ali enako danemu številu n. Imamo π(1) = 0 in π(10) = 4 (praštevila pod 10 so 2, 3, 5, in 7).
+
+
+a0(n) - vsota praštevil, ki delijo n, včasih označena kot sopfr(n) (Some of the prime factors with repetition). Imamo a0(20) = a0(22 · 5) = 2 + 2+ 5 = 9. (OEIS A001414).
+
+
+ω(n) - število različnih praštevil, ki delijo n. Imamo ω(1) = 0 in ω(20) = 2. Različni praštevili, ki delita 20, sta 2 in 5.
+
+
+a1(n) - vsota različnih praštevil, ki delijo n, včasih označena kot sopf(n). Imamo a1(1) = 0, a1(20) = 2 + 5 = 7. (OEIS A008472).
+
+
+M(n), Mertensova funkcija - vsota Möbiusovih funkcij.
+
+
+Λ(n), von Mangoldtova funkcija - enaka ln p, če je n celoštevilska potenca praštevila p, drugače pa 0.
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Aritmetična_funkcija&oldid=3847819«				
+Kategorije: Funkcije in preslikaveSpecialne funkcijeTeorija številAritmetične funkcije 
+
+
+

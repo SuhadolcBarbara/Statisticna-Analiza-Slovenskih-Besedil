@@ -1,0 +1,65 @@
+
+
+Statístična mehánika obravnava isto področje kot termodinamika, vendar z mikroskopske plati. Obravnava sisteme zelo velikega števila atomov, molekul ali osnovnih delcev, za katere veljajo osnovni zakoni klasične ali kvantne mehanike, pri obravnavanju tako velikega števila delcev pa si pomaga s prijemi statistike. Statistična mehanika tako fenomenološke zveze termodinamike pojasni kot naravno posledici delovanja zelo velikega števila delcev, za katere veljajo zakoni mehanike. Tako lahko, na primer, na osnovi podatkov o posamezni molekuli, pridobljenih s spektroskopija napove makroskopske lastnostni snovi.
+Glede na to, ali sistem opišemo klasično ali kvantnomehansko, lahko statistično mehaniko delimo na klasično in kvantno statistično mehaniko.
+Mikroskopska entropija, Boltzmannov faktor in statistična vsota
+Temeljni pojem statistične mehanike je Boltzmannova definicija entropije termodinamskega sistema:
+
+Entropija makroskopskega termodinamskega stanja je premo sorazmerna logaritmu števila mikroskopskih stanj, ki ustrezajo temu stanju.
+
+Iz te definicije je moč izpeljati, da je v sistemu, ki je v termodinamskem ravnovesju s toplotnim rezervoarjem, verjetnost za mikroskopsko stanje z energijo W enako:
+
+
+
+Zapisani izraz je znan kot Boltzmannov faktor. Pri tem je kB Boltzmannova konstanta, T pa absolutna temperatura, ki je posledica dejstva, da je sistem v ravnovesju s toplotnim rezervoarjem.
+Verjetnosti za posamezna mikrostanja se morajo sešteti v 1 oziroma 100 %, kar pomeni, da moramo verjetnosti normalizirati. Normalizacijski faktor je statistična vsota Z. Za zaprt sistem z disktretnimi energijskimi stanji jo lahko izračunamo kot
+
+
+
+Pri tem je Wi energija i-tega stanja, kB Boltzmannova konstanta, T pa absolutna temperatura. Indeks i teče po vseh energijskih stanjih. Statistična vsota je merilo za število stanj, ki so dosegljiva sistemu pri dani temperaturi. Glej tudi Izpeljava statistične vsote.
+Povzamemo lahko, da je verjetnost, da najdemo sistem pri dani temperaturi T v mikroskopskem stanju z dano energijo Wi, enaka:
+
+
+
+Ta verjetnostna porazdelitev je znana kot Boltzmannova porazdelitev.
+Viri
+
+D. A. McQuarrie (1976), Statistical mechanics, New York, Harper & Row. (COBISS)
+T. L. Hill (1986), An introduction to statistical thermodynamics, New York, Dover Publications. (COBISS)
+
+
+
+
+
+
+p · p · u · zSplošna področja fizike
+
+
+
+
+
+
+Atomska in molekulska fizika · Elektrika in magnetizem · Fizika visokih energij · Fizika zgoščene snovi · Klasična mehanika · Kvantna mehanika · Optika · Statistična mehanika · Termodinamika · Relativnost
+
+
+
+
+
+
+
+
+
+
+
+ Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Statistična_mehanika&oldid=3849144«				
+Kategorije: Fizikalne škrbineSplošna področja fizikeStatistična mehanika 
+
+
+

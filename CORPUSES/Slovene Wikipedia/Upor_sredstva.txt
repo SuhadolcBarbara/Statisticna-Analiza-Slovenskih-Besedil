@@ -1,0 +1,73 @@
+
+
+Upòr je v fiziki pojav, da na telo, ki se giblje v tekočini, deluje sila upora, ki ima nasprotno smer od smeri gibanja, ali pojav, da se tekočina upira pretakanju po cevi. Vzrok upora je viskoznost pri laminarnem toku in vrtinci v turbulentnem toku. Sila upora je nekonservativna sila.
+Upor v zraku preučuje aerodinamika, upor v vodi pa hidrodinamika.
+Pri temperaturi, nižji od 2,186 K preide izotop helij-4 v stanje, ko se pretaka brez upora. Takemu stanju rečemo supertekoče stanje.
+
+
+Vsebina
+
+
+1 Upor pri gibanju telesa po tekočini
+
+1.1 Linearni zakon upora
+1.2 Kvadratni zakon upora
+
+
+2 Upor pri toku po cevi
+
+2.1 Linearni zakon upora
+2.2 Kvadratni zakon upora
+
+
+
+
+Upor pri gibanju telesa po tekočini
+Na telo, ki se giblje relativno na tekočino, ki ga obliva, deluje slednja s silo upora v smeri, ki nasprotuje gibanju. Pri majhnih Reynoldsovih številih je tok tekočine laminaren, sila upora pa premo sorazmerna hitrosti telesa in velja linearni zakon upora. Pri velikih Reynoldsovih številih pa je tok tekočine turbulenten, sila upora pa narašča z drugo potenco hitrosti, zato velja kvadratni zakon upora. Za gibanje krogle v tekočini velja, da ga lahko opišemo z linearnim zakonom upora pri Re < 0,5 in s kvadratnim, če velja Re > 1000. V vmesnem območju ne velja noben od omenjenih približkov.
+Linearni zakon upora
+Pri laminarnem toku je hitrost plasti tekočine daleč stran od telesa enaka hitrosti v nemotenem toku, plast tekočine tik ob telesu pa miruje glede na telo. Zato je strižna hitrost različna od nič, z njo povezana strižna sila pa ima komponento v smeri, nasprotni relativni hitrosti. Skupno silo upora dobimo z integracijo prispevkov komponente strižne sile po celotni površini telesa. Račun je zapleten in le za kroglo analitično izvedljiv; rezultat je Stokesov zakon:
+
+
+
+Pri tem je F sila upora, π Ludolfovo število, R polmer krogle, η viskoznost in v hitrost krogle glede na tekočino. Za upor drugih teles ima linearni zakon upora v splošnem obliko:
+
+
+
+Pri tem je l značilna linearna razsežnost v prečnem preseku telesa, k pa koeficient, odvisen od oblike in lege telesa.
+Kvadratni zakon upora
+
+
+Glavni članek: kvadratni zakon upora.
+
+
+Upor pri gibanju telesa relativno na turbulentni tok tekočine lahko ocenimmo iz zastojnega tlaka. V zastojni točki je relativna hitrost tekočine v enaka nič, tlak p pa je večji od tlaka p v simetrično izbrani točki na drugi strani telesa, kjer je hitrost tekočine v zaradi vrtincev različna od nič. Iz Bernoullijeve enačbe sledi p - p = ρ v'2/2, pri čemer je ρ gostota tekočine. Tlačno razliko p - p moramo pomnožiti s prečnim presekom telesa S, da dobimo oceno za silo upora. V resnici je sila upora odvisna še od oblike in lege telesa, kar upoštevamo s koeficientom upora cv (oznaka tudi ):
+
+
+
+Hitrost v je relativna hitrost tekočine v nemotenem toku, merjene glede na telo, pri čemer je vseeno, ali se giblje telo v mirujoči tekočini ali pa se giblje tekočina, telo pa miruje. Koeficient upora cv določimo z merjenjem.
+Upor pri toku po cevi
+Tudi pri toku tekočine po cevi ločimo dva režima. Pri stacionarnem laminarnem toku je tlačna razlika na dolžinsko enoto cevi premo sorazmeren s povprečno hitrostjo tekočine in velja linearni zakon upora, pri turbulentnem toku pa je premo sorazmeren z drugo potenco hitrosti tekočine. Kriterij za en ali drug režim toka je tudi tu Reynoldsovo število. Za tok tekočine po ceveh se ocenjuje, da je laminaren pri Re < 2300 in turbulenten pri Re > 2300.
+Linearni zakon upora
+Pri stacionarnem laminarnem toku je tlačna razlika na dolžinsko enoto cevi premo sorazmerna povprečni hitrosti tekočine. Za tok nestisljive viskozne tekočine po gladki valjasti cevi velja Poiseuillov zakon:
+
+
+
+Pri tem je Δp tlačna razlika, l dolžina cevi, η dinamična viskoznost tekočine, π Ludolfovo število, r polmer cevi in  povprečna hitrost tekočine.
+Pogosteje zapišemo Poiseuillov zakon kot odvisnost prostorninskega pretoka  od drugih dejavnikov:
+
+
+
+Kvadratni zakon upora
+Za gibanje turbuletntega toka tekočine lahko po analogiji z zakonoma za gibanje telesa po tekočini izpeljemo kvadratni zakon upora:
+
+
+
+Pri tem je Δp tlačna razlika, l dolžina cevi, cu koeficient upora pri toku po valjasti cevi, ρ gostota tekočine, v njena hitrost, r pa polmer cevi. Koeficient upora pri toku tekočine po valjasti cevi je odvisen od hrapavosti cevi, pri gladki cevi navadno znaša okoli 0,006, kar pomeni, da je tok po cevi laminaren pri Reynoldsovih številih, manjših od 2300.
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Upor_sredstva&oldid=3945644«				
+Kategorija: Mehanika tekočin 
+
+
+

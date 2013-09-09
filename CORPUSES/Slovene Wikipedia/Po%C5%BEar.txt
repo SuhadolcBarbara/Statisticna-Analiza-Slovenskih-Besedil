@@ -1,0 +1,146 @@
+
+
+Za druge pomene glej Požar (razločitev).
+
+
+
+
+Požar v podjetju SeaWay v Zapužah, 11. april, 2007 - protipožarni zid je preprečil širjenje požara na sosednje stavbe.
+
+
+Požár je nenadzorovano širjenje ognja v prostoru. Velikokrat naredi materialno škodo in ogroža človeška ter živalska življenja. Navkljub previdnostnim meram so požari zelo pogosti. Požar se pojavlja in razvija pod različnimi pogoji.
+
+
+Vsebina
+
+
+1 Učinki požara
+2 Vrste požarov
+3 Preprečevanje požara
+4 Gašenje
+
+4.1 Gasilna sredstva
+
+
+5 Viri
+6 Zunanje povezave
+
+
+Učinki požara
+Požar je nevaren za življenje in zdravje ljudi. Za ljudi predstavljajo posebno nevarnost dim, vročina in strupeni plini, ki nastanejo pri izgorevanju. Periodični požari v naravnem okolju so drugače normalen pojav. Ogenj uniči staro vegetacijo in sprosti minerale ter druge snovi, ki so vezane v njej, ter s tem omogoči novim rastlinam, da naselijo prostor. Tako se ekosistem pomlajuje. Rastline so tekom evolucije razvile prilagoditve na hudo vročino, ki spremlja požar. Divjanje ognja preživijo bodisi čebulice ali drugi podzemni organi, bodisi poganjki, zavarovani z debelo plastjo lubja, bodisi semena. Semena nekaterih hitro rastočih zeljnatih rastlin mora aktivirati vročina, da lahko vzklijejo. S tem si zagotovijo ugodne pogoje za rast.
+Vrste požarov
+
+
+
+
+Gozdni požar
+
+
+Požare lahko delimo glede na to kje nastajajo:
+
+požar v urbanem okolju,
+požar v industriji,
+požar v naravnem okolju
+
+Glede na velikost požara jih delimo na:
+
+začetne: zajema površino do 2 m2 in se še niso razširili po prostoru. Možno jih je pogasiti z ročnimi gasilnimi aparati ali z drugimi priročnimi sredstvi ter brez posebne zaščitne opreme.
+
+
+majhne: zajemajo enega ali več manjših prostorov do velikosti 30 m2, gasi jih oddelek (9 gasilcev) z ustrezno opremo
+
+
+srednje velike: zajemajo površino do 300 m2, za gašenje sta potrebna vsaj 2 oddelka
+
+
+velike: zajemajo enega ali več objektov do skupne površine 1000 m2, za gašenje potrebnih vsaj 60 gasilcev z ustrezno podporo
+
+
+katastrofalne: zajemajo širše območje, gasijo ga vse razpoložljive sile na tem območju
+
+Glede na vrsto gorljivega materiala jih delimo na:
+
+Razred A: požari gorljivih trdnih snovi, ki so preteìno organskega izvora in v normalnih razmerah izgorevajo tako, da tvorijo žerjavico (les, papir, slama, tekstil, premog,...)
+Razred B: požari gorljivih tekočih snovi ali snovi, ki postanejo tekoče (bencin, olja, nafta, maščobe, voski, laki, smole,...)
+Razred C: požari gorljivih plinov (butan-propan, metan, acetilen, vodik,...)
+Razred D: požari kovin (magnezij, aluminijev prah,...)
+
+Včasih je bil omenjen tudi razred E, ki je pomenil požare električnih naprav pod napetostjo.
+Preprečevanje požara
+Požar se v prvi vrsti preprečuje s preventivnimi ukrepi, katerih naloga je zmanjšanje verjetnosti za nastanek požara oz. zmanjševanje posledic, če do požara pride:
+
+ustrezno predimenzioniranje konstrukcije stavbe
+upoštevanje razmaka med stavbami
+zagotovitev evakuacijskih poti in dostopnih poti za gasilce
+gradnja požarnih zidov
+izobraževanje in stalno izvajanje ukrepov požarne zaščite
+
+Gašenje
+
+
+
+
+Usposabljanje hrvaških gasilcev v Fire & Rescue Academy Malaysia
+
+
+Osnova gorenja je t.i. trikotnik gorenja, ki združuje naslednje elemente:
+
+toplota
+kisik
+gorljiva snov
+
+Gorenje pogasimo, če odstranimo enega od treh vzrokov za nastanek gorenja. Če odstranimo gorljivo snov, preprečimo nadaljnjo širitev gorenja po snovi. Če preprečimo dostop kisiku do gorljive snovi, porušimo razmerje med snovjo in kisikom, ki ga le ta potrebuje za gorenje. Če gasimo z ohlajevanjem, znižamo temperaturo pod vnetišče goreče snovi.
+Gasilna sredstva
+
+Voda je najbolj dostopno in eno najcenejših gasilnih sredstev. Zaradi velike specifične toplote ima močan hladilni učinek. Z uporabo vodne megle je možno ohladiti vroč prostor ali celo izvesti prezračevanje. Vodna megla je tudi slabo električno prevodna, zato se lahko uporabi tudi za gašenje v okolju, kjer so prisotne naprave pod napetostjo.
+
+
+Slabe lastnosti vode so električna prevodnost, nezmožnost gašenja vnetljivih tekočin in plinov (ker so lažji od vode) ter burna reakcija vode z nekaterimi snovmi (npr. natrij, goreč magnezij in kalcijev karbid).
+
+
+Pena je zmes vode, zraka in penila v določenem razmerju (zrak v peni zavzema največji prostorninski delež). Razmerje med volumnom pene in volumnom mešanice vode in penila v peni se imenuje prenilno število. Glede na penilno število ločimo težko (penilna števila 4 - 20), srednjo (penilno število 21 - 200) in lahko peno (penilno število 200 - 1000), kjer vsebuje težka pena manj zraka, lahka pena pa največ.
+
+
+S peno je možno gasiti tudi vnetljive tekočine, ker pena deluje dušilno in ima obenem manjšo gostoto od tekočin. Zaradi vsebnosti vode je tudi pena električno prevodna. Problem se pojavi tudi v primeru visokih temperatur ali agresivnih snovi (lahko razkrojijo peno!).
+
+
+Ogljikov dioksid (CO2) se skladišči v jeklenkah in se ob ekspanziji ohladi na približno -78 °C (suhi led). Zaradi tega ima močan hladilni učinek, kemijska nevtralnost (inertnost) pa zagotavlja tudi dušilni učinek. Za gašenje na prostem ni najbolj uporaben, ker se hitro razkadi. Je neprevoden za električni tok, zato je z njim možno tudi gašenje električnih naprav pod napetostjo. Zaradi kemijske nevtralnosti pri gašenju ne pride do reakcije - problem je edino pri gašenju požarov razreda D, saj zaradi visokih temperatur, ki so po navadi prisotne pri gorenju lahkih kovin lahko pride do reakcije, pri kateri CO2 razpade na ogljik in kisik, slednji pa še pospešuje gorenje.
+
+
+Ker suhi led na sobni temperaturi preide v plin, uporaba ogljikovega dioksida ne pušča nobene umazanije, kar je težava pri večini ostalih sredstev.
+
+
+Gasilni prah ima zaradi svojih lastnosti močan dušilni učinek. Kemijsko ni reaktiven in je tudi neprevoden za električni tok, zato se ga lahko uporablja za gašenje praktično vseh vrst požarov.
+
+
+Halon sodi v družino halogeniziranih ogljikovodikov (CFC). Ker po gašenju ne pušča ostankov, se je precej uporabljal za gašenje posebnih naprav, kot so računalniki, telefonske centrale in v letalstvu.
+
+
+Ker so haloni podobno, kot ostali CFC-ji močno škodljivi za ozonski plašč, so prepovedani in se danes večinoma nadomeščajo z inertnimi plini, kot npr. dušik in argon.
+
+
+Druga preprosta sredstva: pesek, pepel, zemlja, požarna metla iz kovine ali drugega negorečega materiala
+
+Viri
+
+Sintalček, interni časopis koncerna Sintal, Protipožarna preventiva, 5.številka, januar 1999
+
+Zunanje povezave
+
+Gasilci.org - Slike eksplozij in povratnega ognja
+VideoGasilci.com - Slovenski gasilski video arhiv
+
+
+
+
+Poglejte si besedo požar ali Požar v Wikislovarju, prostem slovarju.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Požar&oldid=4019555«				
+Kategorije: PožariOgenjGasilstvo 
+
+
+

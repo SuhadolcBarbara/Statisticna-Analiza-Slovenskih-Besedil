@@ -1,0 +1,417 @@
+
+
+
+
+
+
+Antoine Lavoisier (1743-1794), »oče sodobne kemije«
+
+
+Kemija (koptsko/egipčansko kēme - (črna) zemlja, grško χημεία: himia - umetnost (predelave) kovin, arabsko الخيمياء: al-kīmiyá - umetnost pretvarjanja) je znanost, ki preučuje sestavo, zgradbo in lastnosti snovi ter spremembe, do katerih pride med kemijskimi reakcijami. Kemija je tudi fizikalna znanost, ki preučuje zgradbo atomov, molekul, kristalov in drugih oblik snovi in energetske spremembe, do katerih pride med kemijskimi reakcijami. Sodobna kemija se je razvila iz alkimije po »kemijski revoluciji« leta 1773.
+Kemija se je sčasoma razdelila na več disciplin, ki jih ni mogoče natančno razmejiti. Mednje spadajo anorganska kemija, ki preučuje snovi neorganskega izvora, organska kemija, ki preučuje organske snovi (kemijo ogljika), biokemija, ki preučuje snovi v živih organizmih, fizikalna kemija, ki preučuje predvsem energetske spremembe ter analizna kemija, ki z analizo vzorcev ugotavlja sestavo in zgradbo snovi. V zadnjih letih so se pojavile tudi zelo specializirane poddiscipline, na primer nevrokemija, ki preučuje kemijo živčnega sistema živali (predvsem človeka).
+
+
+Vsebina
+
+
+1 Uvod
+2 Zgodovina
+3 Nastanek imena
+4 Definicije
+5 Osnovni pojmi
+
+5.1 Atom
+5.2 Element
+5.3 Spojina
+5.4 Snov
+5.5 Molekula
+5.6 Mol
+5.7 Ioni in soli
+5.8 Kislost in bazičnost
+5.9 Faza
+5.10 Oksidacija in redukcija
+5.11 Kemijska vez
+5.12 Kemijska reakcija
+5.13 Energija
+5.14 Kemijski zakoni
+
+
+6 Poddiscipline
+7 Viri in opombe
+8 Glej tudi
+9 Zunanje povezave
+
+
+Uvod
+Kemija je znanost, ki preučuje vzajemno delovanje kemičnih spojin,[1] ki so sestavljene iz atomov, ti pa iz subatomskih delcev: protonov, elektronov in nevtronov.[2] Atomi se spajajo in tvorijo molekule in kristale. Kemijo pogosto imenujemo »osrednja« znanost, ker povezuje druge naravoslovne znanosti, na primer astronomijo, fiziko, ekologijo, biologijo in geologijo.[3][4]
+Razvoj kemije sega daleč v zgodovino, v čas pred začetkom alkimije, ki se je več stoletij prakticirala v različnih delih sveta, predvsem na Bližnjem vzhodu.[5] Prvi kemiki so bili verjetno Egipčani, ki so že pred 4000 leti uporabljali kozmetične preparate, ki so bili produkt kemijske sinteze.[6] Do leta 1000 pr. n. št. so stare civilizacije znale pridobivati kovine z rud in izdelovati keramiko, glazure, steklo, barvila in pigmente. Poznale so tudi fermentacijo vina in piva, strojenje usnja, barvanje tkanin in kuhanje mila.
+Stvari, ki nas obdajajo, so takšne zaradi lastnosti snovi, iz katerih so zgrajene: jeklo je trše od železa, ker so v njem atomi povezani v bolj togo kristalno strukturo, les se vname, ker se nad neko temperaturo spontano veže s kisikom iz zraka in tako naprej. Kemične spojine se delijo glede na njihovo zgradbo, agregatno stanje in kemijsko sestavo. Z ugotavljanjem sestave in zgradbe snovi se ukvarja analitska kemija.
+Pretvorbo snovi v eno ali več drugih snovi imenujemo kemijska reakcija[7], ki jo zapišemo s simboli v kemijski enačbi. Število atomov vseh elementov na levi in desni strani enačbe je zaradi zakona o ohranitvi mase. Kemijsko reakcijo običajno spremljajo tudi energetske spremembe, na primer oddajenje in sprejemanje toplote, ki se podrejajo nekim osnovnim pravilom – kemijskim zakonom.
+Kemija je učni predmet na vseh osnovnih in srednjih šolah. Na teh nivojih se poučuje tako imenovana splošna kemija, ki zajema osnovne pojme kemije in spoznavanje orodij in veščin, ki so potrebne za začetek študija kemije na univerzitetnem nivoju. Na najvišjem nivoju se s kemijo ukvarjajo znanstveniki – kemiki, ki so običajno specialisti za eno ali več poddisciplin.[8]
+Zgodovina
+Kemija se je začela verjetno z opazovanjem gorenja, ki je pripeljalo do odkritja keramike, stekla in metalurgije – veščine pridobivanja kovin iz rud. Zaradi pomanjkljivega znanja je ogenj postal tista mistična sila, ki je pretvarjala snov v drugo snov (gorenje lesa, izparevanje vode) in istočasno dajala toploto in svetlobo. Filozofski poskusi, da bi pojasnili, zakaj imajo različne snovi različne lastnosti (barvo, gostoto, vonj...), zakaj obstojajo v treh agregatih stanjih (trdno, tekoče in plinasto) in pri enakih pogojih reagirajo različno, so pripeljali do prvih teorij o naravi in kemiji. Ena prvih teorij je trdila, da so štirje glavni elementi voda, ogenj, zemlja in zrak.
+Grška atomista Demokrit (470-400 pr. n. št.) in Levkip (prva polovica 5. stoletja pr. n. št.) sta bila prva, ki sta trdila, da so snovi sestavljene iz majhnih nedeljivih delcev – atomov. Zaradi pomanjkanja znanstvenih dokazov je bilo njuno teorijo o obstoju atomov zelo lahko ovreči. Teorija o štirih elementih se je še dolgo obdržala, verjetno tudi zato, ker jo je zagovarjal Aristotel (384 — 322 pr. n. št.). Aristotel je obstoječim štirim elementom dodal peti element – eter – ki je predstavljal božansko silo. Takšno učenje je kasneje sprejela tudi Cerkev. Grški atomizem je v delu De Rerum Natura (O naravi stvari)[9] leta 50 pr. n. št. napisal rimski filozof Tit Lukrecij Kar.[10]
+
+
+
+
+Alchymisté, slika Pietra Longhija (1702-1785)
+
+
+Pohlep po zlatu je pripeljal do postopkov za njegovo rafiniranje. Zaradi pomanjkljivega znanja so bili ljudje prepričani, da je rafiniranje pretvarjanje snovi in ne povečevanje njene čistoče. Mnogi učenjaki tistega časa so bili zato prepričani, da obstoja način, s katerim bi cenene kovine pretvorili v bolj plemenite. Rodila se je alkimija in iskanje kamna modrosti, za katerega so menili, da takšno pretvorbo opravi s preprostim dotikom.[11] Večino takrat znanih metod rafiniranja je v svojem delu Naturalis Historia (Prirodopis) opisal Plinij Starejši.
+Mnogi poznavalci trdijo, da so bili prvi kemiki Arabci in Perzijci, ki so v kemijo vpeljali natančno opazovanje in nadziranje eksperimentov ter odkrili mnogo kemičnih spojin.[12] Najvplivnejši islamski kemiki so bili Džabir ibn Hajjan (721-815), v Evropi znan kot Geber,[13] al-Kindi (umrl 873), al-Razi (umrl 925) in al-Biruni (umrl 1048).[14] Geberjeva dela so postala v Evropi znana v 14. stoletju, ko jih je v latinščino prevedel španski kemik psevdo-Geber. Na področju metalurgije so bili v tistem času zelo pomembni indijski alkimisti in metalurgi.[12]
+V Evropi se je kemija začela razvijati v zgodnjem srednjem veku po več epidemijah kuge. Ljudje so začeli iskati zdravila zanjo in verjeli v obstoj eliksirja življenja oziroma eliksirja večne mladosti, ki ga, tako kot kamna modrosti, niso nikoli odkrili.
+Z alkimijo so se začeli intenzivno ukvarjali tudi zdravniki, med katerimi je najbolj znan Paracelzij (1492-1541). Paracelzij je sicer verjel v teorijo štirih elementov (voda, ogenj, zrak in zemlja), vendar je kljub temu vpeljal novo idejo, da je kozmos sestavljen iz treh duhovnih snovi: živega srebra, žvepla in soli. Te snovi niso bile enostavne snovi, kakor jih pojmujemo danes, pač pa principi, ki so dali predmetom notranje bistvo in zunanjo obliko. Živo srebro je predstavljalo pretvorbeni agens (taljivost in hlapnost), žveplo je predstavljalo povezovalni agens med snovjo in pretvorbo (gorljivost), sol pa je predstavljala agens strjevanja/uresničevanja (stalnost in negorljivost). Sistem, ki je za naše predstave zelo zapleten, najbolje ilustrira naslednji primer: ko kos lesa zgori, produkti gorenja odražajo njegovo sestavo: dim odraža živo srebro, plamen odraža žveplo, pepel pa odraža sol.
+Pod vplivom filozofov, med katerimi sta izstopala Francis Bacon (1561 – 1626) in René Descartes (1596-1650), ki so zahtevali v matematiki in drugih znanostih več točnosti in manj predsodkov do znanstvenih opazovanj, je prišlo do znanstvene revolucije, ki se je v kemiji začela z Robertom Boyleom (1627-1691) in njegovim zakonom o obnašanju plinov.[15] Sodobna kemija se je začela z Lavoisierovim (1743-1794) odkritjem zakona o ohranitvi mase leta 1783, Proustovim (1754–1826) zakonom o stalnih masnih razmerjih (1799) in Daltonovo (1766-1844) atomsko teorijo, ki je nastala okrog leta 1800. Zakon o ohranitvi mase in teorija zgorevanja, ki je temeljila predvsem na Lavoisierovih delih, sta kemijo povsem preoblikovali. Lavoisierovi temeljni prispevki h kemiji so bili rezultat njegovih naporov, da rezultate poskusov uskladi s teorijo. Ugotovil je, da je gorenje reakcija s kisikom, s čimer je ovrgel flogistonsko teorijo, vzporedno pa je razvil nov sistem kemijske nomenklature. Arhaični in tehnični jezik kemije je prevedel v nekaj, kar so razumeli tudi manj izobraženi, s čemer se je zanimanje za kemijo močno povečalo. Zaradi teh dosežkov Lavoisier velja za očeta sodobne kemije.[16] Naslednji velik korak v kemiji je naredil Wöhler, ki je odkril in dokazal, da se v laboratoriju lahko proizvedejo tudi snovi, ki so sicer naravni organski proizvodi.[17]
+Odkrivanje kemičnih elementov, ki je staro toliko kot alkimija, je doseglo svoj višek s periodnim sistemom elementov Dimitrija Mendeljejeva (1834-1907)[18] in s kasnejšim odkritjem nekaterih sintetičnih elementov.
+Nastanek imena
+
+
+
+
+Štirje pari ogdoade z bogovoma Ptahom (v zgornji vrsti) in Totom (v spodnji vrsti)
+
+
+Beseda kemija se je uporabljala že v zgodnjem obdobju alkimije, psevdoznanosti, ki je obsegala elemente kemije, metalurgije, filozofije, astrologije, misticizma in medicine. Med manj poučenimi prevleduje mnenje, da je bil njen glavni namen odkriti postopek pretvarjanja svinca in manj plemenitih kovin v zlato.[19]
+Poreklo besede alkimija je še vedno predmet razprav. Besedo se da zanesljivo slediti do Starih Grkov, nekateri poznavalci pa trdijo, da izhaja iz Egipta. Beseda alkimija naj bi nastala iz besede Hemi ali Kimi, ki je staroegipčansko ime Egipta.[20][21][22] Besedo so si kasneje sposodili Stari Grki, od njih pa Arabci, ki so v 7. stoletju osvojili Aleksandrijo. Arabci so ji dodali predpono al-, tako da je nastala beseda الكيمياء - al-kīmiyā, iz nje pa starofrancoska beseda alkemie.
+Alkimijo lahko v grobem razdelimo na naslednja obdobja:
+
+Egipčanska alkimija (3.000 pr. n. št. – 400 pr. n. št.) formulira prve osnovne teorije, na primer ogdoado (iz grškega ογδοάς – osemkraten). Ogdoada so bili štirje mešani pari ženskih in moških božanstev, ki so predstavljali ženski in moški aspekt enega od štirih konceptov: prvobitne vode (Naunet in Nu), zraka ali nevidnosti (Amunet in Amun), teme (Kauket in Kuk) in večnosti ali neskončega prostora (Hauhet in Huh).
+Grška alkimija (332 pr. n. št. – 642); Egipt osvoji Aleksander Veliki in ustanovi Aleksandrijo z največjo knjižnico na svetu, ki postane zbirališče modrecev in učenjakov.
+Arabska alkimija (642 - 1200); Aleksandrijo osvojijo Arabci; najpomembnejši kemik je Džabir.
+Evropska alkimija (1300 do danes); na arabski alkimiji začne graditi Psevdo-Geber.
+Kemija (1661): Boyle objavi klasičen kemijski tekst Skeptični kemik (Sceptical Chymist).
+Kemija (1789): Lavoisier objavi Osnove kemije (Traité élémentaire de chimie).
+Kemija (1803): Dalton objavi svojo Atomsko teorijo (Atomic Theory).
+
+Alkimisti so sami sebe imenovali kemik, z besedo alkimija pa so imenovali »umetnost, ki so jo gojili«.
+Definicije
+Definicije kemije so se v preteklosti večkrat spremenile, predvsem zaradi novih odkritij in novih teorij, ki so nastale na osnovi teh odkritij. Nekateri znani kemiki so uporabljali naslednje definicije kemije:
+
+Alkimija (330) – preučevanje sestave voda, nastajanja, rasti, združevanja, ločevanja, izhajanja duha iz teles in vezanje duha v telesa (Zosimos iz Panopolisa).[23]
+Kimija (1661) - preučevanje snovnih načel sestavljenih teles (Boyle).[24]
+Kimija (1663) – znanstvena umetnost, s katero se lahko telesa raztopi, izvleče iz njih različne snovi, jih ponovno združi in poveča njihovo popolnost (Glaser).[25]
+Kemija (1730) – umetnost razstavljanja zmesi, spojin in agregatnih teles v njihove principe in sestavljanje takšnih teles iz njihovih principov (Stahl).[26]
+Kemija (1837) – znanost, ki preučuje zakone in učinke molekularnih sil (Dumas).[27]
+Kemija (1947) – znanost, ki preučuje snovi, njihovo zgradbo, lastnosti in reakcije, ki jih spremenijo v druge snovi (Pauling).[28]
+Kemija (1998) – preučevanje snovi in njenih sprememb (Chang).[29]
+
+Osnovni pojmi
+Za razumevanje kemije je treba poznati vsaj nekaj osnovnih pojmov.[30]
+Atom
+
+
+Glavni članek: Atom.
+
+
+
+
+
+
+Atom helija v osnovnem stanju.
+
+
+Atom je osnovna gradbena enota kemičnega elementa. Atom je skupek snovi, sestavljene iz atomskega jedra, ki vsebuje pozitivno naelektrene protone in nevtrone, ki so brez naboja, ter negativno naelektrenega elektronskega oblaka, ki vzpostavlja ravnotežje pozitivno nabitemu jedru. Atom je električno nevtralen in je nosilec nekaterih kemičnih lastnosti elementa, na primer elektronegativnosti, ionizacijskega potenciala, oksidacijskih stanj, koordinacijskega števila in vrste kemijskih vezi, na primer kovinske, ionske in kovalentne vezi.
+Element
+
+
+Glavni članek: Kemični element.
+
+
+Kemični element ali prvina je določen s številom protonov v jedru njegovega atoma. To število imenujemo atomsko število elementa. Primer: vsi atomi s šestimi protoni v jedru so atomi kemičnega elementa ogljika, vsi atomi z 92 protoni v jedru pa so atomi elementa urana. Nekateri elementi imajo izotope, ki se med seboj razlikujejo po številu nevtronov.
+Najbolj prikladen pregled kemičnih elementov je periodni sistem elementov, v katerem so elementi razvrščeni po naraščajočih atomskih številih. Elementi so razporejeni v kolone (skupine) in vrstice (periode), odviso od tega, ali imajo podobne kemične lastnosti ali sledijo nekaterim trendom lastnosti, na primer atomskega polmera, elektronegativnosti itd.
+Elementi so lahko razvrščeni tudi drugače, na primer po abecedi, simbolih, atomskem številu itd.
+Spojina
+
+
+Glavni članek: Spojina.
+
+
+Spojina je snov, ki je sestavljena iz natančno določenega razmerja najmanj dveh kemičnih elementov. Elementi in njihovo razmerje določajo njeno sestavo, notranjo organizacijo atomov in njene kemične lastnosti. Voda, na primer, je spojina, ki vsebuje vodik in kisik v razmerju 2:1. Kisikov atom je vezan med obema vodikovima atomoma, kót med njimi pa meri 104,5°. Spojine nastanejo in se spreminjajo s kemičnimi reakcijami.
+Snov
+Kemična snov je vrsta snovi, ki ima točno določeno sestavo ter fizikalne in kemične lastnosti.[31] Zmes snovi, elementov in spojin v strogem pomenu besede torej ni kemična snov. Večina homogenih snovi, s katerimi se srečujemo v vsakdanjem življenju, na primer zrak, morska voda in zlitine, so pravzaprav zmesi.
+Kritičen del kemijskega jezika je poimenovanje snovi – kemijska nomenklatura. V preteklosti je mnogo snovi dobilo ime po svojem odkritelju, kar je pogosto pripeljalo do zmede in težav. Današnji standardizirani sistem poimenovanja, ki ga je zasnovala IUPAC, omogoča nedvoumno poimenovanje katere koli snovi iz milijonske množice znanih snovi. Organske spojine se poimenujejo skladno z nomenklaturo organske kemije,[32] anorganske spojine pa skladno z nomenklaturo anorganske kemije.[33]
+CAS (Chemical Abstracts Service) je ločeno od IUPAC razvila svoj sistem označevanja kemičnih novi, v katerem ima vsaka snov svojo karakteristično registracijsko številko, imenovano CAS registracijska številka.
+Molekula
+
+
+Glavni članek: Molekula.
+
+
+
+
+
+
+Strukturna formula kemične snovi prikazuje kemijske vezi in relativni položaj atomov v molekuli. Na sliki je prikazana struktura Paclitaxela, miotičnega inhibitorja, ki se uporablja v kemoterapiji. Njegovo sistematično ime je zelo zapleteno: (2α,4α,5β,7β,10β,13α)-4,10-bis(acetiloksi)-13-{[(2R,3S)-3-(benzoilamino)-2-hidroksi-3-fenilpropanoil]oksi}-1,7-dihidroksi-9-okso-5,20-epoksitaks-11-en-2-il benzoat. Njegova CAS registracijska številka je mnogo bolj enostavna: 33069-62-4.
+
+
+Molekula je najmanjši nedeljivi delec čiste kemične snovi, ki ima značilne kemične lastnosti, se pravi, da z drugimi kemičnimi snovmi reagira z značilnimi kemičnimi reakcijami. Molekule so električno nevtralne. Za molekule s kovalentno vezjo to pomeni, da imajo vsi valenčni elektroni svoje pare, nevezni elektroni pa so parni.
+Ena od glavnih značilnosti molekule je njena geometrija, ki jo običajno imenujemo molekularna struktura. Strukture dvoatomnih, troatomnih ali štiriatomnih molekul so enostavne: linerane, kotne, piramidalne itd., stukture večatomnih molekul z več kot šestimi atomi (več elementov) pa so lahko ključnega pomena za njene kemične lastnosti.
+Mol
+
+
+Glavni članek: Mol (enota).
+
+
+Mol je količina kemične snovi, ki vsebuje toliko osnovnih enot (atomov, molekul ali ionov), kot jih vsebuje 0,012 kg ogljika 12C. Ogljik mora biti nevezan in v svojem osnovnem stanju.[34] To število osnovnih enot se imenuje Avogadrovo število in je določeno empirično. Njegova trenutno veljavna vrednost je 6,02214179(30)×1023 mol−1 (CODATA, 2007). Mol je običajno absolutno število brez enote, ki se lahko uporablja za vse vrste osnovnih delcev, čeprav je praviloma omejeno na subatomske, atomske in molekularne strukture.
+Število molov snovi v enem litru raztopine je molarnost. Molarnost je osnovna enota za izražanje koncentracije raztopin v fizikalni kemiji.
+Ioni in soli
+
+
+Glavni članek: Ion.
+
+
+Ion je delec, ki nastane, če atom ali molekula izgubi ali dobi enega ali več elektronov. Pozitivno nabiti ioni, na primer Na+, so kationi, negativno nabiti ioni, na prmer Cl-, pa anioni. Ioni lahko tvorijo kristalno rešetko nevtralnih soli, na primer natrijevega klorida (NaCl). Dvo ali večatomni ioni, na primer OH- in PO43- v kislo-bazičnih reakcijah ne razpadejo.
+Ione v plinski fazi imenujemo plazma.
+Kislost in bazičnost
+
+
+Glavni članek: Kislina.
+
+
+Kemične snovi se pogosto lahko razvrstijo na kisline in baze. Razvrstitev temelji na kemijskih reakcijah, v katerih pride med kemičnimi spojinami do izmenjave protonov (H+). Ameriški kemik Gilbert Newton Lewis je pojma kislina in baza razširil, tako da tovrstne reakcije niso več omejene samo na vodne raztopine. V njegovem konceptu je pri teh reakcijah ključna izmenjava naboja.[35] Za razvrščanje snovi v kisline in baze obstoja še nekaj drugih kriterijev.[36]
+Faza
+
+
+Glavni članek: Faza snovi.
+
+
+
+
+
+
+Značilen fazni diagram čiste kemične spojine.
+
+
+Faza snovi je definirana kot vsak homogen, fizično ločen del sistema, ki je od drugih delov sistema ločen z mejno površino – fazno mejo.[37] Faze so npr. led, voda in vodna para, ki so ločene z jasnimi faznimi mejami - mejnimi ploskvami ledu in gladino vode. Faza snovi je torej definirana kot niz stanj kemičnega sistema, ki ima pri nekih pogojih, na primer pritisku in temperaturi, podobne lastnosti. Za fazo značilne fizikalne lastnosti so npr. kristalna zgradba, gostota in lomni količnik.
+Prehod iz ene faze v drugo se imenuje fazni prehod ali fazna sprememba. Fazni prehod je pogojen z izmenjavo energije, ki je potrebna za prestrukturiranje sistema. Za fazno spremembo je značilna nezvezna sprememba ene ali več fizikalnih lastnosti, npr. specifične toplote. Faze je včasih težko razločiti, ker prehod med njimi ni diskreten, ampak zvezen. V takšnih primerih govorimo o nadkritičnem stanju snovi.
+Termodinamsko stanje, opredeljeno s temperaturo in pritiskom, pri katerem tri faze soobstojajo v termodinamskem ravnovesju, imenujemo trojna točka. Trojna točka vode, v kateri soobstojajo vodna para, tekoča voda in led, je pri temperaturi 273,16 K (0,01 °C) in tlaku 611,73 Pa (približno 0,6 % normalnega zračnega tlaka).
+Najpogostejši primeri faz so trdno, tekoče in plinasto agregatno stanje iste snovi, mnoge snovi pa imajo tudi več trdnih faz. Takšno je npr. železo, ki ima pri različnih temperaturah in pritiskih različne kristalne strukture: α, β, γ in δ-železo. Manj znane faze so plazma, Bose-Einsteinov kondenzat in fermionski kondezati ter paramagnetne in feromagnetne faze magnetnih snovi. Poleg trodimenzionalnih sistemov obstojajo tudi dvodimenzionalni sistemi, ki so zelo pomembni v biologiji.
+Oksidacija in redukcija
+
+
+Glavni članek: Redoks reakcija.
+
+
+Pojem oksidacije in redukcije je povezan s sposobnostjo atoma, da odda in sprejme elektrone. Oksidacija je oddajenje elektronov, snov, ki elektrone oddaja, pa je reducent. Redukcija je sprejemanje elektronov, snov, ki sprejema elektrone, pa je oksidant. Značilna redoks reakcija je gorenje. Oksidacija in redukcija sta najbolje definirani s spremembo oksidacijskega stanja.
+Kemijska vez
+
+
+Glavni članek: Kemijska vez.
+
+
+
+
+
+
+Atomske in molekulske elektronske orbitale.
+
+
+Kemijska vez je pojem, ki je potreben za razumevanje, kako se atomi povezujejo v molekule. Kemijsko vez si najlaže predstavljamo kot večpolno ravnotežje med pozitivnimi naboji atomskih jeder in negativnimi naboji, ki nihajo okoli njih.[38] Kemijska vez ni samo preprost privlak in odboj, ker je razpoložljivost elektrona, da se veže na drug atom, odvisna od energij in njihovih porazdelitev. Vzajemno delovanje teh vplivov je tisto, kar povezuje atome v molekule ali kristale.
+Za napovedovanje sestave in zgradbe večine preprostih molekul zadostujejo valenčna teorija vezi, model odboja orbital valenčnih elektronskih parov (VSEPR) in koncept oksidacijskega stanja. Na podoben način se s klasično fiziko lahko predvidi zgradbo mnogih ionskih molekul. Za bolj zapletene spojine, na primer kovinske komplekse, valenčna teorija vezi odpove. Za takšne spojine so potrebni drugačni pristopi, ki temeljijo na principih kvantne kemije, npr. na teoriji molekularnih orbital.
+Kemijska reakcija
+
+
+Glavni članek: Kemijska reakcija.
+
+
+Kemijska reakcija je pojem, ki je povezan s spremembo kemične snovi zaradi vzajemnega vpliva druge snovi ali ene od oblik energije. Kemijska reakcija je lahko naravna ali umetna, izvedena v laboratoriju v laboratorijski posodi. Rezultat kemijske reakcije je lahko nastanek nove molekule, razpad molekule na dve ali več manjših molekul ali prezazporeditev atomov znotraj iste molekule ali med molekulami. V kemijski reakciji pride običajno do pretrganja starih in tvorbe novih kemijskih vezi. Najpogostejše reakcije so npr. oksidacija, redukcija, disociacija, nevtralizacija itd.
+Kemijsko reakcijo lahko simbolično prikažemo s kemijsko enačbo. V nejedrskih reakcijah mora biti število atomov vseh elementov na obeh straneh enačbe enako. V jedrskih reakcijah mora biti enako tudi število subatomskih delcev, se pravi protonov, nevtronov in elektronov.[39] Kemijska enačba, ki izpolnjuje navedene pogoje, je urejena.
+Niz zaporednih osnovnih kemijskih reakcij, ki na koncu pripeljejo do reorganizacije kemjskih vezi, imenujemo reakcijski mehanizem.[40] Kemijska reakcija poteka v več zaporednih korakih, ki imajo različne hitrosti, vmesni produkti pa so različno obstojni. Z reakcijskim mehanizmom lahko razložimo kinetiko reakcije in relativno sestavo reakcijske zmesi. Za določanje oziroma predvidevanje reakcijskih mehanizmov velja nekaj izkustvenih pravil, na primer Woodward-Hoffmannovih pravil.
+Bolj stroga definicija kemijske reakcije pravi, da je to proces, katerega rezultat je vzajemna pretvorba kemičnih snovi.[41] Po tej definiciji so reakcije lahko osnovne ali stopenjske, definicija pa zajema tudi vzajemne pretvorbe konformacijskih izomerov.
+Energija
+
+
+Glavni članek: Energija.
+
+
+
+
+
+
+Fononi: normalne oblike širjenja nihanj v kristalih. Amplitude nihanj so zaradi boljše preglednosti močno povečane.
+
+
+V kemiji je energija lastnost snovi, ki je posledica njene atomske oziroma molekularne zgradbe, v katero spadajo molekularna geometrija ter elektronska in kristalna struktura. Med kemijsko spremembo pride do spremembe vsaj ene od teh struktur, zato pride tudi do spremembe energije snovi. Nekaj energije se lahko z reaktantov prenese na okolico kot toplota ali svetloba, tako da imajo produkti reakcije manjšo energijo kot reaktanti. Takšne reakcije imenujemo eskotermne reakcije. Reakcije, pri katerih je končno stanje energije višje od začetnega, imenujemo endotermne reakcije.
+Kemijska reakcija se ne more začeti, dokler reaktanti ne dosežejo nekega energetskega praga, ki ga imenujemo aktivacijska energija. Hitrost kemijske reakcije pri neki temperaturi T je z aktivacijsko energijo E povezana z Boltzmanovim populacijskim faktorjem e-E/kT, ki je verjetnost, da ima molekula pri dani temperaturi energijo, ki je večja ali enaka aktivacijski energiji E. Ta eksponentna odvisnost je znana kot Arrheniusova enačba. Aktivacijska energija, ki je potrebna za začetek reakcije, je lahko svetloba, toplota, električna energija ali mehanska energija v obliki ultrazvoka.[42]
+Z energijo je povezan pojem proste energije, v katero je vključena tudi entropija, ki je zelo uporabna za napovedovanje izvedljivosti reakcije in določanje kemijskega ravnotežja. Reakcija je izvedljiva samo takrat, kadar je celotna sprememba Gibbsove proste energije negativna (ΔG≤0). Če je ΔG=0, pravimo, da je reakcija v ravnotežju.
+Možna energetska stanja elektronov, atomov in molekul so omejena in določena s pravili kvantne mehanike. Za atome in molekule, ki so v višjih energetskih stanjih, pravimo, da so vzbujeni. Atomi in molekule v vzbujenih stanjih so praviloma bolj reaktivni, kar je še kako pomembno za začetek in potek kemijske reakcije.
+Od energije snovi in njene okolice je odvisna tudi faza snovi: če so medmolekularne sile takšne, da jih energija iz okolice ne more premagati, bo snov ostala v takšni fazi, v kakršni je. Primer: voda (H2O) je pri sobni temperaturi tekoča, ker so njeno molekule povezane z dovolj močnimi vodikovimi vezmi.[43] Vodikov sulfid (H2S), ki ima zelo podobno zgradbo molekule, je pri sobni temperaturi in standardnem pritisku plin, ker so interakcije med dipoli molekul šibke.
+Prenos energije z ene kemijske snovi na drugo je odvisen od velikosti kvanta energije, ki ga snov emitira. Prenos energije z ene snovi na drugo je običajno bolj enostaven zaradi fononov – kvantizirane vibracijske in rotacijske energije v sicer togi kristalni mreži. Fononi imajo mnogo manjšo energijo kot fotoni, zato se med snovmi prenašajo laže kot fotoni in druge oblike energije elektronov. Primer: ultravijolično elektromagnetno sevanje se z ene snovi na drugo prenaša mnogo teže kot toplotna ali električna energija.[44]
+Obstoj značilnih energetskih nivojev kemičnih snovi je uporaben za njihovo identifikacijo z analizo spektralnih črt, ki jo imenujemo spektralna analiza. V kemiji se najpogosteje uporabljajo infrardeča (IR) in mikrovalovna (MV) spektroskopija, jedrska magnetna resonanca (JMR) in elektronska spinska resonanca (ESR). Spektroskopija je uporabna tudi za ugotavljanje kemične sestave oddaljenih objektov, na primer zvezd in galaksij.
+
+
+Emisijski spekter železa.
+
+
+Kemijski zakoni
+
+
+Glavni članek: Kemijski zakon.
+
+
+Kemijske reakcije se podrejajo določenim zakonom, med katerimi so najpomembnejši
+
+Avogadrov zakon (1811), ki pravi, da enaki volumni idealnih plinov pri enaki temperaturi in pritisku vsebujejo enako število delcev.
+Beer-Lambertov zakon, ki povezuje absorpcijo svetlobe z lastnostmi snovi, skozi katero potuje.
+Boylov zakon (1662) - zveza med pritiskom in volumnom idealnega plina.
+Charlesov zakon (1787) - zveza med temperaturo in volumnom idealnega plina.
+Gay-Lussacov zakon (1809)- zveza med temperaturo in pritiskom idealnega plina.
+Fickov zakon o difuziji.
+Henryjev zakon (1803), ki govori o parcialnih tlakih in topnosti plinov.
+Hessov zakon, ki pravi, da sprememba energije v kateremkoli fizikalnem ali kemijskem procesu ni odvisna od poti, po kateri proces poteka, ampak samo od začetnega in končnega stanja.
+Zakon o ohranitvi energije, ki je pripeljal do pomembnih pojmov kemijskega ravnotežja, termodinamike in kemijske kinetike.
+Zakon o ohranitvi mase; sodobna fizika trdi, da je masa pravzaprav konservirana energija in da sta masa in energija med seboj povezani.
+Zakon o stalnih razmerjih.
+Zakon o mnogokratnih razmerjih.
+Raoultov zakon o parnih tlakih idealnih raztopin.
+
+Poddiscipline
+Kemija je zaradi večje razdeljena na več logičnih poddisciplin. Nekatere poddiscipline se prekrivajo in dopolnujejo, večina pa se še naprej deli na množico specializiranih področij kemije.[45]
+
+Analizna kemija z analiziranjem vzorcev snovi ugotavlja njeno kemično sestavo in zgradbo.
+Biokemija preučuje kemikalije, kemijske reakcije in interakcije, ki se dogajajo v živih organizmih. Biokemija je tesno povezana z organsko in medicinsko kemijo, nevrokemijo ter molekularno biologijo in genetiko.
+Anorganska kemija preučuje lastnosti in reakcije anorganskih spojin. Na mnogih področjih, predvsem na področju organskih kovinskih spojin, se kljub navidezni nezdružljivosti prekriva tudi z organsko kemijo.
+Kemija materialov se ukvarja s pripravo, karakteriziranjem in razumevanjem snovi in preučevanjem njene uporabnosti.
+Nevrokemija preučuje snovi, ki so povezane z živčnim sistemom, med katere spadajo transmiterji, peptidi, proteini, lipidi, sladkorji in nukleinske kisline, njihove vzajemne vplive in pravila, ki veljajo za vzpostavljanje, vzdrževanje in prilagajanje živčnega sistema.
+Jedrska kemija preučuje nastajanje atomskih jeder iz subatomskih delcev. Obsežno področje jedrske kemije je jedrska transmutacija, ki preučuje pretvarjanje kemijskih elementov in njihovih izotopov v druge elemente, do katerega pride med jedrskimi reakcijami.
+Organska kemija preučuje zgradbo, lastnosti, sestavo, reakcijske mehanizme in reakcije organskih spojin. Organske spojine so vse spojine, katerih osnova je skelet ogljikovih atomov.
+Fizikalna kemija preučuje fizikalne in druge temeljne osnove kemijskih sistemov in procesov, predsem področje energije in dinamike teh procesov. Najpomembnejša področja fizikalne kemije so kemijska termodinamika, kemijska kinetika, elektrokemija, statistična mehanika in spektroskopija. Fizikalna kemija se v mnogočem prekriva z molekularno fiziko. Povezana je s kvantno in teoretično kemijo, razlikuje pa se od kemijske fizike.
+Teoretična kemija preučuje kemijo s temeljnim teoretičnim sklepanjem, običajno v okviru matematike in fizike. Področje, ki se ukvarja s kvantno mehaniko, se imenuje kvantna kemija. Teoretična kemija se je zelo razvila po drugi svetovni vojni, predvsem zaradi naglega razvoja računalnikov in računalniških programov. Teoretična kemija se na teoretičnem in eksperimentalnem področju prekriva s fiziko kondenzirane snovi in molekularno fiziko.
+
+Viri in opombe
+
+
+^ What is Chemistry?
+^ Matter: Atoms from Democritus to Dalton by Anthony Carpi, Ph.D.
+^ Theodore L. Brown, H. Eugene Lemay, Bruce Edward Bursten, H. Lemay. Chemistry: The Central Science. Prentice Hall; 8. izdaja (1999). ISBN 0-13-010310-1. str. 3-4.
+^ Carsten Reinhardt. Chemical Sciences in the 20th Century: Bridging Boundaries. Wiley-VCH, 2001. ISBN 3-527-30271-9. str. 1-2.
+^ Dictionary of the History of Ideas: Alchemy
+^ First chemists, February 13, 1999, New Scientist
+^ IUPAC Gold Book Definition
+^ California Occupational Guide Number 22: Chemists
+^ Lucretius (50 BCE). de Rerum Natura (On the Nature of Things). The Internet Classics Archive. Massachusetts Institute of Technology. Pridobljeno dne 2007-01-09.
+^ Simpson, David (29 June 2005). Lucretius (c. 99 - c. 55 BCE). The Internet History of Philosophy. Pridobljeno dne 2007-01-09.
+^ Alchemy Timeline - Chemical Heritage Society
+^ 12,0 12,1 Will Durant (1980), The Age of Faith (The Story of Civilization, Volume 4), p. 162-186, Simon & Schuster, ISBN 0-671-01200-2
+^ Derewenda, Zygmunt S. (2007), »On wine, chirality and crystallography«, Acta Crystallographica Section A: Foundations of Crystallography 64: 246–258 [247]
+^ Dr. K. Ajram (1992), Miracle of Islamic Science, Appendix B, Knowledge House Publishers, ISBN 0-911119-43-4.
+^ BBC - History - Robert Boyle (1627 - 1691)
+^ Mi Gyung Kim (2003). Affinity, that Elusive Dream: A Genealogy of the Chemical Revolution. MIT Press. Str. 440. 
+^ Ihde, Aaron John (1984). The Development of Modern Chemistry. Courier Dover Publications. Str. 164. 
+^ Timeline of Element Discovery About.com
+^ Alchemy Lab: History of Alchemy
+^ Science and Civilisation in China, by Joseph Needham, page 47. Published by Cambridge University Press, 1980. ISBN 0-521-08573-X, 9780521085731
+^ Personal Alchemy: The Art of Transforming the Negative into the Positive, by Mary McCarthy. Page 2
+^ The past, present, and future of chemometrics worldwide: some etymological, linguistic, and bibliometric investigations. R. Kiralj and Ma´rcia M. C. Ferreira. Laborato´ rio de Quimiometria Teo´ rica e Aplicada, Instituto de Quı´mica, Universidade Estadual de Campinas, Campinas 13083-970, SP, Brazil. Journal of Chemometrics 2006; 20: 247–272
+^ Strathern, P. (2000). Mendeleyev’s Dream – the Quest for the Elements. New York: Berkley Books.
+^ Boyle, Robert (1661). The Sceptical Chymist. New York: Dover Publications, Inc. (reprint). ISBN 0486428257. 
+^ Glaser, Christopher (1663). Traite de la chymie. Paris.  as found in: Kim, Mi Gyung (2003). Affinity, That Elusive Dream - A Genealogy of the Chemical Revolution. The MIT Press. ISBN 0-262-11273-6. 
+^ Stahl, George, E. (1730). Philosophical Principles of Universal Chemistry. London. 
+^ Dumas, J. B. (1837). 'Affinite' (lecture notes), vii, pg 4. “Statique chimique”, Paris: Academie des Sciences
+^ Pauling, Linus (1947). General Chemistry. Dover Publications, Inc.. ISBN 0486656225. 
+^ Chang, Raymond (1998). Chemistry, 6th Ed.. New York: McGraw Hill. ISBN 0-07-115221-0. 
+^ General Chemistry Online - Companion Notes: Matter
+^ Hill, J.W.; Petrucci, R.H.; McCreary, T.W.; Perry, S.S. (2005). General Chemistry (4th izd.). Pearson Prentice Hall. Str. 37. 
+^ IUPAC Nomenclature of Organic Chemistry
+^ IUPAC Provisional Recommendations for the Nomenclature of Inorganic Chemistry (2004) [1]
+^ Official SI Unit definitions
+^ http://www.apsidium.com/theory/lewis_acid.htm Lewis concept of acids
+^ http://www.bbc.co.uk/dna/h2g2/A708257 History of Acidity
+^ Glasstone, Samuel: Textbook of Physical Chemistry, 2. izdaja, 14. ponatis, Naučna knjiga, Beograd 1967
+^ visionlearning: Chemical Bonding by Anthony Carpi, Ph
+^ Chemical Reaction Equation- IUPAC Goldbook
+^ March, Jerry (1985), Advanced Organic Chemistry: Reactions, Mechanisms, and Structure (3. izdaja), New York: Wiley, ISBN 0-471-85472-7
+^ Gold Book Chemical Reaction IUPAC Goldbook
+^ Reilly, Michael. (2007). Mechanical force induces chemical reaction, NewScientist.com news service, Reilly
+^ Changing States of Matter - Chemforkids.com
+^ IUPAC, »phonon«. Compendium of Chemical Terminology.
+^ The Canadian Encyclopedia: Chemistry Subdisciplines
+
+
+Glej tudi
+
+Mednarodna zveza za čisto in uporabno kemijo (IUPAC)
+periodni sistem elementov
+seznam kemijskih spojin
+seznam kemijskih vsebin
+seznam kemikov
+seznam slovenskih kemikov
+
+Zunanje povezave
+
+
+
+Poglejte si besedo kemija ali Kemija v Wikislovarju, prostem slovarju.
+
+
+
+Slovenski kemijski portal Kemija.org
+Mednarodna zveza za čisto in uporabno kemijo (IUPAC) (v angleščini)
+
+
+
+
+
+
+p · p · u · zKemija
+
+
+
+
+
+
+
+Analizna kemija • Anorganska kemija • Biokemija • Fizikalna kemija • Organska kemija
+
+Agrokemija • Bioanorganska kemija • Bioorganska kemija • Elektrokemija • Farmacija • Farmakologija • Fotokemija • Jedrska kemija • Kemijska biologija • Kemija okolja • Kemija polimerov • Kemija trdnega stanja • Kemijsko inženirstvo • Kemijsko izobraževanje • Medicinska kemija • Mokra kemija • Organokovinska kemija • Organska kemija • Petrokemija • Računska kemija • Supermolekulska kemija • Teoretična kemija • Termokemija • Veda o materialih • Zelena kemija
+
+Protokemija • Alkimija • Iatrokemija • Flogistonska teorija • Kemijska revolucija
+
+
+
+
+
+
+Seznam biomolekul • Seznam anorganskih spojin • Seznam organskih spojin • Periodni sistem elementov
+
+
+
+
+
+
+
+
+
+
+p · p · u · zPodročja naravoslovja
+
+
+
+
+
+
+
+
+Astronomija · Biologija · Fizika · Kemija · Vede o Zemlji
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Kemija&oldid=3847842«				
+Kategoriji: NaravoslovjeKemijaSkrita kategorija: Vsi izbrani članki 
+
+
+

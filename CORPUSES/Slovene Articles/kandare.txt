@@ -1,0 +1,229 @@
+210Ventil 18 /2012/ 3
+
+Vključevanje večjih rezidenčnih in manjših industrijskih uporabnikov v pametna omrežja Gregor KANDARE, Nadja Hvala, Marijan VIDMAR
+
+Dr. Gregor Kandare, univ. dipl. inž.,	dr.	Nadja	Hvala,	univ.	dipl.	inž.,	oba	Institut	Jožef	Stefan,	LjubljanaMag. Marijan Vidmar, univ. dipl. inž.,	INEA,	d.	o.	o.,	Ljubljana¦ 1 UVOD Evropska unija je do leta 2020 sprejela sveženj	ukrepov	z	oznako	20-20-20.Ti ukrepi predvidevajo 20-odstotno zmanjšanje emisij toplogrednih pli-nov,	20-odstotno	povečanje	ener-getske	učinkovitosti	ter	20-odstotno	povečanje	deleža	obnovljivih	ener-getskih	virov.	Značilno	za	obnovljive	energetske vire, kot so veter, sonce, plimovanje, je, da so izrazito nestal-ni in krajevno razpršeni. Proizvodnja električne	energije	iz	teh	virov	je	zato nadvse nepredvidljiva. Po dru-gi	strani	pa	so	obstoječa	prenosna	in	distribucijska	omrežja	dimenzio-nirana na relativno predvidljiv odjem ter na vodljivo in centralizirano pro-izvodnjo	električne	energije.	S	pove-čevanjem	deleža	obnovljivih	virov	v	električnem	omrežju	postaja	uravno-teženje	proizvodnje	in	porabe	elek-trične	energije	vedno	bolj	zahtevna	naloga.	Zaradi	tega	narašča	potreba	po	bolj	sofisticiranem	in	učinkovitem	vodenju energetskih tokov. Rešitev se ponuja v obliki skupka tehnologij, ki jih v zadnjih letih poznamo pod oznako	pametna	omrežja	(smart	grids, [1]). Ta temeljijo na modernih merilnih, informacijskih in komuni-kacijskih tehnologijah in skrbijo za uravnoteženost	proizvodnje,	preno-sa	in	porabe	električne	energije.Dobavitelj	električne	energije	mora	izdelati dnevno napoved odjema električne	energije	(vozni	red)	svo-jega nabora odjemalcev (portfelja). Vozni red, ki je sestavljen iz 24-urnih vrednosti, izdela operater pri doba-vitelju. To stori na podlagi zgodovin-skih podatkov, vremenskih pogojev in	napovedanih	dogodkov.	Če	de-janski odjem odstopa od voznega reda (slika 1),	mora	dobavitelj	plača-ti kazen (malus) organizatorju trga z električno	energijo.	Da	bi	se	izognil	plačilu	kazni,	mora	imeti	dobavitelj	na voljo mehanizem, s katerim lah-ko vpliva na odjem svojega nabora odjemalcev ter se s skupnim odje-mom	tako	čim	bolj	približa	voznemu	redu. 
+
+Izvleček: Zaradi	okoljskih	zahtev	naraščajo	potrebe	po	proizvodnji	električne	energije	iz	obnovljivih	virov.	Sla-bost	tovrstnih	virov	je	v	tem,	da	so	večinoma	odvisni	od	nepredvidljivih	vremenskih	razmer	ter	da	so	necen-tralizirano	razpršeni	po	celotnem	omrežju.	Klasična	elektroenergetska	omrežja	tako	vse	težje	služijo	svojemu	namenu,	zato	je	potrebna	njihova	nadgradnja	v	pametna	omrežja	(smart	grids).	Članek	opisuje	razvoj	vmesnika	za	vključitev	večjih	rezidenčnih	in	manjših	industrijskih	uporabnikov	v	pametna	omrežja.	S	pomočjo	vmesnika	bodo	uporabniki	s	prilagajanjem	odjema	svojih	porabnikov	dobavitelju	električne	energije	pomagali	odpravljati	odstopanja od napovedanega odjema. Ključne besede:	pametna	omrežja,	obnovljivi	viri	električne	energijeSlika 1. Odstopanje odjema od voznega reda
+
+Slika1: Odstopanje odjema od voznega redaNaj bo 
+
+24-urna!
+
+KIBERnet
+
+odjemalci
+
++-Vozni redOdstopanjeodjemaDejanski odjemZahtevanodjem
+
+Slika2: Sistem KIBERnet z regulacijskega vidikaNaj bo 
+
+zahtevani odjem!
+
+Storitveni center
+
+Smart grid vmesnik
+
+Ponudbe za prilagajanjeZahteve zaprilagajanje
+
+Slika3: Izmenjava sporočil med vmesnikom in storitvenim centromNaj bo vmesnik 
+
+Smart grid.1
+
+PAMETNA OMREŽJA
+
+
+
+
+211Ventil 18 /2012/ 3
+
+V ta namen je potreben primeren informacijsko-komunikacijski sistem tako pri dobavitelju kot tudi pri od-jemalcih	električne	energije.Naloga sistema pri dobavitelju je ugotavljati odstopanja odjema od voznega	reda,	izračunati	potrebna	prilagajanja odjemalcev za odpravo odstopanja. Sistemi pri odjemalcih pa morajo biti sposobni ovrednoti-ti stanje svojih naprav in na podlagi tega	sestaviti	ponudbe	za	mogoča	prilagajanja kot tudi prilagajanja dejansko izvršiti na podlagi zahtev sistema dobavitelja.¦ 2 Sistem KIBERnetPodjetje INEA je skupaj s partnerji razvila sistem KIBERnet ([2]), ki omo-goča	krmiljenje	industrijskih	bremen	in razpršene proizvodnje na distribu-cijskem	elektroenergetskem	omrež-ju. Slika 2 prikazuje sistem z regula-cijskega vidika, kjer sistem KIBERnet nastopa kot regulator, katerega na-men	je	izničiti	odstopanja	dejanske-ga odjema od voznega reda. V grobem je sistem KIBERnet se-stavljen iz dveh tipov podsistemov. Prvi	tip	je	pri	dobavitelju	električne	energije (storitveni center). Nabor njegovih funkcionalnosti obsega ko-munikacijo z odjemalci, izvajanje al-goritma prilagajanja, ki obsega izbiro odjemalcev za prilagajanje odjema in podajanje zahtev za prilagajanje ter	beleženje	učinkov	prilagajanja.	Na drugi strani so pri odjemalcih podsistemi, ki sestavljajo ponudbe za prilagajanje ter sprejemajo zah-teve in izvajajo prilagajanja odjema.¦ 3 Vmesnik Smart grid V	okviru	projekta	»Optimizacija	in	vodenje za racionalno rabo energije in	čistejše	okolje«	kompetenčnega	centra	»Sodobne	tehnologije	vode-nja«	podjetje	INEA	in	Institut	Jožef	Stefan	razvijata	vmesnik	za	vključi-tev	večjih	rezidenčnih	in	manjših	in-dustrijskih uporabnikov v pametna omrežja.	Vmesnik je zasnovan tako, da sode-luje s sistemom pri dobavitelju (storitve ni center), ki je bil razvit v okviru projekta KIBERnet. Funkcija vmesnika je prilagajanje odjema na-prav v objektu, da bi dobavitelj lahko dosegel napovedani odjem – vozni red. Pri tem bodo naprave glede na potrebe	povečevale	ali	zmanjševale	odjem.	Povečani	odjem	odjemalci	dosežejo	s	povečanjem	moči	bre-men, zmanjšanje pa z zmanjšanjem moči	bremen	ali	z	lastno	produkcijo	električne	energije.V poenostavljenem pogledu bo med vmesniki v posameznih objek-tih in storitvenim centrom potekala dvostranska komunikacija (slika 3): vmesnik storitvenemu centru po-šilja	ponudbe	o	možnem	prilaga-janju odjema, storitveni center pa glede na potrebe po prilagajanju od vmes nika zahteva prilagajanje v okviru omejitev in pogojev, podanih v	pripadajoči	ponudbi.	Vsak	rezidenčni	oziroma	manjši	in-dustrijski objekt bo vseboval svoj vmesnik (slika 4), ki bo sestavljal po-nudbe in izvajal prilagajanje odjema s	pomočjo	naprav	v	objektu.	Z	ozi-rom na dejstvo, da je vmesnik name-njen manjšim odjemalcem, mora biti njegova cena temu primerno nizka.3.1 Komunikacija vmesnika z napravami in s storitvenim centromKomunikacija vmesnika s storitve-nim centrom bo izvedena preko internetne povezave po navidezno zasebnem	omrežju	(virtual	private	network, VPN). Po tem kanalu se bodo prenašale ponudbe in zahte-ve	za	prilagajanje	kot	tudi	poročila	o	prilagajanjih.Na drugi strani bo moral vmesnik komunicirati z napravami. Ta komu-nikacija bo obsegala branje statusa naprav in podajanje zahtev za vklop, izklop	oziroma	spremembo	moči	naprav v smislu izvajanja prilagaja-nja	odjema.	Fizično	bo	komunikacija	realizirana s sodobnimi komunika-cijskimi	tehnologijami,	kot	so	CAN,	komunikacija	po	električni	napeljavi	(PLC),	Wi-Fi,	ZigBee,	in	podobnimi	tehnologijami. Za podporo starej-šim napravam, ki nimajo implemen-tiranih sodobnih komunikacijskih tehnologij, bo imel vmesnik na voljo analogne in digitalne vhode-izhode, povezane z napravami.3.2 Postopek prilagajanjaSlika 5	prikazuje	sekvenčni	diagram	v notaciji UML (Unified Modelling Language), ki predstavlja postopek prilagajanja. Storitveni center od vmesnikov	pri	odjemalcih	periodično	sprejema ponudbe za prilagajanje. 
+
+PAMETNA OMREŽJA
+
+Slika 2. Sistem KIBERnet z regulacijskega vidika
+
+Slika1: Odstopanje odjema od voznega redaNaj bo 
+
+24-urna!
+
+KIBERnet
+
+odjemalci
+
++-Vozni redOdstopanjeodjemaDejanski odjemZahtevanodjem
+
+Slika2: Sistem KIBERnet z regulacijskega vidikaNaj bo 
+
+zahtevani odjem!
+
+Storitveni center
+
+Smart grid vmesnik
+
+Ponudbe za prilagajanjeZahteve zaprilagajanje
+
+Slika3: Izmenjava sporočil med vmesnikom in storitvenim centromNaj bo vmesnik 
+
+Smart grid.1
+
+Slika 3. Izmenjava sporočil med vmesnikom in storitvenim centrom
+
+Slika1: Odstopanje odjema od voznega redaNaj bo 
+
+24-urna!
+
+KIBERnet
+
+odjemalci
+
++-Vozni redOdstopanjeodjemaDejanski odjemZahtevanodjem
+
+Slika2: Sistem KIBERnet z regulacijskega vidikaNaj bo 
+
+zahtevani odjem!
+
+Storitveni center
+
+Smart grid vmesnik
+
+Ponudbe za prilagajanjeZahteve zaprilagajanje
+
+Slika3: Izmenjava sporočil med vmesnikom in storitvenim centromNaj bo vmesnik 
+
+Smart grid.1
+
+
+
+
+212Ventil 18 /2012/ 3
+
+Ko storitveni center ugotovi odsto-panje odjema od voznega reda, sproži	optimizacijski	postopek	za	izbiro nabora odjemalcev, ki bodo izvedli	prilagajanje	in	s	tem	izničili	odstopanje.Optimizacijski postopek je sestavljen iz	ekonomske	in	tehnične	optimizaci-je.	Postopek	najprej	iz	množice	vseh	ponudb odjemalcev po ekonomskem kriteriju izbere najugodnejši nabo r ponudb, katerih skupna cena je manjša od malusa, ki bi ga moral pla-čati	za	odstopanje	od	voznega	reda.	Če	je	najcenejši	nabor	ponudb	dražji	od malusa, se dobavitelju prilagaja-nje	ne	izplača.	Poleg	ekonomskega	kriterija optimizacijski postopek upo-števa tudi zanesljivost odjemalcev. Vsak odjemalec v dobaviteljevi bazi ima svoj faktor zanesljivosti, ki ga na podlagi	preteklih	prilagajanj	izraču-nava poseben modul ([3]). Bolj ko so se	izvedena	prilagajanja	držala	zah-tevanih,	večji	faktor	zanesljivosti	ima	odjemalec. Nabor izbranih ponudb je	potrebno	preveriti	s	pomočjo	ma-tematičnega	modela	distribucijskega	omrežja.	Model	omrežja	je	imple-mentiran v programu GREDOS, ki je bil razvit na Elektroinštitutu Milan Vidmar ([4]). Aplikacija storitvenega centra	z	modelom	omrežja	komu-nicira	preko	servisa	WEB.	Če	model	omrežja	potrdi,	da	je	nabor	ponudb,	dobljen z ekonomsko optimizacijo, tudi	tehnično	sprejemljiv,	bodo	odje-malci, ki so ponudbe oddali, izbrani za prilagajanje. V nasprotnem prime-ru je potrebno ponavljati izbiro no-vega nabora ponudb, dokler ne do-bimo nabora ponudb, ki ne bo kršil omejitev	omrežja.	Ko je nabor odjemalcev za prilagaja-nje izbran, storitveni center vsakemu posebej pošlje zahtevo za prilagaja-nje. Zahteva vsebuje urni potek odje-ma energije, ki se ga mora odjemalec držati	za	prilagajanje.	Po	končanem	prilagajanju vmesniki odjemalcev storitvenemu centru pošljejo poro-čilo	o	prilagajanju,	ta	pa	ga	shrani	v	svojo podatkovno bazo.3.3 Sestavljanje ponudb za prilagajanjePri sestavljanju ponudb za prilaga-janje mora vmesnik upoštevati zna-čilnosti	in	trenutno	stanje	naprav	odjemalca, ki so na voljo za prilaga-janje. Poleg tega pa na oblikovanje ponudbe vplivajo še zahteve upo-rabnikov naprav. Ponudba ima obliko tabele in mora med drugim vsebovati naslednje podatke:Tip ponudbe• : pozitivna ali nega-tivna rezerva. S tipom ponudbe je določeno,	ali	ponujamo	povečanje	ali zmanjšanje odjema.Cena za prilagajanje•  je znesek, ki ga odjemalec zahteva za izvedbo prilagajanja.Čas začetka prilagajanja • določa	časovni	interval,	v	katerem	se	lah-ko	začne	prilagajanje.Čas trajanja prilagajanja • je najdalj-ši	čas	izvajanja	prilagajanja.Energija prilagajanja • je energija, za katero se bo uporabnik prilagodil. Odvisna	je	od	profila	moči	in	od	časa	prilagajanja.Slika 4. Kontekstni diagram
+
+Dobavitelj električne energijeOdjemalci električne energije
+
+Slika4: Kontekstni diagram
+
+Storitveni centerOdjemalec 1Odjemalec 2Odjemalec n...Ponudba(odjemalec1)Ponudba(odjemalec2)Ponudba(odjemalec3)Izbor nabora odjemalcev za prilagajanjeProfilMoci(Profil1)ProfilMoci(Profil2)PorociloPorociloNadzor prilagajanjaIzvajanje prilagajanjaIzvajanje prilagajanja
+
+2
+
+Slika 5. Postopek prilagajanja
+
+Dobavitelj električne energijeOdjemalci električne energije
+
+Slika4: Kontekstni diagram
+
+Storitveni center
+
+Odjemalec 1
+
+Odjemalec 2
+
+Odjemalec n
+
+...
+
+Ponudba(odjemalec1)
+
+Ponudba(odjemalec2)
+
+Ponudba(odjemalec3)
+
+Izbor nabora odjemalcev za prilagajanje
+
+ProfilMoci(Profil1)
+
+ProfilMoci(Profil2)
+
+Porocilo
+
+Porocilo
+
+Nadzor prilagajanja
+
+Izvajanje prilagajanjaIzvajanje prilagajanja
+
+2
+
+PAMETNA OMREŽJA
+
+
+
+
+213Ventil 18 /2012/ 3
+
+Pri	odjemalcih,	ki	so	lahko	rezidenč-ni ali manjši industrijski uporabniki, najdemo	široko	paleto	različnih	na-prav. Da bi poenostavili algoritem sestavljanja ponudb za prilagajanje, smo sestavili minimalni nabor razre-dov naprav, s katerim lahko opišemo vse naprave, ki jih najdemo pri upo-rabnikih. Identificirali smo naslednje štiri razrede naprav:Prestavitvene naprave•  so tiste, ka-terih	cikel	delovanja	je	mogoč	e	poljubno prestavljati znotraj do-ločenega	časovnega	intervala.	Primer prestavitvenih naprav so pralni, sušilni in pomivalni stroji.Vklopitvene naprave• 	so	večino	časa	izklopljene,	lahko	pa	se	za	določen	čas	vklopijo	in	s	tem	nudijo	nega-tivno rezervo energije. Primer je	polnilec	baterije	električnega	avto mobila.Prekinitvene naprave• 	običajno	de-lujejo	z	neko	konstantno	močjo,	lahko	pa	jih	za	določen	čas	izklo-pimo in s tem nudimo pozitivno rezervo	energije.	Tipični	predstav-niki prekinitvenih naprav so hladil-niki in zamrzovalniki.Naprave spremembe•  so tiste na-prave,	ki	jim	lahko	moč	delovanja	povečamo	ali	zmanjšamo	za	dolo-čen	čas	ter	tako	nudimo	pozitivno	oziroma negativno rezervo. Primer so razni grelci, ki jim lahko spremi-njamo	moč.	Metamodel naprav prikazuje razred-ni diagram UML na sliki 6. Z atributi razredov opišemo fiksne parametre naprav in spremenljivke, ki podajajo trenutno stanje naprave.Slika 6. Metamodel naprav
+
+Slika5: Postopek prilagajanjaNaj bo zmeraj pred ( razmik: ponudba (odjemalec), naj bo poročilo.
+
+-tint-Pcycle-treint+tendint
+
+NapravaPrekinitev
+
++tstart()
+
+-Pcycle-tcycle+tearly+tlate+ttol+tlatestart
+
+NapravaPrestavitev
+
+-tchg-Pdeltamin-Pdeltamax-trechg+tendchg+Pdelta
+
+NapravaSprememba
+
+Naprava
+
++tstart(in ton, in nint)+tstop()
+
+-ton-Pcycle-treon+tendon
+
+NapravaVklop
+
+Slika6: Metamodel napravRazmiki med besedami?
+
+MočČasPcycleEcycle1tendchgtrechgEcycle2tchgtchg
+
+Pdelta1Pdelta2
+
+Slika7: Primer časovnega diagrama odjema naprave spremembe3
+
+Slika 7. Primer časovnega diagrama odjema naprave spremembe
+
+Slika5: Postopek prilagajanjaNaj bo zmeraj pred ( razmik: ponudba (odjemalec), naj bo poročilo.
+
+-tint-Pcycle-treint+tendintNapravaPrekinitev+tstart()-Pcycle-tcycle+tearly+tlate+ttol+tlatestartNapravaPrestavitev-tchg-Pdeltamin-Pdeltamax-trechg+tendchg+PdeltaNapravaSpremembaNaprava+tstart(in ton, in nint)+tstop()-ton-Pcycle-treon+tendonNapravaVklop
+
+Slika6: Metamodel napravRazmiki med besedami?
+
+MočČasPcycleEcycle1tendchg
+
+trechgEcycle2
+
+tchg
+
+tchg
+
+Pdelta1Pdelta2
+
+Slika7: Primer časovnega diagrama odjema naprave spremembe3
+
+Na tem mestu si kot primer po-drobneje oglejmo samo naprave spremembe.	Vzorčne	vrednosti	pa-rametrov	so	grafično	prikazane	na	primeru	časovnega	diagrama	odje-ma na sliki 7. Med spremenljivke, ki opisujejo ka-rakteristike naprave, spada najdaljši dovoljeni	čas	spremembe	moči	od-jema (tchg). Dovoljena sprememba moči	se	giblje	med	ekstremoma,	do-ločenima	s	Pdeltamin in Pdeltamax. Pdelta1 in Pdelta2 na sliki 7 imata vrednost v tem intervalu.	Po	vrnitvi	v	normalno	moč	delovanja Pcycle lahko znova spreme-nimo	moč	šele	po	preteku	časa	trechg, ki	označuje	minimalni	čas,	ki	mora	preteči	do	ponovne	spremembe.	Spremenljivki, ki opisujeta stanje na-prave,	sta:	časovni	trenutek,	v	kate-rem	se	je	končalo	zadnje	prilagajanje	(tendchg),	ter	sprememba	moči	napra-ve v trenutnem prilagajanju (Pdelta). Čas	trajanja	prilagajanja	v	ponudbi	je navzgor omejen z najdaljšim do-voljenim	časom	spremembe	tchg.Pri sestavljanju ponudbe se upošte-vajo vrednosti parametrov napra-ve. V konkretnem primeru naprave spremembe je tip ponudbe tako za-gotavljanje pozitivne kot negativne rezerve.	Čas	najzgodnejšega	možne-ga	začetka	prilagajanja	je	odvisen	od	časovne	oddaljenosti	od	trenutka,	v	katerem	se	je	začelo	zadnje	prilaga-janje,	ter	od	minimalnega	časa	trechg. Energija	prilagajanja	je	določena	s	Pdeltamin, Pdeltamax ter	s	časom	trajanja	prilagajanja.3.4 Izvajanje prilagajanjaPoleg sestavljanja ponudb je naloga vmesnika vodenje naprav (bremen) za izvedbo prilagajanja odjema. Osnova	(referenčna	vrednost)	za	vodenje so zahteve za prilagajanje, ki mu jih pošilja storitveni center. Zahteve	vsebujejo	naslednje	ključne	podatke:tip zahteve• 	določa,	ali	se	mora	na-prava	prilagoditi	s	povečanjem	ali	z zmanjšanjem odjema (pozitivna ali negativna rezerva);začetek prilagajanja• 	je	časovni	tre-nutek,	ko	naj	naprava	prične	s	pri-lagajanjem;čas trajanja prilagajanja• ;energija.• Vrednosti postavk v zahtevi za prila-gajanje morajo biti znotraj interva-lov,	določenih	z	vrednostmi	postavk	v	pripadajoči	ponudbi.	Vmesnik	mora krmiliti naprave tako, da do
+
+PAMETNA OMREŽJA
+
+
+
+
+214Ventil 18 /2012/ 3seže	zahtevane	prilagojene	energije	ob	upoštevanju	zahtevanih	časovnih	parametrov.¦ 4 ZaključekUporaba	vmesnikov	za	vključevanje	večjih	rezidenčnih	in	manjših	indu-strijskih uporabnikov v pametna omrežja	bo	pripomogla	k	stabilnej-šemu	delovanju	omrežja.	Dobavi-telji	bodo	imeli	možnost	ukrepanja	pri odstopanju odjema od voznih redov	in	se	tako	izogniti	plačilu	malusa. Prednosti za odjemalce bodo	mož	nost	dodatnega	zaslužka,	sproten nadzor porabe energije ter dodatne storitve, kot je na primer daljinski dostop preko pametnih telefonov.Pametna	omrežja	niso	homogeni	sistemi,	ki	bi	jih	bilo	mogoče	v	celoti	zgraditi naenkrat. Bolj so podobna mozaiku,	ki	se	počasi	sestavlja.	Opi-sani vmesnik bo eden od sestavnih kamenčkov	tega	mozaika.Literatura[1]	Gellings,	C.	W.	(2009).	The Smart Grid: Enabling Energy Efficiency and Demand Response, Fairmont Press, Lilburn, USA.
+
+ZahvalaKompetenčni center za sodobne tehnologije vodenja delno financirata Republika Slovenija, Ministrstvo za visoko šolstvo, znanost in tehnologijo ter Evropska unija (EU), in sicer iz Evropskega sklada za regionalni razvoj. 
+
+Integration of residential and small industrial consumers into smart gridsAbstract: Stricter environmental requirements demand increasing inclusion of renewable energy sources into the electric system. The dependency of renewable energy sources on unpredictable weather conditions is their major disadvantage. Furthermore, these sources are dispersed throughout the whole electrical grid. The existing classical electrical grids dimensioned for centralised power generation in transmission grid are becoming inad-equate for this new situation. Solutions to this problem are smart grids, which use information and communica-tion technology to control the energy flows more efficiently. This article describes the development of a smart grid interface for bigger residential and smaller industrial users. The interface enables these users to participate in demand side management and thus help the energy supplier to meet the predicted energy demand.Key words: Smart grids, renewable electrical energy sources[2] KIBERnet Smart Grids Technolo-gy, http://www.kiber-net.com.[3] Kandare, G. (2010). A System for Control	of	Industrial	Consumpti-on and Distributed Generation of Electrical Energy, Proceedings of the 11th International PhD Wor-kshop on Systems and Control, Veszprém, Madžarska.[4] Mohar, T., Golob, J., in Andejaš, L. (2007). Programski paket Gredos 10.0, Zbornik konference sloven-skih energetikov,	Čatež.
+
+PAMETNA OMREŽJA
+
+22.TEHNIŠKO POSVETOVANJEVZDRŽEVALCEV SLOVENIJEOtočec, 18. in 19. oktober 2012 | www.tpvs.siIZZIVI SODOBNEGA VZDRŽEVANJA
+
+
+
+

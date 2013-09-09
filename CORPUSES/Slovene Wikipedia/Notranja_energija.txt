@@ -1,0 +1,61 @@
+
+
+Nótranja energíja (oznaka Wn in tudi U) je oblika energije, ki jo ima telo zaradi svojega stanja. K njej štejemo kinetično energijo, ki jo imajo atomi in molekule snovi zaradi svojega gibanja, ter potencialno energijo, ki jo imajo atomi in molekule v snovi zaradi medsebojnih privlačnih ali odbojnih sil.
+
+
+Termodinamski potenciali
+
+
+Notranja energija
+
+
+
+Prosta energija
+
+
+
+Entalpija
+
+
+
+Prosta entalpija
+
+
+
+edit
+
+
+Pri enoatomnem idealnem plinu je notranja energija kar enaka vsoti posameznih translacijskih kinetičnih energij, ki jo imajo atomi plina. Pri večatomnem idealnem plinu moramo poleg translacijske kinetične energije upoštevati še prispevke zaradi vrtenja in nihanja molekul. Pri neidealnih plinih, še bolj pa pri tekočinah in trdnih snoveh moramo k tem prispevkom prišteti še potencialno energijo molekul zaradi medmolekulskih sil. K notranji energiji štejemo tudi kemično energijo, ki se spreminja ob nastanku in razgradnji kemijskih vezi, in jedrsko energijo, ki se sprošča ob preoblikovanju atomskih jeder.
+Termodinamika se navadno omeji na obravnavo primerov, pri katerih telo na začetku in koncu poskusa miruje, prav tako pa se ne premakne njegovo masno središče. V tem primeru je notranja energija edini prispevek k energiji. Prvi zakon termodinamike lahko zato zapišemo v obliki, ki pravi, da je sprememba notranje energije telesa enaka vsoti dovedene ali odvedene toplote Q ter dovedenega ali odvedenega dela A:
+
+
+
+Notranja energija idealnega enoatomnega plina
+Notranja energija idealnega enoatomnega plina je posebej enostaven zgled, na katerem lahko pokažemo zvezo med opisom sistema z mikroskopskimi mehanskimi količinami ter opisom z makroskopskimi termodinamičnimi količinami.
+Molekule enoatomnega idealnega plina obravnavamo kot točkasta telesa, ki ne delujejo druga na drugo. Edini prispevek k energiji je translacijska kinetična energija. Notranja energija takega plina je potemtakem kar enaka skupni kinetični energiji vseh N molekul v posodi:
+
+
+
+Pri tem je m masa molekule, vi pa njena hitrost.
+Če skupno kinetično energijo delimo s številom molekul, dobimo povprečno kinetično energijo:
+
+
+
+Z orodji statistične mehanike se da pokazati, da je povprečna kinetična energija molekule ravno 1/2 kBT na prostostno stopnjo. Pri treh prostostnih stopnjah torej velja
+
+
+
+Pri tem je T absolutna temperatura, kB pa Boltzmannova konstanta.
+Notranja energija idealnega plina je torej premo sorazmerna absolutni temperaturi:
+
+
+
+Pri tem je ν število molov plina, R pa splošna plinska konstanta.
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Notranja_energija&oldid=3851943«				
+Kategorije: Fizikalne količineMehanikaTermodinamika 
+
+
+

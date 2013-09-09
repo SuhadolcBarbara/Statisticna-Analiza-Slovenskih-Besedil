@@ -1,0 +1,136 @@
+
+
+
+
+Malarija
+
+
+Klasifikacija in zunanji viri
+
+
+
+Rdeča krvna celica, okužena s parazitom Plasmodium falciparum
+
+
+MKB-10
+B50
+
+
+MKB-9
+084
+
+
+OMIM
+248310
+
+
+DiseasesDB
+7728
+
+
+MedlinePlus
+000621
+
+
+eMedicine
+med/1385 emerg/305 ped/1357
+
+
+MeSH
+C03.752.250.552
+
+
+Malárija (italijansko mala aria - slab zrak) je nalezljiva bolezen, ki jo povzročajo nekatere vrste zajedavskih praživali iz razreda trosovcev, plazmodiji (Plasmodium). Najbolj razširjen je Plasmodium falciparum, ki je odgovoren za večino smrtnih primerov okužb.[1] Letno se pojavi približno 350-500 milijonov okužb[2] in od 1-3 milijonov smrti, pretežno v tropih in podsaharski Afriki.[3] Povzročitelja je odkril francoski vojaški zdravnik Charles Louis Alphonse Laveran, za kar je leta 1907 prejel Nobelovo nagrado za medicino in fiziologijo.[4] Prenašalec (vektor) malarije je komar mrzličar (Anopheles).
+Malarija se pojavlja tudi pri drugih sesalcih (netopirji, glodalci, primati), pticah in plazilcih.
+
+
+Vsebina
+
+
+1 Razvojni krog plazmodija
+2 Bolezenski znaki
+3 Diagnoza in zdravljenje
+4 Preventiva
+5 Sklici in opombe
+6 Viri
+7 Zunanje povezave
+
+
+Razvojni krog plazmodija
+
+
+
+
+Razvojni korg plazmodija. Komar okuži človeka, sporozoiti preidejo v krvni obtok in okužijo jetrne celice (hepatocite), kjer se namnožijo in preidojo v krvni obtok kot merozoiti, ki okužijo eritrocite. Med drugim nastanejo po tej fazi tudi gametociti (spolne celice), ki se v primeru pika komarja vnesejo v komar.
+
+
+Okužene samice komarja prenašajo trose plazmodija v žlezah slinavkah. Ko pičijo človeka, se trosi prenesejo v njegovo kri in se začnejo množiti v jetrih. Nastanejo merozoiti, ki vstopajo v rdeča krvna telesca (eritrocite), kjer se nadalje delijo, dokler eritrocit ne poči. Takrat bolnik dobi napad.
+Zajedavec je dokaj dobro zaščiten pred gostiteljevim imunskim sistemom, saj ostaja znotraj jetrnih celic in krvnih telesc, vendar bi bili v vranici kljub temu okuženi eritrociti uničeni. Zato zajedavec proizvaja raznolike beljakovine, ki se pojavljajo na površini eritrocitov. Zaradi njihove raznolikosti ne morejo biti tarče imunskega sistema.
+Nekateri merozoiti se razvijejo v moške in ženske spolne celice. Če komar piči okuženo osebo in s krvjo posrka tudi te celice, se v črevesu komarja združijo in potujejo v žlezo slinavko, kjer se razvojni krog zaključi.
+Komarji še posebej napadajo noseče ženske. Tako je malarija pri njih pogost vzrok rojevanja mrtvorojenih otrok in smrti novorojenčkov.
+Bolezenski znaki
+Bolezenski znaki malarije so mrzlica, drgetanje, bolečine v sklepih, bljuvanje in krči. Posebno pri povzročitelju P. falciparum je možno tudi ščemenje kože. Pri težjih oblikah se lahko pojavi koma in, če bolezni ne zdravimo, končno smrt, posebej pri majhnih otrocih. Lahko se pojavijo tudi pozni zapleti, ki privedejo do poškodb osrednjega živčevja ali do odpovedi ledvic pri črnosečni mrzlici.
+Poznamo več oblik malarije, ki jih ločimo glede na to, na koliko dni se pojavljajo napadi:
+
+malarija kvartana (napadi se pojavljajo na štiri dni);
+malarija terciana (napadi se pojavljajo na tri dni);
+malarija tropica (napadi so vsakodnevni).
+
+Diagnoza in zdravljenje
+Mikroskopski pregled razmaza krvi je zelo specifičen, poceni in enostaven, vendar je njegova učinkovitost v revnih endemičnih predelih sveta majhna zaradi slabe opreme in neznanja kadra. Tako se vsako vročinsko stanje zdravi kot malarijo, ne glede na laboratorijske izvide: po nekaterih podatkih od 50-70 % diagnosticiranih ljudi nima malarije, zato prekomerna uporaba zdravil dodatno širi odpornost in terja razvoj in proizvodnjo novejših in dražjih zdravil. Obstajajo tudi t. i. hitri test za malarijo v obliki testnih lističev, na katerih so nanešena monoklonalna protitelesa proti specifičnima antigenoma P.falciparum (PfHRP2 in pLDH); specifičnost za P.falciparum je nad 90 %. Pomanjkljivosti testa sta nižja specifičnost za druge vrste plazmodijev in trenutno visoka cena. Kljub temu so testi uporabni na potovanjih, v primeru epidemij plazmodija P.falciparum, v mobilnih klinikah in klinikah, kjer je kvaliteta mikroskopiranja slaba ter v oredelih, kjer je cena simptomatskega zdravljenja višja od hitrega testa.[5]
+Če malarijo opazimo dovolj zgodaj, jo lahko ozdravimo. Zadnjih 50 let se za zdravljenje uporabljata dve skupini antimalarikov (zdravila, ki učinkujejo na povzročitelje malarije), in sicer antifolati in kinolin vsebujoča zdravila. Med antifolate spadajo diaminopiridini (npr. pirimetamin in trimetoprim), bigvadini (npr. progvanil in klorprogvanil) in sulfatna zdravila (npr. sulfanamidi in sulfoni). Med kinolin vsebujoča zdravila spadajo kinhonski alkaloidi (npr. kinin in kinidin), 8-aminokinolini (primakvin) in 4-aminokinolini (klorokvin in amodiakvin). Uporabni so tudi nekateri antibiotiki (doksiciklin, azitromicin in tetraciklini). Težava pri vseh antimalarikih je, da plazmodiji nanje postajajo odporni, zato je izbira zdravila odvisna od območja, kamor potujemo, poleg tega pa so uporabne kombinacije omenjenih zdravil, npr. kombinacija atovakvona in in progvanila. Samozdravljenje (angleško stand-by emergency treatment) je namenjeno popotnikom, ki za krajši čas potujejo v predele sveta, kjer je verjetnost okužbe majhna in kadar v 24 urah dostop do zdravniške pomoči ni mogoč. Pri tem oseba pri sumu na malarijo vzame vnaprej predpisano količino antimalarikov.[6]
+Zaradi večje odpornosti proti antimalarikom in insekticidom so razvoju tri skupine cepiv: cepiva prederitrocitne faze vplivajo na sporozoite in jetrne oblike, cepiva eritrocitne faze poskušajo posnemati razvoj pridobljene imunosti, cepiva faze gametogonije (altruistična cepiva) pa naj bi preprečila, da bi spolne oblike parazita, ki jih samica posrka iz okužene osebe, dokončala razvojni krog v komarju.[7]
+Preventiva
+
+
+
+
+Države z endemičnimi predeli malarije (rumeno).[8] Države brez tveganja za malarijo so označene zeleno.
+
+
+Glede na dokumentacijo Svetovne zdravstvene organizacije (WHO) so pomembni trije elementi nadzora in preprečevanja malarije, in sicer zmanjševanje števila komarjev (uničevanje ugodnih bivališč, ličink in odraslih oblik), hitra diagnoza in učinkovito zdravljenje v vseh endemičnih področjih ter dobro napovedovanje in hitro ugotavljanje izbruhov epidemij s takojšnimi ukrepi.[9]
+Nekdaj so komarje množično zatirali z insekticidom DDT in s tem močno omejili malarijo. Kasneje ni več dajal večjih uspehov, saj so komarji nanj postajali odporni, izkazalo pa se je tudi, da je DDT močno rakotvoren, zato je bila njegova uporaba prepovedana.
+Večanje in širjenje odpornosti komarjev na insekticide je pripomoglo k hitrejšemu odkrivanju bioloških snovi, ki vplivajo na razmnoževanje in razvojni krog prenašalca. Primer take snovi je larvicidni toksin bakterij Bacillus sphaericus in B. thuringiensis. Toksin je izločen kot protoksin, ki postane toksičen za ličinke šele po tem, ko ga zaužijejo v hrani; tako je za višje razvite živali in okolje neškodljiv. Uporaba bioloških snovi je omejena predvsem zaradi specifičnosti za vrsto prenašalca, pa tudi zaradi visoke cene, nižje učinkovitosti v primerjavi z insekticidi in fizikalnih lastnosti (npr. občutljivost na ultravijolično svetlobo (UV)).[9]
+Repelenti, ki so nanešeni na kožo, zaščitijo samo uporabnika in so aktivni le nekaj ur. Na njihovo učinkovitost vplivajo okolje (temperatura, sončna svetloba, veter,...), sestava (koncentrat ali raztopina), izpostavljeni del kože in individulane lastnosti posameznika (potenje,...). Trenutno so kot repelenti v uporabi dietiltoluamid (DEET), pa tudi dimetilftalat (DMP), etileksandiol (Rutgers 612) in N-butil-N-acetil-3-etilaminoproprionat (35/35). Učinkovite so tudi impregnirane mreže proti komarjem, ki ponekaterih podatkih zmanjšajo pojav za malarijo značilnih znakov do 50 %, in impregnirana oblačila. Za impregnacijo se uporabljajo permetrin, deltametrin, lambdakihaltrin in alfametrin.[10]
+Verjetno bi z manipulacijo genov komarja onemogočili razvoj parazita v njem. Tako bi naravno populacijo zamenjali z genetsko spremenjeno populacijo, v katerih spolno razmnoževanju parazita ne bi bilo možno.[10]
+Sklici in opombe
+
+
+^ Greenwood, Slack in Peutherer; Medical microbiology, 1992, str. 700.
+^ Malaria Facts. Center za nadzor in preprečevanje bolezni (CDC). Pridobljeno 10.09.2009.
+^ Snow, R.W. s sod. (2005). "The global distribution of clinical episodes of Plasmodium falciparum malaria". Nature 434 (7030): 214–7. doi:10.1038/nature03342. PMID 15759000. 
+^ »Biography of Alphonse Laveran«. The Nobel Foundation. Pridobljeno 10.09.2009.
+^ Kšela, Trampuž; str. 71-72.
+^ Kšela, Trampuž; str. 72.
+^ Kšela, Trampuž; str. 69.
+^ Malaria. Center za nadzor in preprečevanje bolezni (CDC). Pridobljeno 10.09.2009.
+^ 9,0 9,1 Kšela, Trampuž; str. 67.
+^ 10,0 10,1 Kšela, Trampuž; str. 68.
+
+
+Viri
+
+
+Greenwood D., Slack R.C.B., Peutherer J.F. (1992). Medical microbiology, 14. izdaja. Edinburgh, London, Madrid, Melbourne, NY & Tokyo: Chruchill Livingstone, str. 700-702. ISBN 0-443-05787-7
+Kšela, J. & Trampuž, A. (2006). "Novosti v preprečevanju, diagnostiki in zdravljenju malarije". Medicinski razgledi 45 (1): 65-74. ISSN 0025-8121. 
+
+
+Zunanje povezave
+
+Informacije o malariji na WHO (v angleščini)
+
+
+
+
+Poglejte si besedo malarija ali Malarija v Wikislovarju, prostem slovarju.
+
+
+   
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Malarija&oldid=3994923«				
+Kategorije: ApicomplexaUrgentna stanjaParazitske bolezniTropske bolezniMalarija 
+
+
+

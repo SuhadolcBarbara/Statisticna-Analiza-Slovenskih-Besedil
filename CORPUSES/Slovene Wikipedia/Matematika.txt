@@ -1,0 +1,247 @@
+
+
+
+
+
+
+Simbolni prikaz različnih področij matematike
+
+
+
+
+
+
+Problem delitve kroga v geometriji
+
+
+
+
+
+
+Kolaž matematičnih pojmov in predstav
+
+
+Matemátika (starogrško μαθηματικά: mathēmatiká, μάθημα: máthēma - -thematos - znanost, znanje, učenje, študij; μαθηματικός: mathematikos - ljubezen do učenja) je znanstvena veda, ki raziskuje vzorce. Vsebuje abstraktne lastnosti množin, struktur, sprememb in prostora. Ta stran zrcali organiziran pogled na matematiko. Benjamin Peirce je imenoval matematiko »znanost, ki podaja nujne sklepe«. Druga opredelitev smatra, da je matematika znanost o vzorcih, ki se lahko nahajajo v številih, prostoru, znanosti, računalnikih, navideznih ali stvarnih abstrakcijah, oziroma kjerkoli. Matematiki te vzorce raziskujejo in poskušajo formulirati nove domneve in ugotoviti njihovo resničnost s strogo deduktivno izpeljavo iz ustrezno izbranih aksiomov in definicij.
+
+
+
+
+
+Ta članek potrebuje čiščenje. Pri urejanju upoštevaj pravila slogovnega priročnika. Razlog za to je: spremeniti iz seznama v članek. Prosimo, da nam pomagaš izboljšati ta članek. 
+
+
+
+
+Vsebina
+
+
+1 Kratek vsebinski pregled matematike
+
+1.1 Množina
+1.2 Sprememba
+1.3 Zgradba
+1.4 Prostor
+1.5 Končna matematika
+1.6 Uporabna matematika
+1.7 Slavni izreki, domneve in paradoksi
+1.8 Osnove in postopki
+1.9 Zgodovina in svet matematikov
+1.10 Slovenska matematika
+
+
+2 Navedki o matematiki
+3 Glej tudi
+4 Zunanje povezave
+
+
+Kratek vsebinski pregled matematike
+Množina
+
+Števila -- Naravna števila -- Cela števila -- Racionalna števila -- Realna števila -- Kompleksna števila -- Kvaternioni -- Oktonioni -- Sedenioni -- Hiperrealna števila -- Surrealna števila -- Ordinalna števila -- Kardinalna števila -- p-adična števila -- Celoštevilska zaporedja -- Matematične konstante -- Imena števil -- Neskončnost
+
+Sprememba
+
+Aritmetika -- Vektorski račun -- Matematična analiza -- Diferencialne enačbe -- Dinamični sistemi in teorija kaosa -- Seznam matematičnih funkcij
+
+Zgradba
+
+Abstraktna algebra -- Teorija števil -- Algebrska geometrija -- Teorija grup -- Monoidi -- Analiza -- Topologija -- Linearna algebra -- Teorija grafov -- --Splošna algebra -- Teorija razredov
+
+Prostor
+
+Topologija -- Geometrija -- Algebrska geometrija -- Diferencialna geometrija -- Diferencialna topologija -- Algebrska topologija -- Linearna algebra
+
+Končna matematika
+
+Kombinatorika -- Teorija množic -- Verjetnost in statistika -- Teorija računanja -- Diskretna matematika -- Tajnopisje -- Teorija grafov -- Teorija iger
+
+Uporabna matematika
+
+Mehanika -- Numerična analiza -- Optimizacija -- Verjetnost in statistika
+
+Slavni izreki, domneve in paradoksi
+
+Cantorjev diagonalni dokaz -- Domneva kontinuuma -- Domneva praštevilskih dvojčkov -- Fermatov veliki izrek -- Gödlova izreka o nepopolnosti -- Goldbachova domneva -- Izrek glavne limite -- Izrek o štirih barvah -- Kitajski izrek o ostankih -- Osnovni izrek aritmetike -- Osnovni izrek algebre -- Mannov izrek -- P=NP -- Pitagorov izrek -- Poincaréjeva domneva -- Praštevilski izrek -- Riemannova domneva -- Schanuelova domneva -- Sinusni izrek -- Smaleov paradoks -- Talesov izrek -- Zornova lema -- »Najpomembnejša enačba na svetu«
+
+Osnove in postopki
+
+Filozofija in matematika -- Matematični intuicionizem -- Matematični konstruktivizem -- Temelji matematike -- Teorija množic -- Simbolna logika -- Teorija kalupov -- Teorija razredov -- Dokazovanje izrekov
+
+Zgodovina in svet matematikov
+
+Zgodovina matematike -- Matematiki -- Fieldsova medalja -- Nagrada stoletnih problemov -- Mednarodna matematična zveza -- Matematična tekmovanja
+
+Slovenska matematika
+Slovenski matematiki - Matematika na Slovenskem - Društvo matematikov, fizikov in astronomov Slovenije (DMFA) -- IMFM -- Presek -- Obzornik za matematiko in fiziko (OMF)
+Navedki o matematiki
+
+Matematika je kot rože - če jih preveč zalivaš, ovenejo.
+
+— Neimenovana profesorica matematike
+
+
+
+Glej tudi
+
+nerešeni problemi v matematiki
+seznam matematičnih vsebin
+
+Zunanje povezave
+
+
+
+Poglejte si besedo matematika ali Matematika v Wikislovarju, prostem slovarju.
+
+
+
+
+Predloga {{navpolje}} nima parametra listclass. Glej pogovor.
+
+
+
+
+
+
+p · p · u · zMatematične discipline in področja
+
+
+
+
+
+Discipline/
+področja
+
+
+
+Aritmetika
+Algebra
+
+elementarna
+linearna
+multilinearna
+abstraktna
+
+
+Teorija grup
+Geometrija
+
+afina
+projektivna
+konveksna
+diskretna
+algebrska
+diferencialna
+
+
+Analiza/Infinitezimalni račun
+Teorija množic
+Logika
+Teorija kategorij
+Teorija števil
+
+analitična
+algebrska
+geometrična
+kombinatorična
+verjetnostna
+računska
+
+
+Kombinatorika
+Teorija grafov
+
+algebrska
+topološka
+
+
+Topologija
+
+splošna
+algebrska
+geometrična
+diferencialna
+
+
+Liejeva teorija
+Diferencialne enačbe/Dinamični sistemi
+Matemematična fizika
+Numerična matematika
+Teorija računanja
+Teorija informacij
+Verjetnost
+Statistika
+Optimizacija
+Teorija upravljanja
+Teorija iger
+
+
+
+
+
+
+
+
+Delitve
+
+
+
+Čista matematika
+Uporabna matematika
+Diskretna matematika
+Računska matematika
+
+
+
+
+
+
+
+
+*Kategorija
+
+Seznami
+
+
+
+
+
+
+
+
+
+
+
+
+ Ta matematični članek je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+     
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Matematika&oldid=4047091«				
+Kategorije: Matematične škrbineVedeIzposojenke iz grščineMatematikaSkriti kategoriji: Članki, ki so potrebni čiščenjaČlanki, ki so potrebni čiščenja s parametrom razlog 
+
+
+

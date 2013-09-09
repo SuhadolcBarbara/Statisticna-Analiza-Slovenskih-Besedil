@@ -1,0 +1,171 @@
+
+
+
+
+Vranični prisad
+Antraks
+
+
+Klasifikacija in zunanji viri
+
+
+
+Večja patološka sprememba na koži s črno krasto, značilna za kožno obliko
+
+
+MKB-10
+A22.minor
+
+
+MKB-9
+022
+
+
+DiseasesDB
+1203
+
+
+MedlinePlus
+001325
+
+
+eMedicine
+med/148
+
+
+MeSH
+D000881
+
+
+Vranični prisad ali antraks (tudi črni prišč) je nalezljiva bolezen, ki jo povzroča grampozitivna bakterija Bacillus anthracis, ki tvori spore.
+Bolezen se izraža v več oblikah:
+
+kožni antraks, za katerega so značilna omejena območja z gnojnim vnetjem in črno krasto na koži;
+pljučni ali inhalacijski antraks, ki nastane zaradi vdihavanja spor antraksa, simptomi pa so sprva podobni gripi, nakar pride do vnetja dihal;
+črevesni antraks, ki nastane zaradi zaužitja okuženega mesa, značilni simptomi pa so bolečine v trebuhu, hematemeza in diareja s krvavo vsebino.
+
+Približno 95 % okužb poteka pri človeku s spremembami na koži, 5 % pa na dihalih.[1]
+Bolezen običajno prizadene rastlinojede živali, zlasti na kmetijskih območjih Amerike, Azije, Afrike in jugozahodne, južne ter vzhodne Evrope. Prizadane lahko tudi človeka, če pride v stik z okuženo živaljo, izdelki živalskega izvora ali visoko koncentracijo spor bakterije. Okužbe z inhalacijo spor so predvsem rezultat uporabe biološkega orožja na določenem območju ali nezadostnih varnostnih ukrepov v bližini vojaških laboratorijev. Prenos okužbe s človeka na človeka ni dokazan.
+
+
+Vsebina
+
+
+1 Etimologija
+2 Zgodovinski okvir
+3 Povzročitelj bolezni
+4 Patogeneza
+
+4.1 Poti okužbe
+4.2 Potek bolezni
+
+4.2.1 Kožna oblika
+4.2.2 Pljučna oblika
+4.2.3 Črevesna oblika
+
+
+
+
+5 Epidemiologija
+6 Diagnoza in zdravljenje
+7 Preprečevanje bolezni
+8 Antraks pri živalih
+9 Opombe in sklici
+10 Viri
+
+
+Etimologija
+Izraz antraks izhaja iz grške besede anthrakitis, kar pomeni oglje. Nanaša se na patološke spremembe črne barve pri kožni obliki bolezni.
+Zgodovinski okvir
+Robert Koch, nemški zdravnik in mikrobiolog, je leta 1875 prvi identificiral bakterijo, ki povzroča bolezen antraks. Njegovi poskusi so ne le pomagali ustvariti razumevanje patogena, temveč so tudi pomagali pojasniti vloge mikrobov, ki povzročajo bolezni. Dokazal je, da se lahko patogen izolira iz krvi okužene živali, umetno vzgoji v čisti kulturi in uporabi za povzročitev bolezni v drugi živali. Louis Pasteur, francoski mikrobiolog in kemik, je leta 1881 dokazal, da se za namene cepljenja lahko uporabi bakterije antraksa, ki so predhodno oslabljene s toplotno obdelavo pri temperaturi 43 °C.
+V Sloveniji je bil prvi primer antraksa zabeležen 1926. leta, zadnji primer pa v Komendi 1983. leta, ko sta zbolela lastnik bolne živali in mesar, ki je žival zaklal.
+Povzročitelj bolezni
+
+
+
+
+Preparat likvorja s po Gramu obarvanimi bakterijami Bacillus anthracis
+
+
+
+
+Glavni članek: Bacillus anthracis.
+
+
+Bacillus anthracis je grampozitivna aerobna bakterija paličaste oblike dolžine od 1-9 μm, ki je široko prisotna na kopnem po celotnem svetu in lahko tvori spore. Le-te so v zemlji obstojne tudi do več desetletij ter so zelo odporne proti različnim naravnim dejavnikom, kot sta toplota in svetloba.[2] Spore, premera od 1-2 μm, lahko zaradi svoje majhnosti zlahka preidejo v alveolni prostor, kjer jih fagocitirajo alveolarni makrofagi in jih prenesejo do medpljučnih (mediastinalnih) in peribronhialnih bezgavk.[3]
+Patogeneza
+Poti okužbe
+Najnevarnejši način okužbe je vstop spor bakterije skozi dihala, iz katere se razvije pljučna oblika bolezni. Do okužbe najpogosteje pride pri delavcih, ki se ukvarjajo z volno ali s kožami okuženih živali. Spore so primerne za izdelavo biološkega orožja v vojaške in teroristične namene.
+Drugi način okužbe je vstop bakterije v telo skozi prebavni trakt. Do tega pride predvsem z zaužitjem premalo toplotno obdelanega in z bakterijo okuženega mesa.
+Najpogostejši način okužbe pa je vstop bakterije skozi kožo, saj predstavlja okoli 95 % okužb. Do tega pride z neposrednim stikom živalske kože ali kožuha, predvsem pri mesarjih in kmetovalcih.
+Potek bolezni
+Kožna oblika
+Iz zgodovinskega pogleda je bila kožna oblika antraksa najpogostejša oblika. Kožna oblika nastane z vdorom bakterij ali njihovih spor največkrat preko odrgnin ali vreznin na koži. Inkubacijska doba je od 2-5 dni. Spremembe na koži se pojavljajo na izpostavljenih mestih, največkrat na glavi in vratu, v manjši meri pa na udih (predvsem na rokah) in trupu. Sprva se pojavijo majhne rdeče pege premera 1–2 cm, iz katerih kmalu nastanejo območja z oteklino in črnimi ali temno rdečimi krastami, okoli katerih so krvavi mehurčki velikosti 1–3 mm. Kožne spremembe ves čas spremljajo splošni bolezenski znaki, in sicer povišana telesna temperatura oziroma vročina, glavobol in utrujenost, v krvi pa so prisotne bakterije (bakteriemija). Nemalokrat so prisotne tudi boleče lokalne otekline bezgavk, kar lahko vodi do usodne sistemske okužbe.
+Pljučna oblika
+
+
+
+
+Značilna razširitev medpljučja pri inhalacijskem antraksu (rentgenski posnetek)
+
+
+Pljučna oziroma inhalacijska oblika antraksa nastane zaradi vdora spor bakterije v dihala in je eden od najbolj zastrašujočih scenarijev bioterorizma. V začetnem obdobju, v roku od 1-3 dni, se pojavijo nespecifični simptomi, podobni gripi, kot so vročina, glavobol, suhi kašelj, utrujenost in znojenje (diaforeza). Sum na antraks postane upravičen predvsem pri pojavu občutka tiščanja oz. bolečine za prsnico ter oteženega dihanja (dispneje). Zatem se nenadno pojavijo šumi pri dihanju (stridor), zvečana frekvenca dihanja (tahipneja) in hipoksija, celotna sluznica je vneta. Rentgenski posnetek prsnega koša pokaže patognomično[4] razširitev medpljučja (mediastinuma). Po tem se bolezen konča s smrtjo, večinoma v roku 24-48 ur. Pri polovici primerov se lahko pojavi dodaten zaplet v obliki meningitisa.
+Črevesna oblika
+Črevesna oblika nastane zaradi uživanja okuženega mesa. Inkubacijska doba je 3-7 dni. Obstajata dve obliki:
+
+abdominalni antraks
+orofaringealni antraks.
+
+Pri abdominalni obliki se v začetku pojavijo neznačilni znaki in simptomi, kot so slabost, bruhanje, pomanjkanje ali izguba apetita (anoreksija), v debelem črevesu pa se pojavijo nekrotične razjede. Postopoma se pojavijo bolečine v trebuhu, bruhanje in diareja s prisotnostjo krvi, toksemija, šok, cianoza. Bolezen se konča s smrtjo 2-5 dni po svojem začetku.
+Orofaringealna oblika s kaže z oteklino, oblogami in razjedami na sluznici ustne votline in/ali žrela. Oboleli ima vročino ter težko diha in požira, vratne bezgavke so povečane. Večina bolnikov umre zaradi toksemije ali sepse.
+Epidemiologija
+Antraks se pojavlja sporadično in epidemično po vsem svetu, endemičen pa je v predelih, kjer obstaja krog žival-prst-žival. Glavni epidemiološki rezervoar bolezni je torej prst in z njo povezani pašniki, zaradi česar so domače rastlinojede živali, kot so konji, koze, krave in ovce, najpomembnejši vir okužbe, predvsem na kmetijskih območjih Amerike, Azije, Afrike ter jugozahodne, južne in vzhodne Evrope. K razširjanju bolezni prispevajo tudi poplave, ki navadno zanesejo spore bakterije na pašnike. Možna je tudi okužba preko poškodovane kože, poškodb v ustih in žrelu. Okužene živali izločajo povzročitelja preko vseh izločkov, ki jim je primešana kri, v iztrebkih, urinu in izcedku iz nosa.
+Večje epidemije so izbruhnile v drugi polovici 20. stoletja, in sicer v Zimbabveju, kjer je v letih 1979-1985 zbolelo okoli 10.000 ljudi, v Čadu od septembra do decembra leta 1988, kjer je zbolelo 716 oseb, od katerih jih je 88 umrlo in v Švici v tekstilni tovarni, kjer je zbolelo 25 delavcev, ki so predelovali volno, uvoženo iz Pakistana.
+Diagnoza in zdravljenje
+V diagnozi je pomemben dokaz bakterije neposredno ali s kultiviranjem. Bakterije se poišče v tekočini mehurčkov ali izločku kožnih sprememb, plevralni tekočini, izbruhanini, iztrebkih, krvi in/ali likvorju. Kožnemu antraksu podobno potekajo kuga, melioidoza, pegavica, smrkavost in ulceroglandularna tularemija. Pri sumu na pljučni antraks je potrebno pomisliti na vse oblike bakterijskih pljučnic ter opraviti rentgenski posnetek prsnega koša, pri črevesnem pa na čir na dvanajstniku, črevesno tularemijo, tifus in druge črevesne okužbe.
+Zdravljenje okužbe vključuje visoke odmerke antibiotikov, ki se dajejo peroralno ali intravensko, v prvi vrsti penicilin G, v primeru alergije na slednjega pa ciprofloksacin in doksiciklin, lahko tudi eritromicin in kloramfenikol. V novejšem času naj bi bil najprimernejši ciprofloksacin, kar je posledica bojazni pred napadom z na penicilin in doksiciklin odpornimi bakterijami oz. njihovimi sporami s strani iraške vojske v prvi zalivski vojni. V resnici je najučinkovitejša agresivna terapija s kombinacijo različnih antibiotikov, kar dokazujejo primeri zdravljenj po terorističnem napadu leta 2001 s pismi, ki so vsebovala spore antraksa; stopnja preživetja je bila v tem primeru mnogo večja (55 %) kot pa v zgodovini (<15 %).[5] Zdravljenje traja 7-10 dni. Smrtnost je trenutno pri kožnem antraksu 1 % (pred zdravljenjem z antibiotiki je bila 10-20 %), pri črevesnem je 50-100 % in pri nezdravljenemu inhalacijskem antraksu pa tudi do 100 %.[6] Izrezanje patoloških sprememb na koži poteka bolezni ne spremeni oziroma ga poslabša, zato se le-te pokrije, obleko in sobo pa se razkuži. Ob protimikrobnem je pomembno tudi simptomatsko zdravljenje, npr. rehidracija in nadomeščanje mineralov.
+Preprečevanje bolezni
+Za preprečevanje vraničnega prisada je najpomembnejša osveščenost ljudi in izvajanje drugih preventivnih ukrepov, kot so:
+
+izolacija novo nabavljenih živali,
+izolacija bolnih in brejih živali,
+zagotavljanje zdravstveno ustrezne pitne vode in krme,
+zagotavljanje ustreznih higienskih razmer v objektih za rejo in drugih prostorih,
+zagotavljanje higiene porodov in molže,
+ustrezno ravnanje s trupli, odpadki, gnojem in gnojnico,
+čiščenje in razkuževanje (razkuževalne bariere, higiena rok, obleke, opreme, prevoznih sredstev, ...),
+zaščita vodnih virov na gospodarstvu.
+
+V ZDA od leta 1998 cepijo vse pripadnike ameriške vojske zaradi možnosti uporabe antraksovih spor kot biološkega orožja.[5][6]
+Antraks pri živalih
+Antraks prizadene kopitarje, kot so srne, domače govedo, koze in ovce. Bolene pridobijo večinoma preko prehranjevanja na pašniku, kontaminiranemu s sporami bakterij. Mesojedce, kot so psi in mačke, bolezen prizadene razmeroma redko, dvoživke, plazilci, ribe in večina ptic pa ne zboli za antraksom. Znaki bolezni se pojavijo navadno po 3-7 dneh od zaužitja ali inhalacije spor. Znaki bolezni so majavo premikanje, težave z dihanjem, tresenje, včasih tudi vročina, depresija, krči, iz ust, nosa in anus pa lahko mezi temna kri. Pri prašičih, mačkah in psih so znaki lahko milejši. Po pojavu znakov žival pogine v dveh dneh. Cepivo za živino obstaja, za hišne ljubljenčke pa trenutno ne. Človek se lahko okuži preko dotikanja mrtve ali obolele živali ali s prehranjevanjem z okuženim mesom. Trupla kontaminiranih živali je potrebno zažgati, saj so spore obstojne v zemlji.[7]
+Opombe in sklici
+
+
+^ Marolt-Gomišček in Radšel-Medvešček, Infekcijske bolezni, 2002, str. 319.
+^ Roy, Bioterrorism - Anthrax, 2003, str. 386.
+^ Roy, str. 389.
+^ Kar je značilno za neko bolezen.
+^ 5,0 5,1 Roy, str. 392.
+^ 6,0 6,1 Marolt-Gomišček in Radšel-Medvešček, Infekcijske bolezni, 2002, str. 321.
+^ Basic Fact Sheet – Anthrax in Animals. Texas Department of Health, Zoonosis Control Division. Pridobljeno 21.08.2010.
+
+
+Viri
+
+
+Marolt-Gomišček, M. in Radšel-Medvešček, A. (2002). Infekcijske bolezni. Ljubljana: Tangram, str. 318-321. ISBN 961-6239-21-X
+Greenwood D., Slack R.C.B., Peuthererm J.F. (1992). Medical microbiology, 14. izdaja. Edinburgh, London, Madrid, Melbourne, NY & Tokyo: Chruchill Livingstone, str. 271-276. ISBN 0-443-05787-7
+Ghaffar, A. "Zoonozes" (PDF). V: Microbiology and Immunology On-line, urednik Hunt, R.C. University of South Carolina, School of Medicine.
+Roy, M.J. (2003). "Bioterrorism - Anthrax". V: Combat Medicine: Basic and Clinical Research in Military, Trauma and Emergency Medicine (str. 386-394); urednika Tsokos G.C. in Atkins J.L. Totowa, New Jersey: Humana Press. ISBN 1-58829-070-0
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Vranični_prisad&oldid=3969745«				
+Kategorije: Biološko orožjeZoonozeBakterijske bolezniOkužbe kože 
+
+
+

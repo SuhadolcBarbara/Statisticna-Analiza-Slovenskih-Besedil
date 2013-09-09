@@ -1,0 +1,231 @@
+
+
+
+
+
+
+Izoterme idealnega plina
+
+
+Splòšna plínska enáčba je termična enačba stanja za idealni plin, izražena s specifično prostornino v in specifično plinsko konstanto R:
+
+
+
+s prostornino V, ki jo plin zaseda:
+
+
+
+s (specifično) molsko prostornino :
+
+
+
+ali z gostoto :
+
+
+
+Pri tem je p tlak plina, m masa, M molska masa, n število molov plina (množina snovi),  dejansko število delcev,  Avogadrovo število,  splošna plinska konstanta, T absolutna temperatura plina in  Boltzmannova konstanta.
+Splošna plinska enačba se imenuje tudi enačba Clapeyron-Mendelejeva, po Benoitu Paulu Émileu Clapeyronu in Dimitriju Ivanoviču Mendelejevu. Clapeyron jo je leta 1834 prvi zapisal po izkustveni poti, Mendelejev pa na sodoben način prek plinskih zakonov.[1][2] V današnji obliki je nastala leta 1874. Oblika:
+
+
+
+se imenuje tudi Mendelejev-Clapeyronova enačba.
+
+
+Vsebina
+
+
+1 Veljavnost
+2 Lastnosti
+3 Računanje termičnih količin v spremembah
+4 Izpeljave
+
+4.1 Izkustveno
+4.2 Teoretično
+
+
+5 Glej tudi
+6 Opombe in viri
+7 Zunanje povezave
+
+
+Veljavnost
+Enačba stanja idealnega plina se lahko izvede z metodami statistične fizike, kjer se izhaja od vnaprej navedene definicije idealnega plina. Splošna plinska enačba v eni enačbi združuje Boylov, Gay-Lussacov in Amontonsov zakon. Enačba izhaja iz statistično-mehanske obravnave preprostih enakih delcev (točkastih delcev brez notranje zgradbe), ki drug na drugega ne vplivajo, in si v prožnih trkih izmenjujejo gibalno količino ter s tem kinetično energijo.
+Ker ne upošteva velikosti molekul in medmolekulskih sil, velja splošna plinska enačba najbolj natančno za enoatomne pline pri visokih temperaturah in nizkih tlakih. Velikost molekul pri velikih prostorninah, to je pri nizkih tlakih, postane zanemarljiva. Relativna pomembnost medmolekulskih sil se zmanjša pri povečani termični kinetični energiji, to je pri povečanih temperaturah. Bolj natančne enačbe stanj, kot je na primer Van der Waalsova enačba, upoštevajo vplive velikosti molekul in medmolekulskih sil, ki povzročajo neidealna stanja.
+Lastnosti
+Oblika:
+
+
+
+povezuje tlak, gostoto in temperaturo neodvisno od količine obravnavanega idealnega plina.
+Oblika iz statistične mehanike nakazuje, da je:
+
+
+
+in ujemanje s podatki poskusa je dobra kontrola načel statistične mehanike. Od tod izhaja, da je za produkt povprečne mase delca  in atomske masne konstante  (masa je  u):
+
+
+
+tako da je:
+
+
+
+Računanje termičnih količin v spremembah
+
+
+sprememba
+konstantno (p, V, T ali Q)
+znano
+p2
+V2
+T2
+
+
+izobara
+
+p2 = p1
+
+V2/V1
+p2 = p1
+V2 = V1 (V2/V1)
+T2 = T1 (V2/V1)
+
+
+
+"
+
+
+"
+
+T2/T1
+p2 = p1
+V2 = V1 (T2/T1)
+T2 = T1
+
+
+izohora
+
+V2 = V1
+
+p2/p1
+p2 = p1 (p2/p1)
+V2 = V1
+T2 = T1 (p2/p1)
+
+
+
+"
+
+
+"
+
+T2/T1
+p2 = p1 (T2/T1)
+V2 = V1
+T2 = T1 (T2/T1)
+
+
+izoterma
+
+T2 = T1
+
+p2/p1
+p2 = p1 (p2/p1)
+V2 = V1 / (p2/p1)
+T2 = T1
+
+
+
+"
+
+
+"
+
+V2/V1
+p2 = p1 / (V2/V1)
+V2 = V1 (V2/V1)
+T2 = T1
+
+
+izentropa
+(povračljiva adiabata)
+Q2 = Q1 in
+p1 V1κ = p2 V2κ
+p2/p1
+p2 = p1 (p2/p1)
+V2 = V1 (p2/p1) -1/κ
+T2 = T1 (p2/p1)(n-1)/κ
+
+
+
+"
+
+
+"
+
+V2/V1
+p2 = p1 (V2/V1) -κ
+V2 = V1 (V2/V1)
+T2 = T1 ((V2/V1) 1-κ
+
+
+
+"
+
+
+"
+
+T2/T1
+p2 = p1 ((T2/T1) κ/(κ-1)
+V2 = V1 (T2/T1) 1/(1-κ)
+T2 = T1 (T2/T1)
+
+
+1 - začetno stanje
+2 - končno stanje
+κ = cp/cv
+
+
+Izpeljave
+Izkustveno
+Splošna plinska enačba izhaja iz dveh izkustvenih plinskih zakonov: sestavljenega plinskega zakona in Avogadrovega zakona. V sestavljenem plinskem zakonu velja:
+
+
+
+Konstanta je neposredno sorazmerna z množino plina n (Avogadrov zakon). Faktor sorazmernosti je splošna plinska konstanta:
+
+
+
+Od tod sledi splošna plinska enačba:
+
+
+
+Teoretično
+Splošna plinska enačba izhaja iz prvih načel prek kinetične teorije plinov. Po tej poti je terba privzeti nekaj preprostih predpostavk, med katerimi sta glavni:
+
+molekule ali atomi idealnega plina so točkasta telesa, ki imajo določeno maso, prostornina pa je zanemarljiva,
+pri trkih med seboj in steno posode se obnašajo prožno, tako da se ohranjata linearna gibalna količina in kinetična energija.
+
+Glej tudi
+
+Van der Waalsova enačba stanja
+plinski zakoni
+
+Opombe in viri
+
+
+^ Enačba Clapeyron-Mendelejeva (v ruščini)
+^ Compressed Air History (v angleščini)
+
+
+Zunanje povezave
+
+Splošna plinska enačba na MaFiRa-Wiki
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Splošna_plinska_enačba&oldid=4070922«				
+Kategorija: Termodinamika 
+
+
+

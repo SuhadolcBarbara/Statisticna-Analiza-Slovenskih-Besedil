@@ -1,0 +1,162 @@
+
+
+
+
+Modra
+
+
+
+
+
+
+
+— Spektralna koordinata —
+
+
+Valovna dolžina
+440–490 nm
+
+
+— Predstavlja —
+
+
+led, voda, nebo, žalost, zima, Judovstvo, mraz
+
+
+
+
+
+— Colour coordinates —
+
+
+Šestnajstiški trojček
+#0000FF
+
+
+sRGBB
+(r, g, b)
+(0, 0, 255)
+
+
+HSV
+(h, s, v)
+(240°, 100%, 100%)
+
+
+Source
+HTML/CSS[1]
+
+
+B: Normalized to [0–255] (byte)
+
+
+
+
+
+Módra je ena od treh primarnih aditivnih barv; modra svetloba ima med tremi primarnimi barvami najkrajšo valovno dolžino (420-490 nm).
+Ob jasnem vremenu je nebo modre barve zaradi Rayleighovega sipanja Sončeve svetlobe. Večja količina vode (H2O) je videti modro, ker se rdeča svetloba z valovno dolžino okoli 750 absorbira v vibracijskem načinu kemijske vezi O-H. Kot zanimivost omenimo, da to ne velja za težko vodo (D2O) – ta je videti brezbarvna, saj leži njen absorbcijski vrh pri ~950 nm in ne sega v vidni del spektra.
+Zgled modre barve v barvnem prostoru RGB ima intenzitete [0, 0, 255] na lestvici od 0 do 255. Modra je komplementarna rumeni barvi. Zaradi tega se v barvna fotografiji pri fotografiranju v zaprtih prostorih, osvetljenih z žarnico na žarilno nitko, uporablja modri filter 80A.
+Številni jeziki ne razlikujejo med izrazoma za modro in zeleno, švedščina pa je vse do 20. stoletja uporabljala isti izraz (blå) za modro in črno.
+
+
+Vsebina
+
+
+1 Odtenki modre
+2 Literatura
+3 Sklici
+4 Zunanje povezave
+
+
+Odtenki modre
+
+egiptovsko modra
+indigo modra
+kobaltno modra (kobaltov oksid)
+pariško modra (železov cianid)
+prusko modra (železov cianid)
+sinje modra
+ultramarinsko modra
+
+Literatura
+
+Miroslav Adlešič, Svet svetlobe in barv, zbirka Svet žive fizike, Mladinska knjiga, Ljubljana 1957.
+
+Sklici
+
+
+^ W3C TR CSS3 Color Module, HTML4 color keywords
+
+
+Zunanje povezave
+
+Jure Derganc in Jure Zupan, Zakaj je nebo modro?, Kvarkadabra
+
+
+
+
+
+
+ Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+
+Spekter elektromagnetnega valovanja
+Radijski valovi | Mikrovalovi | Infrardeče valovanje | Vidni spekter | Ultravijolično valovanje | Rentgenski žarki | Žarki gama
+
+Vidni spekter: Rdeča | Oranžna | Rumena | Zelena | Modra | Vijolična
+
+
+
+
+
+Spletne barve
+črna
+srebrna
+siva
+bela
+rdeča
+rdečerjava
+škrlatna
+fuksija
+zelena
+svetlozelena
+olivna
+rumena
+oranžna
+modra
+temnomodra
+turkizna
+sinjemodra
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Modra&oldid=3994790«				
+Kategorije: Fizikalne škrbineBarveVidni spekter 
+
+
+

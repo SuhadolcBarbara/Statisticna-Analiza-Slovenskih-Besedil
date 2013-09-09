@@ -1,0 +1,243 @@
+Energija - Wikipedija, prosta enciklopedija 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+ 
+ 
+		 
+		 
+		 
+			 
+			 
+						 
+						 Energija 
+			 
+								 Iz Wikipedije, proste enciklopedije 
+								 
+																 
+					Skoči na:					 navigacija , 					 iskanje 
+				 
+								 Za druge pomene glej Energija (razločitev) . 
+ Energíja je ena osnovnih fizikalnih količin. Je neusmerjena ( skalarna ) veličina in je povezana s sposobnostjo opravljanja dela in/ali vira toplote . Poimenovanje izhaja iz starogrškega  ἐνέργεια : energeia - dejavnost , oziroma ἐνεργός : energos - dejaven , delaven . Po zakonu o ohranitvi energije se skupna energija sistema spremeni natanko za prejeto ali oddano delo ali toploto . Energije torej ne moremo ustvariti ali uničiti - če se je denimo na račun oddanega dela zmanjšala skupna energija opazovanega sistema, se je za natanko toliko na račun prejetega dela povečala energija njegove okolice. Možnost pretvarjanja energije v delo opisuje drugi zakon termodinamike . 
+ V življenju povezujemo energijo s sposobnostjo teles, da opravljajo delo. V fiziki je energija povezana s stanjem sistema. Energija, ena najpomembnejših fizikalnih količin, nastopa v energijskem zakonu : sprememba polne energije sistema je enaka vsoti dovedenega dela in dovedene toplote . 
+ Polno energijo sestavljajo kinetična energija , ki jo ima telo zaradi svojega gibanja, potencialna energija , ki jo ima telo zaradi svoje lege glede na druga telesa, delujoča nanj z gravitacijsko (težnostna potencialna energija) ali električno silo (električna potencialna energija), energija električnega polja, ki jo ima električno polje , energija magnetnega polja , ki jo ima magnetno polje, notranja energija , ki jo ima telo zaradi svojega stanja in lastna energija , ki jo ima telo zaradi svoje lastne mase. 
+ Enota za merjenje energije je joule , poleg tega uporabljamo še njene izpeljanke (kJ, MJ, PJ, itd.) Običajno nam je bolj poznana druga oblika enote Ws (wattsekunda, 1J = 1Ws) in izpeljanke, kot so Wh, kWh, MWh. Druge enote za energijo so še kalorija , erg in BTU . 
+ 
+ 
+ Vsebina 
+ 
+ 
+ 1 Kinetična energija 
+ 2 Potencialna energija 
+ 3 Notranja energija 
+ 
+ 3.1 Prožnostna energija 
+ 3.2 Kemijska energija 
+ 3.3 Jedrska energija 
+ 
+ 
+ 4 Lastna energija 
+ 
+ 4.1 Notranja energija, U 
+ 
+ 
+ 5 Prehodne, tekoče, kratkotrajne 
+ 
+ 5.1 Energija električnega toka, W EL  
+ 5.2 Toplota, Q 
+ 5.3 Delo, W 
+ 
+ 
+ 6 Glej tudi 
+ 7 Zunanje povezave 
+ 
+ 
+ Kinetična energija  
+ Kinetična energija je energija, ki jo ima telo zaradi svojega gibanja . Gibanje je lahko translacijsko , s čimer je povezana translacijska kinetična energija 
+ 
+ 
+ 
+ Pri tem je m masa telesa, v pa njegova hitrost . 
+ Telesa, ki niso točkasta , se lahko tudi vrtijo okrog svoje osi . S tem je povezana vrtilna ali rotacijska kinetična energija 
+ 
+ 
+ 
+ Pri tem je J vztrajnostni moment telesa, ω pa njegova kotna hitrost . 
+ V splošnem lahko vsako gibanje togega telesa razstavimo na translacijsko gibanje ter vrtenje okrog lastne osi, zato lahko njegovo kinetično energijo izračunamo kot vsoto translacijske kinetične energije težišča ter rotacijske kinetične energije pri vrtenju okrog osi, ki prebada težišče. 
+ Potencialna energija  
+ Potencialna energija je energija, ki jo ima telo v polju sil . Telo z dano maso m ima tako v gravitacijskem polju določeno težnostno potencialno energijo : 
+ 
+ 
+ 
+ kjer je g težni pospešek , h pa višina telesa glede na izbrano ničelno ravnino, kjer je po dogovoru potencialna energija enaka nič. 
+ Telo z danim električnim nabojem ima v električnem polju električno potencialno energijo . 
+ Potencialno energijo lahko vpeljemo v kateremkoli polju sil, če so sile konservativne . 
+ Pogosto imenujemo vsoto kinetične in potencialne energije tudi mehansko energijo . 
+ Notranja energija  
+ Notranja energija je energija, ki jo ima telo zaradi svojega stanja. Stanje sistema navadno opredelimo s termodinamskimi spremenljivkami , kot so temperatura , tlak ali prostornina . Posebej enostaven zgled za odvisnost notranje energije od stanja sistema je idealni plin . 
+ Za razliko od kinetične in potencialne energije, ki se nanašata na;»zunanje«;stanje sistema - ali se telo kot celota giblje, kakšna je lega njegovega masnega središča - k notranji energiji prištevamo prispevke, ki se nanašajo na;»notranje«;stanje snovi. Taka je po eni strani denimo kinetična energija gradnikov snovi, po drugi pa tudi vrsta prispevkov, ki imajo naravo potencialne energije : energija kemijskih vezi, energija jedrskih vezi ipd. 
+ Prožnostna energija  
+ Prožnostna energija je energija, ki jo ima prožno deformirano telo. Prožnostna energija napete vijačne vzmeti , za katero velja Hookov zakon , je tako enaka 
+ 
+ 
+ 
+ Pri tem je x raztezek, k pa konstanta vzmeti . 
+ Prožnostno energijo imajo napeta ali stisnjena prožna telesa (vzmet, elestika, ...). Telesa so prožna, če se po prenehanju delovanja sil povrnejo v prvotno obliko. Napeto ali stisnjeno telo, je zmožno opravljati delo, zato mu pripisujemo posebno obliko energije - prožnostno energijo. Prožnostna energija vzmeti je sorazmerna s kvadratom spremembe njene dolžine. Enaka je polovičnemu produktu koeficienta vzmeti in kvadrata njenega raztezka ali skrčka. 
+ Kemijska energija  
+ Kemijska energija je energija, povezana z nastankom in razgradnjo kemijskih vezi v molekulah . Pri vezavi atomov v molekule se lahko nekaj energije sprosti, če gre za eksotermno reakcijo . Nasprotno je treba za razgradnjo kemijske vezi, s katero so povezani atomi v molekuli, pri endotermnih reakcijah vložiti nekaj energije. 
+ Kemijska energija predstavlja največji delež tehnično izrabljene energije: kemijsko energijo premoga , mazuta ali zemeljskega plina pretvarjamo v toploto za ogrevanje, kemijsko energijo premoga, mazuta ali zemeljskega plina pretvarjamo v termoelektrarnah v električno energijo , kemijsko energijo različnih naftnih derivatov pretvarjamo v avtomobilskih , letalskih ali ladijskih motorjih v kinetično energijo ipd. 
+ Jedrska energija  
+ Podobno kot so vezani atomi v molekuli , so vezani tudi nukleoni v atomskem jedru , le da te povezuje močna jedrska sila . Pri procesih, pri katerih se jedra preoblikujejo, se lahko del te energije sprosti kot jedrska energija . 
+ Lastna energija  
+ Posebna teorija relativnosti ponuja zvezo med lastno oziroma invariantno oziroma mirovno energijo telesa in njegovo maso : 
+ 
+ 
+ 
+ Pri tem je m mirovna masa telesa, c pa hitrost svetlobe v praznem prostoru . 
+ Notranja energija, U  
+ 
+ toplotna , U 
+ 
+ 
+ 
+ 
+ snov se kemijsko ne spremeni, če se ji spremeni toplotna energija. Primeri: hladna - vroča voda, voda - vodna para, stisnjen zrak,... 
+ 
+ 
+ 
+ 
+ kemijska , U k 
+ 
+ 
+ 
+ 
+ snov se kemijsko spremeni, če se ji spremeni kemijska U . Primeri: poln - prazen električni akumulator , drva - pepel, bencin - izpušni plini,... 
+ 
+ 
+ 
+ 
+ jedrska , U j 
+ 
+ 
+ 
+ 
+ pri jedrski reakciji se spremenijo atomi . Primeri: 238 U - 239 Np - 239 Pu, 232 Th - 233 Pa - 233 U 
+ 
+ 
+ 
+ Prehodne, tekoče, kratkotrajne  
+ se pojavijo za krajši ali daljši čas, ko ena izmed neprehodnih oblik energije menja lego, sistem ali obliko. Teh oblik ne moremo shranjevati kot takšnih; so kratkotrajne narave. 
+ Energija električnega toka, W EL   
+ 
+ npr.: delo enofaznega izmeničnega toka 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ W EL = U • I • \boldsymbol{\tau} 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ U ... napetost 
+ 
+ 
+ I ... tok 
+ 
+ 
+ \boldsymbol{\tau} ... čas 
+ 
+ Toplota , Q  
+ 
+ npr.: količina toplote, ki jo sprejme ali odda snov 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Q = m • c • Δt 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ c ... specifična toplota 
+ 
+ 
+ Δt ... temperaturna razlika 
+ 
+ Delo, W  
+ 
+ npr.: delo sile F , ki deluje na poti s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ W = F • s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ F ... sila 
+ 
+ 
+ s ... pot 
+ 
+ Glej tudi  
+ 
+ energija 
+ energetika 
+ termodinamika 
+ 
+ 
+ sončna energija 
+ eksergija 
+ 
+ Zunanje povezave  
+ 
+ 
+ 
+ Poglejte si besedo energija ;ali Energija v Wikislovarju, prostem slovarju. 
+ 
+ 
+
+
+
+ 								 
+				Vzpostavljeno iz » http://sl.wikipedia.org/w/index.php?title=Energija&amp;oldid=4077448 «				 
+												 Kategorije : Energija Fizika Fizikalne količine Mehanika Termodinamika Energetika  												 
+							 
+		 
+		 
+			 

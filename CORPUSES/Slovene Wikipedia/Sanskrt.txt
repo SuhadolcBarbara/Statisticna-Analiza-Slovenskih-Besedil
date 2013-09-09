@@ -1,0 +1,767 @@
+
+
+
+
+Sanskrt
+
+
+संस्कृतम् saṃskṛtam
+
+
+Govorno področje:
+Indija, Indonezija, Nepal, Tibet
+
+
+Področje:
+Indija, Nepal
+
+
+Število maternih govorcev:
+49,736 tekoče govorečih (indijski popis iz leta 1991)  (manjkajoč datum)
+
+
+Jezikovna družina
+
+indoevropski
+ indoiranski
+  indoarijski
+    sanskrt
+
+
+
+Uradni status:
+
+
+Uradni jezik:
+v Indiji
+
+
+Regulator:
+Ni uradnega usklajevanja
+
+
+Jezikovne kode:
+
+
+ISO 639-1
+sa
+
+
+ISO 639-2
+san
+
+
+ISO 639-3
+san
+
+
+
+
+
+
+Rokopis ṛgvede v pisavi devanāgarī
+
+
+Sanskŕt (devanāgarī/nāgarī saṃskṛta) je klasični jezik Indijske podceline ter klasični jezik hinduizma in drugih indijskih religij. Spada v skupino indoevropskih jezikov in je eden od uradnih jezikov v Indiji.
+
+
+
+
+
+Ta članek potrebuje čiščenje. Pri urejanju upoštevaj pravila slogovnega priročnika. Razlog za čiščenje ni podan. Prosimo, da nam pomagaš izboljšati ta članek. 
+
+
+
+
+Vsebina
+
+
+1 Pomen
+2 Zgodovina sanskrta
+
+2.1 Slovnične tradicije
+
+
+3 Pisave in abeceda
+
+3.1 Indijske pisave
+3.2 Transliteracija v latinico
+3.3 Abeceda sanskrta
+3.4 Izgovorjava
+
+3.4.1 Samoglasniki
+3.4.2 Anusvara in visarga
+3.4.3 Zaporniki
+3.4.4 Zvočniki
+3.4.5 Sibilanti
+3.4.6 Zveneči pridih
+3.4.7 Fonetična razporeditev
+3.4.8 Naglas
+
+
+3.5 Prilagajanje transliteracije slovenščini
+3.6 Posebnosti vedskega sanskrta
+
+3.6.1 Samoglasniki
+3.6.2 Anunasika, džihvamulija in upadhmanija
+3.6.3 Soglasniki
+
+
+
+
+4 Oblikoslovje
+5 Slovnica
+6 Sanskrt danes
+7 Zunanje povezave
+
+
+Pomen
+Zgodovina sanskrta
+Vedski sanskrt
+Sanskrt brahman, aranjak in upanišad
+Sanskrt epov in puran
+Klasični sanskrt
+Hibridni (budistični) sanskrt
+Jezik je nastal okoli leta 1500 pr. n. št. Včasih je igral podobno vlogo kot latinščina v Evropi zaradi mnogih ohranjenih verskih in zgodovinskih zapisov v Indiji. Odkritje Paninijeve slovnice sanskrta iz 4. stoletja pr. n. št., ki so jo odkrili v 18. stoletju, ima velik vpliv na razvoj primerjalne filologije v Evropi.
+Slovnične tradicije
+vedske šole (pratišakhje)
+paninijeva strokovna šola (vjakarana)
+šikša in nirukta (fonetika in etimologija)
+filozofija jezika
+
+Pisave in abeceda
+Pisava je imela v indijski kulturi v glavnem drugotno vlogo, najpomembnejša pa je bila ustna predaja. Prvenstveno so se brahmani (brahman - pripadnik razreda ljudi, ki se je ukvarjal s prenosom znanja; svečenik) učili dela na pamet skupaj s komentarji in jih predajali od učitelja na učenca. Najstarejša vedska književnost se imenuje šruti (śruti - poslušanje), poznejša književnost iz hindujske tradicije pa se imenuje smrti (smṛti - pomnjenje). Prav tako budistična književnost svoje učenjake imenuje naslušane, ne pa načitane.
+Kljub temu pa je pisava že dolgo prisotna v indijski kulturi. Delo Vasišthadharmasutra (vāsiṣṭhadharmasūtra - zakonik Vasišthe) omenja pisane listine kot pravni dokaz, kar dokazuje da se je pisava uporabljala že okrog leta 750 pr. n. št.
+Indijske pisave
+Po prevladujočem mnenju so na indijsko podcelino pisavo prevzeli od bližnjevzhodnih semitskih plemen u okviru trgovskih odnosov okrog leta 800 pr. n. št. Glede na to naj bi imele indijske pisave isti izvor kot grška pisava, iz katere izvirata latinica in cirilica. Prevzeto pisavo so panditi (paṇḍita - učenjak) ustvarjalno in ostroumno prilagodili glasovnemu sistemu starih indijskih jezikov ter jo poimenovali brahmi (brāhmī - pisava boga Brahme).
+Iz pisave brahmi so se razvile poznejše indijske pisave. Oblike grafemov so se v različnih okoljih skozi čas spreminjale, pri tem pa so nastale na severu bolj oglate oblike in na jugu bolj okrogle oblike, kar je vodilo do sorodnih pisav današnje Indije.
+Sanskrtski rokopisi so se v dolgi zgodovini jezika zapisovali v različnih pisavah. Med severnimi pisavami je posebno važna pisava devanagari (devanāgarī - pisava mesta bogov) ali nagari (nāgarī - mestna pisava). Kašmirski rokopisi pogosto uporabljajo pisavo šarada (śāradā - jesenska pisava), bengalski rokopisi pa pisavo bangla (bānglā - bengalska pisava). Na jugu, v tamilskem okolju se je uporabljala predvsem pisava grantha (v tamilščini: grantha - knjižna pisava).
+Po vpeljavi tiska se za tiskanje sanskrtskih del uporablja samo pisava devanagari.
+Transliteracija v latinico
+Včasih se za zapis sanskrtskih besedil uporablja tudi transliteracija v latinico. Standardna transliteracija IAST (mednarodna abeceda za prečrkovanje sanskrta) uporablja črke latinice, ki jim doda različna razločevalna znamenja ter nekaj dvočrkij.
+Za pisanje v ASCII okoljih se uporabljajo tudi različne pomožne transliteracije, ki velikim in malim črkam ter kombinacijam znakov pripišejo različne pomene. Najpomembnejši sta transliteraciji Harvard-Kyoto in ITRANS. Ker se počasi v vseh računalniških okoljih uveljavlja standard Unicode, postajajo ASCII transliteracije odvečne.
+Abeceda sanskrta
+Indijske pisave so zlogovne abecede ali abugide. V zlogovnih abecedah ima vsak grafem za soglasnik privzet samoglasnik. Pri indijskih pisavah je ta samoglasnik vedno kratek a. V abecedi lahko ta privzeti a gledamo v podobni funkciji, kot jo imata e ali polglasnik v slovenski abecedi, to je omogoča izgovorjavo soglasnikov.
+Abeceda klasičnega sanskrta ima 48 znakov in jo predstavimo v abecednem redu v tabeli, ki jo beremo iz leve na desno in od zgoraj navzdol. Podan je prikaz v devanagariju in v latinici.
+
+
+अ
+a
+आ
+ā
+
+
+
+इ
+i
+ई
+ī
+
+
+उ
+u
+ऊ
+ū
+
+
+ऋ
+ṛ
+ॠ
+ṝ
+
+
+ऌ
+ḷ
+ॡ
+ḹ 1
+
+
+ए
+e
+ऐ
+ai
+
+
+ओ
+o
+औ
+au
+
+
+अं
+aṃ
+अः
+aḥ
+
+
+क
+ka
+ख
+kha
+ग
+ga
+घ
+gha
+ङ
+ṅa
+
+
+च
+ca
+छ
+cha
+ज
+ja
+झ
+jha
+ञ
+ña
+
+
+ट
+ṭa
+ठ
+ṭha
+ड
+ḍa
+ढ
+ḍha
+ण
+ṇa
+
+
+त
+ta
+थ
+tha
+द
+da
+ध
+dha
+न
+na
+
+
+प
+pa
+फ
+pha
+ब
+ba
+भ
+bha
+म
+ma
+
+
+य
+ya
+र
+ra
+ल
+la
+व
+va
+
+
+
+श
+śa
+ष
+ṣa
+स
+sa
+
+
+
+ह
+ha
+
+
+
+1 Včasih se zaradi simetrije abecedi doda tudi dolgi samoglasniški l, vendar v sanskrtu tak glas ne obstaja.
+Imena črk so:
+
+akāra, ākāra, ..., kakāra, khakāra, ... sakāra, hakāra. Imena so zloženke iz dveh komponent: črke same in kāra (tisto, kar dela; označevalec; maker).
+
+
+izjema je črka 'r', ki se imenuje repha (repha - renčanje; snarl)
+
+
+glasova 'ṃ' in 'ḥ' se imenujeta sta anusvara (anusvāra - izza-glas; after sound) in visarga ali visardžanija (visarga, visarjanīya - oboje pomeni izpust; emission; discharge).
+
+V abecednem redu imata anusvara in visarga izjeme:
+
+če anusvari sledi zvočnik ali sibilant, se le-ta v abecednem redu nahaja pred 'k', kot je prikazano v tabeli. Če pa anusvari sledi zapornik, se nahaja na istem mestu kot nosnik, ki ustreza zaporniku (zaporniku 'dh' ustreza nosnik 'n', torej se beseda saṃdhi nahaja na mestu, kjer bi bil sandhi).
+
+
+če visargi sledijo sibilanti 'ḥś', 'ḥṣ', 'ḥs', potem so v abecednem redu na položaju, kot da bi bili 'śś', 'ṣṣ', 'ss'.
+
+Izgovorjava
+Sanskrt je fonetičen jezik in vsaka glasovna sprememba se tudi zapiše.
+Samoglasniki
+
+
+črka
+opis
+razlaga
+
+
+a, i, ṛ, ḷ, u
+kratki enostavni samoglasniki
+'i' in 'u' izgovarjamo kot kratka i in u v slovenščini; 'a' zelo kratko in zamolklo; 'ṛ' kot r v besedi trg (samoglasniški r), 'ḷ' pa kot l v besedi Vltava (samoglasniški l)
+
+
+ā, ī, ṝ, ū
+dolgi enostavni samoglasniki
+'ī', 'ṝ', 'ū' izgovarjamo kot ustrezne kratke samoglasnike, vendar z izrazito dolžino; prav tako tudi 'ā' z izrazito dolžino, vendar brez zamolklosti, kot normalen dolgi a
+
+
+e, o
+dolga sestavljena samoglasnika
+'e' in 'o' izgovarjamo kot dolga ozka e in o; zgodovinsko gledano sta 'e' in 'o' dvoglasnika in čeprav stari sanskrtski slovničarji že dajejo navodila za njuno izgovorjavo kot da sta povsem enotna glasova (enoglasnika), ju uvrščajo med sestavljene samoglasnike in sicer 'e' = a + i, in 'o' = a + u
+
+
+ai, au
+dolga sestavljena samoglasnika
+'ai' in 'au' izgovarjamo podobno kot ai v laik ter au v nauk; vedno se izgovarjata enozložno (lai-k, nau-k, ne pa la-ik, na-uk); sta dvoglasnika in ju tudi uvrščajo med sestavljene samoglasnike in sicer 'ai' = ā + i, in 'au' = ā + u
+
+
+Anusvara in visarga
+
+
+črka
+opis
+razlaga
+
+
+ṃ (ं)
+anusvara, nasalizacija za samoglasnikom
+
+Izgovorjava anusvare je odvisna od soglasnika, ki ji sledi:
+
+če anusvari sledi zapornik, se izgovarja kot ustrezni nosnik iz iste vrstice;
+
+
+če pa sledijo zvočniki, sibilanti ali zveneči pridih, kjer ne pride do zapore ustne votline, pa tudi anusvaro izgovorimo bolj odprto, podobno francoskim nosnim samoglasnikom (on, en, un, itd.)
+
+
+
+
+ḥ (ः)
+visarga,
+nezveneč pridih
+visarga je nežen nezveneč pridih, ki sledi samoglasniku; včasih se za pridihom izgovori še majhen odmev predhodnega samoglasnika, oziroma 'i' ali 'u', če sta predhodna samoglasnika 'ai' ali 'au'
+
+
+Zaporniki
+
+
+črka
+opis
+razlaga
+
+
+k, kh, g, gh, ṅ
+velari
+izgovorijo se s pridvigom jezične ploskve proti zadnjemu nebu; 'k' in 'g' kot v slovenščini; za 'kh', 'gh' in 'ṅ' glej še spodaj
+
+
+c, ch, j, jh, ñ
+palatali
+izgovorijo se z dvigom jezika na mehko nebo; 'c' in 'j' kot slovenska č in dž; za 'ch', 'jh' in 'ñ' glej še spodaj
+
+
+ṭ, ṭh, ḍ, ḍh, ṇ
+retrofleksi
+izgovorijo se z dvigom konice jezika na trdo nebo med zobmi in mehkim nebom; položaj jezika je podoben kot pri angleški besedi try - tako pri izgovorjavi besede maṇḍala jezik pri zlogu 'ṇḍa' ni na zobeh, pač pa precej više; v slovenščini teh glasov ni; za 'ṭh', 'ḍh' in 'ṇ' glej še spodaj
+
+
+t, th, d, dh, n
+dentali
+izgovorijo se s konico jezika ob zobeh; 't', 'd' in 'n' kot v slovenščini; za 'th' in 'dh' glej še spodaj
+
+
+p, ph, b, bh, m
+labiali
+izgovorijo se ob udeležbi ustnic; 'p', 'b', in 'm' kot v slovenščini; za 'ph' in 'bh' glej še spodaj
+
+
+kh, ch, ṭh, th, ph
+nezveneči zaporniki s pridihom
+ta dvočrkja predstavljajo en glas; izgovorijo se z jezikom v istem položaju kot za 'k', 'c', 'ṭ', 't' in 'p', le da pri izgovorjavi 'kh', 'ch', 'ṭh', 'th', 'ph' hkrati z glasom izpustimo razločen pridih, ki pa ga pri zapornikih brez pridiha ni; PAZI: 'ph' nikoli ne izgovorimo kot f, temveč kot p s pridihom
+
+
+gh, jh, ḍh, dh, bh
+zveneči zaporniki s pridihom
+tudi ta dvočrkja predstavljajo en glas; podobno kot pri nezvenečih zapornikih s pridihom se tudi ti izgovorijo z razločnim pridihom; pri popolnoma pravilni izgovorjavi bi moral biti ta pridih prav tako zveneč
+
+
+ṅ, ñ, ṇ, n, m
+nosniki
+izgovorijo se skozi nos ob zapori v ustni votlini; 'ṅ' kot n v tanka; 'ñ' kot nj v panj oz. kot hrvaški nj; 'ṇ' z dvigom konice jezika na trdo nebo; 'n' in 'm' kot v slovenščini
+
+
+Zvočniki
+
+
+črka
+opis
+razlaga
+
+
+y, r, l, v
+zvočniki
+'y' izgovorimo kot slovenski j; 'r' in 'l' kot v slovenščini; 'v' je izvorno bil kot angleški w (v proto-indoevropskem jeziku), a že stari sanskrtski slovničarji dajejo navodila za izgovor kot v, izgovor w lahko opcijsko ostane, kadar 'v' sledi soglasniku v istem zlogu
+
+
+Sibilanti
+
+
+črka
+opis
+razlaga
+
+
+ś, ṣ, s
+sibilanti
+'ś' kot mehak, palatiziran š, 'ṣ' pa zelo trdo; 's' kot v slovenščini
+
+
+Zveneči pridih
+
+
+črka
+opis
+razlaga
+
+
+h
+zveneči pridih
+'h' se pri popolnoma pravilni izgovorjavi izgovori kot zveneči pridih
+
+
+Fonetična razporeditev
+Razporeditev glasov sanskrta glede na njihove fonetične lastnosti:
+
+
+
+samoglasniki
+soglasniki
+
+
+enostavni
+sestavljeni
+zaporniki
+zvočniki
+sibilanti
+pridih
+
+
+kratki
+dolgi
+dolgi
+dolgi
+brez pridiha
+s pridihom
+brez pridiha
+s pridihom
+nosniki
+
+
+
+
+
+velari
+a
+ā
+
+k
+kh
+g
+gh
+ṅ
+
+
+h
+
+
+palatali
+i
+ī
+e
+ai 2
+c
+ch
+j
+jh
+ñ
+y
+ś
+
+
+
+retrofleksi
+ṛ
+ṝ
+
+ṭ
+ṭh
+ḍ
+ḍh
+ṇ
+r
+ṣ
+
+
+
+dentali
+ḷ
+
+t
+th
+d
+dh
+n
+l
+s
+
+
+
+labiali
+u
+ū
+o
+au 2
+p
+ph
+b
+bh
+m
+v 3
+
+
+
+
+
+zveneči
+nezveneči
+zveneči
+nezveneči
+zveneči
+
+
+2 sestavljeni samoglasniki se izgovarjajo na dveh mestih: 'e' in 'ai' sta velara in palatala, 'o' in 'au' pa velara in labiala,
+3 glas 'v' je dento-labial; pravi labial je le kadar se izgovarja kot w,
+Naglas
+jakostni naglas, tonemski pri vedskih posebnostih
+Prilagajanje transliteracije slovenščini
+Pri navajanju imen, naslovov in terminov iz sanskrta jih prilagodimo slovenščini v pisavi, spolu in številu. Zaradi točnejše izgovorjave in lažjega iskanja jih ob prvi omembi zapišemo v oklepaju v debelni obliki in mednarodni transliteraciji.
+Črke mednarodne transliteracije prilagodimo slovenščini tako, da zamenjamo 'ṛ' z r (zlogotvorni), 'ḷ' z l (zlogotvorni), 'ṃ' z m pred labiali, sicer pa z n, 'ḥ' s h, 'c' s č, 'ch' s čh, 'j' z dž, 'jh' z džh, 'ṅ' z n (kot v besedi banka), 'ñ' z n (palatalni), 'ś' s š, 'ṣ' s š ter 'y' z j.
+Pridih se pri izgovorjavi razločno sliši, zato glasove s pridihom pišemo tudi v poslovenjeni obliki. Prav tako pustimo dvojne soglasnike; oba soglasnika se izgovarjata vsak zase, kot v slovenščini v besedi oddaja.
+Po navadi retrofleksnih 'ṭ', 'ṭh', 'ḍ', 'ḍh' in 'ṇ' ter dolžin pri dolgih samoglasnikih v slovenščini ne označujemo in jih nadomestimo z ustreznimi labiali in kratkimi samoglasniki. V besedilih oziroma odlomkih, kjer pa so razlike med posameznimi črkami pomembne, na primer v slovničnih besedilih, slovarjih, ipd., na primer zgoraj pri imenih črk, lahko te črke, kot tudi nosnike in 'ś' pustimo v originalni obliki.
+V bibliografijah pišemo imena v izvorni obliki brez kakršnega koli prilagajanja. Prav tako pustimo nespremenjena imena modernih avtorjev, ki so zapisana nepravilno, ali pa jih slovenimo iz teh nepravilnih oblik (nath namesto nātha-natha, rishi-riši namesto ṛṣi-rši, itd...).
+V klasičnem sanskrtu se jakostni naglas ne označuje, zato ga ne označujemo niti pri slovenjenju.
+Nekaj primerov:
+
+
+mednarodna transliteracija
+slovenjeno
+pomen
+mednarodna transliteracija
+slovenjeno
+pomen
+
+
+svara
+svara
+samoglasnik
+varṇa
+varna
+glas
+
+
+vyañjana
+vjandžana
+soglasnik
+akṣara
+akšara
+zlog
+
+
+śuddha
+šuddha
+enostaven
+sparśa
+sparša
+zapornik
+
+
+saṃyukta
+sanjukta
+sestavljen
+antaḥstha
+antahstha
+zvočnik
+
+
+hrasva
+hrasva
+kratek
+ūṣman
+ušman
+sibilant
+
+
+dīrgha
+dirgha
+dolg
+saṃdhi
+sandhi
+pravila prilagajanja glasov
+
+
+Posebnosti vedskega sanskrta
+Vedski sanskrt ima še nekaj dodatnih črk in posebnosti.
+Samoglasniki
+
+
+अ३
+a3
+इ३
+i3
+उ३
+u3
+ए३
+e3
+ऐ३
+ai3
+ओ३
+o3
+औ३
+au3
+
+
+
+
+črka
+opis
+razlaga
+
+
+a3 i3 u3 e3 ai3 o3 au3
+podaljšani samoglasniki
+Vedski sanskrt poleg kratkih in dolgih samoglasnikov, ki trajajo eno oziroma dve dobi (mātrā - mera, metrična doba), pozna še podaljšane samoglasnike (pluta - podaljšan), ki trajajo več kot dve dobi. Zapišemo jih s števko 3 poleg kratkega, včasih pa tudi poleg dolgega samoglasnika (आ३ ā3, ई३ ī3, ऊ३ ū3).
+Primer: ॐ, ओ३म् o3m - alternativni obliki zapisa zloga om)
+
+
+Anunasika, džihvamulija in upadhmanija
+
+
+अँ
+ã
+आँ
+ā̃
+इँ
+ĩ
+ईँ
+ī̃
+...
+यँ
+ỹ
+लँ
+l̃
+वँ
+ṽ
+
+
+क
+ẖ
+प
+ḫ
+
+
+
+
+
+črka
+opis
+razlaga
+
+
+ã ā̃ ĩ ī̃ ... ỹ l̃ ṽ
+anunasika, nasalizirani glasovi
+Vedski sanskrt v določenih okoljih namesto anusvare, ki predstavlja nasalizacijo, ki sledi samoglasniku, določa nasalizacijo glasov samih (anunāsika - nosni, izgovorjen skozi nos). Nasalirajo se lahko samoglasniki in pa zvočniki 'y', 'l' in 'v'.
+
+
+ẖ
+džihvamulija, varianta visarge pred 'k' in 'kh'
+Vedski sanskrt namesto visarge včasih uporablja džihvamulijo (jihvāmūlīya - izgovorjen na korenu jezika) in upadhmanijo (iz upadhmāna - pihati na, dihati na, upadhmānīja - izgovorjen kot da bi pihal na). Črki označujeta subtilne razlike pri izgovorjavi visarge zaradi sledečih glasov, pri čemer postane visarga podobna nemškemu ch oziroma f.
+
+
+ḫ
+upadhmanija, varianta visarge pred 'p' in 'ph'
+
+
+Soglasniki
+
+
+ळ
+ḻa
+ळ्ह
+ḻha
+
+
+
+
+črka
+opis
+razlaga
+
+
+ḻa ḻha
+retrofleksna l
+brez in s pridihom
+'ḻ' in 'ḻh' nastopata v nekaterih vedskih tekstih na mestu 'ḍ' in 'ḍh' kadar se ti črki pojavita med samoglasnikoma; primer: iḻe za īḍe v agnim īḻe (hvalim Agnija - Rgveda 1.1.1)
+
+
+Oblikoslovje
+glagoli
+samostalniki
+zaimki
+zloženke
+Slovnica
+?
+Sanskrt danes
+Zunanje povezave
+
+
+
+Poglejte si besedo sanskrt ali Sanskrt v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+Wikipedija - Sanskrt
+
+
+
+
+
+
+
+ Ta članek o jeziku je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+ 
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Sanskrt&oldid=3851865«				
+Kategorije: Jezikovne škrbineStaroveški jezikiKlasični jezikiJeziki IndijeIndoarijski jezikiOgroženi jezikiSanskrtSkrite kategorije: Članki o jezikih brez datuma podatkov o govorcihČlanki, ki so potrebni čiščenjaČlanki, ki so potrebni čiščenja brez parametra razlog 
+
+
+

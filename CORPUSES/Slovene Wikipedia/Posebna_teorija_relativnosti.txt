@@ -1,0 +1,60 @@
+
+
+
+
+
+
+E = mc²
+
+
+
+
+
+
+Spreminjanje izgledov na prostor-čas vzdolž svetovnice. Na animaciji navpična smer predstavlja čas, vodoravna pa razdaljo. Prekinjena črta je pot (»svetovnica«) opazovalca v prostoru-času. Spodnja četrtina prikazuje dogodke, ki jih opazovalec lahko vidi, nad svetlobnim stožcem pa so dogodki v prihodnosti. Pike so poljubni dogodki v prostoru-času. Odmik svetovnice od navpične smeri podaja relativno hitrost opazovalca. Pri pospeševanju opazovalca se izgled prostora-časa zelo spremeni.
+
+
+Posébna teoríja rêlativnosti in ~ relatívnosti (ali skrajšano PTR) je fizikalna teorija, ki opisuje gibanje teles izven gravitacijskega polja. Leta 1905 jo je razvil Albert Einstein. Pred tem je v fiziki prevladovalo mnenje, da so fizikalne količine kot hitrost ali sila absolutne in neodvisne od opazovalca oziroma opazovalnega sistema, v katerem jih merimo. Lorentz in nekateri drugi fiziki pa so opozarjali na dejstvo, da se Maxwellove enačbe pri zamenjavi koordinatnega sistema ne vedejo v skladu s klasično mehaniko, da torej isti fizikalni pojav dva opazovalca, ki se relativno gibljeta drug glede na drugega, različno opišeta (po zamisli o transformaciji fizikalnih zakonov med opazovalnimi sistemi, ki se gibljejo relativno drug na drugega, je teorija dobila svoje ime). Pri tem teorija tudi zavestno zanemari vpliv gravitacije na oba opazovalca. Lorentz je razvil tudi popravek, znan kot Lorentzova transformacija, s katerim Maxwellove enačbe uskladimo z zakoni klasične mehanike.
+
+
+Vsebina
+
+
+1 Načela posebne teorije relativnosti
+2 Glej tudi
+3 Viri in literatura
+4 Zunanje povezave
+
+
+Načela posebne teorije relativnosti
+Posebna teorija relativnosti v Einsteinovi formulaciji sloni na dveh osnovnih načelih:
+
+načelo relativnosti — zakoni narave imajo v vseh inercialnih opazovalnih sistemih enako obliko. Vsi inercialni opazovalni sistemi so med seboj enakovredni.
+načelo o hitrosti svetlobe — hitrost svetlobe oziroma hitrost elektromagnetnega valovanja v praznem prostoru je v vseh inercialnih opazovalnih sistemih konstantna.
+
+Implicitno posebna teorija relativnosti privzame tudi načelo o homogenosti časa ter o homogenosti in izotropnosti prostora, ki ga Einstein ni izrecno navedel kot osnovno načelo. Teorija pravi, da čas ni absoluten, ampak se lahko spreminja, odvisno od hitrosti opazovalca. Če je ta večja, mu teče čas počasneje.
+Glej tudi
+
+dvojna posebna relativnost
+splošna teorija relativnosti
+
+Viri in literatura
+
+Janez Strnad, Posebna teorija relativnosti, Društvo matematikov, fizikov in astronomov, Ljubljana 1979. (COBISS)
+Janez Strnad, Fizika, 3. del. Posebna teorija relativnosti, kvantna mehanika, atomi, Državna založba Slovenije, Ljubljana 1981, str. 11-102. (COBISS)
+
+Zunanje povezave
+
+Sašo Dolenc, O prostoru in času - uvod v posebno teorijo relativnosti, Kvarkadabra 6, oktober 2000.
+Albert Einstein, Zur Elektrodynamik bewegter Körper, Ann Phys Chem 17 (1905) 891-921. http://www.wiley-vch.de/berlin/journals/adp/890_921.pdf
+(v angleščini): http://www-gap.dcs.st-and.ac.uk/~history/HistTopics/Special_relativity.html
+
+     
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Posebna_teorija_relativnosti&oldid=3847942«				
+Kategorije: 1905 v znanostiAlbert EinsteinFizikalne teorijePosebna teorija relativnosti 
+
+
+

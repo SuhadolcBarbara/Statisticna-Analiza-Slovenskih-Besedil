@@ -1,0 +1,84 @@
+
+
+
+
+
+
+Kristal bizmuta
+
+
+Kristál je trdna snov, ki ima urejeno notranjo zgradbo. To pomeni, da lahko s poznavanjem leg le nekaj gradnikov kristala napovemo lege vseh ostalih gradnikov, čeprav so ti od izhodišča močno oddaljeni. Gradniki kristalov so lahko atomi, ioni, molekule ali cele polimerne verige.
+Zgradba
+Danes kristale delimo na periodične in neperiodične.
+Pri periodičnih kristalih se neki vzorec periodično ponavlja v vseh smereh prostora. Nastane periodična kristalna mreža. Najmanjši del kristala, ki ima še vedno vse njegove značilnosti, imenujemo osnovna celica. V splošnem je osnovna celica paralelepiped (telo, ki je obdano s šestimi ploskvami, nasprotne ploskve pa so med seboj vzporedne). Za vsako osnovno celico so značilne dolžine robov in koti med njimi. Glede na njih ločimo 6 kristalnih sistemov:
+
+triklinski,
+monoklinski,
+ortorombični,
+tetragonalni,
+heksagonalni in
+kubični.
+
+Podsistem heksagonalnega sistema je romboedrični, ki ga nekateri obravnavajo kot samostojen kristalni sistem.
+Glede na razporeditev gradnikov v osnovni celici lahko dobimo 14 različnih kristalnih mrež (Bravais, 1848). Npr. v kubičnem sistemu (vse tri stranice so enako dolge, pravi kot med vsemi stranicami) so možne tri kristalne mreže:
+
+primitivna (gradniki so le v ogliščih celice)
+telesno ali prostorsko centrirana (gradniki so v vseh ogliščih, eden pa je v središču)
+ploskovno centrirana (atomi so v vseh ogliščih in središčih vseh ploskev).
+
+
+
+
+
+primitivna mreža
+telesno centrirana
+ploskovno centrirana
+
+
+
+
+
+
+
+
+
+Robovi osnovne celice so navadno najkrajši translacijski vektorji kristalne mreže. Translacijski vektor je vektor, katerega okolica na koncu vektorja je enaka kot na začetku vektorja. Obstoj translacijskega vektorja oziroma translacijske simetrije je nujen v vseh periodičnih kristalih. Poleg tega ima kristal lahko še tri simetrijske elemente:
+
+zrcalne ravnine,
+rotacijske ali sučne osi in
+simetrijsko središče.
+
+V periodičnih kristalih so možne le 1-, 2-, 3-, 4- in 6-števne osi; to pomeni, da vzorec zavzame kristalografsko identične položaje enkrat, dvakrat, trikrat, štirikrat ali šestkrat pri zasuku za 360°. Npr. sučna os, ki je v središču kvadrata, je 4-števna.
+Med neperiodične kristale prištevamo modulirane kristale in kvazikristale.
+Lastnosti
+Lastnosti kristalov so navadno anizotropne. To pomeni, da se v različnih smereh razlikujejo med seboj, vendar se v odvisnosti od njihove stopnje simetrije ponavljajo v različnih smereh. Pravokotno na 4-števno os se lastnosti ponovijo vsakih 90°.
+Idealni kristal je neskončno velik, njegovi gradniki pa zasedajo vsa mrežna mesta. Najbližji idealnemu kristalu je monokristal.
+Realni kristal ima končno velikost, zato je obdan z zunanjimi površinami. Poleg tega ima tudi v svoji notranjosti napake. Glede na njihovo razsežnost napake delimo na:
+
+ničdimenzijske ali točkovne (praznina, lasten vrivni ali intersticijski atom, tuj vrivni ali intersticijski atom, tuj substitucijski atom ...)
+enodimenzijske ali črtne (robna, vijačna, mešana dislokacija, disklinacija)
+dvodimenzijske ali ploskovne (malokotne in velikokotne meje, napake zloga, antifazne meje)
+in tridimenzijske ali prostorske (cone praznin, mikrorazpoke).
+
+Glede na vezi ločimo:
+
+ionski kristali - ionska vez,
+kovalentni kristali - kovalentna vez,
+Van der Waalsove vezi - poseben primer je vodikova vez - elektrostatske sile in
+kovinska vez.
+
+Zunanje povezave
+
+
+
+Poglejte si besedo kristal ali Kristal v Wikislovarju, prostem slovarju.
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Kristal&oldid=3861250«				
+Kategorije: MaterialiMetalurgijaStrojništvoKristalografijaKristali 
+
+
+

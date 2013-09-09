@@ -1,0 +1,93 @@
+
+
+Sklòn (kázus) je slovnična kategorija samostalniške ali pridevniške besede, ki izraža skladenjsko funkcijo dotične besede v stavku. Pravimo, da se samostalniške in pridevniške besede sklanjajo in pregibajo v številu, zato so pregibne besedne vrste.[1] Sistemi sklanjanja ter skladenjske funkcije, ki jih posamezni skloni izražajo, se lahko od jezika do jezika zelo razlikujejo.
+Preglednica sklonov v slovenščini
+Slovenščina pozna 6 sklonov, in sicer:
+
+
+številka
+slovensko ime
+latinsko ime
+vprašalnice
+pomoč
+
+
+1.
+imenovalnik
+nominativ
+Kdo ali kaj?
+je
+
+
+2.
+rodilnik
+genitiv
+Koga ali česa?
+ni
+
+
+3.
+dajalnik
+dativ
+Komu ali čemu?
+dam
+
+
+4.
+tožilnik
+akuzativ
+Koga ali kaj?
+vidim/tožim
+
+
+5.
+mestnik
+lokativ
+Pri kom ali pri čem?
+pri
+
+
+6.
+orodnik
+instrumental
+S kom ali s čim?
+s/z
+
+
+Rekonstruirani indoevropski prajezik je poznal osem sklonov, poleg šestih zgoraj omenjenih še ablativ (ločilnik) in vokativ (zvalnik). Indoevropski sistem osmih sklonov je najbolje ohranjen v staroindijskem jeziku sanskrtu. Slovanski (z izjemo bolgarščine in makedonščine) in baltski jeziki imajo od šest do sedem sklonov, številni drugi sodobni indoevropski jeziki pa imajo močno poenostavljene sisteme sklanjanja. Ruščina ima enako število in soroden sistem sklonov kot slovenščina, čeprav imajo nekateri skloni (npr. orodnik) drugačne funkcije kot v slovenščini. V slovenščini rabimo mestnik in orodnik s predlogi, v ruščini pa se predlogi načeloma uporabljajo le pri orodniku, ki je v ruščini 5. sklon, mestnik pa 6. Mestnik se v ruščini nikoli ne rabi brez predloga, zato ga ruski slovničarji tudi poimenovali po tej njegovi lastnosti, предложный падеж (včasih tudi препозитив).[2]
+Nemščina ima štiri sklone (imenovalnik, rodilnik, dajalnik in tožilnik) in poleg samostalniških ter pridevniških besed sklanja tudi določni in nedoločni člen, raba členov pa vpliva na sklanjatev pridevnika. Sodobna angleščina je od sklanjanja obdržala samo končnico '-s za t.i. svojilni rodilnik (Saxon genitive). Med germanskimi jeziki imata kompleksen sistem sklanjanja islandski in ferski jezik.
+Slovenščina tvori različne sklone s spreminjanjem oblikoslovnih morfemov (končnic), aglutinativni jeziki pa z dodajanjem pripon s točno določenim pomenom. Zato imajo aglutinativni jeziki bogate sisteme sklonov, na primer finščina jih pozna 15, madžarščina pa 18.
+Najbogatejši sistemi (tudi preko 40 sklonov) so značilni za dagestanske jezike na Kavkazu. Tako naj bi imel tabasaranski jezik glede na narečja od 47 do 53 sklonov, cezinski (didojski) pa celo 56. Ta dva jezika se v strokovni literaturi[3] in Guinessovi knjigi rekordov omenjata kot jezika z absolutno največjim številom sklonov na svetu. Oba razlikujeta med nemestnimi (slovničnimi, abstraktnimi) in mestnimi skloni, pri čemer imata tako bogat sistem sklonov predvsem zaradi številnih mestnikov, ki lahko izražajo tudi do osem različnih načinov prostorske orientacije. Jezikoslovci so sicer s kasnejšimi raziskavami ugotovili, da lahko tako veliko število sklonov tvorita zaradi možnosti medsebojnega kombiniranja dveh oblikoslovnih končnic za izražanje mestnikov in da je upoštevajoč zgolj osnovne končnice dejansko število sklonov manjše: 14-15 v tabasaranščini in 18 v cezinščini.[4]
+Opombe
+
+
+^ Toporišič, str. 256.
+^ Sever, Derganc, str. 36.
+^ Hjelmslev, str. 138-9.
+^ Comrie, Polinsky.
+
+
+Viri
+
+Comrie, Bernard in Maria Polinsky (1998). The Great Daghestanian case hoax.; V: Siewierska and Song (eds.) (1998). Case, typology, and grammar: in honor of Barry J. Blake. John Benjamins B.V.. ISBN 90 272 2937 6 (Eur.) / 1 55619 651 2 (US).  str. 95-114.
+Hjelmslev, Louis (1935). La catégorie des cas. Étude de Grammaire Générale. Première partie. Aarhus: Universitetsforlaget i Aarhus. 
+Sever, Jože; Derganc, Aleksandra (2006). Ruska slovnica po naše. Ljubljana: Cankarjeva založba. COBISS 226954240. 
+Toporišič, Jože (2000). Slovenska slovnica (4., prenovljena in razširjena izd. izd.). Maribor: Obzorja. COBISS 44990977. 
+
+
+
+
+
+
+ Ta članek o jeziku je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Sklon&oldid=4053739«				
+Kategoriji: Jezikovne škrbineSkladnja 
+
+
+

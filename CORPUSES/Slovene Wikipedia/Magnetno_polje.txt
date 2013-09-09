@@ -1,0 +1,58 @@
+
+
+Magnétno pólje je prostor okoli trajnih magnetov ali vodnikov, po katerih teče električni tok, v katerem lahko zaznamo magnetno silo in magnetni navor. Določeno je z gostoto magnetnega polja.
+
+
+Vsebina
+
+
+1 Silnice
+2 Magnetni dipol
+3 Magnetni navor in magnetna sila
+4 Glej tudi
+
+
+Silnice
+
+
+
+
+Magnetne silnice paličastega magneta, ponazorjene z železnimi opilki na papirju
+
+
+V magnetnem polju lahko vpeljemo silnice, ki imajo v vsaki točki prostora smer tangente na smer magnetnega polja. Za razliko od silnic električnega polja, ki imajo svoj izvor v pozitivnem naboju in ponor v negativnem naboju, so silnice magnetnega polja zaključene zanke (izjemoma lahko potekajo iz neskončnosti v neskončnost). Zato pravimo, da je magnetno polje brezizvirno. Izjava o brezizvirnosti polja je enakovredna matematičnemu pogoju, da je v vsaki točki prostora divergenca gostote magnetnega polja enaka nič, kar predstavlja eno od Maxwellovih enačb:
+
+
+
+Ta nenavadna lastnost magnetnega polja je posledica tega, da gostota magnetnega polja ni pravi vektor, ampak psevdovektor, saj je definirana (npr. z Lorentzovo silo) kot vektorski produkt dveh pravih vektorjev. Razlika med enimi in drugimi se pokaže pri simetrijskih lastnostih: psevdovektorjem se pri nepravih rotacijah koordinatnega sistema spremeni predznak.
+Magnetni dipol
+Narava magnetnega polja postavlja dodatno omejitev za simetrijo magnetnega polja: to ima vedno sodo število polov, od katerih jih je natančno polovica severnih, polovica pa južnih. Najpreprostejše takšno polje je dipolno z enim severnim in enim južnim polom. Drugače povedano: v naravi ne obstajajo makroskopski magnetni monopoli, ampak vsak magnet vedno sestavljata severni in južni pol. V tem se magnetno polje razlikuje od električnega polja, kjer te omejitve ni (zgled je polje okrog točkastega naboja).
+Magnetni navor in magnetna sila
+Magnetni navor lahko izrazimo kot vektorski produkt magnetnega dipolnega momenta pm in gostote magnetnega polja B:
+
+
+
+Enota za gostoto magnetnega polja: 1 N/Am = 1 Vs/m2 = 1 T (tesla)
+Magnetno silo imenujemo silo, s katero deluje magnetno polje na vodnik, po katerem teče električni tok. Na vodnik dolžine l, po katerem teče tok I deluje v homogenem magnetnem polju z gostoto B sila:
+
+
+
+Sila je pravokotna na smer vodnika in na smer gostote magnetnega polja. Dolžini vodnika l smo pripisali vektorsko naravo tako, da ima smer električnega toka, ki teče po vodniku.
+Magnetna sila na vodnik je odvisna od kota φ med smerjo magnetnega polja in smerjo toka. Na magnetno silo vpliva le pravokotna komponenta smeri gostote magnetnega polja, Bsinφ.
+Na posamičen električni naboj e, ki se giblje s hitrostjo v v magnetnem polju z gostoto B, pa deluje sila
+
+
+
+Glej tudi
+
+magnetizem
+magnetno polje v snoveh
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Magnetno_polje&oldid=3852315«				
+Kategorija: Elektrika in magnetizem 
+
+
+

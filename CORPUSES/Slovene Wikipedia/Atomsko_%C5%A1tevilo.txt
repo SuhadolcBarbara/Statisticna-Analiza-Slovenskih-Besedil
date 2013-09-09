@@ -1,0 +1,64 @@
+
+
+Vŕstno števílo ali atómsko števílo je število protonov v jedru atoma, istočasno pa je enako tudi (pozitivnemu) naboju jedra in zaporedni številki elementa v periodnem sistemu elementov. Ker je atom navzven električno nevtralen, je vrstno število enako tudi število elektronov atoma. Vrstno število se običajno označuje s simbolom Z. Simbol Z je domnevno nastal iz nemške besede "AtomZahl" (atomsko število).
+Vrstnega števila (Z) se ne sme zamenjati z masnim številom (A), ki je vsota protonov in nevtronov v jedru atoma. Število nevtronov (N) se izračuna iz enačbe A = Z + N. Glede na to, da imata proton in nevtron približno enako maso in je masa elektronov za večino namenov zanemarljivo majhna, je atomska masa atoma približno enaka A.
+Atomi, ki imajo isto vrstno število Z in različno število nevtronov N, se pravi da imajo tudi različno atomsko maso, so izotopi. Večina naravnih elementov je zmes izotopov, zato je atomska masa elementa povprečje atomskih mas te zmesi. Trenutna standardna enota atomske mase (eam ali dalton (Da)) je definirana kot natančno 1/12 mase prostega (nevezanega) atoma ogljika 12C v njegovem osnovnem (najnižjem energijskem) stanju.[1]
+
+1 Da = 1,660538782(83)×10−27 kg
+
+
+
+Vsebina
+
+
+1 Zgodovina
+2 Kemijske lastnosti
+3 Novi elementi
+4 Sklici
+5 Glej tudi
+
+
+Zgodovina
+Urejanje elementov se je začelo z nastankom periodnega sistema elementov. Urejanje samo še ne pomeni tudi številčenja, lahko pa služi kot njegova osnova. D.I. Mendelejev je svoj sistem elementov uredil po naraščajoči atomski masi,[2] vendar je zaradi poznavanja kemijskih lastnosti elementov prekršil svoja lastna pravila in postavil telur (atomska masa 127,6) pred jod (atomska masa 126,9).[2][3] Takšna razvrstitev je skladna s sodobno prakso razvrščanja elementov po številu protonov (Z), ki jih v tistem času še niso poznali.
+Številčenje atomov, ki je temeljilo na položaju elementa v periodnem sistemu, ni bilo nikoli povsem ustrezno. Poleg telurja in joda je še nekaj drugih parov elementov, na primer kobalt in nikelj, za katere so vedeli, da imajo zelo podobno ali celo manjšo atomsko maso od svojega predhodnika, vendar so jih zaradi njihovih lastnosti kljub kršitvi pravil pustili na njihovih položajih. Dodaten problem je bilo odkrivanje vedno več kemično podobnih in težko razločljivih lantanoidov, katerih število je bilo popolna neznanka. Vse to je privedlo do nedoslednosti in nezanesljivosti številčenja vseh elementov vsaj od lutecija (Z=71) dalje. Hafnija v tistem času še niso poznali.
+Leta 1911 je Ernest Rutherford predlagal model atoma, v katerem je bila večina mase in pozitivnega naboja zbrana v jedru. Naboj jedra v enotah naboja elektrona je bil enak približno polovici atomove atomske mase, izražene s številom vodikovih atomov. Centralni naboj naj bi bil torej enak približno polovici atomske mase, se pravi, da bi zlato, ki ga je Rutherford vzel za zgled, imelo naboj približno 100. Zlato ima v resnici vrstno število 79 in od Rutherfordove ocene odstopa približno 25 %. Mesec dni po objavi Rutherfordove trditve je Antonius van den Broek prvi uradno trdil, da sta centralni naboj in število elektronov v atomu natančno enaka položaju elementa v periodnem sistemu. Njegova trditev se je kasneje izkazala kot točna.
+Leta 1913 se je Henry Moseley[4] po razpravah z Nielsom Bohrom, ki je raziskoval v istem laboratoriju kot Van den Broek in je Van den Broekovo hipotezo uporabil za razvoj svojega modela atoma, odločil, da bo njuno hipotezo preveril z eksperimenti. Z analizo spektralnih črt, ki jih emitirajo vzbujeni atomi, je nameraval preveriti zahtevo Bohrove teorije, da je frekvenca spektralnih črt sorazmerna kvadratu zaporednega števila Z.
+Moseley je izmeril valovne dolžine prehodov najbolj notranjih fotonov (seriji K in L) elementov od aluminija (Z=12) do zlata (Z=79). Za merjenje je uporabil premične anodne tarče znotraj rentgenske cevi.[5] Kvadratni koren frekvence fotonov rentgenskih žarkov je od tarče do tarče linearno naraščal. Iz tega je zaključil (Moseleyev zakon), da se atomsko število dobro sklada z izračunanim električnim nabojem jedra, se pravi s številom protonov Z. Moseley je med drugim nakazal, da morajo lantanoidi od lantana do vključno lutecija imeti 15 elementov, kar je daleč presegalo takratno poznavanje kemije.
+Kemijske lastnosti
+Vsak element ima značilen niz kemijskih lastnosti, ki so posledica števila elektronov njegovem nevtralnem atomu (Z). Razvrstitev elektronov se podreja zakonom kvantne mehanike. Število elektronov na posamezni orbirali, predvsem na zunanji valenčni orbitali, ima primarno vlogo pri določanju značilnosti kemijskih vezi. Vrstno število je torej tisto, ki določa kemijske lastnosti elementa, zato je element lahko definiran kot katera koli zmes atomov, ki imajo enako vrstno število.
+Novi elementi
+
+
+
+
+3-d prikaz teoretičnega "otoka stabilnosti"
+
+
+
+
+Glavni članek: Razširitev periodnega sistema elementov.
+
+
+Leta 2010 šteje periodni sistem 118 elementov. Sinteza novih elementov poteka z bombardiranjem atomov težkih elementov z ioni, tako da je vsota vrstnih števil atoma in iona enaka vrstnemu številu ciljnega elementa. Zaradi splošnega pravila, da se razpolovni čas krajša z naraščajočim vrstnim številom, so neodkriti izotopi z določenim številom protonov in nevtronov lahko obstojni samo na teoretičnem "otoku stabilnosti".
+Sklici
+
+
+^ IUPAC, "unified atomic mass unit". Compendium of Chemical Terminology Internet edition.
+^ 2,0 2,1 The Periodic Table of Elements (American Institute of Physics)
+^ The Development of the Periodic Table (Chemsoc)
+^ Ordering the Elements in the Periodic Table (Chemsoc)
+^ http://www.chemistry.co.nz/henry_moseley_article.htm Moseley's paper with illustrations
+
+
+Glej tudi
+
+Seznam elementov po vrstnem številu
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Vrstno_število&oldid=3993494«				
+Kategorije: Kemijske lastnostiJedrska fizikaAtomi 
+
+
+

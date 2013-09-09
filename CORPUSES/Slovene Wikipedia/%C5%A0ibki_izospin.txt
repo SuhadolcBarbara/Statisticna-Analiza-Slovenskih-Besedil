@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+Okus in kvantna števila:
+
+leptonsko število: L
+barionsko število: B
+čudnost: S
+čar: C
+dno: B'
+vrh: T
+izospin: I ali Iz
+šibki izospin: Tz
+električni naboj: q
+naboj X: X
+
+
+kombinacije:
+
+hipernaboj: Y
+
+Y=2(q-Iz)
+Y=B+S+C+B'+T
+
+
+šibki hipernaboj: YW
+
+YW=2(Q-Tz)
+X + 2YW=5 (B−L)
+
+
+
+
+
+mešanje okusov
+
+
+matrika CKM
+matrika PMNS
+komplementarnost okusa
+
+
+To polje: prikaži · pogovor · uredi · zgodovina
+
+
+
+Šibki izospin (oznaka  ali ) je v fiziki osnovnih delcev eno izmed kvantnih števil. Povezan je s šibkimi interakcijami. Spada med kvantna števila okusa. Komponento šibkega izospina (v smeri osi-z) označujemo s  ali  (tudi z  ali ). Šibki izospin je podoben izospinu, ki se uporablja pri močnih interakcijah. Z običajnim spinom nima ničesar skupnega, razen imena.
+Leptoni ne sodelujejo v močnih interakcijah in zanje ne moremo določiti šibkega izospina. Zanje je šibki izospin enak 0. Šibki izospin je za šibke interakcije to, kar je za močne interakcije barvni naboj
+Povezava s kiralnostjo
+Vse fermione lahko združimo v skupine (multiplete), ki se enako obnašajo v šibkih interakcijah. Se pa razlikujejo v masi. Fermioni z negativno kiralnostjo (to so levosučni fermioni) imajo izospin enak ½ in jih lahko združujemo v skupine po dva (dublet) s T3 = ±1/2, ki se obnašajo enako pri šibkih interakcijah.
+Fermioni s pozitivno kiralnostjo (to so desnosučni fermioni) imajo šibki izospin enak 0 (T = 0). Ta vrsta fermionov tvori singlete in niso podvrženi šibkim interakcijam.
+Med šibkim izospinom (T3) in šibkim hipernabojem (YW) ter eklektričnim nabojem (q) je naslednja povezava :
+
+
+
+kjer je
+
+ električni naboj
+ tretja komponenta izospina
+ šibki hipernaboj
+
+Ohranitev šibkega izospina
+Za šibki izospin velja ohranitveni zakon, ki pravi, da se v vseh šibkih interakcijah ohranja šibki izospin. Vsota šibkih izospinov vseh delcev, ki vstopajo v reakcijo, je enaka vsoti vseh šibkih izospinov delcev, ki izstopajo iz reakcije.
+Zunanje povezave
+
+Hipernaboj in šibki izospin (v angleščini)
+Šibki izospin na All Experts (v angleščini)
+Lastnosti kvarkov (v angleščini)
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Šibki_izospin&oldid=3921447«				
+Kategorije: Osnovni fizikalni konceptiKvarkiKvantna kromodinamikaKvantna števila 
+
+
+

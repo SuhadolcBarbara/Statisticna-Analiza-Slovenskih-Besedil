@@ -1,0 +1,77 @@
+
+
+Prečrkovánje je preslikava znakov ene abecede v znake druge abecede oziroma spreminjanje zapisa besede iz ene pisave v drugo. Za narode, ki pišejo z latinico, je najbolj aktualno latinično prečrkovanje - to je spreminjanje neke tuje pisave v latinico.
+Izraz prečrkovanje po navadi enačimo s tujko transkripcija oziroma transliteracija. Pri tem ločimo naslednji pomenski odtenek:
+
+transliteracija pomeni prečrkovanje, kjer eni črki (ali skupini črk) iz prve pisave ustreza vedno ista črka (ali skupina črk) iz druge pisave. Zgled za táko prečrkovanje najdemo v srbščini: vsaki črki srbske cirilice ustreza točno določena črka srbske latinice - gajice.
+transkripcija pomeni prečrkovanje bolj na splošno, tudi če pri tem določeno črko v različnih situacijah nadomestimo z različnimi črkami druge pisave. Transkripcija je manj natančna kot translitercija, vendar pa po navadi bolj ustreza navadam bralcev v ciljnem jeziku. Poseben primer je mednarodna fonetična transkripcija (IPA).
+
+Številni narodi, ki ne uporabljajo latinice, so izdelali natančna navodila za prečrkovanje svojega jezika v latinico, vendar pa drugi narodi tega pogosto ne upoštevajo. Za zgled si oglemo različne načine prečrkovanja imena znanega ruskega politika:
+
+
+Zgled transkripcije
+
+
+Originalni zapis imena (v cirilici)
+Борис Николаевич Ельцин
+
+
+Uradna transliteracija ISO 9 (GOST 7.79-2000)
+Boris Nikolaevič Elʹcin
+
+
+Slovenska transkripcija
+Boris Nikolajevič Jelcin
+
+
+Angleška transkripcija
+Boris Nikolayevich Yeltsin
+
+
+Francoska transkripcija
+Boris Nikolaïevitch Ieltsine
+
+
+Nemška transkripcija
+Boris Nikolajewitsch Jelzin
+
+
+Madžarska transkripcija
+Borisz Nyikolajevics Jelcin
+
+
+Poljska transkripcija
+Borys Nikołajewicz Jelcyn
+
+
+Španska transkripcija
+Boris Nikoláyevich Yeltsin
+
+
+Arabska transkripcija
+بوريس نيكولايفتش يلتسن (translit.: Būrīs Nīkūlāyafitsh Yīltsin)
+
+
+Hebrejska transkripcija
+בוריס ניקולאיביץ' ילצין (translit. bwrjs njḳwlʾjbjṣ' jlṣjn)
+
+
+IPA fonetična transkripcija
+[bʌˈɾʲis nʲɪkʌˈɫajɪvʲɪʧʲ ˈjelʲʦɨn]
+
+
+Glej tudi
+Zgledi prečrkovanja:
+
+pinjin prečrkovanje
+Wade-Gilesovo prečrkovanje
+Hepburnovo prečrkovanje
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Prečrkovanje&oldid=3873585«				
+Kategoriji: JezikoslovjePisave 
+
+
+

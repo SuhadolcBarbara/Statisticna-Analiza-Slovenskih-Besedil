@@ -1,0 +1,38 @@
+
+
+Radiométrično datíranje je postopek, pri katerem z analizo koncentracij posameznih izotopov nekega radioaktivnega elementa določimo starost snovi, običajno kamnine ali predmeta organskega izvora.
+
+
+Vsebina
+
+
+1 U – Pb
+2 Rb – Sr
+3 K – Ar
+4 Ar – Ar
+5 Sm – Nd
+6 14C
+
+
+U – Pb
+Metoda temelji na dveh uranovih izotopih, ki v seriji α in β razpadov razpadeta v stabilna izotopa svinca. 238U razpade v 206Pb z razpolovnim časom 4,47 milijarde let, 235U pa v 207Pb v 707 milijonih let. V naravi je prisoten tudi 204Pb, ki pa ne nastane kot produkt pri kaki razpadni verigi. 208Pb nastaja pri razpadu 232Th, vendar je razpolovni čas za to reakcijo tako velik – 14 milijard let – da se ga za datiranje običajno ne uporablja. Izotopska sestava svinca se s časom torej spreminja, določimo pa jo lahko z masnim spektrometrom.
+Sedaj potrebujemo še začetna razmerja 206Pb/204Pb in 207Pb/204Pb. Ta so bila dobljena z analizo železnih meteoritov. Ti vsebujejo mineral troilit, FeS, ki ne vsebuje urana. Torej, če so meteoriti in Zemlja nastali ob istem času, je razmerje svinčevih izotopov v meteoritih enako začetnemu razmerju na Zemlji. Tako lahko čas izračunamo na dva neodvisna načina.
+Metoda je dobra za določanje starosti nekaterih mineralov, še posebej cirkona, ki vsebuje veliko urana in malo svinca, tako da nastaja veliko radiogenega svinca. Cirkon je zelo trd in kemično odporen mineral, tako da je verjetnost za kontaminacijo majhna.
+Rb – Sr
+87Rb z β razpadom razpade v 87Sr. Razpolovni čas za reakcijo je 48,8 milijard let. Trenutni delež 87Rb v naravnem rubidiju je 27,85 %. V naravi se nahaja tudi stroncijev izotop 86Sr, ki je stabilen in ni radiogenega izvora. Razmerje 86Sr/87Sr je uporabno tudi kot geokemični sledilnik. Zemljin plašč vsebuje zelo majhne koncentracije rubidija, zato se razmerje 86Sr/87Sr s časom ne spreminja bistveno. V zemeljski skorji pa so koncentracije rubidija veliko večje. Tako lahko na osnovi razmerja izotopov sklepamo, če je kamnina nastala iz staljene skorje ali iz plašča.
+K – Ar
+Ta metoda je pomembna, saj je kalij eden najbolj pogostih elementov v zemeljski skorji. Radioaktivni 40K predstavlja 0,119 % vsega naravnega kalija. 40K razpade na dva načina: 40K razpade v 40Ca z razpadom β v 89 % primerih. Tega ne moremo uporabiti za datiranje, saj je 40Ca prisoten tudi kot neradiogen. 40K preide v 40Ar z zajetjem elektrona. Razpolovni čas za skupno reakcijo je 1,31 milijarde let, za argonovo vejo pa 1,25 milijarde let. Ker je argon žlahtni plin, lahko brez težav pobegne iz taline. Tako lahko privzamemo, da je ves argon, ki je prisoten v kamnini, produkt pri razpadu kalija. To sicer ni vedno res, če se magma na površju hitro strdi, je nekaj argona lahko ujetega. Ta argon običajno prispeva nekaj milijonov let k dejanski starosti, kar pa se ne pozna, če je kamnina stara več sto milijonov let. Z metodo je lahko še nekaj problemov. Kot že rečeno, metoda ni najbolj primerna za datiranje mladih kamnin, še vedno pa se lahko datira posamezne minerale. Argon se ob kristalizaciji namreč ne vkalplja v kristalno strukturo. V ozračju je prisotnega tudi nekaj 40Ar, ki je tja prišel z vulkanskimi izbruhi. Ta argon se lahko adsorbira na površino vzorca, vendar pa se da to upoštevati. Problem nastopi tudi pri metamorfnih kamninah. Argon pobegne iz večine mineralov, če jih segrejemo nad 300 °C. Tako nam datiranje poda čas nekje med kristalizacijo in preoblikovanjem. Starosti ne moremo natančno določiti, saj ne vemo, koliko argona je ušlo.
+Ar – Ar
+Ta metoda je nadgradnja metode K-Ar. Eden od problemov slednje metode je, da je argon plin, kalij pa trdna snov, zato so metode za določanje njunih koncentracij popolnoma različne. Pri metodi Ar-Ar se kalij pri obsevanju v jedrskem reaktorju pretvori v 39Ar. Potem se vzorec stali in sproščeni argon – tako 40Ar kot 39Ar – analizira z masnim spektrometrom.
+Sm – Nd
+Metoda je podobna Rb-Sr datiranju. 147Sm razpade v 143Nd z razpolovnim časom 106 milijard let. Neodimov izotop, ki ni radiogen in je stabilen, je 144Nd. Tudi tu je začetno razmerje izotopov pomembno pri preučevanju kemične evolucije zemeljskega plašča in skorje.
+14C
+Metoda 14C se ne uporablja za določanje starosti kamnin, je pa pomembna za datiranje organskih materialov. Zaradi nenehnih trkov dušikovih atomov 14N v atmosferi s kozmičnimi žarki nastaja radioaktivni 14C. Živi organizmi izmenjujejo dušik in ogljik z dihanjem, hranjenjem in fotosintezo. Tako ima organizem, dokler je živ, enako razmerje 14C in 14N kot atmosfera, predpostavljamo, da se to razmerje skozi zgodovino ni bistveno spreminjalo. Ko organizem odmre, 14C začne razpadati nazaj v 14N (razpad β). Razpolovni čas je 5 730 let. Z merjenjem količine 14C lahko torej določimo, koliko časa je preteklo od smrti organizma. Na ta način se običajno datira zobe, lase, oglje, fosilni les in školjke. Lahko pa se datira tudi predmete, narejene iz organskih snovi. Problem pri metodi je kratek razpolovni čas reakcije, zato je primerna samo za določanje starosti do 70 000 let.
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Radiometrično_datiranje&oldid=4061356«				
+Kategorije: GeologijaGeofizikaKemijaArheologija 
+
+
+

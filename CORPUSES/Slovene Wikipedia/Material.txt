@@ -1,0 +1,112 @@
+
+
+Materiál ali gradívo je katerakoli trdna snov, ki jo ljudje uporabljamo za gradnjo strojev in zgradb, nadomestilo telesnih delov (implantati) ali umetniške upodobitve.
+V nekaterih primerih postane snov gradivo samo zaradi ene izjemne lastnosti: več kot 50 % celotne svetovne proizvodnje bakra se uporablja za električne vodnike, ker ima baker odlično električno prevodnost. V večini primerov pa je pri izbiri materiala odločilen optimum več lastnosti. Za konstrukcije, ki se dotikajo tal in so pretežno tlačno obremenjene (stavbe, mostovi), je najprimernejše gradivo beton. Če prevladujejo natezne obremenitve, izberemo jeklo. Pri konstrukciji letal je izredno pomembno razmerje trdnost/gostota (specifična trdnost), zato imajo aluminijeve zlitine zaradi manjše gostote prednost pred sicer trdnejšimi jekli. Če letala vozijo z več kot trikratno hitrostjo zvoka, se zunanji sloji segrejejo nad 300 °C. Ker se trdnost aluminijevih zlitin pri temperaturah nad 200 °C močno zmanjša, niso primerna za gradnjo takšnih letal. Nadomestijo jih titanove zlitine, ki zadržijo dobre mehanske lastnosti vsaj do 400 °C.
+Snov s primernimi tehniškimi lastnostmi še ne postane gradivo, če ne izpolni dodatnih pogojev. Imeti mora sposobnost, da lahko iz nje z nekim izdelovalnim postopkom (preoblikovanjem, litjem, stiskanjem, sintranjem ter z odrezovanjem) izdelamo dele zapletenih oblik. Poleg tega mora imeti sposobnost spajanja z varjenjem, lotanjem in/ali lepljenjem. Naslednji pogoj je gospodarnost. Kljub temu, da imajo nekatere snovi odlične tehniške lastnosti, jih ne uporabljamo kot gradivo, ker so predrage. Pri opredelitvi gospodarnosti moramo upoštevati vse stroške. Če lahko neki poceni material izdelamo le z dragim izdelovalnim postopkom, bo lahko manj gospodaren kot sicer dražji material, ki ga lahko izdelamo s cenenim postopkom. Glede na vedno večjo zahtevano skrb za okolje, bi bilo potrebno upoštevati tudi stroške, ki jih imamo z recikliranjem ali odlaganjem.
+
+
+Vsebina
+
+
+1 Delitev materialov
+2 Lastnosti materialov
+3 Kovinski materiali
+
+3.1 Zgledi kovinskih materialov
+
+
+4 Keramični materiali
+5 Polimeri
+
+5.1 Termoplasti (plastomeri)
+
+5.1.1 Amorfni termoplasti
+5.1.2 Kristalinični termoplasti
+
+
+5.2 Duroplasti
+5.3 Elastomeri
+
+
+6 Kompoziti
+7 Glej tudi
+
+
+Delitev materialov
+V osnovi delimo tehniške materiale v tri skupine:
+
+kovinski materiali (tehnično čiste kovine in zlitine),
+keramični materiali (keramična stekla, kristalna keramika) in
+umetne snovi ali polimeri (termoplasti, duromeri in elastomeri ali gume).
+
+kompozitni materiali : Kadar vsaj dve različni vrsti materialov združimo, dobimo kompozitne materiale. Kompozitni materiali imajo to prednost, da lahko njihove lastnosti vnaprej napovemo in jih tudi »prikrojimo« za točno določen namen uporabe.
+Sintrani materiali : To so materiali, ki jih dobimo po postopku sintranja. Sintranje navadno poteka pri višji temperaturi in pod tlakom tako, da se prah ali večji kosi materiala sprimejo. Sintrane materiale delimo enako kot tehniške materiale. (gl. Metalurgija prahov, ... )
+Tem lahko dodamo še naravne materiale, npr. les. Les je po svoji zgradbi najbolj podoben z vlaknom ojačanim kompozitom.
+Lastnosti materialov
+Pomembne lastnosti materialov so: električna prevodnost, toplotna prevodnost, gostota, tališče, kemijska reaktivnost, elastičnost, plastična preoblikovalnost,... če naštejemo le nekatere.
+Lastnosti materialov izhajajo iz njihove notranje zgradbe, v katero lahko štejemo vezi med atomi (kemijske vezi), razporeditev atomov (kristalna ali amorfna zgradba), napake v materialih (od točkastih do prostorskih) ter medsebojno razporeditev faz. Na notranjo zgradbo - mikrostrukturo lahko vplivamo z izbiro kemijske sestave materiala in s postopkom izdelave.
+Temeljni cilj metalurgije je doumeti in obvladati povezavo med mikrostrukturo materiala in njegovimi lastnostmi ter zmožnostmi različnih postopkov izdelave (litje, preoblikovanje, toplotna obdelava) za doseganje različnih mikrostruktur in s tem tudi lastnosti.
+Kovinski materiali
+Kovinski materiali so kovine in zlitine. Zaradi svojih, predvsem mehanskih, lastnosti se zlitine veliko več uporabljajo od čistih kovin. Te se uporabljajo le, kadar so potrebne njihove posebne lastnosti, npr. električna prevodnost bakra in aluminija, korozijska obstojnost kositra in cinka, okrasna barva zlata in srebra. Najpomembnejši kovinski material so jekla. Ker številni kovinski materiali ne propadajo zelo hitro, se lahko z recikliranjem večkrat uporabijo. Pri tem varčujemo z naravnimi surovinami in energijo potrebno za njihovo dovivanje. Za pridobivanje aluminija iz sekundarnih surovin je potrebno le 1/25 energije za dobivanje primarnega aluminija.
+Z različnimi sestavami zlitin in različnimi postopki toplotne obdelave ter povezano s preoblikovanjem (toplotno-mehanska obdelava kovin se kovinskim materialom dajo želene lastnosti, kar je njihova velika prednost. Še večje izboljšave se danes dosegajo s kompozitnimi materiali s kovinsko osnovo.
+Zgledi kovinskih materialov
+
+Baker: električna žica, zaradi visoke električne prevodnosti;
+Siva litina: bloki avtomobilskih motorjev zaradi dobre livnosti, odrezovalnosti, velike dušilnosti in, ker je poceni;
+Jeklo: zaradi primerne trdote, žilavosti in ker se dobre trdnostne lastnosti ohranijo do ~600 °C;
+
+Keramični materiali
+
+Barijev titanat: uporaba v avdio napravah - pretvarja zvok v elektriko
+Aluminijev, magnezijev in silicijev oksid se uporabljajo kot ognjevzdržni materiali za taljenje kovin, ker imajo majhno toplotno prevodnost in odpornost proti visokim temperaturam ter ne reagirajo s tekočimi kovinami.
+
+Polimeri
+Polimerni materiali so organske snovi zgrajene iz velikih molekul - makromolekul z molekulsko maso od 104 do več kot 106 g/mol. Te vrste naravnih materialov je človek uporabljal že v starih časih v obliki tekstila, lesa in usnja. Danes je že večina polimernih materialov, ki jih uporablja človek sintetično pridobljenih. Med najpomembnejše prištevamo termoplaste in duroplaste, ki jih pogosto imenujemo tudi plastika, in elastomere, ki jim navadno pravimo guma.
+Termoplasti (plastomeri)
+Termoplast (ali plastomer) je nezamrežen polimerni material sestavljen iz polimernih verig, katere so lahko rahlo razvejane, ali pa so dolge linearne. Te verige so prostorsko vezane s šibkimi molekulskimi ali van der Waalsovimi vezmi, znanimi tudi kot sekundarne vezi.
+Amorfni termoplasti
+
+CN - celuloid
+PVC - polivinilklorid
+PMMA - polimetilmetakrilat
+PS - polistiren
+PC - policarbonat
+PAN - poliakrilnitril
+ABS - poliakril butadien stirol
+
+Kristalinični termoplasti
+
+Polietilen: pakiranje hrane - enostavno oblikovalen v tanke in gibke neprodušne folije
+PA - poliamid
+PP - polipropilen
+POM - polioksimetilen poliacetal
+PSAN - polistirolakrilnitril
+PTFE - politetrafluoretilen (teflon)
+
+Duroplasti
+Epoksidne smole: nosilec integriranih vezij - električno neprevodne, odporne proti vlagi
+Fenolne smole: adheziv - trdne, odporne proti vlagi
+Elastomeri
+
+NR - naravni kavčuk
+PVC - polivinilklorid (mehki)
+PUR - poliuretan
+BR - polibutadien
+SIR - silikon
+
+Kompoziti
+Grafit-epoksidna smola: deli letal - visoko razmerje trdnost/masa (velika specifična trdnost)
+Volframov karbid – kobalt (karbidne trdine): rezalna orodja za odrezovanje - visoka trdota ob sorazmerno dobri odpornosti proti šokom
+Glej tudi
+
+aluminij in njegove zlitine
+Lezenje materiala
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Material&oldid=3945965«				
+Kategorije: StrojništvoMetalurgijaMateriali 
+
+
+

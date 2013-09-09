@@ -1,0 +1,202 @@
+
+
+
+Prestopne sekunde
+do leta 2012
+
+Leto
+30. junij
+31. december
+
+
+1972
++1 sekunda
++1 sekunda
+
+
+1973
+do
+1979
+--
++1 sekunda
+vsako leto
+
+
+1980
+--
+--
+
+
+1981
++1 sekunda
+--
+
+
+1982
++1 sekunda
+--
+
+
+1983
++1 sekunda
+--
+
+
+1984
+--
+--
+
+
+1985
++1 sekunda
+--
+
+
+1986
+--
+--
+
+
+1987
+--
++1 sekunda
+
+
+1988
+--
+--
+
+
+1989
+--
++1 sekunda
+
+
+1990
+--
++1 sekunda
+
+
+1991
+--
+--
+
+
+1992
++1 sekunda
+--
+
+
+1993
++1 sekunda
+--
+
+
+1994
++1 sekunda
+--
+
+
+1995
+--
++1 sekunda
+
+
+1996
+--
+--
+
+
+1997
++1 sekunda
+--
+
+
+1998
+--
++1 sekunda
+
+
+1999
+do
+2004
+--
+--
+
+
+2005
+--
++1 sekunda
+
+
+2006
+--
+--
+
+
+2007
+--
+--
+
+
+2008
+--
++1 sekunda
+
+
+2009
+--
+--
+
+
+2010
+--
+--
+
+
+2011
+--
+--
+
+
+2012
++1 sekunda
+--
+
+
+Prestopna sekunda je sekunda, ki jo dodajamo univerzalnemu koordiniranemu času (UTC), da bi se ta ujemal s časom, ki je osnovan na vrtenju Zemlje okoli vrtilne osi. Univerzalni koordinirani čas je osnovan na množici atomskih ur, ki so bolj natančne kot je vrtenje Zemlje (upočasnjeno). Da bi se oba časa uskladila, je potrebno včasih dodati sekundo. To se izvede 30 junija ali 31. decembra. Na ta način se oba časa uskladita do največje razlike okoli 0,9 s.
+Prva prestopna sekunda se je dodala 30. junija leta 1972 (glej tabelo). Doslej je bila prestopna sekunda vedno pozitivna. Iz našega poznavanja lastnosti vrtenja Zemlje, je malo verjetno, da bi bila prestopna sekunda kdaj negativna (v tem primeru bi se odštela). V zadnjih 1000 letih se je hitrost vrtenja Zemlje upočasnjevala za približno 1,5 do 2 ms na dan[1]. To je v enem letu približno 1 s, kar je vzrok za občasno dodajanje prestopne sekunde. Z dodajanjem se zelo zmanjša razlika med časom, ki ga merijo atomske ure, in časom, ki ga daje opazovanje gibanja nebesnih teles (univerzalni čas).
+Ko se doda prestopna sekunda ob času 23:59:60 UTC, to premakne začetek naslednjega dne za eno sekundo, kar pomeni, da se ura upočasni. Prestopno sekundo bo potrebno dodajati vedno pogosteje, ker je vrtenje Zemlje pojemajoče.
+
+
+
+
+Diagram prikazuje spreminjanje razlike med univerzalnim časom (UT1) in koordiniranim univerzalnim časom (UTC) med leti 1985 in 2005. Vertikalni preskoki so posledica vrinjene prestopne sekunde.
+
+
+Vzroki za prestopno sekundo
+Prestopna sekunda se dodaja, ker se čas meri z uporabo zelo natančnih atomskih ur, Zemlja pa se vse počasneje vrti okoli svoje osi. Sekunda je bila določena kot 1/86400 del povprečnega Sončevega dne. Toda Sončev dan postane za 1,7 ms krajši v vsakem stoletju zaradi plimskega zaviranja vrtenja Zemlje[2]. Sekunda v sistemu SI je danes določena kot 1/86400-ti del srednjega Sončevega dneva med leti 1750 in 1892. Čas, ki ga merimo s pomočjo vrtenja Zemlje, pa v primerjavi z atomskimi urami zaostaja. Od leta 1961 do 1971 so morali hitrost delovanja atomskih ur upočasnjevati, da so bile usklajene z vrtenjem Zemlje. Od leta 1972 je tako bila sekunda natančno enaka sekundi SI določeni leta 1967 kot 9 192 631 770[3] nihajev sevanja, ki pripadajo prehodu med dvema hiperfinima nivojema osnovnega stanja atoma cezija 133 pri absolutni ničli brez prisotnega magnetnega polja. Univerzalni koordinirani čas se določa z atomskimi urami, vendar ostaja približno enak času UT1 (srednji Sončev čas) prav zaradi dodajanja prestopne sekunde. Prestopna sekunda se doda takrat, ko postane razlika med časoma UT1 in UTC skoraj 0,9 s. 1. januarja 1972 je bila razlika med UTC in TAI 10 s.Takšna razlika se je nabrala od leta 1958, ko je bil TAI enak UT2 kot zglajena oblika časa UT1.
+Prestopno sekundo objavlja Mednarodna služba za vrtenje Zemlje in referenčne sisteme (IERS ali International Earth Rotation and Reference Service). Običajno se objavi vsakih 6 mesecev. V času UTC 23:59:59 se doda prestopna sekunda preden ura kaže 00:00:00 naslednjega dne.
+Prestopna sekunda se ne dodaja času GPS (GPST). Redno oddajani GPS čas vsebuje tudi podatek o tem, kakšna je razlika med univerzalnim koordiniranim časom in časom GPS.
+V letu 2005 so se pričele aktivnosti in predlogi, da bi se prestopna sekunda opustila. Nadomestila naj bi jo prestopna ura nekje okoli leta 3000.
+Reference in opombe
+
+
+^ Prestopna sekunda
+^ F.R. Stephenson, L.V. Morrison. "Long-term fluctuations in the Earth's rotation: 700 BC to AD 1990". Philosophical Transactions of the Royal Society of London, Series A 351 (1995) 165-202.
+^ Definicija sekunde
+
+
+Zunanje povezave
+
+Opis prestopne sekunde (v angleščini)
+Preteklost in prihodnost prestopne sekunde (v angleščini)
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Prestopna_sekunda&oldid=3899999«				
+Kategoriji: ČasMerjenje časa 
+
+
+

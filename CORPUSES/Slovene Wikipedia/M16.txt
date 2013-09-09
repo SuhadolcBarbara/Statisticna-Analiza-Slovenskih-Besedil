@@ -1,0 +1,507 @@
+
+
+
+M16 je tudi Orlova meglica v astronomiji.
+
+
+
+Rifle, 5.56 mm, M16
+
+
+
+Od zgoraj navzdol: M16A1, M16A2, M4 Karabinka, M16A4
+
+
+Vrsta:
+jurišna puška
+
+
+Kraj izvora:
+ Združene države Amerike
+
+
+Zgodovina uporabe
+
+
+V uporabi:
+1964–danes
+
+
+Uporabnik:
+Oborožene sile ZDA; za druge glej članek
+
+
+Vojne:
+Vietnamska vojna–danes
+
+
+Zgodovina izdelave
+
+
+Oblikovalec:
+Eugene Stoner
+L. James Sullivan
+
+
+Datum oblikovanja:
+1957
+
+
+Proizvajalec:
+Colt Defense
+FN Herstal
+H & R Firearms
+General Motors Hydramatic Division
+
+
+V proizvodnji od - do:
+1960–danes
+
+
+Število izdelanih:
+okoli 8 milijonov [1]
+
+
+Različice:
+glej članek
+
+
+Značilnosti
+
+
+Teža:
+3,5 kg (brez nabojnika)
+4,0 kg (z nabojnikom)
+
+
+Dolžina:
+1000 mm
+
+
+Cev::
+508 mm
+
+
+
+
+
+
+Naboj:
+5.56x45mm NATO
+
+
+Hitrost streljanja:
+700–950 nabojev/min, odvisno od variante
+
+
+Hitrost na ustju:
+975 m/s (M16A1)
+930 m/s (M16A2)
+
+
+Efektivni doseg:
+550 m
+
+
+Sistem polnjenja:
+različni STANAG nabojniki
+
+
+M16 (Rifel, Caliber 5,56 mm, M16) je ameriška jurišna puška kalibra 5,56x45 mm, ki jo je za potrebe vojske ZDA leta 1955 razvil Eugene Stoner v podjetju ArmaLite/Colt. Puška je prišla v uporabo leta 1961, dve leti pozneje pa so jo prevzele ameriške enote v Vietnamu. Zaradi svojega nenavadnega videza in številnih plastičnih sestavnih delov, puška na vojake ni naredila močnega vtisa. Zaradi slabega vzdrževanja in negostoljubnega tropskega podnebja so se pojavile številne težave pri delovanju orožja, ki so vojake v kritičnih trenutkih dostikrat stale življenja. Sledile so izboljšave in usposabljanja za pravilno vzdrževanje in uporabo orožja s čimer je bilo večino težav odpravljenih. Puška se je nato v Vietnamu odlično izkazala tako, da je do leta 1969 v celoti nadomestila zastarelo puško M14, v naslednjih letih pa so jo uvedli v uporabo še v celinski ZDA, Evropi in Južni Koreji. Danes puško M16 ter številne njene izpeljanke uporablja več kot 70 držav po vsem svetu. Od leta 1961 do danes je bilo izdelanih okoli 8 milijonov puška M16 ter njenih kopij kar puško uvršča med najbolj razširjeno puško v kalibru 5,65 mm.
+
+
+Vsebina
+
+
+1 Zgodovina razvoja
+
+1.1 Razvoj streliva
+1.2 Razvoj puške
+
+
+2 Konstrukcija
+3 Delovanje
+4 Predstavniki družine
+5 Puške izdelane na osnovi M16
+6 Uporabniki
+7 Glej tudi
+8 Opombe in reference
+9 Zunanje povezave (v angleščini)
+
+
+Zgodovina razvoja
+Po koncu druge svetovne vojne so Američani ustanovili poseben raziskovalni oddelek z namenom, da razišče različne učinke orožja in poškodbe med vojaki v bitki. Med raziskavami je bilo pregledanih vek kot 3 milijone različnih vojnih poročil iz prve in druge svetovne vojne.[2] Iz teh so raziskovalci potegnili naslednji zaključek. Večina bojev v sodobnih vojnah poteka na kratkih razdaljah do 400 m, kdo bo zmagovalec v bitki pa je v veliki meri odvisno od števila izstreljenih nabojev. Ugotovili so tudi, da je vojak v boju v veliki verjetnosti zadet po naključju, saj ta med bitko ne miruje ampak se neprestano giblje kar nasprotniki izredno otežuje merjenje. To pomeni, da je med bitko na nasprotnika za en sam zadetek potrebno izstreliti veliko količino nabojev.[2] Analize so tudi pokazale, da je v boju svoje orožje uporabilo samo dve tretjini vojakov. Iz vsega tega so potegnili zaključek, da sodoben vojak v boju potrebuje natančno avtomatsko orožje ter veliko količino streliva.[3] Pritem pa se je pojavila težava.
+Razvoj streliva
+Ameriška vojska je za svojo M14 uporabljala strelivo kalibra 7,62x51 mm NATO. Strelivo je bilo sicer močno in izredno učinkovito na večje razdalje, vendar pa je bilo hkrati tudi težko. V skladu z novo vojaško doktrino avtomatskega streljanja, bi moral vojak s seboj prenašati večjo količino streliva kar bi enormno povečalo težo in še dodatno obremenilo že tako obremenjenega vojaka. Poleg tega pa se za boj na kratke razdalje ne potrebuje tako močno strelivo. Zato je bilo potrebno kaliber orožja nujno zmanjšati.
+Sredi petdesetih let prejšnjega stoletja so začeli inženirji iskati novo strelivo, ki bi nadomestilo relativno močno in temu posledično tudi težje strelivo kalibra 7,62x51 mm. Po seriji balističnih testov v katerih so zmanjšali kaliber streliva in povečali razmerje smodniškega polnjenja, so ugotovili, da še največ obeta strelivo kalibra 5,56x45 mm. Čeprav to strelivo meji že na malokalibersko je njegov učinek na nasprotnika dosti hujši, saj so težo krogle nadomestili z večjo hitrostjo. Ko taka krogla pri visoki hitrosti zadane telo razpade njena energija pa se v trenutku zadetka prenese na telo v obliki hidrostatičnega šoka, ki poškoduje okoliško tkivo in organe.[2][4][5]
+Razvoj puške
+
+
+
+
+AR-10 predhodnica puške M16.
+
+
+Leta 1954 je Eugene Stoner v novonastalem podjetju ArmaLite začel razvijati novo revolucionarno puško poimenovano AR-10. Namesto tradicionalnega jekla in lesa, ki se je uporabljalo pri izdelavi orožja je ta uporabil titan, aluminij in plastiko ojačano s steklenimi vlakni. Poleg materiala se je razlikovala tudi zasnova orožja. Merki so bili dvignjeni na višino strelčevega očesa, kopito pa je bilo poravnano s cevjo kar je strelcu med avtomatskim ognjem omogočalo dosti večji nadzor nad orožjem. Dodan je bil tudi pištolski ročaj. Orožje je imelo še eno veliko prednost ki je bila vojakom še posebej všeč, bilo je skoraj kilogram lažje od svojih predhodnikov. Žal pa se na testiranjih v kalibru 7,72 mm ni izkazala (kasneje sta dokaj uspešno puško uporabljali Portugalska in Sudan)[6]. Stvari so se nekoliko izboljšale z predelavo na kaliber 5,56 mm (oznaka puške AR-15), vendar le začasno. Med testiranji je prihajalo do nenehnih tehničnih težav, ki so bile dostikrat povezane tudi z nepravilno uporabo orožja. Vse to je povzročilo, da so stroški razvoja in odpravljanja napak vrtoglavo narasli. Lastniki si takih stroškov niso morali več privoščiti zato so decembra 1959 pravice za izdelavo puške prodali Coltu. Ta je na puški odpravil nekatere napake in jo ponudil vojski. Generali so bili nad njo navdušeni zato so jo leta 1961 in 1962 poslali na testiranja v Vietnam kjer se je odlično izkazala, čeprav so hkrati nazaj prihajala tudi določena opozorila o tehničnih težavah ki pa so bila prezrta.[7][8][8]
+
+
+
+
+Ameriški vojak med čiščenjem svoje puške, z rednim čišenjem se je dalo odpraviti večino napak povezanih z zastoji.
+
+
+Sledile so politične akrobacije za uvedbo nove t.i. univerzalne puške vojske ZDA. Leta 1963 je vojska naročila 85.000 pušk za Vietnam pod oznako M16. Te so tja v večjem številu prišle šele leta 1965. Vojakom njihov prihod ni ostal v lepem spominu. Puške so se v ekstremnih razmerah izkazale kot izredno nezanesljive in občutljive na umazanijo, kljub zagotovilom proizvajalca da so samočistilne in da potrebujejo malo ali skoraj nič vzdrževanja. Marsikaterega vojaka je ta lahkomiselnost stalo življenja. Velik problem je predstavljalo tudi novo strelivo, ki ga je kronično primanjkovalo. Poleg tega pa je to strelivo uporabljalo še napačen smodnik, ki je pri izgorevanju neusmiljeno uničeval notranje dele orožja in povzročal zastoje. Slabo so bili izdelani tudi nekateri vitalni deli orožja.[2][2] Do leta 1967 so bile napake odpravljene, vojaki pa pa so se naučili pravilno vzdrževati in uporabljati orožje. Kljub temu pa je puška ostala na slabem glasu vse do današnjih dni čeprav je zdaj to ena izmed najboljših pušk na svetu.
+Do danes so izdelali okoli 8 milijonov pušk M16 v več kot nekaj ducat izvedbah. Puško uporablja več kot sedemdeset držav povsem svetu, zelo priljubljena pa je tudi pri pri različnih kriminalnih združbah in uporniških skupinah.
+Konstrukcija
+
+
+
+
+
+
+
+Ohišje puške je izdelano iz aluminijeve zlitine 7075, cev, zaklepišče in zaklep pa so izdelani iz jekla. Pištolski ročaj, kopiti in kopišček pa so izdelani iz plastike. Prve puške so tehtale 2,9 kg, poznejše verzije pa so zaradi različnih modifikacij tehtale okoli 3,9 kg. Premer cevi se z dolžino spreminja, tako da ima konec cevi večji premer kot njen začetek. Kopito je plastično in vsebuje povratno vzmet.[9] Ta ima dve funkciji, deluje kot povratna vzmet in kot blažilec povratnih sunkov ob streljanju. Zgornji del kopita je poravnan z cevjo kar uporabniku omogoča dosti bolj natančno streljanje pri avtomatskem in polavtomatskem ognju. Na vrhu zaklepišča ima puška ročaj, kar je velika značilnost te puške, vendar se v praksi redkokdaj uporablja. Na ročaju je nameščen tudi zadnji mehanski merek za merjenje po smeri. Starejši modeli so imeli na cevi plastično obloga ki je strelcu med streljanjem in merjenjem omogočala držanje za cev. Novejši modeli imajo namesto obloge nameščeno t.i. pikatinijevo letev, ki na orožje omogoča pritrditev raznovrstne dodatne opreme (optika, laserji, svetilke, …).
+Osnovni merki so mehanski, sprednji merek je namenjen merjenju po višini, zadnji merek pa za merjenje po smeri. Merka sta dvignjena na višino strelčevega očesa, kar strelcu omogoča lažje in bolj natančno merjenje. Ti omogočajo merjenje do razdalje 500 m. Pri merjenju velik problem predstavlja paralaksa, to mora strelec odpraviti tako, da na razdaljah od 15-20 metrov meri nekoliko višje.
+Puška se polni z okvirjem po 20 ali 30 nabojev.
+Delovanje
+Tako kot vse sodobne puške tudi M16 deluje na principu odvoda smodniških plinov. Ti se odvzamejo skozi luknjico na koncu cevi. Plini nato po plinski cevki potujejo do nosilca zaklepa v zadnjem delu orožja, in ga nato potisnejo nazaj. Med pomikanjem nazaj se zaklep odklene in iz cevi potegne prazen tulec ter ga izvrže. Vzmet v kopitu poskrbi, da se nosilec zaklepa skupaj z zaklepom vrne v prednji položaj, med vračanjem ta iz okvirja pobere nov naboj in ga potisne v cev. Puška je nato pripravljena na nov strel. Orožje se polni preko napenjalne ročice, ki se nahaja za ročajem puške. To je še ena velika značilnost te puške saj imajo ponavadi ostale puške napenjalno ročico ob straneh.
+Puška deluje v polavtomatskem in avtomatskem načinu. Prvi način je tudi osnovni način delovanja orožja. Temu je prilagojen tudi selektor ognja. Ta ima tri položaje: SAFE (orožje je zavarovano), SEMI (polavtomatski način delovanja), AUTO (avtomatski način delovanja). Med bojnim delovanjem je priporočana uporaba polavtomatskega načina saj se tako poveča natančnost streljanja hkrati pa se zmanjša možnost zastoja orožja, ki je še vedno razmeroma velik problem te puške.
+Predstavniki družine
+
+pred proizvodni model AR-15
+AR-15 (Colt Models 601 & 602)
+XM16E1 in M16A1 (Colt Model 603)
+M16A1 - osnovna različica
+M16A2 - modernizirana različica M16A1; sedaj standardna verzija v oboroženih silah ZDA
+M16A3 - modernizirana različica M16A2; počasi zamenjuje M16A2
+M16A4
+Colt Commando - komandoška različica
+M4 Karabinka - karabinska različica
+
+Puške izdelane na osnovi M16
+
+Colt Model 655 in 656 ostrostrelna puška
+XM177
+Colt Model 733
+M231 Firing Port Weapon (FPW)
+Mk 4 Mod 0
+Mark 12
+M4 carbine
+C7 in C8
+
+Uporabniki
+
+
+
+
+Pripadnik ameriškega letalstva s svojo M16A2 Kuvajt.
+
+
+
+
+
+
+M16A4 z nameščeno optiko
+
+
+
+
+
+
+Malezijska vojska.
+
+
+
+
+
+
+M16 uporablja tudi monaška straža.
+
+
+
+
+
+
+Filipinski marinci med vojaško vajo.
+
+
+
+
+
+
+Ameriški marinci z puško M16A2 na katero je nameščen bombomet.
+
+
+
+ Afghanistan[10]
+ Avstralija[11] (M16A1) (zamenjal Steyr AUG leta 1989)
+ Bangladeš: (uporablja jo vojska in posebne protiteroristične enote)[12]
+ Barbados[13]
+ Belize[13]
+ Bolivija[13]
+Bosna in Hercegovina
+ Brazilija[13]
+ Brunei[13]
+ Kambodža[14][15] (M16A1)
+ Kamerun[13]
+ Kanada: uporablja verzijo C7[16]
+ Čile[13]
+ Kostarika[17]
+ Demokratična republika Kongo[14]
+ Danska[13]
+ Dominikanska republika[13]
+Vzhodni Timor[18]
+ Ekvador[13]
+ Salvador[13]
+ Estonija[19]
+ Eritreja
+Fidži[13]
+ Francija[13]
+ Gabon[13]
+ Gana[13]
+ Grčija[13]
+ Grenada[13]
+ Guatemala[14]
+ Haiti[14]
+ Honduras[20]
+ Indija[13]
+ Indonezija[13]
+ Irak: iraška vojska[21]
+ Izrael[22]
+ Jamajka[13]
+ Jordanija[13]
+ Libanon[14]
+Lesoto[13]
+ Liberija[14]
+ Latvija[23]
+ Malezija[13]
+ Mehika[13]
+ Monako[navedi vir]
+ Maroko[13]
+ Nova Zelandija[13] (nadomestil Steyr AUG leta 1988)
+ Nepal[24]
+ Nizozemska: uporablja kanadsko verzijo C7 [16]
+Nikaragva[13]
+ Nigerija[13]
+ Oman[13]
+ Pakistan: posebne enote pakistanske vojske[25]
+ Panama[13] (M16A1)
+ Peru[13]
+ Filipini: licenčna proizvodna[13]
+ Katar[13]
+ Senegal[26]
+ Singapur: licenčna proizvodnja[14]
+ Somalija[13]
+Južna Afrika[13]
+ Južna Koreja: licenčna proizvodnja[13]
+ Šrilanka[14]
+ Tajska[13] (M16A1/A2/A4)
+ Tunizija[13]
+ Turčija[13] (M16A1/A2/A4)
+ Uganda[13]
+ Združeni arabski emirati[13]
+ Velika Britanija: SAS[27]
+ ZDA[28]
+ Urugvaj[13]
+ Vietnam[13] (M16A1)
+
+Glej tudi
+
+AK-47
+
+Opombe in reference
+
+
+^ Colt Weapon Systems
+^ 2,0 2,1 2,2 2,3 2,4 Ezell, Edward Clinton (1983). Small Arms of the World. New York: Stackpole Books. Str. 46–47. ISBN 978-0880296014. 
+^ Marshall, S. L. A. (1966). Men against Fire:The Problem of Combat Command in Future War. New York City: William Morrow and Company. Str. 50–60. 
+^ Hall, Donald L. (1952). An Effectiveness Study of the Infantry Rifle. Maryland: Army Ballistic Research Lab, Aberdeen Proving Ground. http://handle.dtic.mil/100.2/AD377335. 
+^ Hutton, Robert (ed.), The .223, Guns & Ammo Annual Edition, 1971.
+^ Afonso, Aniceto and Gomes, Carlos de Matos, Guerra Colonial (2000), ISBN 972-46-1192-2, pp. 183-184.
+^ Rose, pp. 373-373.
+^ 8,0 8,1 Rose, p. 373.
+^ Ezell, Edward Clinton (1983). Small Arms of the World. New York: Stackpole Books. Str. 746–762. ISBN 978-0880296014. 
+^ Fishel, Justin. »U.S. Military to Provide Afghan Army With M-16 Rifles«, FOXNews.com, 2007-12-04.
+^ Australian weapons, Viet Nam and since. Diggerhistory.info (2002-11-11). Pridobljeno dne 2010-08-22.
+^ Small Arms | Bangladesh Military Forces | BDMilitary.com - The voice of the Bangladesh Armed Forces. BDMilitary.com. Pridobljeno dne 2010-08-22.
+^ 13,00 13,01 13,02 13,03 13,04 13,05 13,06 13,07 13,08 13,09 13,10 13,11 13,12 13,13 13,14 13,15 13,16 13,17 13,18 13,19 13,20 13,21 13,22 13,23 13,24 13,25 13,26 13,27 13,28 13,29 13,30 13,31 13,32 13,33 13,34 13,35 13,36 13,37 13,38 13,39 13,40 13,41 13,42 Jane's Special Forces Recognition Guide, Ewen Southby-Tailyour (2005) p. 446
+^ 14,0 14,1 14,2 14,3 14,4 14,5 14,6 14,7 Report: Profiling the Small Arms Industry - World Policy Institute - Research Project. World Policy Institute (November 2000). Pridobljeno dne 2010-07-15.
+^ http://www.smallarmssurvey.org/files/sas/publications/w_papers_pdf/WP/WP4_Cambodia.pdf
+^ 16,0 16,1 Miller, David (2001). The Illustrated Directory of 20th Century Guns. Salamander Books Ltd. ISBN 1-84065-245-4.
+^ Napaka: manjka obvezni parameter title.
+^ Jane's Sentinel Security Assessment - Southeast Asia. Issue 20 – 2007. Pages 146 and 152.
+^ Eesti Kaitsevägi - Tehnika - Automaat M-16 A1. Mil.ee. Pridobljeno dne 2008-09-08.
+^ Gander, Terry J.; Hogg, Ian V. Jane's Infantry Weapons 1995/1996. Jane's Information Group; 21 edition (May 1995). ISBN 978-0710612410.
+^ »First steps to arming Iraq's soldiers«, BBC News, 2007-05-18. Pridobljeno: 2010-05-12.
+^ John Pike (2003-12-17). Israel's army phases out country's iconic Uzi submachine gun. Globalsecurity.org. Pridobljeno dne 2010-08-22.
+^ Lietuvos kariuomenė :: Ginkluotė ir karinė technika » Automatiniai šautuvai » Automatinis šautuvas M-16 ((v litovščini)). Kariuomene.kam.lt (2009-04-17). Pridobljeno dne 2010-08-22.
+^ »Nepal takes delivery of US rifles«, BBC News, 2003-01-06. Pridobljeno: 2010-05-12.
+^ Pakdef.info — Pakistan Military Consortium: Special Service Group. Saad, S.; Ali, M.; Shabbir, Usman (1998). Pridobljeno dne 2009-08-15.
+^ »Army seeks Senegal ear-choppers«, BBC News, 2008-05-09. Pridobljeno: 2010-05-12.
+^ Poyer, Joe. Modern Firearms - AR-15 M16 M16A1 M16A2 M16A3 assault rifle. World.guns.ru. Pridobljeno dne 2010-08-22.
+^ M-16 Rifle Fact File for the United States Army. Army.mil. Pridobljeno dne 2010-08-22.
+
+
+Zunanje povezave (v angleščini)
+
+Colt Manufacturing: The M16A4 Rifle
+PEO Soldier M16 fact sheet
+AR15.com, the largest M-16/AR-15 Resource on the Web
+The Gun Zone: A 5.56 mm Timeline
+The AR-15/M16 Magazine FAQ
+Combat Training with the M16 Manual (PDF)
+Rifle Marksmanship M16A1, M16A2/3, M16A4 and M4 Carbine (Army Field Manual)
+Operator's Manual for Rifle, 5.56 mm, M16; Rifle 5.56 mm, M16A1
+Operator's Manual for Rifle, 5.56 mm, M16A2; Rifle 5.56 mm, M16A3; Rifle, 5.56 mm, M16A4; Carbine, 5.56 mm, M4; Carbine, 5.56 mm, M4A1
+Video of 1965 training film on the early XM16E1 variant downloadable for free from www.archive.org The Internet Archive
+M16 in parts (Nemščina)
+M16 Assault Rifle Description
+
+
+
+
+
+
+p · p · u · zSodobna (po korejski vojni) pehotna oborožitev ZDA
+
+
+
+
+
+Polavtomatske pištole
+
+M1911/A1 in M15 • M9/A1 • M11 • Mk 22 • Mk 23 • Mk 24
+
+
+
+
+
+
+Puške in avtomatske puške
+
+M1 and Mk 2 • M1918 • M14 • M15 • M16 in Mk 4 • XM22/E1 • XM106 • XM70 • XM8 • Mk 14 • Mk 16/17 Mod 0 (FN SCAR)
+
+
+
+
+
+
+Karabinke
+
+M1/M2 • XM177/E1/E2 and GAU-5/A • XM23 • Colt Model 653 • M231 • M4/A1/E2 • GUU-5/P • Mk 18
+
+
+
+
+
+
+Ostrostrelne puške
+
+M21 • M24 • M25 • M40 • M82 in M107 • M88 in Mk 15 • XM109 • M110 • Mk 11 • Mk 12 • DMR • RC-50 • SAM-R • SDM-R
+
+
+
+
+
+
+Brzostrelke
+
+M1 • M3 • Mk 24 (S&W Model 76) • MP5/K
+
+
+
+
+
+
+Potezne šibrenice
+
+Ithaca M37 • Remington 870 • Mossberg 500/590 • M1014 • XM26
+
+
+
+
+
+
+Mitraljezi
+
+M2 serija (M2, M3, M213, XM218, M296, GAU-10/A, GAU-15/A, GAU-16/A, GAU-18/A, GAU-21/A) • M60 in Mk 43 • XM207/E1 in Mk 23 • M73/M219 • M240 • M249 in Mk 46 • XM262 • XM307 • XM312 • Mk 21 • EX 27 • Mk 48 Mod 0 (mitraljez)Mk 48
+
+
+
+
+
+
+Minometi
+
+M79 • XM148 • M203 • M234 • M320 • M32 • EX 41 • EX 13
+Avtomatski: M75 • Mk 19 • Mk 47
+
+
+
+
+
+
+Druga večja orožja
+
+XM25 • M20A1/A1B1 • M67 • M72 series • M136 (AT4) • M141 • M202/A1 • Mk 153
+
+
+
+
+
+
+Naboji
+
+5.56x45 mm NATO (.223 Remington) • 7.62x51 mm NATO (.308 Win) • .30-06 Springfield • 12.7×99 mm NATO (.50 BMG) • .300 Winchester Magnum • 9 mm Luger • .45 ACP • 12 gauge
+
+
+
+
+
+
+
+
+
+
+
+p · p · u · z
+Družina AR-15
+
+
+
+
+
+
+
+
+
+AR-10 • AR-15 • M16/A1/A2/A3/A4 • M4/A1 Carbine • Diemaco C7/C8 • Colt Commando, XM177, CAR-15 • MSSR rifle • Colt 9mm SMG • Bushmaster M4 • HK416 • HK417 • REC7 • M231 FPW • SDM-R • SAM-R • Mark 11 'SWS' / SR-25 • M110 SASS • Mark 12 'SPR' • SEAL Recon Rifle • Mark 18 'CQBR' • GatMalite • Ares Shrike • La France M16K • DIO S-5.56 • Norinco CQ • GPC • SR-47 • Colt Automatic Rifle / CAR • LWRC IAR • LWRC SRT •
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Portal Vojaštvo
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=M16&oldid=3855429«				
+Kategorija: Jurišne puškeSkrita kategorija: Članki s trditvami brez navedenega vira 
+
+
+

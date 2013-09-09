@@ -1,0 +1,234 @@
+
+
+
+
+Strunarji
+Fosilni razpon: konec ediakarija - recentno
+
+
+
+Pristella maxillaris
+
+
+
+Znanstvena klasifikacija
+
+
+
+
+
+Domena:
+Eukaryota (evkarionti)
+
+
+Kraljestvo:
+Animalia (živali)
+
+
+Podkraljestvo:
+Eumetazoa (pravi mnogoceličarji)
+
+
+(nerangirano)
+Bilateria (dvobočno somerne živali)
+
+
+Naddeblo:
+Deuterostomia
+
+
+Deblo:
+Chordata
+Bateson, 1885
+
+
+
+
+
+Običajni razredi
+
+
+
+Glej besedilo.
+
+
+
+Strúnarji (znanstveno ime Chordata ali Chordonia) so deblo živali, ki vključuje vretenčarje skupaj z nekaterimi njim tesno sorodnimi nevretenčarji. Za strunarje je značilna prisotnost hrbtne strune - horde, dolge paličaste tvorbe, ki daje oporo celotnemu telesu, hrbtnega živčnega vlakna - hrbtenjače, škržnega črevesa in mišičnega repa v eni od stopenj osebnega razvoja. Členjenost telesa je prisotna le na hrbtnem delu.
+Deblo strunarjev se deli na tri poddebla: plaščarje, brezglavce in vretenčarje. Odrasli plaščarji še zdaleč ne spominjajo na ostale strunarje, strunarski znaki so prisotni le na stopnji ličinke.
+Značilen predstavnik brezglavcev je škrgoustka. Ta skupina nima vretenc, že njeno ime pa pove, da njeni pripadniki nimajo glave, saj hrbtna struna sega dalj od hrbtenjače.
+Pri vretenčarjih nalogo hrbtne strune opravlja hrbtenica, zgrajena iz vretenc. Hrbtna struna in hrbtenica nimata enakega izvora, razlikujeta pa se tudi v zgradbi - hrbtno struno gradijo turgescentne celice (z visokim celičnim tlakom), hrbtenico pa kostne celice.
+Razen plaščarjev so vsi strunarji ločenih spolov.
+
+
+Vsebina
+
+
+1 Razredi strunarjev
+
+1.1 Taksonomija
+1.2 Filogeneza (razvoj)
+
+
+2 Zunanje povezave
+
+
+Razredi strunarjev
+V poddeblu Urochordata (plaščarji) so razredi Ascidiacea, Thaliacea in Larvacea.
+V poddeblu Cephalochordata (brezglavci) so črvom podobne škrgoustke.
+V poddeblu Vertebrata (vretenčarji) so razredi Myxini (glenavice), Conodonta, Hyperoartia (piškurji), Cephalaspidomorphi, Pteraspidomorphi, Placodermi, Chondrichthyes (hrustančnice), Acanthodii (paleozojski bodičasti morski psi), Actinopterygii (žarkoplavutarice), Sarcopterygii (mesnatoplavutarice), Amphibia (dvoživke), Sauropsida (plazilci in ptiči), Synapsida (sesalcem podobni plazilci), Aves (ptice) in Mammalia (sesalci).
+Taksonomija
+
+Deblo Chordata
+
+Poddeblo Urochordata (plaščarji)
+Poddeblo Cephalochordata (brezglavci)
+(nerangirano) Craniata (živali z lobanjo)
+
+
+
+
+
+
+
+
+Myxini / Hyperotreti (glenavice)
+
+
+
+
+
+
+
+
+Poddeblo Vertebrata (vretenčarji)
+
+
+
+
+
+
+
+
+(nerangirana skupina) Hyperoartia (piškurji in njim sorodni)
+Razred †Conodonta
+Razred †Pteraspidomorphi
+Red †Thelodonti
+Red †Anaspida
+Red †Galeaspida
+Red †Pituriaspida
+Red †Osteostraci
+Infradeblo Gnathostomata (vretenčarji s čeljustjo)
+
+
+
+
+Razred †Placodermi (paleozojske oklepnice)
+Razred Chondrichthyes (hrustančnice)
+Razred †Acanthodii (paleozojski bodičasti morski psi)
+
+
+
+
+Nadrazred Osteichthyes (kostnice)
+
+
+
+
+Razred Actinopterygii (žarkoplavutarice)
+Razred Sarcopterygii (mesnatoplavutarice)
+
+
+
+
+Podrazred Coelacanthimorpha (koleakante)
+Podrazred Dipnoi (pljučarice)
+Podrazred Tetrapodomorpha (predniki tetrapodov)
+
+
+
+
+
+
+Nadrazred Tetrapoda (s štirimi okončinami)
+
+
+
+
+
+
+Razred Amphibia (dvoživke)
+
+
+
+
+Skupina Amniota (amnioti; amnionska votlina)
+
+
+
+
+Razred Sauropsida (plazilci in ptiči)
+Razred Aves (ptiči)
+Razred Synapsida (sesalcem podobni plazilci)
+Razred Mammalia (sesalci)
+
+
+
+
+
+
+
+
+
+Filogeneza (razvoj)
+
+Chordata
+├─Urochordata (plaščarji)
+├─Cephalochordata (brezglavci)
+└Craniata (živali z lobanjo)
+     ├─Myxini ali Hyperotreti (glenavice)
+     └Vertebrata (vretenčarji)
+        ├─Conodonta 
+        ├─Cephalaspidomorphi 
+        ├─Hyperoartia (piškurji)
+        ├─Pteraspidomorphi
+        └Gnathostomata (vretenčarji s čeljustjo) 
+             ├─Placodermi (paleozojske oklepnice) 
+             ├─Chondrichthyes (hrustančnice) 
+             └Teleostomi
+                    ├─Acanthodii  (paleozojski bodičasti morski psi) 
+                    └─Osteichthyes (kostnice) 
+                            ├─Actinopterygii (žarkoplavutarice)
+                            └─Sarcopterygii (mesnatoplavutarice) 
+                                     └Tetrapoda (s štirimi okončinami) 
+                                             ├─Lissamphibia 
+                                             └Amniota  (amnioti) 
+                                                  ├Synapsida (sesalcem podobni plazilci) 
+                                                  └Sauropsida (plazilci in ptiči) 
+
+
+Opomba: Črte prikazujejo verjetna evolucijska sorodstva
+Zunanje povezave
+
+
+
+Wikivrste vsebujejo še več podatkov o temi: Chordata
+
+
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: Strunarji
+
+
+
+Drevo življena strunarjev
+NCBI Taxonomy - strunarji
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Strunarji&oldid=3859391«				
+Kategoriji: StrunarjiTaksoni, opisani leta 1885 
+
+
+

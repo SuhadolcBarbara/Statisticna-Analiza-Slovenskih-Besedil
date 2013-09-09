@@ -1,0 +1,92 @@
+
+
+Za druge pomene glej Coulomb (razločitev).
+Coulombov zákon [kulónov ~] je v fiziki zakon, ki podaja, kako sila med dvema točkastima električnima nabojema pojema z razdaljo. Imenuje se po francoskem fiziku, inženirju in častniku Charlesu Augustinu de Coulombu, ki ga je leta 1783 s svojo torzijsko tehtnico prvi raziskoval in objavil. Odvisnost sile od razdalje je pred tem predlagal Joseph Priestley. Odvisnost od razdalje in naboja je pred Coulombom odkril, vendar tega ni objavil Henry Cavendish.[1] Absolutna vrednost sile je premo sorazmerna produktu obeh nabojev in obratno sorazmerna s kvadratom razdalje med njima. Sila je privlačna, če sta naboja različno predznačena (eden pozitivno in drugi negativno), in odbojna, če sta enako predznačena.[2]
+
+
+Vsebina
+
+
+1 Skalarna oblika
+2 Vektorska oblika
+3 Sistem več nabojev
+4 Ploskovno in prostorsko porazdeljen naboj
+5 Opombe in sklici
+6 Viri
+
+
+Skalarna oblika
+
+
+
+
+Coulombova torzijska tehntnica, gravura iz Mémoires de l'Académie des Sciences, 1784
+
+
+V skalarni obliki je absolutna vrednost sile enaka:
+
+
+
+Z  smo označili prvi naboj, z  drugega, z  pa razdaljo med njima.  je Ludolfovo število,  pa influenčna konstanta. Sili  rečemo električna ali Coulombova sila. Coulombov zakon predstavlja enega od temeljev elektrostatike. Da je sila izražena v enakih enotah, kot jo poznamo iz mehanike, poskrbi sorazmernostni koeficient , imenovan Coulombova konstanta, včasih tudi Coulombova konstanta sile:
+
+
+
+Koeficient je odvisen od določenih značilnosti prostora in ga lahko izračunamo eksaktno.[3][4] Tu je  hitrost svetlobe,  pa indukcijska konstanta.
+Opazimo lahko, da je zakon po svoji obliki podoben Newtonovemu gravitacijskemu zakonu, le da je masa vedno pozitivna, zato je gravitacijska sila vedno privlačna. Razmerje med velikostjo električne privlačne sile in gravitacijske sile med elektronoma je:
+
+
+
+Tu je  gravitacijska konstanta,  osnovni naboj in  mirovna masa elektrona. Električna sila je precej izdatnejša od gravitacijske. V svetu velikih teles pa gravitacijska sila prevlada, saj se pozitivni in negativni naboj telesa izravnata.[5]
+Vektorska oblika
+Sila je vektorska količina. Leži na zveznici obeh nabojev. Matematično lahko zato Coulombov zakon zapišemo v obliki, ki to upošteva. Naj v izbranem inercialnem opazovalnem sistemu do nabojev e1 in e2 segata krajevna vektorja  in . Električna sila prvega naboja na drugega je enaka:
+
+
+
+Električno silo drugega naboja na prvega dobimo, če zamenjamo indeksa 1 in 2:
+
+
+
+Pri tem je:
+
+ ... kvadrat razdalje med nabojema,
+ ... enotski vektor od drugega naboja k prvemu,
+ ... enotski vektor od prvega naboja k drugemu.
+
+Skladno z zakonom o vzajemnem učinku sta sili  in  nasprotno enaki.
+Sistem več nabojev
+Če imamo več kot dva točkasta naboja, deluje vsak od nabojev z električno silo na vse preostale naboje, nanj pa delujejo električne sile vseh ostalih nabojev. Sile se vektorsko seštevajo. Na naboj e v točki s krajevnim vektorjem  tako deluje sila:
+
+
+
+Indeks j teče po vseh nabojih v prostoru z izjemo e.
+Ploskovno in prostorsko porazdeljen naboj
+Včasih ne moremo računati s točkastimi naboji, ampak imamo opravka z nabojem, ki je porazdeljen po ploskvi ali po prostoru. Izraz za sistem več nabojev lahko posplošimo tako, da vsoto nadomestimo s ploskovnim ali prostorninskim integralom:
+
+
+
+
+Pri tem je  ploskovna gostota naboja,  pa (prostorninska) gostota naboja.
+Opombe in sklici
+
+
+^ Elliott (1999).
+^ Coulomb's law (v angleščini). Hyperphysics.
+^ Coulomb's constant (v angleščini). Hyperphysics.
+^ Strnad (1978), str. 317.
+^ Breuer (1993), str. 141.
+
+
+Viri
+
+Breuer, Hans (1993). Atlas klasične in moderne fizike. Ljubljana: DZS. ISBN 86-341-1105-9. COBISS 35693056. 
+Elliott, Robert S. (1999). Electromagnetics: History, Theory, and Applications. ISBN 978-0-7803-5384-8. http://eu.wiley.com/WileyCDA/WileyTitle/productCd-0780353846.html. 
+Strnad, Janez (1978). Fizika, 2. del, Elektrika, Optika. Ljubljana: DZS. COBISS 4164097. 
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Coulombov_zakon&oldid=3945273«				
+Kategorije: Elektrika in magnetizemFizikalni zakoniCharles Augustin de Coulomb1783 v znanosti 
+
+
+

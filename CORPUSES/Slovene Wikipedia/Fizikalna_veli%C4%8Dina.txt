@@ -1,0 +1,79 @@
+
+
+Fizikálna količína (v tehniki se uporablja izraz veličína) je v fiziki in tehniki izsledek meritve, njeno vrednost po navadi izrazimo kot zmnožek brezrazsežne številske vrednosti in fizikalne enote. Pri tem uporabljamo večinoma enote SI.
+Zgled:
+
+P = 42,3  · 103 W = 42,3 kW,
+
+kjer je:
+
+P oznaka za fizikalno količino moč,
+42,3  · 103 številska vrednost, razdeljena na
+
+42,3 in
+k, predpono SI, ki predstavlja desetiško potenco 103,
+
+
+W znak za izpeljano enoto SI za moč, watt.
+
+Količine so lahko intenzivne ali ekstenzivne. Ekstenzivne količine so tiste, katerih vrednosti se pri sestavljanju podsistemov seštevajo. Zgleda sta prostornina ali masa. Intenzivne količine se pri sestavljanju podsistemov ne seštevajo, ampak imajo po vsem sistemu enako vrednost, če je sistem homogen. Zgleda sta temperatura ali tlak.
+Kadar se vpelje novo količino tako, da se ekstenzivno količino deli z maso telesa, se označi takó vpeljano količino s pridevnikom »specifičen«, npr. specifična toplota. Podobno se uporabi pridevnik »molaren«, kadar se vpelje novo količino tako, da se ekstenzivno količino deli z molom snovi (npr. molarna prostornina).
+Osnovnih fizikalnih količin, kot jih določa sistem SI, je sedem:
+
+
+fizikalna količina
+oznaka
+ime osnovne enote SI
+oznaka enote SI
+
+
+dolžina
+s
+meter
+m
+
+
+masa
+m
+kilogram
+kg
+
+
+čas
+t
+sekunda
+s
+
+
+električni tok
+I
+amper
+A
+
+
+temperatura
+T
+kelvin
+K
+
+
+množina snovi
+n
+mol
+mol
+
+
+svetilnost
+Iv
+kandela
+cd
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Fizikalna_količina&oldid=4057716«				
+Kategoriji: FizikaFizikalne količine 
+
+
+

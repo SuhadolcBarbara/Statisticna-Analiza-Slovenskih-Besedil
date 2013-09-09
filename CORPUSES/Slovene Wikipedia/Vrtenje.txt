@@ -1,0 +1,71 @@
+
+
+Vrtênje ali rotácija je gibanje okrog dane osi.
+
+
+
+
+Vsebina
+
+
+1 Vrtenje v fiziki
+2 Matematični opis zasuka
+3 V drugih vedah
+4 Glej tudi
+
+
+
+
+Vrtenje v fiziki
+Vrtênje je v fiziki takšno gibanje togega telesa, pri kateri ostajajo točke na osi vrtenja pri miru.
+Pri vrtenju okrog nepremične osi  ima togo telo vrtilno količino  in vrtilno kinetično energijo , pri čemer je  vztrajnostni moment togega telesa okoli te osi, ω pa kotna hitrost.
+Za vrtenje velja izrek o vrtilni količini.
+Matematični opis zasuka
+
+
+
+
+Zasuk ali rotacija v ravnini
+
+
+V matematiki se rotacija imenuje tudi zasúk ali vŕtež. Za razliko od fizike, kjer je pomembno postopno prehajanje iz ene lege v drugo (zato nedovršni glagol vrteti), je v matematiki pomemben le odnos med začetno in kočno lego (zato dovršni glagol zasukati).
+Zasuk je ena od osnovnih preslikav v geometriji in sodi med toge premike (preslikave, ki ohranjajo razdalje med točkami). V ravnini poznamo zasuk okoli točke, v prostoru pa zasuk okoli premice.
+V dvorazsežnem vektorskem prostoru (tj. v kartezični ravnini) lahko zasuk točke T(x,y) za kot θ v pozitivni smeri okoli koordinatnega izhodišča zapišemo z matriko:
+
+
+
+To pomeni, da se točka T(x,y) preslika v točko T' s koordinatama:
+
+
+
+
+V drugih vedah
+V anatomiji rotacija predstavlja gibanje v sklepu.
+V astronomiji je rotacija gibanje telesa okrog svoje lastne osi (za razliko od revolucije, ki je gibanje okoli drugega telesa).
+Glej tudi
+
+ohranitveni zakon
+invariantnost
+invariantnost vrtenja
+simetrija
+sočasno vrtenje (sinhrono vrtenje)
+togi premik
+translacija
+
+
+
+
+
+
+ Ta matematični članek je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Vrtenje&oldid=3993660«				
+Kategorije: Matematične škrbineVrtenjeKlasična mehanikaOrientacijaEvklidska geometrija 
+
+
+

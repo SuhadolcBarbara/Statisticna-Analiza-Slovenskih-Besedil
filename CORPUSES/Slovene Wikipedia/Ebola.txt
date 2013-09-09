@@ -1,0 +1,110 @@
+
+
+
+
+virus Ebola
+
+
+
+
+
+
+
+Razvrstitev virusov
+
+
+
+
+
+Skupina:
+Skupina V ((-)ssRNA)
+
+
+Red:
+Mononegavirales
+
+
+Družina:
+Filoviridae (filovirusi)
+
+
+Rod:
+Ebolavirus
+
+
+
+
+
+
+
+Ebola
+
+
+Klasifikacija in zunanji viri
+
+
+MKB-10
+A98.4
+
+
+MKB-9
+065.8
+
+
+DiseasesDB
+18043
+
+
+MedlinePlus
+001339
+
+
+eMedicine
+med/626
+
+
+MeSH
+C02.782.417.415
+
+
+Ébola je splošen naziv za skupino virusov, ki pripadajo rodu Ebolavirus v družini Filoviridae, hkrati pa tudi splošno ime za bolezni, ki jih povzročajo (hemoragična vročica ebola). Ebolaviruse odlikujeta podolgovata nitasta oblika in lipidna virusna ovojnica. Morfološko so podobni virusom marburga, ki prav tako spadajo v družino Filoviridae in povzročajo podobno bolezensko sliko. Odkar so jo prepoznali, je ebola povzročila številne resne in razvpite izbruhe, večkrat pa se je pojavila tudi v filmih in drugi popularni umetnosti.
+Zgodovina bolezni
+Virus je poimenovan po dolini reke Ebola v Demokratični republiki Kongo (prej Zaire), kjer se je prvič pojavil leta 1976.[1] Obstaja več podtipov bolezni. Zaire ebolavirus je najnevarnejši podtip ebole s smrtnostjo do 90 procentov in dolgoletnim povprečjem 83 % smrtnih žrtev. Prav tako Zaire predstavlja napogostejši podtip pri izbruhih med ljudmi. Prvi oboleli je bil zdravljen 26 avgusta 1976 v Yambuku. 44-letni učitelj Mabalo Lokela se je vrnil s popotovanja po državi. Njegova bolezen je bila prepoznana kot malarija zato je dobil injekcijo kinina. Po poročanju oblasti se je Lokela vračal v lokalno bolnico vsak dan. V roku enega tedna so se simptomi razvili v krvavo diarejo, bruhanje, vrtoglavico, visoko telesno temperaturo. Lokela je umrl 8.septembra istega leta. Njegova bolezen je trajala 13 dni. Nekaj dni po smrti Lokele so začeli v bolnico prihajati še drugi pacienti. Ugotovljeno je bilo, da se je bolezen razširila zaradi uporabe nesteriliziranih igel. Medicinske sestre so zaradi pomanjkanja finančnih sredstev pogosto uporabljale vsaka svojo 1 iglo cel dan. Lokela je prihajal v bolnico vsak dan.
+K razširjanju bolezni so gotovo prispevali tudi lokalni pogrebni običaji, ki so vključevali praznjenje prebavnega trakta pokojnega.
+Hkrati je prišlo do izbruha tudi v Sudanu.[2] Sudan ebolavirus je prvič izbruhnil leta 1976. Najprej se je okužil delavec v tovarni bombaža v mestu Nzara v Sudanu. Naslednji primer se je zgodil v istem mestu, okužen pa je bil lastnik nočnega kluba, ki je to poiskal zdravstveno pomoč. V lokalni bolnišnici ga je poskušal zdraviti zdravnik, ki pa ni upošteval navodil o sterilnosti. Tako se je virus razširil po bolnišnici. Smrtnost pri tem podtipu je 53%.
+Reston ebolavirus je človeku nenevaren virus. Njegov prenašalec so opice vrste makaki. Opice in njihovi telesni organi se uporabljajo za izdelavo človeških cepiv. Prvič je izbruhnil leta 1989 v mestu Reston (zvezna država Virginija ZDA), nedaleč od Washington D.C. Okuženih je bilo cca. 100 opic. Zbolelo je 6 skrbnikov živali. Nihče ni umrl, prav tako so bili vsi zdravljeni v mestni bolnici (v običajnih bolniških sobah). Izbruh se je ponovil še februarja 1990 v istem mestu, leta 1992 v Sienni, Italija in leta 1996 v Teksasu.
+Ivory Coast ebolavirus je prvič izbruhnil novembra 1994 v gozdovih Slonokoščene obale. Med preučevanjem trupel šimpanzov se je okužila švicarska raziskovalka. Zbolela je po dveh tednih, nato je bila hospitalizirana v eno izmed švicarskih bolnišnic. Po dveh tednih nege je bila odpuščena.
+Konec leta 2007 se je pojavil nov tip ebole. Možno je, da se bo imenoval ebolavirus Uganda, po državi v kateri se je prvič pojavil.[3]
+Pregled
+Vemo, da gre za zoonotski virus, saj so z njim okužene tudi obsežne populacije nižinskih goril v Srednji Afriki. Kljub obsežnim prizadevanjem Svetovne zdravstvene organizacije še vedno ne poznamo živalskega vira, ki bi lahko ohranjal virus pri obstoju med izbruhi. Najverjetnejši kandidat pa so leteče lisice.
+Hemoragična mrzlica ebola je večinoma smrtna in obsega številne simptome, npr. mrzlico, bruhanje, drisko, splošno slabo počutje ter bolečine v mišicah in sklepih, včasih tudi notranje in zunanje krvavitve. Smrtnost je izredno visoka, pri človeku odvisno od virusnega podtipa od 50% do 89%.[4] Neposredni vzrok smrti je največkrat hipovolemični šok ali odpoved organov.
+Ker je ebola največkrat smrtna, odobreno cepivo ali zdravilo pa ni na razpolago, jo Center za nadzor in preprečevanje bolezni v ZDA klasificira kot agens četrte ravni biološke varnosti ter kot bioteroristični agens kategorije A. Mogoče bi jo bilo uporabiti v biološkem bojevanju. Njeno učinkovitost kot orožje zmanjšujeta le visoka smrtnost in hitrost učinkovanja. Izbruh se namreč običajno hitro razširi v vasi ali bolnišnici, prizadene vse prebivalstvo, nato pa mu zmanjka gostiteljev in ugasne, še preden bi dosegel večjo skupnost.
+Reference
+
+
+^ Death Called a River Jason Socrates Bardi. Scribbs Research Institute. Pridobljeno: 2006-12-08. (v angleščini)
+^ BMJ website (v angleščini)
+^ Ebola haemorrhagic fever in Uganda (v angleščini)
+^ Rouquet P, Froment J-M, Bermejo M, Kilbourne A, Karesh W, Reed P, et al. Wild animal mortality monitoring and human Ebola outbreaks, Gabon and Republic of Congo, 2001–2003. Emerg Infect Dis. 2005 Feb. Dostopno na http://www.cdc.gov/ncidod/EID/vol11no02/04-0533.htm (v angleščini)
+
+
+
+
+
+
+
+
+
+
+Portal Vojaštvo
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Ebola&oldid=3886168«				
+Kategorije: MononegaviralesBiološko orožjeZoonozeTropske bolezniHemoragične mrzlice 
+
+
+

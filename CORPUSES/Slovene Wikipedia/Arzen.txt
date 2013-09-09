@@ -1,0 +1,285 @@
+
+
+
+
+
+
+
+Ta članek potrebuje čiščenje. Pri urejanju upoštevaj pravila slogovnega priročnika. Razlog za to je: pomanjkanje notranjih povezav, .... Prosimo, da nam pomagaš izboljšati ta članek. 
+
+
+
+
+
+
+
+germanij – arzen – selen
+
+
+P
+Ar
+Sb  
+ 
+ 
+
+
+
+Celotna tabela
+
+
+
+
+
+
+Splošno
+
+
+Ime, simbol, vrstno število
+arzen, As, 33
+
+
+Kemijska vrsta
+polkovina
+
+
+Skupina, perioda, blok
+15 (VA), 4, p
+
+
+Gostota, trdota
+5720 kg/m3 (sivi)
+1970 kg/m3 (rumeni)
+4700–5100 g/m3 (črni), 3,5
+
+
+Videz
+kovinsko siv, rumen ali črn
+
+
+
+Lastnosti atoma
+
+
+Relativna atomska masa
+74,92160 a. e. m.
+
+
+Atomski polmer (izračunan)
+115 (114) pm
+
+
+Kovalentni polmer
+119 pm
+
+
+van der Waalsov polmer
+185 pm
+
+
+Elektronska konfiguracija
+[Ar]3d10 4s2 4p3
+
+
+e- na energijski nivo
+2, 8, 18, 5
+
+
+Oksidacijska stanja (oksid)
+-3, 3, 5, (As2O3 je amfoteren)
+
+
+Kristalna struktura
+trigonalna (sivi)
+
+
+Fizikalne lastnosti
+
+
+Agregatno stanje
+trdno
+
+
+Tališče
+1090 K (1503 °F)
+
+
+Vrelišče
+887 K (1137 °F)
+
+
+Molski volumen
+12,95 ×10−6 m3/mol
+
+
+Izparilna toplota
+34,76 kJ/mol
+
+
+Talilna toplota
+369,9 kJ/mol
+
+
+Parni tlak
+ni podatka
+
+
+Hitrost zvoka
+ni podatka
+
+
+Razne lastnosti
+
+
+Elektronegativnost
+2,18 (Paulingova lestvica)
+
+
+Specifična toplota
+330 J/(kg · K)
+
+
+Električna prevodnost
+3,45 106/(m·ohm)
+
+
+Toplotna prevodnost
+50 W/(m·K)
+
+
+1. ionizacijski potencial
+947,0 kJ/mol
+
+
+2. ionizacijski potencial
+1798 kJ/mol
+
+
+3. ionizacijski potencial
+2735 kJ/mol
+
+
+4. ionizacijski potencial
+4837 kJ/mol
+
+
+5. ionizacijski potencial
+6043 kJ/mol
+
+
+6. ionizacijski potencial
+12310 kJ/mol
+
+
+Najstabilnejši izotopi
+
+
+
+
+
+izo
+NA
+t1/2
+DM
+DE MeV
+DP
+
+
+75As
+100 %
+As je stabilen z 42 nevtroni
+
+
+
+
+
+Če ni označeno drugače, so
+uporabljene enote SI in standardni pogoji.
+
+
+Arzén je kemijski element, ki ima v periodnem sistemu simbol As, atomsko število 33 in relativno atomsko maso 74.92. Je splošno znan metaloid, ki se uporablja v različnih pesticidih, herbicidih in insekticidih, uporablja pa se tudi v številnih zlitinah, predvsem za ojačanje in okrepitev. Pojavlja se v številnih mineralih, večinoma v kombinaciji z žveplom in kovinami, najdemo pa ga tudi v samorodni obliki v naravi.
+
+Arzen je kemijsko zelo podoben svojemu predhodniku fosforju; v tolikšni meri, da ga delno nadomešča v biokemijskih reakcijah in je zato strupen. Ko ga segrevamo, se hitro oksidira v arzenov oksid, ki ima vonj po česnu. Arzen in nekatere arzenove spojine lahko ob gretju tudi sublimirajo, tako da se pretvorijo neposredno v plin. Elementarni arzen se najde v dveh trdnih oblikah: rumeni in sivo-kovinski, z relativno gostoto 1,97 in 5,73.
+Arzen je v različnih spojinah prisoten v zemeljski skorji in je zaradi tega v nekaterih delih sveta stalno prisoten v vodi, zlasti podzemni. Arzen ni esencialni element za človeka. Glavni vnos je preko rib in mesa ter vode oz. pijač. Delež vnosa v telo preko pitne vode narašča z naraščanjem koncentracije arzena v pitni vodi. Vnos z vodo preko kože in dihal ni pomemben. Večletno uživanje arzena s pitno vodo je bilo povezano s spremembami na koži, rakom kože in drugimi raki npr.: mehurja in pljuč, žilnimi in živčnimi obolenji. Po IARC je razvrščen v skupino 1 (zadosti dokazov za rakotvornost pri ljudeh). Za otroke ali nosečnice arzen ne predstavlja večjega tveganja za zdravje kot za druge prebivalce. Mejna vrednost v pitni vodi je 0,10 µg/l. Do ureditve skladnosti naj ljudje uživajo za pitje in pripravo hrane embalirano vodo.
+arzen pentasulfid je anorganska spojina vsebuje arzen in žvepla s formulo. Identiteta tega rdečkasto trdno ostaja negotova. [1] Solids približne formule As2S5 so bile uporabljene kot pigmenti in kemijski intermediati, vendar so na splošno zanimivi samo v akademskih laboratorijih.
+Priprava
+Arzen pentasulfide je pripravljen z obarjanjem iz kislih raztopin v topne Kot (V) soli, ki jih zdravljenje z vodikov sulfid. [3] Lahko se tudi, pripravlja s segrevanjem mešanico arzena in žvepla, pridobi se taljena masa z raztopino amoniaka in reprecipitating arzen pentasulfide pri nizki temperaturi z dodatkom solne kisline.
+Fosfor pentasulfide s formulo P4S10, je molekularna spojina ki vključuje Tetraedarski fosfor (V) centrih. Trendi v arzen redox potenciala kažejo, da As2S5 sprejme podobno strukturo, verjetno alternativa se arzena polysulfide.
+Odzivi
+Arzen pentasulfide hidrolizira v vrelo vodo, kar arsenous kislino in žveplo:
+
+   As2S5 + 6 H2O → H3AsO3 2 + 2 + 3 S H2S
+
+To oksidira na zraku pri povišanih temperaturah, ki proizvajajo arzen oksidi, izdelki in pridelki, ki so spremenljive. V alkalnih sulfid rešitve metal pentasulfide arzena oblike thioarsenate anion, [AsS4] 3 -, ki vsebujejo Kot (III) centrih.
+
+
+Zgodovina
+Arzen in arzenove anorganske spojine spremljajo človeka od najstarejših časov. Nekoč so predstavljale najpogosteje uporabljene strupe, po drugi strani pa so bile tisočletja nepogrešljive v terapiji. Prve resnejše študije segajo v čas grško-rimske civilizacije, ko jih je Hipokrat priporočil za zdravljenje rakavih obolenj. Zasledimo jih tudi v delih njegovih naslednikov Dioskorida, Plinija starejšega in Galena. Antično znanje se je ohranilo predvsem s pomočjo Arabcev in se preko njih počasi vrnilo v srednjeveško Evropo.
+V bronasti dobi so ga pogosto dodali bronu in ga tako naredili tršega in močnejšega. Do 11. Stoletja so poznali že 3 vrste arzena. To so bile bela, rumena in rdeča oz. arzenov trioksid, arzenov trisulfid in arzenov disulfid. Okoli leta 700 je arabski alkimist Jabir pripravil arzenov trioksid. To je bel prašek, ki je brez okusa in vonja. Zaradi teh značilnosti je bil arzen v srednjem veku zelo priljubljen kot strup, predvsem med višjimi sloji, zaradi česar si je prislužil vzdevka Kralj strupov in Strup kraljev. Prav tako je bil priročen kot strup zato, ker so bili simptomi zastrupitve z arzenom zelo podobni simptomom kolere. Kot strup je bil arzen zelo popularen predvsem do leta 1836, ko je James Marsh odkril način preverjanja prisotnosti arzena v telesu s testom, imenovanim Marsh test (oz. Maršev test), do tedaj pa ga ni bilo mogoče 'najti' oz. ga identificirati kot strup, ki je povzročil smrt. Albertus Magnus oz. Albert Veliki je prvi izoliral element leta 1250.
+
+Nahajališča in pridobivanje
+Glavni vir arzena so minerali in samorodni arzen, ki pa je redkejši. Najpogostejši minerali, ki vsebujejo arzen so:
+
+arzenopirit (FeAsS)
+realgar-rdeči (As4S4),
+avripigment-rumen (As2 S3),
+arzenolit (As2O3).
+
+Pridobivamo ga iz sulfidnih rud s praženjem brez prisotnosti zraka, z oksidacijskim praženjem in redukcijo z ogljikom:
+FeAsS --> FeS + As
+As2S3 + 5/2 02 --> As2O3 + SO2
+As2O3 + 3C -->2As + 3CO
+
+Največji svetovni proizvajalec arzena je Kitajska, ki proizvede kar 50% svetovnega arzena. Sledijo ji Čile, Peru, Maroko.
+Zunanje povezave
+
+
+
+Poglejte si besedo arzen ali Arzen v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+
+p · p · u · zKemični elementi
+
+
+
+
+
+
+
+ajnštajnij · aktinij · aluminij · americij · antimon · argon · arzen · astat · baker · barij · berilij ·berkelij · bizmut · bor · borij · brom · cerij · cezij · cink · cirkonij · darmštatij · disprozij · dubnij · dušik · erbij · evropij · fermij · fluor · fosfor · francij · gadolinij · galij · germanij · hafnij · hasij · helij · holmij · indij · iridij · iterbij · itrij · jod · kadmij · kalcij · kalifornij · kalij ·
+kirij · kisik · klor · kobalt · kositer · kripton · krom · ksenon · lantan · lavrencij · litij · lutecij · magnezij · mangan · majtnerij · mendelevij · molibden · natrij · neodim · neon · neptunij · nikelj · niobij · nobelij · ogljik · osmij · paladij · platina · plutonij · polonij · prazeodim · prometij · protaktinij · raderfordij · radij · radon · renij · rodij · rubidij · rutenij · samarij · siborgij · selen · silicij · skandij · srebro · stroncij · svinec · talij · tantal · tehnecij · telur · terbij · titan · torij · tulij · uran · vanadij · vodik · volfram · zlato · železo · živo srebro · žveplo
+
+
+
+
+
+
+Periodni sistem elementov
+
+
+
+
+
+
+
+
+
+
+
+ Ta članek s področja kemije je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+ 
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Arzen&oldid=4054367«				
+Kategorije: Kemijske škrbinePolkovine1250 v znanostiSkriti kategoriji: Članki, ki so potrebni čiščenjaČlanki, ki so potrebni čiščenja s parametrom razlog 
+
+
+

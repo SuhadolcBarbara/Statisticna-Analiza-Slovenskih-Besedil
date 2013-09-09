@@ -1,0 +1,296 @@
+
+
+Slovnica (tudi gramatika) je sistem jezikovnih sredstev in njihovih medsebojnih odnosov. Slovnica določa pravila, po katerih se ravnamo pri sestavljanju besedil ali povedi, sklanjanju besed in uporabi knjižnega jezika. Slovnica je tudi knjiga, v kateri je opisan tak sistem.
+Slovenske slovnice (pretežno kronološko)
+
+
+Avtor
+Naslov
+Jezik
+Leto izdaje
+Kraj izdaje
+COBISS
+
+
+Adam Bohorič
+Zimske urice proste
+Uradna oznaka: Arcticae horulae succisivae, de Latino Carniilana literatura, ad Latinae linguae analogiam accommodata, unde Moschviticae, Rutenicae, Polonicae, Boëmicae & Lusaticae lingvae, cum Dalmatica & Croatica cognatio, facile deprehenditur
+Sinonim: Zimske urice proste o latinsko-kranjski pismenosti, po priliki latinskega jezika uravnani, iz katere se moškovitskega, rutenskega, poljskega, češkega in lužiškega jezika sorodnost z dalmatinskim in hrvaškim lahko spozna[1]
+latinski
+1584
+Wittenberg
+
+
+
+Hipolit Novomeški
+Grammatica Latino-Germanico-Slavonica
+Spletna izdaja: Internet Archive
+latinski
+1715
+Ljubljana
+
+
+
+anonimno
+Grammatica oder Windisches Sprach-Buch
+Polni naslov: Grammatica oder Windisches Sprach-Buch, so ordentlich eingerichtet, dass man darinnen an gram[m]aticalischen Grund-Reguln alles gantz kürtzlich, und klar beysammen findet, und mit einem mit grossen Fleiss aussgearbeiteten sehr nutzbaren Windisch- Teutsch- und Wälschen Vocabulario versehen worden, zum Behuff aller der Windischen Sprache zu erlehrnen beginnenden, sowohl studiert- als unstudierten Liebhabern, auf viles Verlangen, und mit weit mehrerer Berbesserung [!] abermahlen in dem Druck beförderet worden
+nemški
+1758
+Celovec
+(COBISS)
+
+
+Marko Pohlin
+Kranjska gramatika
+Polni naslov: Kraynska Grammatika, das ist: Die crainerische Grammatik, oder die Kunst die crainerische Sprach regelrichtig zu reden, und zu schreiben
+nemški
+1768
+Ljubljana
+
+
+
+Ožbalt Gutsmann
+Windische Sprachlehre
+Spletna izdaja: Slovenian Multilingual Pages by David F. Stermole, Faculty of Arts & Sciences, University of Toronto
+nemški
+1777
+Celovec
+
+
+
+Marko Pohlin
+Kranjska gramatika
+Spletna izdaja: Universitätsbibliothek München
+nemški
+1783
+Ljubljana
+
+
+
+Mihael Zagajšek, psevdonim Jurij Zelenko
+Slovennska grammatika
+Polni naslov: Slovennska grammatika, oder, Georg Sellenko's Wendische Sprachlehre in deutsch un wendischen Vortrag
+Spletna izdaja: Internet Archive
+nemški, slovenski
+1791
+Celje
+
+
+
+Jernej Kopitar
+Slovnica slovenskega jezika na Kranjskem, Koroškem in Štajerskem
+Grammatik der Slavischen Sprache in Krain, Kärnten und Steyermark
+Spletna izdaja: Internet Archive
+nemški
+1808/09
+Ljubljana
+
+
+
+Valentin Vodnik
+Pismenost ali gramatika za prve šole
+Piſmenoſt ali Gramatika sa Perve Shole
+Spletna izdaja: Internet Archive
+slovenski
+1811
+Ljubljana
+
+
+
+Vincenzo Franul de Weissenthurn
+Saggio grammaticale italiano-cragnolino
+Spletna izdaja: Internet Archive
+italijanski
+1811
+Trst
+(COBISS)
+
+
+Janez Leopold Šmigoc
+Theoretisch-praktische windische Sprachlehre
+Spletna izdaja: Digitalna knižnica Slovenije
+nemški, slovenski
+1812
+Gradec
+
+
+
+Peter Dajnko
+Lehrbuch der windischen Sprache
+Polni naslov: Lehrbuch der windischen sprache: ein versuch zur gründlichen erlernung derselben für deutsche, zur vollkommeneren kenntniss für slowenen
+Spletna izdaja: Google knjige
+nemški
+1824
+Gradec
+
+
+
+Franc Serafin Metelko
+Lehrgebäude der Slowenischen Sprache in Königreiche Illyrien und in den benachbarten Provinzen
+Spletna izdaja: Internet Archive
+nemški
+1825
+Ljubljana
+
+
+
+Anton Janez Murko
+Theoretisch-praktische slowenische Sprachlehre für Deutsche
+Polni naslov: Theoretisch-praktische Slowenische Sprachlehre für Deutsche nach den Volkssprecharten der Slowenen in Steiermark, Kärnten, Krain und Ungarns westlichen Distrikten
+Spletna izdaja: Internet Archive
+nemški
+1832
+Gradec
+(COBISS)
+
+
+Anton Janez Murko
+Theoretisch-practische windische Grammatik der Slowenischen Sprache
+Polni naslov: Theoretisch-practische windische Grammatik der Slowenischen Sprache in Steiermark, Kärnten, Krain und dem illyrischen Küstenlande
+Spletna izdaja: Internet Archive (druga, predelana in zelo razširjena izdaja). 274 str.
+nemški
+1843
+Gradec
+(COBISS)
+
+
+Jožef Muršec
+Kratka slovenska slovnica za pervence
+
+1847
+V’Gradci
+(COBISS)
+
+
+Anton Janez Murko
+Theoretisch-practische windische Grammatik der Slowenischen Sprache in Steiermark, Kärnten, Krain und dem illyrischen Küstenlande (tretja izdaja s povsem enako notranjo naslovno stranjo in s povsem enakim napisom »Zweite, umgearbeitete und sehr vermehrte Auflage«), 216 str.
+nemški
+1850
+Gradec
+(COBISS)
+
+
+Matija Majar
+Slovnica za Slovence
+
+1850
+U Ljublani
+(COBISS)
+
+
+Anton Janežič
+Leichtfaßliche Slovenische Sprachlehre für Deutsche zum Schulgebrauche und Privatunterrichte = Slovenska slovnica s kratkim pregledom slovenskega slovstva
+
+1854
+Celovec
+(COBISS) (COBISS)
+
+
+Andrej Praprotnik
+Slovenska slovnica za pervence, 3., nespremenjeni natis
+
+1873
+Ljubljana
+(COBISS)
+
+
+Franc Miklošič
+Vergleichende Grammatik der slavischen Sprachen 1–4
+
+1852-1883
+Dunaj
+
+
+
+Jožef Šuman
+Slovenska slovnica po Miklošičevi primerjalni
+
+1881
+Ljubljana
+
+
+
+Anton Breznik
+Slovenska slovnica za srednje šole
+
+1916
+Celovec
+(COBISS)
+
+
+Anton Breznik
+Slovenska slovnica za srednje šole 2., predelana izdaja
+
+1921
+Prevalje
+(COBISS)
+
+
+Anton Breznik
+Slovenska slovnica za srednje šole 3. izdaja
+
+1924
+Prevalje
+(COBISS)
+
+
+Anton Breznik
+Slovenska slovnica za srednje šole 4., pomnožena izdaja
+
+1934
+Celje
+(COBISS)
+
+
+Anton Bajec, Rudolf Kolarič, Mirko Rupel, Anton Sovre, Jakob Šolar, Anton Breznik
+Slovenska slovnica: za tretji in četrti razred srednjih in sorodnih šol
+
+1940
+Ljubljana
+(COBISS)
+
+
+Anton Bajec, Rudolf Kolarič, Mirko Rupel
+Slovenska slovnica (= slovnica štirih, ker Jakob Šolar kot soavtor ni naveden)
+
+1956
+Ljubljana
+(COBISS)
+
+
+Rokopisni slovnici
+
+Jurij Japelj, Slavische Sprachlehre, das ist vollstandiger Grammatical-Unterricht von der krainerischen und windischen Sprache, 1807
+
+
+Blaž Kumerdej, Krainerische Sprachlehre als ein Auszug aus der allgemeinen slavischen Grammatik, 1795
+
+Reference
+
+
+^ Irena Majcen (Narodna in univerzitetna knjižnica). Zimske urice proste. Digitalna enciklopedija naravne in kulturne dediščine na Slovenskem – DEDI. Pridobljeno dne 2010-04-09.
+
+
+
+
+
+Poglejte si besedo slovnica ali Slovnica v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+
+ Ta članek o jeziku je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Slovnica&oldid=3869079«				
+Kategorije: Jezikovne škrbineJezikoslovjeSlovnica 
+
+
+

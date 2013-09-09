@@ -1,0 +1,310 @@
+
+
+
+
+
+
+
+žveplo – klor – argon
+
+
+F
+Cl
+Br  
+ 
+ 
+
+
+
+Celotna tabela
+
+
+
+
+
+
+Splošno
+
+
+Ime, znak, število
+klor, Cl, 17
+
+
+Kemijska vrsta
+halogeni
+
+
+Skupina, perioda, blok
+17 (VIIA), 3, p
+
+
+Gostota, trdota
+3,214 kg/m3 (273 K), NA
+
+
+Izgled
+rumenkasto zelen
+
+
+
+Lastnosti atoma
+
+
+Atomska teža
+35,5 a. e. m.
+
+
+Polmer atoma (izračunan)
+100 pm (79) pm
+
+
+Kovalentni polmer
+99 pm
+
+
+van der Waalsov polmer
+175 pm
+
+
+Elektronska konfiguracija
+[Ne]3s2 3p5
+
+
+e-na energijski nivo
+2, 8,7
+
+
+Oksidacijska stanja (oksid)
+±1,3,5,7 (močna kislina)
+
+
+Zgradba mreže
+ortorombno
+
+
+Fizikalne lastnosti
+
+
+Agregatno stanje
+plin (nemagneten)
+
+
+Tališče
+171,6 K (-150,52 °F)
+
+
+Vrelišče
+239,11 K (-29,002 °F)
+
+
+Molarna prostornina
+17,39 ×10−6 m3/mol
+
+
+Izparilna toplota
+10,2 kJ/mol
+
+
+Talilna toplota
+3,203 kJ/mol
+
+
+Parni tlak
+1300 Pa
+
+
+Hitrost zvoka
+ni podatka
+
+
+Razne lastnosti
+
+
+Elektronegativnost
+3,16 (Paulingova lestvica)
+
+
+Specifična toplota
+480 J/(kg · K)
+
+
+Električna prevodnost
+ni podatka
+
+
+Toplotna prevodnost
+0,0089 W/(m·K)
+
+
+1. ionizacijski potencial
+1251,2 kJ/mol
+
+
+2. ionizacijski potencial
+2298 kJ/mol
+
+
+3. ionizacijski potencial
+3822 kJ/mol
+
+
+4. ionizacijski potencial
+5158,6 kJ/mol
+
+
+5. ionizacijski potencial
+6542 kJ/mol
+
+
+6. ionizacijski potencial
+9362 kJ/mol
+
+
+7. ionizacijski potencial
+11018 kJ/mol
+
+
+8. ionizacijski potencial
+33604 kJ/mol
+
+
+9. ionizacijski potencial
+38600 kJ/mol
+
+
+10. ionizacijski potencial
+43961 kJ/mol
+
+
+Najstabilnejši izotopi
+
+
+
+
+
+izo
+NA
+t1/2
+DM
+DE MeV
+DP
+
+
+35Cl
+75,77%
+Cl je stabilen z 18 nevtroni
+
+
+36Cl
+{sint.}
+301,000 let
+Beta-
+epsilon
+0,709
+1,142
+36Ar
+36S
+
+
+37Cl
+24,23 %
+Cl je stabilen z 20 nevtroni
+
+
+
+
+
+Če ni označeno drugače, so
+uporabljene enote SI in standardni pogoji.
+
+
+Klór (latinsko chlorum) je kemični element, ki ima v periodnem sistemu simbol Cl in atomsko število 17. Ta plin je halogen iz 17. skupine, zelenkasto rumen, dvainpolkrat težji od zraka, z močnim vonjem. Do izuma prvih plinskih mask se je masovno uporabljal na bojiščih v prvi svetovni vojni, kjer je imela njegova uporaba velik psihološki učinek na moralo vojakov. Pozneje so njegovo uporabo na bojnem polju zamenjali bolj učinkoviti bojni strupi, npr. iperit, ki ima to lastnost, da se vpija skozi kožo. Je močan oksidant, belilo, in dezinfekcijsko sredstvo. V stiku z natrijem se burno spaja v natrijev klorid (navadno sol). Človeško telo vsebuje klor v oblikah soli in sicer 1,2g na kilogram telesne teže. Poznamo več vrst klorovih soli, kot najbolj znana je natrijev klorid, bolje poznana kot kuhinjska sol ali navadna sol.
+Kot sestava kuhinjske soli in drugih spojin ga je v naravi dovolj in je kot mikronutrient potreben za večino oblik življenja - kloridni ion je kot oksidant ključen element membranskega potenciala vzdražnih celic;[1] v rastlinah je poleg tega kot eden treh najpomembnejših kofaktorjev udeležen v fotosistemu II, enem od dveh kemičnih kompleksov, ki poganjata fotosintezo.[2]
+
+
+Vsebina
+
+
+1 Pomembne lastnosti
+2 Spojine klora in ogljika
+3 Pridobivanje
+4 Sklici in opombe
+5 Zunanje povezave
+
+
+Pomembne lastnosti
+Čisti kemični element ima fizikalno obliko dvoatomskega zelenega plina Cl2. Ime klor izhaja iz grškega chloros, ki pomeni zeleno. Za človeka je strupen.
+Ta element je član halogenske vrste, ki tvori soli, in ga lahko iz kloridov izločimo z oksidacijo ter pogosteje tudi z elektrolizo. Klor je zelenkasto-rumen plin, ki zlahka reagira s skoraj vsemi drugimi elementi. Pri 10 °C en liter vode raztopi 3,10 litra klora, pri 30 °C pa le še 1,77 litra.
+Spojine klora in ogljika
+Veliko število organskih klorovih spojin je narejenih umetno. Pomembni so kloralkani, kloralkeni in klorove arome. Spojine so uporabljane predvsem kot topila, hladilne tekočine, hidravlična olja, sredstva za zaščito rastlin ali kot snovi za izdelavo zdravil.
+Med spojine klora in ogljika spadajo tudi nekatere zelo strupene, dolgo obstojne ter biološko akumulativne spojine. Prvih dvanajst strupenih snovi, tako imenovanih Ducat umazanih, katere so omenjene v Stockholmski konvenciji, so vse brez izjeme organokloridi.
+Pridobivanje
+Klor industrijsko pridobivajo z Downovim procesom. Postopek je principelno enak kot pri elektrolizi, razlika je samo v tem, da natrijev klorid segrejejo na 800 °C, preden skozenj spustijo električni tok
+
+
+
+Ko elektrika steče skozi talino, se ta razcepi na anodni in katodni strani kot natrij in klor. Klor ujamejo, ga ohladijo in akumulirajo, natrij pa kot staljena kovina odteče. Naprava je sestavljena iz treh elektrod - dveh negativnih, ki se vrtita in odstranjujeta nastali natrij, ter velike ogljikove anode, na katero se nalaga klor.
+Laboratorijsko se Klor navadno pridobiva z reakcijo kalijevega permanganata in klorovodikove kisline:
+
+
+
+Sklici in opombe
+
+
+^ Kimball, John W. »Excitable Cells« Kimball's Biology Pages. Pridobljeno 6.9.2010.
+^ Hänscha, Robert & Mendel Ralf R. (2009). "Physiological functions of mineral micronutrients (Cu, Zn, Mn, Fe, Ni, Mo, B, Cl)". Current Opinion in Plant Biology 12 (3): 259–266. doi:10.1016/j.pbi.2009.05.006. 
+
+
+Zunanje povezave
+Varnostni list tekočega klora
+
+
+
+Poglejte si besedo klor ali Klor v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+
+p · p · u · zKemični elementi
+
+
+
+
+
+
+
+ajnštajnij · aktinij · aluminij · americij · antimon · argon · arzen · astat · baker · barij · berilij ·berkelij · bizmut · bor · borij · brom · cerij · cezij · cink · cirkonij · darmštatij · disprozij · dubnij · dušik · erbij · evropij · fermij · fluor · fosfor · francij · gadolinij · galij · germanij · hafnij · hasij · helij · holmij · indij · iridij · iterbij · itrij · jod · kadmij · kalcij · kalifornij · kalij ·
+kirij · kisik · klor · kobalt · kositer · kripton · krom · ksenon · lantan · lavrencij · litij · lutecij · magnezij · mangan · majtnerij · mendelevij · molibden · natrij · neodim · neon · neptunij · nikelj · niobij · nobelij · ogljik · osmij · paladij · platina · plutonij · polonij · prazeodim · prometij · protaktinij · raderfordij · radij · radon · renij · rodij · rubidij · rutenij · samarij · siborgij · selen · silicij · skandij · srebro · stroncij · svinec · talij · tantal · tehnecij · telur · terbij · titan · torij · tulij · uran · vanadij · vodik · volfram · zlato · železo · živo srebro · žveplo
+
+
+
+
+
+
+Periodni sistem elementov
+
+
+
+
+
+
+
+
+
+
+ Ta članek s področja kemije je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Klor&oldid=4075241«				
+Kategorije: Kemijske škrbineKlorKemični elementiHalogeniOnesnažilaVarnost in zdravje pri delu1774 v znanosti 
+
+
+

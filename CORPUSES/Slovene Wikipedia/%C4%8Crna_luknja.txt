@@ -1,0 +1,126 @@
+
+
+
+
+
+
+Umetnikova upodobitev akrecijskega diska vroče plazme, ki se vrti okrog črne luknje (slika NASA)
+
+
+
+
+
+
+Črna luknja desetih Sončevih mas, kot bi jo videli z razdalje 600 km v ravnini naše Galaksije (slika Ute Krauss, TAT)
+
+
+
+
+
+
+Jedro galaksije Vrtinec, kjer križ dveh prašnih obročev kaže na prisotnost črne luknje (slika H. Ford (JHU/STScI), Faint Object Spectrograph IDT in NASA, 8. junij 1992)
+
+
+Čŕna lúknja je v astrofiziki teoretična zgostitev mase, katere težnostno polje je tolikšno, da ubežna hitrost (druga kozmična hitrost) presega hitrost svetlobe. Zategadelj pridevnik »črna«, saj nič, niti svetloba, ne more uiti njeni težnosti. Čeprav je zveza »črna luknja« zelo razširjena, teorija ne govori o kakršnikoli »luknji« v običajnem pomenu besede.
+
+
+Vsebina
+
+
+1 Izvor imena
+2 Pregled
+3 Zgodovina raziskovanj
+
+3.1 Newtonovske teorije
+
+
+4 Vrste črnih lukenj
+5 Opombe in sklici
+6 Viri
+7 Glej tudi
+
+
+Izvor imena
+Besedo »črna luknja« si je v ameriški angleščini (black hole) leta 1967 hudomušno domislil Wheeler, ameriški fizik, eden od Einsteinovih zadnjih sodelavcev in naslednikov; tako se je ime prijelo. Večkrat uporabljajo tudi izraz kolapsar. Feynman je rabil še izraz črvina (wormhole), vendar ne v današnjem smislu.
+Pregled
+Teoretično so lahko črne luknje poljubne velikosti, od mikroskopskih do skoraj velikosti vidnega Vesolja.
+Klasična splošna teorija relativnosti predpostavlja, da zunanji opazovalec ne more zaznati nobene snovi ali informacije, ki bi zapustila notranjost črne luknje. S črne luknje torej ne moremo odnesti nekaj mase, ne moremo posvetiti s svetilko, niti se ne moremo od zunaj dokopati do nobenih podatkov o snovi, ki je vstopila v črno luknjo. Kvantnomehanski pojavi dovoljujejo, da črna luknja seva snov in energijo, vendar znanstveniki verjamejo, da je narava sevanja neodvisna od tega, kaj je v preteklosti padlo v črno luknjo.
+Obstoj črnih lukenj v Vesolju podpira vrsta teoretičnih raziskav in astronomskih opazovanj, še posebej iz raziskovanja supernov in sevanja rentgenskih žarkov iz aktivnih galaktičnih jeder. Kljub temu pa manjšina fizikov v obstoj črnih lukenj še naprej dvomi.
+Zgodovina raziskovanj
+Newtonovske teorije
+Od vseh sil v fiziki so gravitacijo najprej spoznali. Bullialdus je leta 1640 predagal obratni kvadratni zakon gravitacije. Leta 1684 je Newton zapisal svoj obratni kvadratni splošni gravitacijski zakon in ga leta 1687 v Matematičnih načelih, skupaj s svojimi tremi znamenitimi zakoni gibanja, objavil. Od objave njegovega dela so se začele porajati precej drzne misli o gravitaciji.
+Bošković je leta 1758 razvil svojo teorijo sil, kjer je gravitacija lahko na majhnih razdaljah odbojna sila. Po njem lahko obstajajo takšna čudna klasična telesa, podobna belim luknjam, in ne dovoljujejo, da bi jih dosegla druga snovna telesa.
+
+
+
+
+Cavendisheva torzijska tehntnica
+
+
+V Kraljevi družbi v Londonu so leta 1794 v Philosophical Transactions izdali zanimivo Michellovo pismo Cavendishu[1], v katerem je nakazal nekakšna čudna telesa v Vesolju, v katera bise, če bi bila le dovolj masivna in gosta kot 500 Sonc, druga telesa zaletavala z večjo hitrostjo od svetlobne. Ali obratno, če bi takšna podivjana krogla sevala, bi se njena svetloba zaradi lastne gravitacije na neki višini obrnila, in bi padla nazaj. Mislil je, da bi bilo takšnih teles veliko. To se je tedaj zdelo dokaj verjetno, saj so imeli svetlobo za delce, ki imajo maso. Kako je prišel do vrednosti, saj gravitacijske konstante  Cavendish do tedaj še ni zmeril? Michell je že okoli leta 1768 prišel na misel, da bi občutljivo torzijsko tehntnico, s katero je delal poskuse tudi Coulomb na področju raziskave sil v elektriki in magnetizmu, uporabil za merjenje gravitacijske sile med dvema telesoma v laboratoriju.[2] Izdelal je tudi merilno napravo, vendar pred smrtjo ni opravil nobenih meritev. Da se je ognil gravitacijski konstanti, je sklepal takole. Neka zvezda, s katere je ubežna hitrost enaka svetlobni hitrosti , bo imela polmer , ki bo večji od Sončevega , za vrednost:
+
+
+
+kjer vzamemo, da je, kakor zgoraj, razmerje ubežne hitrosti s Sonca in ubežne hitrosti neke zvezde s polmerom, enakim astronomski enoti , enako. Za ubežno hitrost v radialni smeri s take zvezde vzamemo kar krožilno hitrost Zemlje v majhni višini. Zgoraj je  sidersko leto. Navedel je še malo večjo vrednost, sklepal pa je napačno, saj moramo pri hitrih telesih in močni gravitaciji računati drugače. Pravzaprav so dejanske vrednosti 435, 382 in tudi 558, s podatki iz njegovega časa, saj moramo vzeti tedanjo vrednost astronomske enote  m, ki jo je leta 1672 v Bologni s paralakso Sonca dobil Cassini in z njo hitrosti svetlobe  m/s in  m/s, ki ju je leta 1675 in 1676 v Parizu z opazovanji Iovih in Ganimedovih mrkov ob Jupitrovi opoziciji dobil Rømer, in preko njega hitrost svetlobe  m/s, ki jo je leta 1725 v Oxfordu z zvezdno aberacijo Eltanina (γ Zmaja (γ Dra)) dobil Bradley. Katera meritev je bila bolj točna, so takrat težje ocenili. Za največjo zakasnitev satelitov je Rømer navedel 22 minut, za najmanjšo pa 20 minut. Bradley pa je izmeril odklon 18,5". Michell tako ostaja prvi, ki je pomislil na takšno telo.
+Cavendish je nazadnje dobil Michellovo napravo, jo predelal in začel skrbno meriti.[2] Uspelo mu je določiti gostoto Zemlje, kar je leta 1798 objavil v razpravi Poskusi za določitev gostote Zemlje (Experiments to determine the Density of the Earth) za Kraljevo družbo. Gravitacijske konstante  sicer ni navedel, vendar se njegova izmerjena vrednost ni dosti razlikovala od današnje. Ko je Cavendish izmeril gravitacijsko konstanto, je podobno in neodvisno od Michella razmišljal Laplace. Mislil je, da bi lahko okroglo telo z gostoto vode zadržalo svetlobo, če bi imelo polmer približno 10 · 1012 m. Razmišljal je sicer prav in je celo našel pravo vrednost za svoj gravitacijski polmer. Prav tako kot Michell je smatral, da bo takšnih velikih in nevidnih teles veliko. To zamisel pa je vključil samo v prvo in drugo izdajo svoje knjige Ustroji sveta (Exposition du système du monde), ker je pozneje verjetno ugotovil, da je zamisel preveč neverjetna. Pa Laplaceovsko razmišljamo takole. Če sestavljajo svetlobo deli z maso , lahko priletijo razdaljo od telesa z maso  iz razdalje  v neskončnost, če je njihova kinetična energija ravno enaka gravitaciji, ki jih veže na telo  z radialno hitrostjo . Če namesto te hitrosti vzamemo svetlobno hitrost , dobimo po Laplaceovi poti gravitacijski polmer:
+
+
+
+pri čemer se 'masa' te svetlobe poniči. Če hočemo računati po Laplaceovo, moramo namesto »mase« , vzeti energijo fotonov. Poleg tega je pri tako hitrih delcih kinetična energija relativistična. Clifford je leta 1876 predlagal, da so lahko vzrok gibanju snovi spremembe geometrije prostora. Nato so na gravitacijo v tej zvezi nekako pozabili.
+Telesa, ki jih je opisovala klasična mehanika, da jih razlikujejo od črnih lukenj, opisljivih s splošno teorijo relativnosti, običajno imenujejo temne zvezde (angl. dark star).
+Zamisli o črnih luknjah v 19. stoletju niso naprej razvijali, saj so menili da je svetloba brezmasno valovanje in zaradi tega nanjo gravitacija ne deluje. Prevladovalo je tudi prepričanje, ki se je razlikovalo od novejšega pojmovanja črnih lukenj, da so telesa za dogodkovnim obzorjem stabilna za gravitacijsko sesedanje.
+Vrste črnih lukenj
+Na podlagi tega kako so nastale in na podlagi njihove mase poznamo več vrst črnih lukenj:
+
+mikročrne luknje,
+prvobitne črne luknje,
+zvezdne črne luknje,
+srednje težke črne luknje in
+supermasivne črne luknje.
+
+Opombe in sklici
+
+
+^ Mitchell (1783).
+^ 2,0 2,1 Strnad (1997-1998).
+
+
+Viri
+
+Cavendish, Henry (1798), "Experiments to Determine the Density of the Earth", v MacKenzie, A. S., Scientific Memoirs Vol.9: The Laws of Gravitation, American Book Co., 1900, str. 59–105, http://books.google.com/books?id=O58mAAAAMAAJ&pg=PA59 
+Michell, John (1783). "On the means of discovering the distance, magnitude etc. of the fixed stars ...". Phil. Trans.: 35-57, & Tab III. http://www.relativitybook.com/resources/michell_1783.html. 
+Strnad, Janez (1997-1998). "Dvesto let gravitacijske konstante". Presek 25 (6): 354-359. (COBISS). 
+
+Glej tudi
+
+
+
+Wikimedijina zbirka ponuja več predstavnostnega gradiva o temi: črna luknja
+
+
+
+bela luknja
+črvina
+
+
+
+
+
+
+
+
+
+Portal Astronomija
+
+
+
+
+        
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Črna_luknja&oldid=4078226«				
+Kategorije: ZvezdeČrne luknjeTemna snov 
+
+
+

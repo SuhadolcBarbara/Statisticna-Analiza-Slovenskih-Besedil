@@ -1,0 +1,60 @@
+
+
+Neskônčnost, navadno označena s znakom , je lastnost, ki pomeni, da nekaj ni omejeno ali nima mej. Neskončnost je navadno določena kot nekaj kar nima mej v prostoru in času. V praksi se pojem uporablja predvsem v matematiki, kjer računanje limite, ko gre neka količina x proti , pomeni, da si lahko vedno izmislimo še večji x od nekega izbranega.
+
+
+Vsebina
+
+
+1 Neskončnost v matematiki
+2 Neskončnost v fiziki
+3 Neskončnost v jeziku
+4 Glej tudi
+5 Zunanje povezave
+
+
+Neskončnost v matematiki
+Gabrielov rog ali Torricellijeva trobenta, geometrijsko telo, ki si ga je zamislil Evangelista Torricelli, ima neskončno površino vendar končno prostornino.
+Moči nekaterih množic niso končne - recimo že množica naravnih števil, N = {1, 2, 3, ... } ali množica sodih števil S = {2, 4, 6, ... }.
+Neskončnost v fiziki
+Za naše Vesolje ni jasno ali je končno ali ne. Einstein je sicer v anekdoti dejal:
+
+
+
+ »Samo dve stvari sta neskončni: vesolje in človeška neumnost - ampak za vesolje nisem povsem prepričan.«
+
+
+
+Neskončnost v jeziku
+Izraz uporabljamo tudi v vsakdanjem jeziku: Predavanje se je vleklo v neskončnost.
+Glej tudi
+
+absolutna neskončnost
+infinitezimal
+Neskončnost
+
+Zunanje povezave
+
+
+
+Poglejte si besedo neskončnost ali Neskončnost v Wikislovarju, prostem slovarju.
+
+
+
+
+
+
+
+ Ta članek o filozofiji je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Neskončnost&oldid=3851753«				
+Kategorije: Filozofske škrbineFilozofijaMatematikaTeologijaNeskončnost 
+
+
+

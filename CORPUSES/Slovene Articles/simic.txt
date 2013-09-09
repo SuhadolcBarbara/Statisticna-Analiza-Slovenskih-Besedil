@@ -1,0 +1,261 @@
+204Ventil 18 /2012/ 3
+
+SIMULACIJA HIDRAVLIČNIH VENTILOV
+
+¦ 1 UVOD Zahteve	po	povečanju	dinamike	hi-dravličnih	in	pnevmatičnih	sistemov	ob hkratnem zmanjšanju porabe energije narekujejo nenehen razvoj hidravličnih	in	pnevmatičnih	kom-ponent, še posebej glavnih krmilnih elementov ventilov [1]. Za doseganje zgoraj omenjenih lastnosti se zato razvijajo nove tehnologije naprednih materialov po eni strani ter nove oblikovne zahteve krmilnih batov ventilov za doseganje kompenzacije tlačnih	in	dinamičnih	tokovnih	sil	[2].	Ravno kompenzacijske metode dan-danes slonijo na uporabi namenskih računalniških	simulacijskih	orodij,	kot	je	to	Ansys	CFD,	ki	jih	uporab-ljajo razvojni oddelki z ekspertnim znanjem.	Le-ti	omogočajo	analizo	posameznih parametrov, rezultate DSHplus simulacija hidravličnih in pnevmatičnih ventilov na fleksibilen način Marko ŠIMIC, Niko HERAKOVIČ
+
+Marko	Šimic,	univ.	dipl.	inž.,izr.	prof.	dr.	Niko	Herakovič,	univ.	dipl.	inž.,	oba	Univerzav Ljub ljani, Fakulteta za strojništvo
+
+Izvleček: V	prispevku	je	predstavljen	nov	pristop	simulacije	hidravličnih	in	pnevmatičnih	potnih	ventilov,	sestav-ljenih	s	pomočjo	funkcionalnih	elementov	nove	knjižnice	»mikro«	komponent	simulacijskega	orodja	DSHplus.	Prav	modularna	gradnja	krmilnega	bata	ventila	daje	novi	metodi	izredno	fleksibilnost	in	možnost	kreativnosti	raziskovalnega dela.Predstavljeni	model	karakteristike	volumskega	toka	krmilnega	roba	potnega	ventila,	ki	omogoča	obravnavo	različnih	oblik	zarez,	je	eden	od	pomembnejših	funkcijskih	elementov	knjižnice.	Na	podlagi	razvitega	modela	je	omogočeno	analiziranje	in	optimiranje	predvsem	dinamičnih	tokovnih	sil	v	ventilu,	ki	sta	se	do	sedaj	izvajalai	z	namenskimi orodji ali pa z eksperimentalnimi preizkusi.Ključne besede: Hidravlični ventili, karakteristika volumskega toka, analitični pristop, DSHplus knjižnica mikro komponentanaliz	pa	je	moč	uporabiti	v	nadalj-njih simulacijskih metodah. Da	bi	bilo	mogoče	kompenzacij-ske	metode	približati	širši	mno-žici	brez	posebnega	ekspertnega	znanja	na	področju	programske	opreme, se odpirajo nove ideje in možnosti	simulacijskih	orodij,	kot	je	to	predstavljeno	z	novo	knjižni-co	»mikro«	komponent	(v	nada-ljevanju	MCL	–	Micro	Component	Library) programskega orodja DSHplus. ¦ 2 Knjižnice programskega orodjaProgramski paket DSHplus je simu-lacijsko	orodje	za	analizo	statičnih	in	dinamičnih	lastnosti	hidravlič-nih	in	pnevmatičnih	sistemov	ter	komponent [3]. Predhodne verzije programa,	ki	so	do	sedaj	zadoščale	simulaciji	večine	industrijskih	pri-merov, predvsem razvoj in optimi-zacijo sistemov, so vsebovale štiri glavne sklope, ki jih lahko najde-mo na sliki 1 [4]: hidravlika, pnev-matika, mehanika in krmiljenje. Za specifične	potrebe	so	se	nadalje	razvijale	nove	knjižnice,	kot	so:	termo-hidravlika,	knjižnica	kom-ponent za avtomobilsko industrijo, knjižnica	delcev	snovi	in	knjižnice	specifičnih	namenskih	komponent.	Nenazadnje je potreba po razvoju in	analizi	hidravličnih	in	pnevmatič-nih ventilov ter valjev obudila nove zahteve za razvoj tako imenovane knjižnice	MCL,	ki	pa	bo	podrobneje	predstavljena v nasled njih poglav-jih prispevka. ¦ 3 Modeliranje hidravličnih in pnevmatičnih ventilovHidravlični	ali	pnevmatični	bat	pot-nega	ventila	ima	običajno	štiri	krmil-ne robove, za katere pa ni nujno, da so geometrijsko enaki. Programski paket DSHplus do sedaj ni omo-gočal	analize	realnih	hidravličnih	in	pnevmatičnih	komponent	(ventilov),	ki	bi	popisovale	časovno	in	položaj-no odvisno spreminjanje volumske-ga toka za posamezen krmilni rob 
+
+
+
+
+205Ventil 18 /2012/ 3
+
+SIMULACIJA HIDRAVLIČNIH VENTILOV
+
+[4].	Matematični	model	volumskega	toka	je	temeljil	na	osnovni	enačbi	1	[5], kjer je eden od glavnih paramet-rov	za	določanje	oblike	krmilnega	roba	presečna	površina	A [mm2]:        (1)
+
+2DpQA??·?=··
+
+  Ostali	vplivni	parametri	enačbe	(1)	so:	?D-pretočni	koeficient	[/],	?-gostota fluida [kg/m3]	in	?p-tlačna	diferenca krmilnega roba [bar].Parametre,	ki	jih	je	moč	nastaviti	simulacijskemu modelu ventila ob-stoječega	simulacijskega	programa	DSHplus, prikazanega na sliki 2, so: volumski tok ventila [l/min],•	tlačna	razlika	za	določen	volumski	•	tok [bar],stopnja prekritja krmilnega roba •	bata [%],resonančna	frekvenca	krmiljenja	•	ventila [Hz],maksimalna hitrost [m/s] in pospe-•	šek [m/s2] krmilnega bata,krmilna napetost [V] in•	minimalni in maksimalni pomik •	krmil nega bata [mm].Za	analizo	tlačnih	in	tokovnih	sil	v	ventilu omenjeni parametri ne za-dostujejo. Poleg vrste in smeri toka je pomemben parameter tudi geo-metrija	roba	oz.	geometrija	presečne	površine, kjer prehaja fluid [2]. Primer krmilnega	bata	z	različnimi	oblikami	krmilnih	robov	za	tlačno	in	tokovno	kompenzacijo je prikazan na sliki 3 [6].¦ 4 Modeliranje ventilov s knjižnico mikro komponentZadnja leta se odpirajo nove smerni-ce razvoja simulacijskih programov, ki	združujejo	analitične	pristope	po-sameznih komponent z namenom boljše in realne simulacije celostnih sistemov.	Glavna	ideja	se	kaže	v		nad-gradnji	obstoječih	ali	pa	kar	raz	vojSlika 1. Knjižnice programskega orodja DSHplus
+
+Slika 2. Nastavitev parametrov hidravličnega servoventila
+
+
+
+
+206Ventil 18 /2012/ 3
+
+novih	knjižnic	z	novimi	komponen-tami, ki bi simulacijske pristope zdru	ževale	z	analitičnimi	metodami	v	obliki	kodnega	zapisa	matematič-nih modelov znotraj simulacijskih modelov komponent. 4.1 Modularna gradnjaZ	razdelitvijo	hidravličnega	bata	na	različne	funkcionalne	elemen-te	MCL,	ki	jim	je	možno	analitično	popisati geometrijo in s tem karak-teristiko volumskega toka v odvis-nosti od premika krmilnega bata, postanejo	simulacije	hidravličnih	in	pnevmatičnih	ventilov	realne.	Na	ta	način	bi	bilo	mogoče	popisati	tudi	tlačne	in	tokovne	razmere	hidrav-ličnih	in	pnevmatičnih	ventilov	z	namenom analize in kompenzaci-je	dinamičnih	tokovnih	sil	znotraj	ventila. Uporabo merjenih rezulta-tov parametrov eksperimentalnih preizkusov	je	na	ta	način	možno	eliminirati.Slika 4 prikazuje simulacijski model, modularno	sestavljen	s	pomočjo	de-setih	funkcijskih	elementov	knjižnice	MCL	programskega	okolja	DSHplus.	Elementi	predstavljajo	specifične	mehanske podkomponente, kot so [4]: masni	elementi,	za	katere	je	mož-•	no	parametrirati	pomik,	način	mehanske povezave, hitrost in trenje,mehanski omejevalci pomika,•	karakterizacija	tlačnih	in	tokovnih	•	sil	je	izvedena	s	pomočjo	geome-trije masnih elementov,vzmetni in dušilni elementi za ka-•	rakterizacijo pospeševanja in du-šenja inelementi z zareznim krmilnim ro-•	bom	za	natančen	popis	volumske-ga toka.Slika 3. Oblike krmilnih robov batov za različne funkcionalne namene
+
+Slika 4. Krmilni bat ventila, sestavljen iz funkcijskih elementov MCL
+
+SIMULACIJA HIDRAVLIČNIH VENTILOV
+
+
+
+
+207Ventil 18 /2012/ 3
+
+Hidravlična	povezava	je	izvršena	s	pomočjo	različnih	priključnih	ele-mentov (dovodni vod, rezervoar, izhodna	delovna	priključka	A	in	B).	Upoštevan je model trenja za vsak posamezen funkcijski element hi-dravličnega	bata,	ki	je	popisan	s	Stribeckovo krivuljo. 4.2 Analitični pristop pri razvoju funkcijskih elementovMatematični	model	karakteristike	volumskega	toka	temelji	na	analitič-nem	preračunu	presečne	površine	A, skozi katero prehaja volumski tok fluida in je odvisna od geometrije krmilnega roba in od velikosti od-prtja ventila x. Rezultat predstav lja odvisnost volumskega toka od stop-nje premika krmilnega bata in je za vnos	v	novi	funkcijski	element	knjiž-nice	MCL	pripravljen	tabelarično	in	grafično.	Na primeru krmilnega roba s slike si poglejmo	metodologijo	analitičnega	določanja	minimalne	presečne	po-vršine volumskega toka fluida. Ob podrobnejši analizi funkcijskega elementa krmilnega roba (slika 5) opazimo,	da	se	soočamo	z	dvema	presečnima	površinama:	aksialno	Aa in radialno Ar. Smer toka je pri-kazana z vektorjema Ar in Aa. Fluid teče	običajno	najprej	skozi	radialni	presek in nato skozi aksialni presek v komoro	hidravličnega	ventila.	Real-na karakteristika volumskega toka je odvisna	od	minimalne	presečne	po-vršine Amin, zato je treba upoštevati minimalno velikost obeh površin pri danem pomiku krmilnega bata x. Slika 5. Smer toka fluida, parametri za izračun presečne površine 
+
+Slika 6. a) parametri krožnega in b)pravokotnega dela zareze
+
+a)                                              b)Posamezna zare-za krmilnega roba modela je sestav-ljena	iz	dveh	krož-nih (R1 in R2) in dveh pravokotnih (L1 in L2) pre-delov.	Analitični	popis	krožnega	predela zareze (slika 6a) je pred-stavljen z rešitvijo trigonometričnih	enačb	za	računa-nje	krožnega	odseka	(enačbi	2	in	3)	[7]. Model pravokotnega predela (slika 6b) zareze zaradi enostavnosti ni podrobneje predstavljen v pri-spevku.Matematični	model	ploščine	radial-nega	krožnega	dela	zareze	(slika	6a):Matematični	model	površine	aksi-alnega	krožnega	dela	zareze	(slika	6b):kjer hi predstavlja globino zareze.Radialna površina Air je odvisna le od radia Ri ter pomika bata x in se z ve-čanjem	pomika	sešteva,	medtem	ko	je aksialna površina Aia odvisna od 
+
+SIMULACIJA HIDRAVLIČNIH VENTILOV
+
+(2)
+
+Rezultat predstavlja odvisnost volumskega toka od stopnje premika krmilnega bata in je za vnos v novi funkcijski element knjižnice MCL pripravljen tabelarično in grafično. Na primeru krmilnega roba s slike 5a si poglejmo metodologijo analitičnega določanja minimalne presečne površine volumskega toka fluida. Ob podrobnejši analizi funkcijskega elementa krmilnega roba (slika 5) opazimo, da se soočamo z dvema presečnima površinama: aksialno Aa in radialno Ar. Smer toka je prikazana z vektorjema Ar in Aa. Fluid teče običajno najprej skozi radialni presek in nato skozi aksialni presek v komoro hidravličnega ventila. Realna karakteristika volumskega toka je odvisna od minimalne presečne površine Amin, zato je treba upoštevati minimalno velikost obeh površin pri danem pomiku krmilnega bata x. 
+
+ Slika 5. Smer toka fluida, parametri za izračun presečne površine 2 stPosamezna zareza krmilnega roba modela je sestavljena iz dveh krožnih (R1 in R2) in dveh pravokotnih (L1 in L2) predelov. Analitični popis krožnega predela zareze (slika 6a) je predstavljen z rešitvijo trigonometričnih enačb za računanje krožnega odseka (enačbi 2 in 3) . Model pravokotnega predela (slika 6b) zareze zaradi enostavnosti ni podrobneje predstavljen v prispevku.
+
+ b)a)Slika 6. a) parametri krožnega in b)pravokotnega dela zareze 2 stMatematični model ploščine radialnega krožnega dela zareze (slika 6a): 
+
+()222arccosxxRixRiRixRiRiAir-···--??????-·=
+
+   (2)Matematični model ploščine aksialnega krožnega dela zareze (slika 6b):
+
+hixCiAia·=)(
+
+                  (3)   
+
+??cos222sin2)(·-·=··=RiRixCi
+
+                 kjer hi predstavlja globino zarezeRadialna površina Air je odvisna le od radia Ri ter pomika bata x in se z večanjem pomika sešteva, medtem ko je aksialna površina Aia odvisna od spremembe parametra Ci(x) in globine zareze hi pri danem premiku bata x in se ne sešteva. Končna modela Ar in Aa (enačbi 4 in 5) upoštevata še število zarez n, razporejenih po krmilnem robu hidravličnega bata. Matematični model celotne radialne ploščine zarez:
+
+?=·=41iAirnAr
+
+           (4)Matematični model celotne aksialne ploščine zarez:
+
+()AianAamin·=
+
+          (5)
+
+Rezultat predstavlja odvisnost volumskega toka od stopnje premika krmilnega bata in je za vnos v novi funkcijski element knjižnice MCL pripravljen tabelarično in grafično. Na primeru krmilnega roba s slike 5a si poglejmo metodologijo analitičnega določanja minimalne presečne površine volumskega toka fluida. Ob podrobnejši analizi funkcijskega elementa krmilnega roba (slika 5) opazimo, da se soočamo z dvema presečnima površinama: aksialno Aa in radialno Ar. Smer toka je prikazana z vektorjema Ar in Aa. Fluid teče običajno najprej skozi radialni presek in nato skozi aksialni presek v komoro hidravličnega ventila. Realna karakteristika volumskega toka je odvisna od minimalne presečne površine Amin, zato je treba upoštevati minimalno velikost obeh površin pri danem pomiku krmilnega bata x. 
+
+ Slika 5. Smer toka fluida, parametri za izračun presečne površine 2 stPosamezna zareza krmilnega roba modela je sestavljena iz dveh krožnih (R1 in R2) in dveh pravokotnih (L1 in L2) predelov. Analitični popis krožnega predela zareze (slika 6a) je predstavljen z rešitvijo trigonometričnih enačb za računanje krožnega odseka (enačbi 2 in 3) . Model pravokotnega predela (slika 6b) zareze zaradi enostavnosti ni podrobneje predstavljen v prispevku.
+
+ b)a)Slika 6. a) parametri krožnega in b)pravokotnega dela zareze 2 stMatematični model ploščine radialnega krožnega dela zareze (slika 6a): 
+
+()
+
+222arccosxxRixRiRixRiRiAir-···--??????-·=
+
+   (2)Matematični model ploščine aksialnega krožnega dela zareze (slika 6b):
+
+hixCiAia·=)(
+
+                  (3)   
+
+??cos222sin2)(·-·=··=RiRixCi
+
+                 kjer hi predstavlja globino zarezeRadialna površina Air je odvisna le od radia Ri ter pomika bata x in se z večanjem pomika sešteva, medtem ko je aksialna površina Aia odvisna od spremembe parametra Ci(x) in globine zareze hi pri danem premiku bata x in se ne sešteva. Končna modela Ar in Aa (enačbi 4 in 5) upoštevata še število zarez n, razporejenih po krmilnem robu hidravličnega bata. Matematični model celotne radialne ploščine zarez:
+
+?=·=41iAirnAr
+
+           (4)Matematični model celotne aksialne ploščine zarez:
+
+()AianAamin·=
+
+          (5)
+
+(3)
+
+Rezultat predstavlja odvisnost volumskega toka od stopnje premika krmilnega bata in je za vnos v novi funkcijski element knjižnice MCL pripravljen tabelarično in grafično. Na primeru krmilnega roba s slike 5a si poglejmo metodologijo analitičnega določanja minimalne presečne površine volumskega toka fluida. Ob podrobnejši analizi funkcijskega elementa krmilnega roba (slika 5) opazimo, da se soočamo z dvema presečnima površinama: aksialno Aa in radialno Ar. Smer toka je prikazana z vektorjema Ar in Aa. Fluid teče običajno najprej skozi radialni presek in nato skozi aksialni presek v komoro hidravličnega ventila. Realna karakteristika volumskega toka je odvisna od minimalne presečne površine Amin, zato je treba upoštevati minimalno velikost obeh površin pri danem pomiku krmilnega bata x. 
+
+ Slika 5. Smer toka fluida, parametri za izračun presečne površine 2 stPosamezna zareza krmilnega roba modela je sestavljena iz dveh krožnih (R1 in R2) in dveh pravokotnih (L1 in L2) predelov. Analitični popis krožnega predela zareze (slika 6a) je predstavljen z rešitvijo trigonometričnih enačb za računanje krožnega odseka (enačbi 2 in 3) . Model pravokotnega predela (slika 6b) zareze zaradi enostavnosti ni podrobneje predstavljen v prispevku.
+
+ b)a)Slika 6. a) parametri krožnega in b)pravokotnega dela zareze 2 stMatematični model ploščine radialnega krožnega dela zareze (slika 6a): 
+
+()222arccosxxRixRiRixRiRiAir-···--??????-·=
+
+   (2)Matematični model ploščine aksialnega krožnega dela zareze (slika 6b):
+
+hixCiAia·=)(
+
+                  (3)   
+
+??cos222sin2)(·-·=··=RiRixCi
+
+                 kjer hi predstavlja globino zarezeRadialna površina Air je odvisna le od radia Ri ter pomika bata x in se z večanjem pomika sešteva, medtem ko je aksialna površina Aia odvisna od spremembe parametra Ci(x) in globine zareze hi pri danem premiku bata x in se ne sešteva. Končna modela Ar in Aa (enačbi 4 in 5) upoštevata še število zarez n, razporejenih po krmilnem robu hidravličnega bata. Matematični model celotne radialne ploščine zarez:
+
+?=·=41iAirnAr
+
+           (4)Matematični model celotne aksialne ploščine zarez:
+
+()AianAamin·=
+
+          (5)
+
+Rezultat predstavlja odvisnost volumskega toka od stopnje premika krmilnega bata in je za vnos v novi funkcijski element knjižnice MCL pripravljen tabelarično in grafično. Na primeru krmilnega roba s slike 5a si poglejmo metodologijo analitičnega določanja minimalne presečne površine volumskega toka fluida. Ob podrobnejši analizi funkcijskega elementa krmilnega roba (slika 5) opazimo, da se soočamo z dvema presečnima površinama: aksialno Aa in radialno Ar. Smer toka je prikazana z vektorjema Ar in Aa. Fluid teče običajno najprej skozi radialni presek in nato skozi aksialni presek v komoro hidravličnega ventila. Realna karakteristika volumskega toka je odvisna od minimalne presečne površine Amin, zato je treba upoštevati minimalno velikost obeh površin pri danem pomiku krmilnega bata x. 
+
+ Slika 5. Smer toka fluida, parametri za izračun presečne površine 2 stPosamezna zareza krmilnega roba modela je sestavljena iz dveh krožnih (R1 in R2) in dveh pravokotnih (L1 in L2) predelov. Analitični popis krožnega predela zareze (slika 6a) je predstavljen z rešitvijo trigonometričnih enačb za računanje krožnega odseka (enačbi 2 in 3) . Model pravokotnega predela (slika 6b) zareze zaradi enostavnosti ni podrobneje predstavljen v prispevku.
+
+ b)a)Slika 6. a) parametri krožnega in b)pravokotnega dela zareze 2 stMatematični model ploščine radialnega krožnega dela zareze (slika 6a): 
+
+()222arccosxxRixRiRixRiRiAir-···--??????-·=
+
+   (2)Matematični model ploščine aksialnega krožnega dela zareze (slika 6b):
+
+hixCiAia·=)(
+
+                  (3)   
+
+??cos222sin2)(·-·=··=RiRixCi
+
+                 kjer hi predstavlja globino zarezeRadialna površina Air je odvisna le od radia Ri ter pomika bata x in se z večanjem pomika sešteva, medtem ko je aksialna površina Aia odvisna od spremembe parametra Ci(x) in globine zareze hi pri danem premiku bata x in se ne sešteva. Končna modela Ar in Aa (enačbi 4 in 5) upoštevata še število zarez n, razporejenih po krmilnem robu hidravličnega bata. Matematični model celotne radialne ploščine zarez:
+
+?=·=41iAirnAr
+
+           (4)Matematični model celotne aksialne ploščine zarez:
+
+()AianAamin·=
+
+          (5)
+
+Rezultat predstavlja odvisnost volumskega toka od stopnje premika krmilnega bata in je za vnos v novi funkcijski element knjižnice MCL pripravljen tabelarično in grafično. Na primeru krmilnega roba s slike 5a si poglejmo metodologijo analitičnega določanja minimalne presečne površine volumskega toka fluida. Ob podrobnejši analizi funkcijskega elementa krmilnega roba (slika 5) opazimo, da se soočamo z dvema presečnima površinama: aksialno Aa in radialno Ar. Smer toka je prikazana z vektorjema Ar in Aa. Fluid teče običajno najprej skozi radialni presek in nato skozi aksialni presek v komoro hidravličnega ventila. Realna karakteristika volumskega toka je odvisna od minimalne presečne površine Amin, zato je treba upoštevati minimalno velikost obeh površin pri danem pomiku krmilnega bata x. 
+
+ Slika 5. Smer toka fluida, parametri za izračun presečne površine 2 stPosamezna zareza krmilnega roba modela je sestavljena iz dveh krožnih (R1 in R2) in dveh pravokotnih (L1 in L2) predelov. Analitični popis krožnega predela zareze (slika 6a) je predstavljen z rešitvijo trigonometričnih enačb za računanje krožnega odseka (enačbi 2 in 3) . Model pravokotnega predela (slika 6b) zareze zaradi enostavnosti ni podrobneje predstavljen v prispevku.
+
+ b)a)Slika 6. a) parametri krožnega in b)pravokotnega dela zareze 2 stMatematični model ploščine radialnega krožnega dela zareze (slika 6a): 
+
+()222arccosxxRixRiRixRiRiAir-···--??????-·=
+
+   (2)Matematični model ploščine aksialnega krožnega dela zareze (slika 6b):
+
+hixCiAia·=)(
+
+                  (3)   
+
+??cos222sin2)(·-·=··=RiRixCi
+
+                 kjer hi predstavlja globino zarezeRadialna površina Air je odvisna le od radia Ri ter pomika bata x in se z večanjem pomika sešteva, medtem ko je aksialna površina Aia odvisna od spremembe parametra Ci(x) in globine zareze hi pri danem premiku bata x in se ne sešteva. Končna modela Ar in Aa (enačbi 4 in 5) upoštevata še število zarez n, razporejenih po krmilnem robu hidravličnega bata. Matematični model celotne radialne ploščine zarez:
+
+?=·=41iAirnAr
+
+           (4)Matematični model celotne aksialne ploščine zarez:
+
+()AianAamin·=
+
+          (5)
+
+spremembe parametra Ci(x) in globi-ne zareze hi pri danem premiku bata x	in	se	ne	sešteva.	Končna	modela	Ar in Aa	(enačbi	4	in	5)	upoštevata	še število zarez n, razporejenih po krmilnem	robu	hidravličnega	bata.	Matematični	model	celotne	radialne	površine zarez:                                                                   (4)
+
+Rezultat predstavlja odvisnost volumskega toka od stopnje premika krmilnega bata in je za vnos v novi funkcijski element knjižnice MCL pripravljen tabelarično in grafično. Na primeru krmilnega roba s slike 5a si poglejmo metodologijo analitičnega določanja minimalne presečne površine volumskega toka fluida. Ob podrobnejši analizi funkcijskega elementa krmilnega roba (slika 5) opazimo, da se soočamo z dvema presečnima površinama: aksialno Aa in radialno Ar. Smer toka je prikazana z vektorjema Ar in Aa. Fluid teče običajno najprej skozi radialni presek in nato skozi aksialni presek v komoro hidravličnega ventila. Realna karakteristika volumskega toka je odvisna od minimalne presečne površine Amin, zato je treba upoštevati minimalno velikost obeh površin pri danem pomiku krmilnega bata x. 
+
+ Slika 5. Smer toka fluida, parametri za izračun presečne površine 2 stPosamezna zareza krmilnega roba modela je sestavljena iz dveh krožnih (R1 in R2) in dveh pravokotnih (L1 in L2) predelov. Analitični popis krožnega predela zareze (slika 6a) je predstavljen z rešitvijo trigonometričnih enačb za računanje krožnega odseka (enačbi 2 in 3) . Model pravokotnega predela (slika 6b) zareze zaradi enostavnosti ni podrobneje predstavljen v prispevku.
+
+ b)a)Slika 6. a) parametri krožnega in b)pravokotnega dela zareze 2 stMatematični model ploščine radialnega krožnega dela zareze (slika 6a): 
+
+()222arccosxxRixRiRixRiRiAir-···--??????-·=
+
+   (2)Matematični model ploščine aksialnega krožnega dela zareze (slika 6b):
+
+hixCiAia·=)(
+
+                  (3)   
+
+??cos222sin2)(·-·=··=RiRixCi
+
+                 kjer hi predstavlja globino zarezeRadialna površina Air je odvisna le od radia Ri ter pomika bata x in se z večanjem pomika sešteva, medtem ko je aksialna površina Aia odvisna od spremembe parametra Ci(x) in globine zareze hi pri danem premiku bata x in se ne sešteva. Končna modela Ar in Aa (enačbi 4 in 5) upoštevata še število zarez n, razporejenih po krmilnem robu hidravličnega bata. Matematični model celotne radialne ploščine zarez:
+
+?=·=41iAirnAr
+
+           (4)Matematični model celotne aksialne ploščine zarez:
+
+()AianAamin·=
+
+          (5)
+
+  Matematični	model	celotne	aksialne	površine zarez:
+
+Rezultat predstavlja odvisnost volumskega toka od stopnje premika krmilnega bata in je za vnos v novi funkcijski element knjižnice MCL pripravljen tabelarično in grafično. Na primeru krmilnega roba s slike 5a si poglejmo metodologijo analitičnega določanja minimalne presečne površine volumskega toka fluida. Ob podrobnejši analizi funkcijskega elementa krmilnega roba (slika 5) opazimo, da se soočamo z dvema presečnima površinama: aksialno Aa in radialno Ar. Smer toka je prikazana z vektorjema Ar in Aa. Fluid teče običajno najprej skozi radialni presek in nato skozi aksialni presek v komoro hidravličnega ventila. Realna karakteristika volumskega toka je odvisna od minimalne presečne površine Amin, zato je treba upoštevati minimalno velikost obeh površin pri danem pomiku krmilnega bata x. 
+
+ Slika 5. Smer toka fluida, parametri za izračun presečne površine 2 stPosamezna zareza krmilnega roba modela je sestavljena iz dveh krožnih (R1 in R2) in dveh pravokotnih (L1 in L2) predelov. Analitični popis krožnega predela zareze (slika 6a) je predstavljen z rešitvijo trigonometričnih enačb za računanje krožnega odseka (enačbi 2 in 3) . Model pravokotnega predela (slika 6b) zareze zaradi enostavnosti ni podrobneje predstavljen v prispevku.
+
+ b)a)Slika 6. a) parametri krožnega in b)pravokotnega dela zareze 2 stMatematični model ploščine radialnega krožnega dela zareze (slika 6a): 
+
+()222arccosxxRixRiRixRiRiAir-···--??????-·=
+
+   (2)Matematični model ploščine aksialnega krožnega dela zareze (slika 6b):
+
+hixCiAia·=)(
+
+                  (3)   
+
+??cos222sin2)(·-·=··=RiRixCi
+
+                 kjer hi predstavlja globino zarezeRadialna površina Air je odvisna le od radia Ri ter pomika bata x in se z večanjem pomika sešteva, medtem ko je aksialna površina Aia odvisna od spremembe parametra Ci(x) in globine zareze hi pri danem premiku bata x in se ne sešteva. Končna modela Ar in Aa (enačbi 4 in 5) upoštevata še število zarez n, razporejenih po krmilnem robu hidravličnega bata. Matematični model celotne radialne ploščine zarez:
+
+?=·=41iAirnAr
+
+           (4)Matematični model celotne aksialne ploščine zarez:
+
+()AianAamin·=
+
+          (5)
+
+                           (5)4.3 Testiranje matematičnega modela in prikaz rezultatovMatematični	model	je	preverjen	na	podlagi analize rezultatov vnosa različnih	variant	parametrov	v	polja	programskega okna, prikazanega na sliki 7. Na podlagi vnesenih parametrov s	pomočjo	matematičnih	modelov	izračunamo	karakteristiko	radialne	Ar in aksialne Aa površine preseka zareze	za	celotno	območje	pomika	hidravličnega	bata.	Grafični	prikaz	izračunane	vrednosti	spreminjanja	presečne	površine	prikazuje	slika 8. Potek	minimalne	presečne	površine	v odvisnosti od pomika krmilnega bata x pa slika 9. Na podlagi ustrezne karakteristike presečne	površine	se	karakteristika	volumskega	toka	izračuna	po	enačbi	1, predstavljeni v tretjem poglavju. 
+
+
+
+
+208Ventil 18 /2012/ 3¦ 5 SklepAnalitični	popis	zapletene	geometri-je	zarez	krmilnega	roba	hidravličnega	krmilnega	bata	odpira	nove	možnosti	in nove pristope simulacijskih metod. Prispevek prikazuje uspešnost pove-zovanja	analitičnih	pristopov	(mate-matičnega	modeliranja	geometrije)	s simulacijskimi modeli z namenom izboljšanja popisa, analize in optimi-zacije	dinamičnih	lastnosti	ventila.	Razviti	matematični	model	karak-teristike volumskega toka fluida za značilno	obliko	zareze	je	uspešno	implementiran kot karakteristika volumskega toka funkcijskega ele-menta	mikro	knjižnice	programske-ga simulacijskega orodja DSHplus z	namenom	simulacije	dinamičnih	karakteristik	hidravličnih	in	pnev-matičnih	komponent.	Na	ta	način	Slika 7. Programsko okno za vpis geometrijskih parametrov zareze hidravlič-nega bata
+
+je	možno	vnaprej	tlačno,	tokovno	in	dinamično	optimirati	hidravlične	in	pnevmatične	ventile.Literatura[1] Herakovič,	N.,	Analiza vpliva ma-teriala in aktuatorjev na lastnosti pnevmatičnega ventila, Materiali in tehnologije / Materials and te-chnology, 44 (2010) 1, 37–40.[2] Herakovič,	N.,	Flow-force analysis in a hydraulic sliding-spool valve. Strojarstvo, 2009, letn. 51, št. 6, str. 555–564.[3] Herakovič,	N.,	DSHplus – pro-gramski paket za simulacijo hi-dravličnih sistemov. Ventil (Ljubl.), 1996, let. 2, št. 3, str. 122–129.[4] FUIDON GmbH, DSHplus, Micro Component	Library,	2010,	http://www.fluidon.com/.[5] Murrenhoff, H.: Grundlagen der Fluidtechnik, Teil 1: Hydraulik, Shaker Verlag, Aachen, 2001, ISBN 3-8265-9446-0.[6] Spool Notch Geometry for Hy-draulic Spool Valve, Wasson et al., US-Patent 6,450,194 B1, Sept. 17, 2002.[7] Bronštejn,	I.	N.,	Matematični	pri-ročnik,	Tehniška	založba	Sloveni-je, 2009.
+
+DSHplus simulation method of the hydraulic and pneumatic valves used in a very flexible wayAbstract: The paper presents a very new approach to the simula-tion of hydraulic and pneumatic valves. The valves consist of the new functional elements which are part of the new “micro” com-ponents library of the DSHplus simulation tool. Flexibility of the new method is achieved by using the modular construc-tion of the valve piston whi-ch also provides creativity and flexibility of the research work. The presented mathematical and simulation model of the volume flow characteristic of the diffe-rent metering edges is one of the major functional elements of the new developed DSHplus library. Analyses and optimizati-on methods of the dynamic flow forces can be done by using the new analytically determined functional elements. Defining the influence parameters of the volume flow characteristic by using the advanced simulation tools or experimental testing is therefore eliminated.  Key words: DSHplus simulati-on method of the hydraulic and pneumatic valves used in a very flexible way
+
+SIMULACIJA HIDRAVLIČNIH VENTILOV
+
+Slika 8. a) radialna in aksialna presečna površina, b) minimalna površina v odvisnosti od pomika krmilnega bata
+
+  a)                                                                                  b)
+
+
+
+

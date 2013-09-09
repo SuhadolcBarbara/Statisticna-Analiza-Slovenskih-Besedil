@@ -1,0 +1,67 @@
+
+
+Pólgrúpa ali tudi sémigrúpa S = {a, b, ...} je v matematiki par (S, *), kjer je S množica in * asociativna dvočlena operacija na S: S × S → S in, ki vsakemu urejenemu paru (a, b)  S priredi natanko en element a * b  S. Operacija * mora zadoščati pogojem:
+
+Za vsak a, b  S, velja a * b  S. (Zakon o zaprtosti).
+Za vsak a, b in c  S, velja (a * b) * c = a * (b * c) (Zakon o združevanju faktorjev (Zakon o asociativnosti)).
+
+Polgrupa tako ne potrebuje nevtralnega elementa (identitete) in njeni elementi nujno ne potrebujejo obratnega elementa (inverza). Polgrupa je asociativni grupoid. Vsako polgrupo S lahko enostavno vložimo v monoid s pridružitvijo elementa e, ki ne pripada S, in z zahtevama:
+
+e * e = e in
+e * a = a * e = a za vsak element a  S.
+
+Prvi aksiom ni nujen, ker je dvočlena operacija že tudi sama zaprta. Polgrupa je lahko tudi prazna.
+Zgledi polgrup
+
+Množica pozitivnih celih števil z operacijo seštevanja.
+
+
+Skupno število polgrup moči n, ki so enakovredne, če so izomorfne ali anti-izomorfne, tvori celoštevilsko zaporedje:
+
+
+
+
+{1, 1, 4, 18, 126, 1160, 15973, 836021, 1843120128, ...} (OEIS A001423).
+
+
+
+
+Polgrupa z enakim elementom se imenuje komutativni monoid.
+Vsak monoid in zato tudi vsaka grupa.
+število polgrup moči n z enim idempotentom tvori celoštevilsko zaporedje:
+
+
+
+
+{1, 2, 5, 19, 132, 3107, 623615, ...} (OEIS A002786).
+
+
+
+
+Število a(n) idempotentnih polgrup moči n tvori celoštevilsko zaporedje:
+
+
+
+
+{1, 1, 2, 6, 26, 135, 875, 6749, ... } (OEIS A002788).
+
+
+
+
+Vsak ideal kolobarja z operacijo množenja.
+Vsaka podmnožica polgrupe, ki je zaprta za operacijo polgrupe.
+Množica končnih znakovnih nizov čez poljubno določeno abecedo Σ z operacijo spojitve znakovnega niza. Če vsebuje tudi prazen znakovni niz ε ≡ "" je takšna polgrupa monoid, ki se imenuje »prosti monoid čez Σ«. Če praznega znakovnega niza ne vsebuje, se takšna polgrupa imenuje »prosta polgrupa čez Σ«.
+
+Zgradba polgrup
+Veliko pojmov nam pomaga pri razumevanju zgradbe polgrup. Zaradi jedrnatosti bomo operacijo polgrupe izrazili z omejitvijo v kateri xy označujeta rezultat operacije grupe na urejen par (x, y). Če sta A in B podmnožici kakšne polgrupe, potem AB označuje množico { ab | a  A in b  B }.
+Podmnožica A polgrupe S se imenuje podpolgrupa, če je zaprta za operacijo polgrupe, oziroma AA je podmnožica A. Če je množica A neprazna, se imenuje desni ideal, kadar je AS podmnožica A, in levi ideal, kadar je SA podmnožica A. Če je A hkrati levi in desni ideal, se imenuje ideal (ali dvosmerni ideal). Presek dveh idealov je spet ideal, zato ima lahko polgrupa najmanjši ideal. Vse neprazne končne polgrupe imajo najmanjši ideal. Primer polgrupe brez najmanjšega ideala je množica pozitivnih celih števil zaprta za seštevanje. Najmanjši ideal komutativne polgrupe, kadar obstaja, je grupa.
+Če je S polgrupa, je presek katerekoli zbirke podpolgrup S tudi podpolgrupa S. Tako podpolgrupe S tvorijo celotno mrežo. Za poljubno podmnožico A grupe S obstaja najmanjša podpolgrupa T grupe S, ki vsebuje A. Rečemo, da A rodi (generira) T. Element x polgrupe S rodi podpolgrupo { xn | n je pozitivno celo število }. Če je takšna podpolgrupa končna, rečemo da ima x končno moč, drugače pa ima neskončno moč. Polgrupa je periodična, če imajo vsi njeni elementi končno moč. Končne polgrupe so vse periodične. Polgrupa, ki jo rodi samo en element, se imenuje enorodna (monorodna) (ali ciklična). Če je enorodna polgrupa neskončna je izomorfna polgrupi množici pozitivnih celih števil, zaprti za seštevanje. Če pa je končna, mora vsebovati idempotent in to natanko enega. Tako ima vsaka neprazna periodična polgrupa vsaj en idempotent.
+Podpolgrupa, ki je hkrati grupa, se imenuje podgrupa. Med podgrupami in polgrupami ter njihovimi idempotenti obstaja zelo tesna povezava. Vsaka podgrupa vsebuje natanko en idempotent, namreč nevtralni element (identiteto) podgrupe. Za vsak idempotent e polgrupe obstaja edina največja podgrupa, ki vsebuje e. Vsaka največja podgrupa nastane na ta način, zato obstaja enolična zveza med idempotenti in največjimi podgrupami. (Omeniti moramo, da je tukaj pojem največje podgrupe različen kot v teoriji grup. V teoriji grup je t.i. »največja podgrupa« v resnici največja prava podgrupa. Če jo obravnavamo kot polgrupo, ima grupa samo eno največjo podgrupo, in to prav samo sebe.)
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Polgrupa&oldid=3847882«				
+Kategorija: Algebrske strukture 
+
+
+

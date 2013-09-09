@@ -1,0 +1,121 @@
+
+
+Svetlôba je elektromagnetno sevanje z valovnimi dolžinami od približno 380 ali 400 nm do približno 760 ali 780 nm,[1] ki so vidne za človeško oko. V fiziki se pojem svetloba pogosto nanaša na elektromagnetna sevanja vseh valovnih dolžin, ne glede na to, ali so vidna ali ne.[2][3]
+Svetloba ima pet osnovnih lastnosti: jakost, frekvenco ali valovno dolžino, polarizacijo, fazo in orbitalni kotni moment.
+Svetloba je sestavljana iz majhnih energijskih paketov (kvantov svetlobe), imenovanih fotoni, in ima tako lastnosti valovanja kot tudi lastnosti delcev. Ta njena lastnost se imenuje dualizem. S preučevanjem svetlobe se ukvarja optika, ki je pomembno raziskovalno področje sodobne fizike.
+
+
+
+
+
+Ta članek potrebuje čiščenje. Pri urejanju upoštevaj pravila slogovnega priročnika. Razlog za čiščenje ni podan. Prosimo, da nam pomagaš izboljšati ta članek. 
+
+
+
+
+Vsebina
+
+
+1 Sevanje in svetloba
+2 Svetloba in rastline
+3 Sklici
+4 Glej tudi
+
+
+Sevanje in svetloba
+Življenje na Zemlji je energetsko odvisno od Sonca. Le 5*10−10% svetlobe, ki jo izseva Sonce doseže Zemljo. In nato od tega le približno 47 % pride do zemeljske površine, saj se veliko svetlobe na poti odbije (od zračnih molekul, oblakov) in absorbira. Odboj žarkov imenujemo albedo. Vedno pa pride do Zemlje ista količina sevanja. Vendar pa ne pride na vse dele Zemlje ista vrednost sevanja. Zaradi rotacije in nagnjenosti zemljine osi ter revolucije Zemlje, je količina svetlobne energije, ki prispe do določenega dela površine različna. Sevanje je na določenem območju odvisno od zemljepisne širine, lokalne topografije in atmosferskih razmer kot so oblačnost in megla. Razlike pa obstajajo tudi v času dneva in leta.
+Pri sončnem spektru je kot biološki poudarek treba omeniti sledeče spektre:
+
+Rentgenski žarki (vloga: mutacije, evolucija), itd......
+UV del spektra (sinteza vitamina D, orientacija v prostoru),
+vidni del spektra (fotosinteza, orientacija, komunikacija, aktivnost organizmov),
+infrardeči del spektra (toplotna energija).
+
+Viri svetlobe na Zemlji:
+
+Sončevo sevanje,
+odboj svetlobe od Lune,
+sevanje drugih zvezd v vesolju,
+zemeljski viri svetlobe kot so bioluminiscenca, požari, ognjeniški izbruhi,
+antropogeni viri.
+
+Svetloba in rastline
+Osnovni pomen svetlobe za rastline:
+
+vir energije,
+uravnavanje rasti in razvoja ter
+stresni dejavnik.
+
+Je pa svetloba pri rastlinah povezana tudi s časom cvetenja (fotoperiodika), fototropizmom (npr. rast rastline proti soncu, obračanje listov proti ugodnejši svetlobi), letnim prirastkom lesa, odpadlim listjem ipd.
+Glede na to koliko svetlobe potrebujejo rastline za dobro uspevanje jih delimo na 3 skupine:
+
+specialisti ali stenofoti
+
+heliofiti ali sončne rastline (potrebujejo 75 – 100 % svetlobe)
+skiofiti ali senčne rastline (potrebujejo do 75 % svetlobe)
+
+
+
+
+generalisti za svetlobo ali evrifoti
+
+polskiofiti ali sončno senčne (idealne rastline)
+
+
+
+Polskiofiti in skiofiti so tiste rastline, ki največkrat tvorijo podrast. Podrast ima v zmernih klimatih približno 1 % svetlobe, v pragozdovih pa le 0˙5 %. V listopadnih gozdovih imamo v podrasti 3 faze:
+
+spomladansko heliofilno: zvonček, teloh, jetrnik
+poletno skiofilno: praprot, mah, borovnice
+jesensko heliofilno: ciklama, podlesek, volčin
+
+Sklici
+
+
+^ International Commission on Illumination (1987). International Lighting Vocabulary. št. 17.4. CIE, 4. izdaja. ISBN 978-3-900734-07-7.
+^ Gregory Hallock Smith (2006), Camera lenses: from box camera to digital, SPIE Press, str. 4, ISBN 9780819460936, http://books.google.com/?id=6mb0C0cFCEYC&pg=PA4 
+^ Narinder Kumar (2008), Comprehensive Physics XII, Laxmi Publications, str. 1416, ISBN 9788170085928, http://books.google.com/?id=IryMtwHHngIC&pg=PA1416#v=onepage&q= 
+
+
+Glej tudi
+
+
+
+Poglejte si besedo svetloba ali Svetloba v Wikislovarju, prostem slovarju.
+
+
+
+Huygensovo načelo, svetlobna onesnaženost, vid, detektor svetlobe, oblikovanje svetlobe.
+optična gostota
+hitrost svetlobe
+
+
+
+
+
+
+ Ta članek s področja fizike je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+
+
+
+
+
+
+Portal astronomija
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Svetloba&oldid=3867489«				
+Kategorije: Fizikalne škrbineElektromagnetno valovanjeOptikaSvetlobaSkriti kategoriji: Članki, ki so potrebni čiščenjaČlanki, ki so potrebni čiščenja brez parametra razlog 
+
+
+

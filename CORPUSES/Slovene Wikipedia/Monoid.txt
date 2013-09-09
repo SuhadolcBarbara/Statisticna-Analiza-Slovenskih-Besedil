@@ -1,0 +1,57 @@
+
+
+Mónoid M = {a, b, ...} je v matematiki par (M, *), kjer je M neprazna množica in * asociativna dvočlena operacija na M, ki zadošča pogojem:
+
+Za vsak a, b  M, velja a * b  M. (Zakon o zaprtosti).
+Za vsak a, b in c  M, velja (a * b) * c = a * (b * c) (Zakon o združevanju faktorjev (Zakon o asociativnosti)).
+V M obstaja takšen element e, za katerega za vsak a  M velja e * a = a * e = a (Zakon o nevtralnem elementu (identiteti)).
+
+Drugače povedano, monoid je polgrupa z nevtralnim elementom (identiteto).
+Zgledi monoidov
+
+Katerakoli grupa.
+Elementi vsakega enotskega kolobarja z operacijo množenja.
+
+Množice celih števil Z, naravnih števil N ali kompleksnih števil C z operacijo množenja.
+Množica vseh n × n matrik z matričnim množenjem.
+
+
+Množice naravnih števil N z operacijo seštevanja.
+Množica končnih znakovnih nizov, s praznim znakovnim nizom ε ≡ "" čez poljubno določeno abecedo Σ z operacijo spojitve znakovnega niza. V teoretičnem računalništvu je takšen monoid označen z Σ*, v matematiki pa se imenuje »prosti monoid čez Σ«.
+
+Na primer prosti idempotentni monoidi za abecedo Σ z n črkami so {1, 2, 7, 160, 332381, 2751884514766, 272622932796281408879065987, 3641839910835401567626683593436003894250931310990279692, ...} (OEIS A005345). Splošni člen takšnih monoidov je:
+
+
+
+
+
+
+
+
+a(n) = Σ C(n,k) Π (k-i+1)2^i, (pri i = 1 ... k in k = 0 ... n).
+
+
+
+
+
+
+Če izberemo poljuben objekt kategorije in imamo množico vseh morfizmov teh objektov vase z operacijo sestave (kompozicije) (glej teorijo kategorije). Primeri iz dobro znanih kategorij so:
+
+Množica vseh zveznih enotnih kart topološkega prostora z operacijo sestave (kompozicije).
+Množica vseh endomorfizmov določene grupe z operacijo sestave (kompozicije).
+Množica vseh funkcij iz množice nanjo z operacijo sestave (kompozicije).
+
+
+
+Neposredno iz določitve lahko pokažemo, da je nevtralni element e edin. Potem lahko določimo obrnljive elemente: element x se imenuje obrnljiv, če obstaja tak&šen element y, za katerega velja x * y = e in y * x = e. Pokaže se, da množica vseh obrnljivih elementov z operacijo * tvori grupo. V tem smislu vsak monoid vsebuje grupo.
+Vsakega monoida pa ne moremo imeti za grupo. Lahko imamo, na primer, monoid v katerem obstajata tak&šna elementa a in b, za katera vela a * b = a, pa čeprav b ni nevtralni element. Takšnega monoida ne moremo vložiti v grupo, ker v grupi lahko množimo obe strani z obratnim elementom a in bi dobili b = e, kar pa ne drži. Monoid (M, *) ima lastnost razveljavitve (oziroma je razveljaviten), če za vse a, b in c  M iz a * b = a * c vedno sledi b = c in iz b * a = c * a prav tako vedno sledi b = c. Komutativni monoid, ki je razveljaviten lahko vedno vložimo v grupo. Tako cela števila (grupa z operacijo +) pridelamo iz naravnih števil (komutativen monoid z operacijo + in lastnostjo razveljavitve). Nekomutativen razveljaviten monoid pa ni vložljiv v grupo.
+Če je monoid razveljaviten in je končen, je v bistvu grupa.
+Na kategorije lahko gledamo kot na posplošitve monoidov. Sestava (kompozicija) morfizma v kategoriji ima enake lastnosti kot monoid s tem, da vseh parov morfizmov ne moremo sestaviti. Tudi za kategorije lahko dokažemo veliko definicij in izrekov o monoidih.
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Monoid&oldid=3847859«				
+Kategorija: Matematika 
+
+
+

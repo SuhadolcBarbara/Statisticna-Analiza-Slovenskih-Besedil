@@ -1,0 +1,350 @@
+
+
+
+
+
+
+Cirilska abeceda na brezovem lubju iz antičnega Novgoroda
+
+
+Cirílica je abecedna pisava, ki jo za zapis uporablja sedem slovanskih jezikov (bolgarski, makedonski, srbski, ruski, beloruski, ukrajinski in rusinski), mongolščina ter vrsta neslovanskih jezikov na ozemlju Ruske federacije in nekdanje Sovjetske zveze.
+Cirilica je naslednica glagolice, pisave, ki sta jo v 9. stoletju razvila meniha Ciril in Metod, da bi Sveto pismo približala slovanskim ljudstvom na Balkanskem polotoku. Črke glagolice so precej zapletene, zato so jo učenci Cirila in Metoda v glavnem nehali uporabljati. Glagolica se je ohranila le v zahodnem delu balkanskega polotoka - na ozemlju današnje Slovenije in Hrvaške. Drugod je glagolico nadomestila cirilica. Oblika večine črk cirilice izvira iz grške pisave, nekatere črke pa so ohranile svojo glagoliško podobo (npr. šumniki, ki jih grška pisava ne pozna). S svojim imenom cirilica zaznamuje prispevek sv. Cirila pri ustvarjanju glagolice in s tem posredno cirilice.
+Nekatere črke cirilice so enake kot v latinici. Ločiti je treba »prave prijatelje«, tj. črke, ki imajo tudi enako ali podobno glasovno vrednost, in lažne prijatelje, tj. črke, ki so po izgledu podobne, a imajo drugačno glasovno vrednost. Pravi prijatelji so cirilske črke: A, E, K, M, O, T ter I in J (kjer jih uporabljajo). Lažni prijatelji pa so črke: B, H, P, C, Y in X.
+
+
+Vsebina
+
+
+1 Prečrkovalna razpredelnica
+2 Zastopanost cirilice v svetu
+3 Glej tudi
+4 Zunanje povezave
+
+
+Prečrkovalna razpredelnica
+Prikazana prečrkovalna razpredelnica za srbsko cirilico je standardno srbsko (srbščina se piše v obeh pisavah!) oziroma bosansko ter hrvaško prečrkovanje, ki ga uporabljamo tudi v slovenščini. Okvirno ustreza predpisu ISO 9, razen za črko j (ISO 9: ǰ) in dvočrkja lj (ISO 9: l̂) , nj (ISO 9: n̂), dž (ISO 9: d̂). Glej: prečrkovanje cirilice.
+
+
+Ruska cirilica
+Srbska cirilica
+Latinica
+
+
+Velika črka
+Mala črka
+Velika črka
+Mala črka
+ 
+
+
+А
+а
+А
+а
+a
+
+
+Б
+б
+Б
+б
+b
+
+
+В
+в
+В
+в
+v
+
+
+Г
+г
+Г
+г
+g
+
+
+Д
+д
+Д
+д
+d
+
+
+ 
+ 
+Ђ
+ђ
+đ
+
+
+Е
+е
+Е
+е
+e
+
+
+Ё
+ё
+ 
+ 
+jo
+
+
+Ж
+ж
+Ж
+ж
+ž
+
+
+З
+з
+З
+з
+z
+
+
+И
+и
+И
+и
+i
+
+
+Й
+й
+Ј
+ј
+j
+
+
+К
+к
+К
+к
+k
+
+
+Л
+л
+Л
+л
+l
+
+
+ 
+ 
+Љ
+љ
+lj (dvočrkje)
+
+
+М
+м
+М
+м
+m
+
+
+Н
+н
+Н
+н
+n
+
+
+ 
+ 
+Њ
+њ
+nj (dvočrkje)
+
+
+О
+о
+О
+о
+o
+
+
+П
+п
+П
+п
+p
+
+
+Р
+р
+Р
+р
+r
+
+
+С
+с
+С
+с
+s
+
+
+Т
+т
+Т
+т
+t
+
+
+ 
+ 
+Ћ
+ћ
+ć
+
+
+У
+у
+У
+у
+u
+
+
+Ф
+ф
+Ф
+ф
+f
+
+
+Х
+х
+Х
+х
+h
+
+
+Ц
+ц
+Ц
+ц
+c
+
+
+Ч
+ч
+Ч
+ч
+č
+
+
+ 
+ 
+Џ
+џ
+dž (dvočrkje)
+
+
+Ш
+ш
+Ш
+ш
+š
+
+
+Щ
+щ
+ 
+ 
+šč
+
+
+Ъ
+ъ
+ 
+ 
+trdi znak (jer (ер))
+
+
+Ы
+ы
+ 
+ 
+y (jeri (еры))
+
+
+Ь
+ь
+ 
+ 
+mehki znak (ерь)
+
+
+Э
+э
+ 
+ 
+ė
+
+
+Ю
+ю
+ 
+ 
+ju
+
+
+Я
+я
+ 
+ 
+ja
+
+
+Opomba: Oznaka (dvočrkje, dvoznačje) pomeni, da se črki v bosanskem, hrvaškem in srbskem jeziku upoštevata kot neločljiva enota, na primer pri vpisovanju v okenca križank ali pri navpičnem izpisovanju besed na oglasnih tablah. V slovenščini se te skupine znakov ne upoštevajo kot dvočrkja ampak kot posamezne črke.
+Zastopanost cirilice v svetu
+
+
+
+
+
+
+
+Cirilica je danes zastopana v naslednjih državah: Rusija, Belorusija, Ukrajina, Srbija, Makedonija, Bosna in Hercegovina (poleg latinice), Črna gora (poleg latinice), Bolgarija, Kazahstan, Kirgizistan in Tadžikistan in Mongolija.
+Glej tudi
+
+ruska abeceda
+bosančica
+
+Zunanje povezave
+
+
+
+Poglejte si besedo cirilica ali Cirilica v Wikislovarju, prostem slovarju.
+
+
+
+Pretvorba besedila iz latinice v cirilico in obratno
+Unicode: kodna stran U+04xx
+Omniglot
+
+
+
+
+
+
+
+ Ta članek o jeziku je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Cirilica&oldid=3852689«				
+Kategorije: Jezikovne škrbinePisaveCirilica 
+
+
+

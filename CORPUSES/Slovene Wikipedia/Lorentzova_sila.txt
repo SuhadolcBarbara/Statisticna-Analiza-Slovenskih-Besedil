@@ -1,0 +1,59 @@
+
+
+
+
+
+
+Tir delca z električnim nabojem e(≡ q) pod vplivom gostote magnetnega polja B (v smeri proti opazovalcu ven iz slike) za različne vrednosti e
+
+
+
+
+
+
+Žarek elektronov, ki se giblje po krožnici zaradi prisotnosti magnetnega polja (ciklotronsko gibanje). Vijolična svetloba se izseva vzdolž tira elektronov, ker elektroni zadevajo s plinskimi molekulami v bučki
+
+
+Lorentzova síla [lórencova ~] je sila, ki deluje na električni naboj v električnem in magnetnem polju:
+
+
+
+oziroma:
+
+
+
+Pri tem je  vektor sile, e električni naboj,  vektor jakosti električnega polja,  vektor hitrosti, s katero se naboj giblje,  pa vektor gostote magnetnega polja.
+Električno polje v smeri gibanja nabitega delca tega pospešuje ali zavira, električno polje v prečni smeri pa ga odklanja iz smeri. Prav tako delec odklanja tudi prečno magnetno polje, medtem ko magnetno polje v smeri gibanja delca na njegovo gibanje nima vpliva, saj je vektorski produkt dveh kolinearnih vektorjev enak nič.
+Lorentzova sila nosi ime po nizozemskem fiziku Hendriku Antoonu Lorentzu.
+Izraz eE se imenuje električna ali Coulombova sila, izraz e(v × B) pa magnetna sila.[1] Po nekaterih definicijah, se izraz »Lorentzova sila« nanaša posebej na člen za magnetno silo:[2]
+
+
+
+kjer celotno elektromagnetno silo (vključno z električno silo) imenujejo s kakšnim drugim (nestandardnim) imenom.
+Relativistična oblika
+V posebni teoriji relativnosti Lorentzovo silo nadomestimo s četvercem Lorentzove sile:
+
+
+
+Pri tem je e električni naboj,  metrični tenzor,  antisimetrični tenzor elektromagnetnega polja,  pa četverec hitrosti. Skladno z Einsteinovim zapisom seštevamo po indeksih tenzorja, ki se v izrazu ponovijo.
+Opombe in sklici
+
+
+^ Griffiths (1999), str 204.
+^ Na primer spletišče Lorentzovega inštituta [1] ali Griffiths.
+
+
+Viri
+
+Griffiths, David J. (1999). Introduction to electrodynamics (3. izdaja izd.). Upper Saddle River, [NJ.]: Prentice-Hall. ISBN 0-13-805326-X. 
+Strnad, Janez (1978). Fizika, 2. del: Elektrika, optika. Ljubljana: Državna založba Slovenije. Str. 419. COBISS 14981120. 
+Strnad, Janez (1982). Fizika, 3. del: Posebna teorija relativnosti, kvantna fizika, atomi. Ljubljana: Državna založba Slovenije. Str. 79. COBISS 4171521. 
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Lorentzova_sila&oldid=3945967«				
+Kategorije: Elektrika in magnetizemRelativnostFizikalne sileHendrik Antoon Lorentz 
+
+
+

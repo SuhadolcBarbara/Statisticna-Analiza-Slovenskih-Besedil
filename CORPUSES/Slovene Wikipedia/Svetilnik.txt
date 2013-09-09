@@ -1,0 +1,109 @@
+
+
+Svetílnik je naprava, večinoma kot višja zgradba, ki z oddajanjem svetlobnih signalov omogoča ladjam orientacijo.
+Svetilnik je močan svetlobni vir, ki kot navigacijski znak z močno lučjo, pa tudi z radijskim signalom služi za varnejšo plovbo, ter stoji na obali, zlasti pred pristanišči in je navadno nameščen na vrhu kovinskega stebra, stolpa ali zgradbe, pa tudi na posebnih ladjah svetilnikih. Svetilka,ki oddaja svetlobo je nameščena v posebni kabini s steklenimi okni. Okoli svetilke se vrtijo senčila. Senčila v določenem časovnem zaporedju prepuščajo svetlobni snop preko optičnih prizem, tako da je od daleč videti kot utripajočo svetlobo.
+Vsak svetilnik ima svojo karakteristično in stalno barvo svetlobe; belo, rdečo ali zeleno, in točno določeno časovno zaporedje teme in svetlobe, tako da mornarji lahko z gotovostjo ugotovijo s katerega svetilnika prihaja svetloba. Lega in karakteristike svetilnika so vnešene v pomorske zemljevide; glej primer zapisa. Najmočnejši svetilniki, ki so bili nameščeni na visokih stolpih so imeli doseg tudi do 50 kilometrov. Veje svetilnike upravljajo svetilničarji, ki živijo v svetilniku ali njegovi bližini. Manjši svetilniki, so v pristaniščih za označevaje pomolov so danes avtomatizirani. Veliko svetilnikov je bilo zgrajenih na samotnih otokih in težko dostopnih čereh. Danes svetilnike nadomeščajo modernejše navigacijske naprave, ki s pomočjo satelitske navigacije omogočajo še bolj varno plovbo.
+
+
+Vsebina
+
+
+1 Svetlobni zanaki svetilnika
+2 Primer zapisa svetlobnega signala svetilnika
+3 Zgodovina
+4 Glej tudi
+
+
+Svetlobni zanaki svetilnika
+Na pomorski karti so pri oznaki za svetilnik podane še črkovne oznake , ki tolmačijo delovanje svetilnika.Oznake so sledeče:
+
+B - beli sektor (svetilnik oddaja belo svetlobo)
+Z - zeleni sektor
+R - rdeči sektor
+BZ - beli sektor + zeleni sektor + beli sektor (svetilnik oddaja belo, zeleno in ponovno belo svetlobo, ki pa so vidne vsaka samo pod določenim kotom približevanja svetilniku. Koti pod katerimi so vidne posamezne barve svetlobe, ki jih svetilnik oddaja so razvidni v pomorski karti).
+BR - beli sektor + rdeči sektor + beli sektor (glej BZ)
+Bl - svetlobni blisk (pri čemer je interval svetlobe je krajši od intervala teme)
+Bl(3)- trije svetlobni bliski en za drugin
+Izo - izofazna svetloba (interval teme je enako dolg kot interval svetlobe)
+BK - kratko neprekinjeno bliskanje (utripajoče bliskanje)
+M - milja (nazivni domet, vidljivost, svetilnika v miljah podnevi v sončnem vremenu in idealnih okoliščinah. Pri slabši vidljivosti se s pomočjo posebnih diagramov da preračunati resnični domet svetilnika)
+
+Primer zapisa svetlobnega signala svetilnika
+Nek poljubni svetilnik ima na pomorskem zemljevidu pri znaku za svetilnik zraven še dodaten zapis npr: B Bl (3) 10s 8 M - kar pomeni, da svetilnik oddaja naslednje svetlobne signale - trije beli kratki bliski v skupini en za drugim, nato premor (pavza) deset sekund, nato ponovno trije beli bliski itd., nazivni domet (vidljivost) podnevi v sončnem vremenu in idealnih okoliščinah pa je 8 milj.
+Zgodovina
+Že v starem veku so postavljali na vidnih mestih v Sredozemskih pristaniščih luči ali prižigali kresove, da so ponoči kazali pot ladjam. Največji svetilnik, ki je bil visok okoli 50 metrov, so zgradili okoli leta 280 pr. n. št. na otoku Faros tik pred egipčanskim mestom Aleksandrijo.
+
+
+
+
+
+
+
+Svetilnik v Savudriji
+
+
+
+
+
+
+
+
+
+Svetilnik z bivališčem za svetilničarja na otoku ob trajektni progi med Hvarom in Korčulo v Jadranskem morju
+
+
+
+
+
+
+
+
+
+Svetilnik v Kanadi
+
+
+
+
+
+
+
+
+
+Rimski svetilnik ob Dovrskem gradu v jugovzhodni Angliji
+
+
+
+
+Glej tudi
+
+GPS
+radar
+
+
+
+
+
+
+ Ta članek o zgradbi oz. poslopju je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+
+
+
+ Ta članek o tehniki je škrbina. Pomagaj Wikipediji in ga razširi.
+
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Svetilnik&oldid=3882978«				
+Kategorije: Škrbine o zgradbah in poslopjihTehnične škrbineNavigacijaOrientacijaPomorstvoSvetilniki 
+
+
+

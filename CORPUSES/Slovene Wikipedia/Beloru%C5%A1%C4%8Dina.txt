@@ -1,0 +1,612 @@
+
+
+Belorúščina (belorusko беларуская мова / biełaruskaja mova poslušaj (pomoč·info)) je vzhodnoslovanski jezik, ki ga večinoma govorijo Belorusi v Belorusiji, v vzhodni Poljski in sosednjih državah ter beloruski izseljenci po svetu.
+Slovensko ime beloruščina izhaja iz prečrkovanja ruskega imena države (Белоруссия, Белару́сь (Bjelorussija, Belarus), belorusko ime se glasi Biełaruś).
+
+
+Beloruščina
+(Беларуская мова / Biełaruskaja mova)
+
+
+
+Države:
+Belorusija, vzhodna Poljska in 14 drugih držav
+
+
+Govorni predeli:
+Vzhodna Evropa
+
+
+Skupaj govorcev:
+10 milijonov
+
+
+Na svetu:
+79
+
+
+Rodovna
+razvrstitev:
+indoevropski
+ slovanski
+  vzhodnoslovanski
+   beloruščina
+
+
+
+Uradni položaj
+
+
+Uradni jezik:
+Belorusija in 12 občin v Podlaškem vojvodstvu na Poljskem
+
+
+Usklajuje:
+--
+
+
+Jezikovni kodi
+
+
+ISO 639-1
+be
+
+
+ISO 639-2
+bel
+
+
+SIL
+RUW
+
+
+
+
+Vsebina
+
+
+1 Zgodovina
+2 Beloruske abecede
+3 Glasoslovje
+
+3.1 Samoglasniki
+3.2 Soglasniki
+3.3 Naglas
+3.4 Premene
+
+
+4 Zapisovanje mehkih soglasnikov
+
+4.1 Mehki soglasniki v cirilici
+4.2 Mehki soglasniki v latinici
+
+
+5 Oblikoslovje
+
+5.1 Samostalniki
+5.2 Pridevniki
+5.3 Zaimki
+5.4 Glagoli
+
+
+6 Zgled besedila
+7 Opombe in sklici
+8 Zunanje povezave
+
+
+Zgodovina
+Beloruščina je zelo zgodaj izoblikovala svojo pisno in tudi knjižno zvrst, ker je bila od 14. stoletja uradni jezik Velike litovske kneževine. Stara knjižna beloruščina se je ohranila v številnih obsežnih, slogovno raznovrstnih in dodelanih književnih in polknjiževnih delih, verskih besedilih ter posebno mnogih državnih dokumentih.
+Sveto pismo je za prvo belorusko tiskano izdajo prevedel Francišak Skaryna in jo po delih objavil v Pragi med letoma 1517 in 1519.
+Največji in najpomembnejši spomeniki stare knjižne beloruščine so Litovski statuti ali Zakoniki Velike litovske kneževine, ki so nastali v letih 1529, 1566 in 1588. Vsak od njih je vseboval po več sto strani, njihov namen pa je bil kodificirati in poenotiti pravo, ki bi veljalo za vse državljane na celotnem ozemlju kneževine. Za razliko od starih jezikov drugih pretežno pravoslavnih slovanskih narodov, ki uporabljajo cirilico, je vpliv cerkvene slovanščine na jezik Litovskih zakonikov razmeroma majhen, opazijo pa se vplivi drugih jezikov: poljščine in celo latinščine, saj so se avtorji zakonikov v marsičem zgledovali po rimskem pravu, kar je pustilo sledove tudi v jeziku.
+Od polovice 16. stoletja naprej se je beloruščina kot uradni in knjižni jezik postopoma umikala v prid poljščine in leta 1696 so jo s Sejmom prepovedali.[1]. Potem, ko je leta 1795 Veliko litovsko kneževino in v njenem okviru Belorusijo anekirala Rusija, ki je poskušala nasilno rusificirati javno življenje v deželi, je izročilo starega knjižnega jezika skoraj popolnoma izumrlo.
+Sodobni beloruski knjižni jezik je nastal konec 19. stoletja na osnovi ljudskih govorov, in sicer osrednjega narečja širše okolice Minska. Prvi ga je leta 1918 kodificiral Branisłaŭ Taraškievič v svoji Beloruski slovnici za šole. Potem, ko sta leta 1921 belorusko ozemlje razdelili medse II. Republika Poljska in Sovjetska zveza, je Narodni Komite sovjetske Belorusije leta 1933 kodificiral konkurenčen knjižni jezik.
+Beloruska knjižna jezika sta dobila imeni po svojih kodifikatorjih: starejša varianta se imenuje taraškievica (po Taraškieviču), novejša pa narkamaŭka (po okrajšavi Nar-Kam = Narodni Komite). Čeprav imata oba za sistemsko osnovo isto narečno skupino, ima taraškievica nekaj tipično zahodnobeloruskih značilnosti in nekatere sistemske polonizme, medtem ko je narkamaŭka nekoliko bližja vzhodnobeloruskim narečjem in tudi ruščini. Trenutno je v Republiki Belorusiji uradno priznana samo narkamaŭka, čeprav večina uglednih pisateljev, glasbenih skupin, neodvisnih časopisov, nevladnih organizacij in vse politične stranke, ki nasprotujejo diktaturi Aleksandra Lukašenka, uporabljajo taraškievico.
+Beloruske abecede
+Beloruščina se je od začetka svoje pisane zgodovine zapisovala v cirilici, od 16. stoletja naprej pa čedalje več tudi v posebni različici latinice imenovani lacinka (belorusko łacinka). Po vključitviji vzhodne in osrednje Belorusije v Sovjetsko zvezo leta 1921 je uradna pisava postala cirilica, medtem ko sta se v zahodni Belorusiji, ki je bila do druge svetovne vojne del II. Republike Poljske, vzporedno uporabljali obe pisavi. Potem, ko je bila leta 1945 večina beloruskega ozemlja priključena Sovjetski socialistični republiki Belorusiji v okviru Sovjetske zveze, je tradicija beloruske latinice praktično izumrla. Z neodvisnostjo Belorusije so se pojavile težnje po obuditvi stare pisave, vendar jo dandanes uporablja le malo ljudi.
+V preteklih stoletjih so Tatari, ki so se naselili na območju Belorusije, za zapisovanje beloruščine uporabljali tudi arabsko pisavo.
+Beloruska cirilska abeceda ima 32 črk. Z razliko od ruske azbuke ne pozna И, Щ in Ъ, ima pa dve drugi črki - І in Ў. Poleg tega ima še dve enoglasni črki ДЖ in ДЗ. (in opcionalna Ґґ).
+
+
+cirilica
+А а
+Б б
+В в
+Г г
+Ґ ґ
+Д д
+Е е
+Ё ё
+Ж ж
+З з
+І і
+Й й
+К к
+Л л
+
+
+latinica
+A a
+B b
+V v
+H h
+G g
+D d
+Je je, ie
+Jo jo, io
+Ž ž
+Z z
+I i
+J j
+K k
+Ł ł
+
+
+arabska p.
+__
+ب
+و
+ه
+غ
+د
+__
+__
+ژ
+ض
+__
+ى
+ق
+ل
+
+
+
+
+
+
+
+cirilica
+М м
+Н н
+О о
+П п
+Р р
+С с
+Т т
+У у
+Ў ў
+Ф ф
+Х х
+Ц ц
+Ч ч
+Ш ш
+
+
+latinica
+M m
+N n
+O o
+P p
+R r
+S s
+T t
+U u
+Ŭ ŭ
+F f
+Ch ch
+C c
+Č č
+Š š
+
+
+arabska p.
+م
+ن
+__
+پ
+ر
+ص
+ط
+__
+و
+ف
+ح
+__
+چ
+ش
+
+
+
+
+
+
+
+cirilica
+Ы ы
+Ь ь
+Э э
+Ю ю
+Я я
+
+Дз дз
+Дзь дзь
+Дж дж
+Зь зь
+Ль ль
+Нь нь
+Сь сь
+Ць ць
+
+
+latinica
+Y y
+__
+E e
+Ju ju, iu
+Ja ja, ia
+
+Dz dz
+Dź dź
+Dž dž
+Ź ź
+L l
+Ń ń
+Ś ś
+Ć ć
+
+
+arabska p.
+__
+__
+__
+__
+__
+
+__
+__
+ج
+ز
+ل
+ن
+ث
+س
+
+
+
+Glasoslovje
+
+
+
+
+
+Ta članek potrebuje čiščenje. Pri urejanju upoštevaj pravila slogovnega priročnika. Razlog za to je: sloga navedkov. Prosimo, da nam pomagaš izboljšati ta članek. 
+
+
+Fonološki sestav knjižne beloruščine in večine ljudskih govorov vsebuje 44 fonemov. Med njimi je 6 samoglasnikov in 38 soglasnikov.
+Samoglasniki
+Beloruščina ima šest samoglasniških fonemov:
+
+
+i
+y
+u
+
+
+e
+
+o
+
+
+a
+
+
+Samoglasniki [i], [a], [u] se izgovarjajo približno enako, kot ustrezni samoglasniki v knjižni slovenščini. Samoglasnika [e] in [o] sta srednje ozka, njun izgovor je nekje na sredi med slovenskim ozkim [é] in širokim [ê] oz. ozkim [ó] in širokim [ô]. Visok samoglasnik [y] je glas med [i] in [u], izgovarja se z nezaokroženimi ustnicami in s privzdignjenim srednjim delom jezika (v nasprotju z [ü]-jem iz nekaterih drugih jezikov, ki ima sicer podobno karakteristiko, a se izgovarja sprednje in z zaokroženimi ustnicami).
+Nekateri samoglasniški fonemi beloruščine se nikoli ne pojavljajo v določenih položajih.
+[y] nikoli ne stoji na začetku besede ne za mehkimi soglasniki.
+[o] se v domačih besedah ohranja samo v naglašenih zlogih, sicer ga zamenja [a] (t.i. akanje), npr. tvój = slov. "tvój" proti tvajá "tvôja".
+[e] se v domačih besedah ohranja samo v naglašenih zlogih, od nenaglašenih pa le takrat, kadar sledi mehkim soglasnikom razen v prvem zlogu pred naglasom; sicer ga zamenja [a], npr. réki "reke" (I. mn.) proti raká 'reka' (I. ed.).
+V beloruščini dolžina/kračina samoglasnikov nima nikakršnega pomena pri razločevanju pomenov besed. Po navadi so naglašeni samoglasniki nekoliko daljši od nenaglašenih, čeprav se to razmerje pogosto obrne v ekspresivnih, čustveno zaznamovanih povedih.
+Soglasniki
+Beloruščina se odlikuje po razmeroma bogatem soglasniškem sistemu, ki ga sestavlja kar 38 soglasnikov (za primerjavo: knjižna slovenščina jih ima 22, standardna angleščina 25, francoščina pa le 17). Spodnja razpredelnica prikazuje soglašniski sestav beloruščine v slavistični fonetični pisavi.
+
+
+
+zvočniki
+nezvočniki
+
+
+trdi
+_
+ł
+r
+n
+m
+v (ŭ)
+p b
+f _
+t d
+c ʒ
+č ʒˇ
+s z
+š ž
+k g
+x ɣ
+
+
+mehki
+j
+l´
+_
+n´
+m´
+v´
+p´ b´
+f´ _
+_ _
+c´ ʒ´
+_ _
+s´ z´
+_ _
+k´ _
+x´ ɣ´
+
+
+Glas [ŭ] je položajna različica (alofon) fonema [v], ki se kakor v slovenščini pojavlja pred soglasniki in na koncu besede, npr. travá = slo. "trava" proti tráŭ "trav". Za razliko od slovenščine, v beloruščini zapisovanju tega alofona služi posebna črka <Ŭ ŭ> / <Ў ў>.
+Glas [ł] (v latinici zapisovan <Ł ł>, v cirilici pa <Л л> razen pred t.i. prejotiranimi samoglasniki) je zelo trdo izgovorjen l; glas [l´] (zapisovan <L l> / <Ль ль> ali <Л л> + prejotirani samoglasnik) pa je njegova mehka ustreznica.
+Glas [ʒ] (zapisovan <Dz dz> / <Дз дз>) zaznamuje zveneči par glasu /c/, kakršnega pozna slovenščina v besedi Kocbek.
+Glas [ʒˇ] (zapisovan <Dž dž> / <Дж дж>) se izgovarja nekoliko trše kot slovensko dvočrkje <dž>.
+Glas [x] (zapisovan <Ch ch> / <Х х>) se izgovarja kot slovenski <h>. Glas [ɣ] (zapisovan <H h> / <Г г>) je zveneč mehkonebni pripornik, nekoliko podoben <g>-ju, kakor ga izgovarjajo v primorskem narečju slovenskega jezika.
+Mehki soglasniki se od trdih razlikujejo po tem, da se pri njihovi izgovorjavi dodatno srednji del jezika privzdigne proti trdemu nebu, kakor da bi hkrati izgovarjali ustrezni trdi soglasnik in [j], ki se zlijeta v en sam glas.
+Od mehkih soglasnikov samo [j], [l´], [n´], [c´], [ʒ´], [s´] in [z´] lahko stojijo v vseh položajih v besedi: pred samoglasniki, pred drugimi soglasniki in na koncu besede. Ostali mehki soglasniki ([m´], [v´], [p´], [b´], [f´], [k´], [x´] in [ɣ´]) se lahko pojavijo samo pred samoglasniki.
+Dve enaki soglasniški črki, ki stojita ob sebi, zaznamujeta en sam glas, in sicer dolg soglasnik. Za razliko od dolžine samoglasnikov opravlja dolžina soglasnikov razločevalno vlogo, npr. baranica [baraníca] "ovčja koža" proti baranicca [baraníc:a] 'braniti se'.
+Naglas
+Naglašen je lahko katerikoli zlog v besedi: prvi (výbrać "izbrati"), sredinski (čytáješ "bereš") ali zadnji (hałavá "glava"). Naglasno mesto lahko služi razločevanju med besedami npr. kása "blagajna" proti kasá "lasje", ali med različnimi oblikami iste besede, npr. płacíć "plačati" proti płácić "(on) plača".
+Premene
+Ena značilnosti beloruskega glasovnega sistema so številne in pogoste premene v osnovah besed, ki opravljajo skoraj enako pomembno vlogo pri razločevanju med posameznimi oblikami iste besede kot končnice. Tako npr. imenovalnik ednine besede, ki pomeni "jezero", se glasi vóziera, imenovalnik množine iste besede pa ima obliko azióry, tako da sta osnovi teh oblik dokaj različni: edninska vózier- in množinska aziór-. A to še ne pomeni, da ima ta beseda nepravilno sklanjatev. Prav nasprotno: vse premene v njeni osnovi so integralen del beloruskega glasovnega sistema, so torej pravilo in ne njegova kršitev.
+V beloruščini ločimo več vrst glasovnih premen.
+Neobstojna o in a. Ta samoglasnika v zadnjem zlogu osnove nekaterih besed izginjata, kadar se osnovi doda neničta končnica ali obrazilo, ki se začenja na samoglasnik. V naglašenem zlogu neobstojni samoglasnik je [o], v nenaglašenem pa [a].
+piasók "pesek" proti pa piaskú "po pesku"
+siábar "prijatelj" proti ad siábra "od prijatelja"
+Samoglasniška proteza je samoglasnik [i], ki podaljšuje osnovo od spredaj. Pojavi se, kadar beseda, ki se začenja s soglasniškim sklopom, v katerem je prvi soglasnik zvočnik, stoji na začetku povedi ali za besedo, ki se končuje na soglasnik. Sicer ostane beseda brez proteze.
+łob "buča, glava", na łby "na glave" proti iłby "glave" (I. mn.), pad iłby "pod glave"
+za młoj "za meglo", ciomnaja mła "temna megla" proti imła "megla", praź imłu "skozi meglo"
+Soglasniška proteza je soglasnik [v], ki podaljšuje osnovo od spredaj. Pojavi se, kadar se v besedi, ki se začenja na samoglasnik, naglas med sklanjatvijo premakne na prvi zlog, tako da postane začetni soglasnik naglašen.
+aknó "okno" proti vókny "okna" (I. mn.)
+Akanje je zamenjava [o] > [a] in [e] > [a]. Pojavi se, kadar se [o] ali [e], ki sledita trdemu soglasniku, znajdeta v nenaglašenem zlogu.
+nóh "nog", hór "gorá" proti nahá "noga", hará "gôra"
+réki = "reke" (I. mn.) proti raká "reka"; sónca "sonce"
+Za razliko od ruščine, ki pozna podoben pojav, se akanje v beloruščini upošteva tudi v pisavi. Tako beloruska, kot tudi ruska beseda, ki pomenita "glava" se izgovarjata s tremi [a]-ji, pišeta pa se različno:
+belorusko галава [ɣałavá] proti rusko голова [gałavá]
+Premena [´o] > [´e] se pojavi, kadar se [´o], ki sledi mehkemu soglasniku (mehkost predhodnjega soglasnika zaznamujemo s črtico <´> pred samoglasnikom), znajde v nenaglašenem zlogu razen če le-ta stoji neposredno pred naglašenim zlogom.
+azióry [az´óry] "jezera" (I. mn.) proti vóziera /vóz´era/ "jezero"
+Jakanje je zamenjava [´e] > [´a]. Pojavi se, kadar se [´e], ki sledi mehkemu soglasniku, znajde v zlogu, ki v besedi stoji tik pred naglašenim zlogom. V drugih položajih se nenaglašen [´e] ohrani.
+ziémli [z´éml´i] "zemlje" (I. mn.), proti ziamlá [z´aml´á] "zemlja", proti zielmlatrús [z´eml´atrús] "potres"
+siédzić [s´éʒ´ic´] "sedí" proti siadziéć [s´aʒ´éc´] "sedeti"
+Ciekanje in dziekanje sta premeni, ki zadevata soglasnika [t] in [d]. Kadar se ta soglasnika znajdeta v položaju neposredno pred starim sprednjim [e], [i] ali pred [ь] (mehki jer), ju nadomeščata [c´] oz. [ʒ´] (namesto starega [e] je lahko danes že [a] - v skladu z akanjem in jakanjem; stari [i] v nekaterih položajih odpade, stari [ь] odpade ali pa ga zamenja naglašen [o] ali nenaglašen [a]).
+płot [płot] "plot" proti na płocie [na płóc´e] "na plotu"
+śled [s´l´ed] "sled" proti śladzić [s´l´aʒ´íc´] "slediti"
+Zapisovanje mehkih soglasnikov
+Niti beloruska različica latinice niti cirilica nimata dovolj črk za zapisovanje vseh 38 soglasniških fonemov. Beloruska cirilica sploh nima posebnih črk za mehke soglasnike, latinica pa jih ima samo za tiste mehke soglasnike, ki se lahko pojavijo tudi na koncu besede ali pred drugim soglasnikom. Zato obe abecedi za zapisovanje mehkih soglasnikov uporabljata iste črke kot za ustrezne trde soglasnike. A to še ne pomeni, da se mehkost soglasnikov v pisavi sploh ne zaznamuje, saj obe abecedi to dosežeta na drugačen način.
+Mehki soglasniki v cirilici
+V beloruski cirilici zaznamovanju mehkosti soglasnikov v položaju na koncu besede in pred drugimi soglasniki služi posebna črka ь, ki sama ne predstavlja nobenega glasu, temveč le mehkost predhodnjega soglasnika.
+c : c´ - абаронец izg. [abaron´ec] "branitelj" proti абараняць [abaran´ac´] "braniti"
+z : z´ - мароз izg. [maroz] "mraz" proti марозь [maroz´] "zamrzni"
+V položaju pred samoglasnikom se mehkost soglasnika zaznamuje tako, da črka za samoglasnik, ki sledi mehkemu soglasniku, dobi posebno (tako imenovano prejotirano) obliko, črka za soglasnik pa ostane nespremenjena.
+
+
+navadni
+а
+э
+ы
+о
+у
+
+
+prejotirani
+я
+е
+і
+ё
+ю
+
+
+p : p´ - пасол [pasoł] "poslanec" proti пясок [p´asok] "pesek"
+c : c´ - цэлы [ceły] "cel" proti целы [c´eły] "(3) telesa"
+b : b´ - быць [byc´] "biti (sem)" proti біць [b´ic´] "biti (bijem)"; бура [bura] "nevihta" proti бюракрат [b´urakrat] "birokrat"
+V položaju ne za soglasnikom (na začetku besede ali za samoglasnikom) se prejotirani soglasniki izgovarjajo kot /j/ + ustrezni samoglasnik, npr: яблык [jabłyk] "jabolko", зброя [zbroja] "oklep", "orožje"; ежа [ježa] "hrana", сьпявае [s´p´avaje] "póje"; іх [jix] "jih", маі [maji] "moji"; ёґурт [jogurt] "jogurt".
+Mehki soglasniki v latinici
+Tudi v beloruski latinici se mehkost soglasnikov zaznamuje različno glede na položaj v besedi.
+Pred drugim soglasnikom ali na koncu besede dobi črka ostrivec. Ker pa se v takem položaju lahko pojavijo samo nekateri mehki soglasniki, je število soglasniških črk z ostrivcem omejeno na ć [c´] ń [n´] ś [s´] ź [z´] in dź [ʒ´].
+s : s´ - sny [sny] "sanje" proti śnić [s´n´ic´] "sanjati"
+n : n´ - jon [jon] "on" proti koń [kon´] "konj"
+Mehkost /l/-ja, ki tudi lahko stoji v položaju ne pred samoglasnikom, se sploh ne zaznamuje: lublu [l´ubl´u] "ljubim", v nasprotju s trdim /l/-jem, ki je označen s poševno črtico ali tildo: łodka [łodka] "čoln".
+Pred soglasniki (razen /i/-ja) se mehkost označuje z dodatno črko i med soglasnikom in njemu sledečim samoglasnikom. V tej vlogi črka /i/ ne predstavlja nobenega glasu, temveč le mehkost predhodnjega soglasnika: ciocia [c´oc´a] "teta", sieno [s´eno] "seno".
+Ker so v beloruščini vsi soglasniki pred /i/-jem mehki, njihove mehkosti v tem položaju sploh ni potrebno posebej označevati, saj je samoumevna: sini [s´in´i] "temnoplav".
+Oblikoslovje
+Samostalniki
+Beloruski samostalniki se sklanjajo v šestih sklonih: imenovalnik, rodilnik, dajalnik, tožilnik, mestnik, orodnik in dveh številih: ednina, množina, ter so lahko enega treh spolov: moški, ženski, srednji. Bolj arhaični govori zahodnega dela južno-zahodnega narečja dodatno ločijo še sedmi sklon - zvalnik, in v omejenem obsegu ohranijo dvojino (načeloma samo obliki imenovalnika in tožilnika dvojine samostalnikov ženskega spola na -a).
+Beloruščina je zelo bogata različnih sklanjatev, saj jih za vsak spol ima po več glede na to, katere vrste je zadnji soglasnik samostalniške osnove in kateremu naglasnemu tipu pripada določena beseda. Različne sestave končnic imajo torej samostalniki istega spola, katerih zadnji soglasnik v osnovi je trdi (ł r n m v p b f t d s z), mehki (j l´ n´ m´ v´ p´ b´ f´ c´ ʒ´ s´ z´), otrdeli (nekoč mehki, danes že trdo izgovarjan: c ʒ č ʒˇ š ž) ali zadnjejezični (k g x ɣ); različno se tudi sklanjajo besede, čigar naglašena je osnova proti tistim, v katerih je naglas na končnici.
+Pridevniki
+Beloruske pridevniške besede se sklanjajo v šestih sklonih, dveh številih in treh spolih. Za nekatere sklone obstajata po dve obliki istega pridevnika. Za razliko od slovenščine in nekaterih drugih slovanskih jezikov razlika med daljšo in krajšo obliko pridevnika ni nosilec kategorije določnosti in ima pravzaprav samo še stilno vrednost. Obe obliki lahko v stavkih opravljata iste slovnične vloge (drugače kot v ruščini, kjer se kratke oblike pogosteje uporabljajo kot povedkovnik, dolge pa kot prilastek). Pridevniške besede, ki so tvorjenke iz glagolov ter svojilni pridevniki se največkrat pojavijo v kratki obliki.
+Zaimki
+Posebnost beloruščine med slovanskimi jeziki je, da imajo osebni zaimki vedno samo po eno obliko za vsak sklon. Tako na primer tam, kjer ima slovenščina po tri oblike osebnega zaimka za tožilnik ednine moškega spola (njega, ga, -nj), poljščina pa kar štiri (niego, jego, go, -ń), ima beloruščina samo eno: jaho.
+V vlogi svojilnih zaimkov za tretjo osebo ednine in množine se v narkamaŭki uporabljajo rodilniške oblike ustreznih osebnih zaimkov, ki se v sklonu in številu ne ujemajo s samostalnikom, na katerega se skladenjsko nanašajo, npr. Vidžu tvaje siostry "Vidim tvoje sestre" (ujemanje: siostry T. mn. + tvaje T. mn.) proti Vidžu jaho siostry "Vidim njegove sestre" (ni ujemanja: siostry T. mn. + jaho R. ed.). V nasprotju s tem pozna taraškievica posebne svojilne zaimke za tretjo osebo, ki se navadno ujemajo s samostalnikom, npr. Vidžu jahonyja siostry "Vidim njegove sestre" (ujemanje: siostry T. mn. + jahonyja T. mn.).
+Za razliko od slovenščine imajo v beloruščini oziralni zaimki enake oblike kot ustrezni vprašalni zaimki, npr. Chto ukraŭ malunak? "Kdo je ukradel sliko?" in Chto kachańnia nia viedaje, toj spakojna žyvie "Kdor ljubezni ne pozna, ta mirno živi".
+Glagoli
+Beloruski glagoli se spregajo v treh slovničnih časih: preteklik, sedanjik in prihodnjik; nekateri govorci in še posebej pisci beloruščine uporabljajo tudi predpreteklik, ki pa je že nekoliko arhaično obarvan.
+Preteklik je sestavljen samo iz pretekliškega deležnika, brez pomožnega glagola, zato ima eno samo obliko za vse tri slovnične osebe, npr. byŭ lahko pomeni "bil sem", "bil si" ali "bil je".
+Sedanjik imajo samo nedovršni glagoli. Sedanjiške oblike dovršnih glagolov se v beloruščini (razen izjemoma) nanašajo na prihodnje dejanje.
+Prihodnjik tvorimo različno pri dovršnih in nedovršnih glagolih. Dovršni glagoli v vlogi prihodnjika uporabljajo sedanjiške oblike (t.i. enodelni prihodnjik), nedovršni glagoli pa ga tvorijo iz pomožnega glagola być "biti" v prihodnjiku in nedoločnika (t.i. dvodelni prihodnjik).
+Zgled besedila
+Prvi člen Splošne deklaracije človekovih pravic
+Усе людзi нараджаюцца свабоднымi i роўнымi ў сваёй годнасцi i правах. Яны надзелены розумам i сумленнем i павiнны ставiцца адзiн да аднаго ў духу брацтва.
+Usie ludzi naradžajucca svabodnymi i roŭnymi ŭ svajoj hodnasci i pravach. Jany nadzieleny rozumam i sumleńniem i pavinny stavicca adzin da adnaho ŭ duchu bractva.
+(Vsi ljudje se rodijo svobodni in imajo enako dostojanstvo in enake pravice. Obdarjeni so z razumom in vestjo in bi morali ravnati drug z drugim kakor bratje.)
+Opombe in sklici
+
+
+^ Beloruščina - članek v VSE
+
+
+Zunanje povezave
+
+
+
+Poglejte si besedo beloruščina ali Beloruščina v Wikislovarju, prostem slovarju.
+
+
+
+English-Belarusian dictionaries, in Lacinka
+Łacinka.com
+Metrica of Grand Duchy of Lithuania
+Statutes of Grand Duchy of Lithuania
+učbenik beloruskega jezika (v ruščini in beloruščini)[1]
+Калита И. В. Современная Беларусь: языки и национальная идентичность. Ústí nad Labem, ISBN 978-80-7414-324-3, 2010, 300 s. s. 112-190.
+
+
+
+
+
+Wikipedija - Beloruščina
+
+
+
+
+
+Wikipedija - Beloruščina
+
+
+
+
+
+
+
+p · p · u · zSlovanski jeziki
+
+
+
+
+
+praslovanščina † (prajezik)
+
+
+
+
+
+Južnoslovanski
+
+
+
+
+
+Vzhodna veja
+
+
+bolgarščina • makedonščina • stara cerkvena slovanščina †
+
+
+
+
+
+
+
+Zahodna veja
+
+
+bosanščina • črnogorščina • hrvaščina (čakavščina, kajkavščina, štokavščina) • slovenščina • srbščina
+
+
+
+
+
+
+
+Drugi jeziki
+
+
+srbohrvaščina
+
+
+
+
+
+
+
+
+
+Vzhodnoslovanski
+
+beloruščina • panonska rusinščina • rusinščina • ruščina • ukrajinščina
+
+
+
+
+
+
+Zahodnoslovanski
+
+češčina • kašubščina • lužiška srbščina (gornja lužiška, dolnja lužiška) • poljščina • slovaščina • šlezijščina
+
+
+
+
+
+
+Izumrli jeziki
+
+knaanščina • polabščina • pomorjanščina • slovinščina • stara novgorodščina • staroruščina
+
+
+
+
+
+
+Osamosvojena
+narečja
+
+bolgarščine: banatska bolgarščina, besarabska bolgarščina, šopščina • češčine: laščina • hrvaščine: gradiščanščina, krašovanščina, moliščina • ruščine: sibirska ruščina • slovaščine: vzhodna slovaščina • srbščine: užiščina
+
+
+
+
+
+
+Umetni jeziki
+
+lydnevi • proslava • ruslavsk • slovianski • slovio
+
+
+
+
+
+
+Ostali
+
+meščerščina • suržiščina
+
+
+
+
+
+
+Sporni jeziki in narečja1
+
+bunjevščina • goranščina • moravščina • slovanska narečja v Grčiji • šokaščina • torlaščina • prekmurščina • rezijanščina
+
+
+
+
+
+
+1 Status jezikov ni dorečen.
+
+
+
+
+
+
+
+ 
+				Vzpostavljeno iz »http://sl.wikipedia.org/w/index.php?title=Beloruščina&oldid=4074388«				
+Kategoriji: Slovanski jezikiBeloruska kulturaSkriti kategoriji: Članki, ki so potrebni čiščenjaČlanki, ki so potrebni čiščenja s parametrom razlog 
+
+
+
